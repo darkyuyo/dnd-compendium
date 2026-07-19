@@ -42,3 +42,5 @@ next-env.d.ts
 # Local user data & uploads
 /data/
 /public/uploads/
+
+.env

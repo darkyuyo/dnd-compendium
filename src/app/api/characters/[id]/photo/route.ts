@@ -1,8 +1,8 @@
 import { NextResponse } from "next/server";
+import { getSessionUser } from "@/lib/session";
+import { getCharacter, isProductionDbConfigured, saveCharacter } from "@/lib/db";
 import { promises as fs } from "fs";
 import path from "path";
-import { getSessionUser } from "@/lib/session";
-import { getCharacter, saveCharacter } from "@/lib/db";
 
 type Ctx = { params: Promise<{ id: string }> };
 
@@ -23,10 +23,25 @@ export async function POST(request: Request, ctx: Ctx) {
     return NextResponse.json({ error: "Falta la foto" }, { status: 400 });
   }
   if (!file.type.startsWith("image/")) {
-    return NextResponse.json({ error: "El archivo debe ser una imagen" }, { status: 400 });
+    return NextResponse.json(
+      { error: "El archivo debe ser una imagen" },
+      { status: 400 },
+    );
   }
-  if (file.size > 5 * 1024 * 1024) {
-    return NextResponse.json({ error: "Máximo 5 MB" }, { status: 400 });
+  if (file.size > 2 * 1024 * 1024) {
+    return NextResponse.json({ error: "Máximo 2 MB" }, { status: 400 });
+  }
+
+  const buffer = Buffer.from(await file.arrayBuffer());
+
+  // On Vercel / Postgres: store as data URL inside the character JSON
+  // (no writable public/ folder on serverless)
+  if (process.env.VERCEL || isProductionDbConfigured()) {
+    const base64 = buffer.toString("base64");
+    const photoUrl = `data:${file.type};base64,${base64}`;
+    character.photoUrl = photoUrl;
+    const saved = await saveCharacter(character);
+    return NextResponse.json({ character: saved, photoUrl });
   }
 
   const ext =
@@ -38,7 +53,6 @@ export async function POST(request: Request, ctx: Ctx) {
   const uploadDir = path.join(process.cwd(), "public", "uploads", "characters");
   await fs.mkdir(uploadDir, { recursive: true });
   const filename = `${id}.${ext}`;
-  const buffer = Buffer.from(await file.arrayBuffer());
   await fs.writeFile(path.join(uploadDir, filename), buffer);
 
   const photoUrl = `/uploads/characters/${filename}?t=${Date.now()}`;

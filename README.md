@@ -36,7 +36,16 @@ Abre [http://localhost:3000](http://localhost:3000). Por defecto entra en `/es`.
 2. Ve a **Personajes** → crear hoja.
 3. Rellena la ficha (combate / magia), sube una **foto**, y añade conjuros, armas, armaduras y equipo desde el compendio (botón **Info** abre la ficha).
 
-Los usuarios y personajes se guardan en `data/` (local, gitignored). Las fotos en `public/uploads/`.
+**Local:** usuarios y personajes en `data/` (gitignored). Fotos en `public/uploads/`.
+
+**Producción (Vercel):** hace falta Postgres. Crea una DB gratis en [Neon](https://neon.tech), copia el connection string y añádelo en Vercel → **Settings → Environment Variables**:
+
+```env
+DATABASE_URL=postgresql://...
+AUTH_SECRET=una-cadena-larga-aleatoria
+```
+
+Sin `DATABASE_URL`, el registro en Vercel fallará (el filesystem serverless no permite guardar `data/`).
 
 Para producción:
 
