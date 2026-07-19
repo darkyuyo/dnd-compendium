@@ -1,0 +1,58 @@
+{
+  "id": "monster-dire-wolf",
+  "slug": "dire-wolf",
+  "name": {
+    "es": "",
+    "en": "Dire Wolf"
+  },
+  "size": {
+    "es": "",
+    "en": "Large"
+  },
+  "type": {
+    "es": "",
+    "en": "Beast"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Unaligned"
+  },
+  "armorClass": 12,
+  "hitPoints": "13 (2d10 + 2)",
+  "speed": {
+    "es": "",
+    "en": "2o j';t.:JI 'o tt \\4oD .ar"
+  },
+  "abilityScores": {
+    "str": 17,
+    "dex": 15,
+    "con": 15,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Stealth +2"
+  },
+  "senses": {
+    "es": "",
+    "en": "Passive Perception 10"
+  },
+  "languages": {
+    "es": "",
+    "en": "None"
+  },
+  "challengeRating": "1",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.352). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

@@ -1,0 +1,399 @@
+{
+  "id": "class-guerrero",
+  "slug": "guerrero",
+  "name": {
+    "es": "Guerrero",
+    "en": ""
+  },
+  "hitDie": "d10",
+  "primaryAbility": {
+    "es": "Fuerza o Destreza",
+    "en": ""
+  },
+  "savingThrows": {
+    "es": "Fuerza y Constitución",
+    "en": ""
+  },
+  "armor": {
+    "es": "ligeras y medias y escudos. + Obtienes los rasgos de nivel 1 de guerrero, que se",
+    "en": ""
+  },
+  "weapons": {
+    "es": "—",
+    "en": ""
+  },
+  "skills": {
+    "es": "—",
+    "en": ""
+  },
+  "description": {
+    "es": "básicos, pues cada uno de ellos se especializa en un estilo de combate concreto. Algunos se centran en el tiro con arco; otros, en combatir con dos armas a la vez, y los hay que incluso complementan sus habilidades marciales con magia. Esta combinación de amplias capacidades y especialización intensiva convierte a los guerreros en combatientes supremos.",
+    "en": ""
+  },
+  "features": [
+    {
+      "level": 1,
+      "name": {
+        "es": "EsTILO DE COMBATE",
+        "en": ""
+      },
+      "description": {
+        "es": "Has pulido tu destreza marcial y obtienes una dote de estilo de combate de tu elección (consulta el",
+        "en": ""
+      }
+    },
+    {
+      "level": 1,
+      "name": {
+        "es": "MAESTRÍA CON ARMAS",
+        "en": ""
+      },
+      "description": {
+        "es": "Tu entrenamiento con armas te permite utilizar las propiedades de maestría con tres tipos de armas sencillas o marciales de tu elección. Tras finalizar un descanso largo, puedes llevar a cabo ejercicios con armas y cambiar una de dichas elecciones. Cuando alcances ciertos niveles de guerrero, adquirirás la capacidad de usar las propiedades de maestría con más tipos de armas, como se muestra en la columna “Maestría con armas” de la tabla “Rasgos de guerrero”.",
+        "en": ""
+      }
+    },
+    {
+      "level": 1,
+      "name": {
+        "es": "TOMAR ALIENTO",
+        "en": ""
+      },
+      "description": {
+        "es": "Posees una pequeña reserva de resistencia física y mental a la que puedes recurrir. Como acción adicional, puedes usarla para recuperar una cantidad de puntos de golpe igual a 1d10 más tu nivel de guerrero. Puedes usar este rasgo dos veces. Recuperas uno de los usos gastados tras finalizar un descanso corto y todos tras finalizar un descanso largo. Obtienes usos adicionales cuando alcanzas ciertos niveles de guerrero, como se muestra en la columna “Tomar aliento” de la tabla “Rasgos de guerrero”.",
+        "en": ""
+      }
+    },
+    {
+      "level": 2,
+      "name": {
+        "es": "ACCIÓN SÚBITA",
+        "en": ""
+      },
+      "description": {
+        "es": "Puedes superar tus límites normales durante un instante. En tu turno, puedes llevar a cabo una acción más, salvo la acción de magia. Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un descanso corto o largo. A partir del nivel 17, podrás usarlo dos veces antes de descansar, pero solo una vez por turno.",
+        "en": ""
+      }
+    },
+    {
+      "level": 2,
+      "name": {
+        "es": "MENTE TÁCTICA",
+        "en": ""
+      },
+      "description": {
+        "es": "Tienes facilidad para la estrategia dentro y fuera del campo de batalla. Cuando falles una prueba de característica, podrás gastar un uso de tu rasgo Tomar aliento para esforzarte por superarla. En vez de recuperar puntos de golpe, tiras 1d10 y sumas el resultado a la prueba de característica, lo que podría convertir el fallo en un éxito. Si sigues sin superar la prueba, este uso de Tomar aliento no se gasta.",
+        "en": ""
+      }
+    },
+    {
+      "level": 4,
+      "name": {
+        "es": "MEJORA DE CARACTERÍSTICA",
+        "en": ""
+      },
+      "description": {
+        "es": "Obtienes la dote Mejora de característica (consulta el",
+        "en": ""
+      }
+    },
+    {
+      "level": 5,
+      "name": {
+        "es": "ATAQUE ADICIONAL",
+        "en": ""
+      },
+      "description": {
+        "es": "Cuando lleves a cabo la acción de atacar en tu turno, podrás hacer dos ataques en lugar de uno.",
+        "en": ""
+      }
+    },
+    {
+      "level": 5,
+      "name": {
+        "es": "DESPLAZAMIENTO TÁCTICO",
+        "en": ""
+      },
+      "description": {
+        "es": "Cuando uses tu rasgo Tomar aliento con una acción adicional, podrás moverte hasta la mitad de tu velocidad sin provocar ataques de oportunidad.",
+        "en": ""
+      }
+    },
+    {
+      "level": 9,
+      "name": {
+        "es": "INDÓMITO",
+        "en": ""
+      },
+      "description": {
+        "es": "Si fallas una tirada de salvación, puedes repetirla con un bonificador igual a tu nivel de guerrero. Deberás quedarte con el nuevo resultado y no podrás volver a utilizar este rasgo hasta que finalices un descanso largo.",
+        "en": ""
+      }
+    },
+    {
+      "level": 9,
+      "name": {
+        "es": "MAESTRO TÁCTICO",
+        "en": ""
+      },
+      "description": {
+        "es": "Cuando ataques usando un arma con la que puedas utilizar su propiedad de maestría, puedes sustituir la propiedad para ese ataque por la de debilitar, empujar o ralentizar.",
+        "en": ""
+      }
+    },
+    {
+      "level": 11,
+      "name": {
+        "es": "Dos ATAQUES ADICIONALES",
+        "en": ""
+      },
+      "description": {
+        "es": "Cuando lleves a cabo la acción de atacar en tu turno, podrás hacer tres ataques en lugar de uno.",
+        "en": ""
+      }
+    },
+    {
+      "level": 13,
+      "name": {
+        "es": "ATAQUES ESTUDIADOS",
+        "en": ""
+      },
+      "description": {
+        "es": "Estudias a tus adversarios y aprendes con cada ataque que realizas. Si haces una tirada de ataque contra una criatura y fallas, tendrás ventaja en tu siguiente tirada de ataque contra esa criatura antes del final de tu siguiente turno. NrIveL 19: Don ÉPICO Obtienes una dote de don épico (consulta el",
+        "en": ""
+      }
+    },
+    {
+      "level": 20,
+      "name": {
+        "es": "TRES ATAQUES ADICIONALES",
+        "en": ""
+      },
+      "description": {
+        "es": "Cuando lleves a cabo la acción de atacar en tu turno, podrás hacer cuatro ataques en lugar de uno.",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "LANZAMIENTO DE CONJUROS",
+        "en": ""
+      },
+      "description": {
+        "es": "Has aprendido a lanzar conjuros. Consulta el",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "VÍNCULO DE GUERRA",
+        "en": ""
+      },
+      "description": {
+        "es": "Aprendes un ritual que te vincula mágicamente a un arma. Este ritual requiere 1 hora y puede tener lugar durante un descanso corto. El arma debe estar a tu alcance durante el ritual y, cuando este acabe, la tocarás y forjarás el vínculo. El vínculo falla si otro guerrero está vinculado al arma o si el arma es un objeto mágico al que esté sintonizado alguien más. Cuando te hayas vinculado con el arma, no podrán desarmarte de ella salvo que tengas el estado de incapacitado. Si está en el mismo plano de existencia, puedes invocar el arma como acción adicional y teletransportarla de inmediato a tu mano. Puedes tener hasta dos armas vinculadas, pero solo puedes invocar una cada vez con una acción adicional, Si tratas de vincularte con una tercera arma, deberás romper el vínculo con una de las otras dos.",
+        "en": ""
+      }
+    },
+    {
+      "level": 7,
+      "name": {
+        "es": "MAGIA DE GUERRA",
+        "en": ""
+      },
+      "description": {
+        "es": "Cuando lleves a cabo la acción de atacar en tu turno, puedes sustituir uno de los ataques por el lanzamiento de uno de tus trucos de mago que tenga un tiempo de lanzamiento de una acción. NiveEL 10: GOLPE SOBRENATURAL Aprendes a hacer que los ataques con tus armas minen la resistencia de una criatura a tus conjuros. Cuando aciertes a una criatura con un ataque con un arma, tendrá desventaja en la siguiente tirada de salvación que haga contra un conjuro que lances antes del final de tu siguiente turno.",
+        "en": ""
+      }
+    },
+    {
+      "level": 15,
+      "name": {
+        "es": "CARGA ARCANA",
+        "en": ""
+      },
+      "description": {
+        "es": "Cuando utilices tu rasgo Acción súbita, podrás teletransportarte hasta 9 m a un espacio sin ocupar que puedas ver. Puedes teletransportarte antes o después de la acción adicional.",
+        "en": ""
+      }
+    },
+    {
+      "level": 18,
+      "name": {
+        "es": "MAGIA DE GUERRA MEJORADA",
+        "en": ""
+      },
+      "description": {
+        "es": "Cuando lleves a cabo la acción de atacar en tu turno, puedes sustituir dos de los ataques por el lanzamiento de uno de tus conjuros de mago de nivel 1 o 2 que tenga un tiempo de lanzamiento de una acción. CAMPEÓN Aspira a la excelencia física en combate. Un campeón se centra en desarrollar su destreza marcial en su incansable afán de victoria. Los campeones combinan un entrenamiento riguroso con un estado físico excelentepara asestar golpes devastadores, resistir ante el peligro y alcanzar la gloria. Ya sea en una competición atlética o en una sangrienta batalla, los campeones luchan porcoronarse como vencedores.",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "ATLETA SOBRESALIENTE",
+        "en": ""
+      },
+      "description": {
+        "es": "Gracias a tus capacidades atléticas, tienes ventaja en las tiradas de iniciativa y las pruebas de Fuerza (Atletismo). Además, justo después de causar un crítico, puedes moverte hasta la mitad de tu velocidad sin provocar ataques de oportunidad.",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "CRÍTICO MEJORADO",
+        "en": ""
+      },
+      "description": {
+        "es": "Tus tiradas de ataque con armas y tus ataques sin armas pueden causar críticos con un resultado de 19 o 20 en el d20.",
+        "en": ""
+      }
+    },
+    {
+      "level": 7,
+      "name": {
+        "es": "ESTILO DE COMBATE ADICIONAL",
+        "en": ""
+      },
+      "description": {
+        "es": "Obtienes otra dote de estilo de combate de tu elección.",
+        "en": ""
+      }
+    },
+    {
+      "level": 10,
+      "name": {
+        "es": "GUERRERO HEROICO",
+        "en": ""
+      },
+      "description": {
+        "es": "La emoción de la batalla te empuja hacia la victoria. Durante un combate, puedes otorgarte inspiración heroica siempre que empieces tu turno sin ella.",
+        "en": ""
+      }
+    },
+    {
+      "level": 15,
+      "name": {
+        "es": "CRÍTICO SUPERIOR",
+        "en": ""
+      },
+      "description": {
+        "es": "Tus tiradas de ataque con armas y tus ataques sin armas ahora pueden causar críticos con un resultado de 18 a 20 en el d20.",
+        "en": ""
+      }
+    },
+    {
+      "level": 18,
+      "name": {
+        "es": "SUPERVIVIENTE",
+        "en": ""
+      },
+      "description": {
+        "es": "Alcanzas la cumbre de la resistencia en batalla, lo que te otorga estos beneficios: Desafiara la miserte. Tienes ventaja en las tiradas de salvación contra muerte. Asimismo, cuando saques de 18 a 20 en una tirada de salvación contra muerte, obtendrás el beneficio de sacar un 20 en ella. Mejoría heroica. Al principio de cada uno de tus turnos, recuperas una cantidad de puntos de golpe igual a 5 más tu modificador por Constitución si estás maltrecho y tienes al menos 1 punto de golpe. GUERRERO PSIÓNICO Aumenta tu poderío físico con el poder psiónico. Los guerreros psiónicos despiertan el poder de sus mentes para mejorar sus capacidades físicas. Estos guerreros emplean el poder psiónico para imbuir sus ataques con armas, arremeter con energía telequinética y crear barreras de fuerza mental.",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "PODER PSIÓNICO",
+        "en": ""
+      },
+      "description": {
+        "es": "Albergas una fuente de energía psiónica en tu interior. Esta se representa mediante dados de energía psiónica, que alimentan los poderes que tienes por esta",
+        "en": ""
+      }
+    },
+    {
+      "level": 7,
+      "name": {
+        "es": "ADEPTO TELEQUINÉTICO",
+        "en": ""
+      },
+      "description": {
+        "es": "Has dominado nuevas formas de usar tus habilidades telequinéticas, que se detallan a continuación. Empujón telequinético. Cuando inflijas daño a un objetivo con tu Golpe psiónico, puedes obligarlo a hacer una tirada de salvación de Fuerza (CD 8 más tu modificador por Inteligencia y tu bonificador por competencia). Si la falla, el objetivo tendrá el estado de derribado o lo transportarás hasta 3 m en horizontal. Salto psiónico. Como acción adicional, obtienes una velocidad volando igual al doble de tu velocidad hasta el final del turno actual. Cuando lleves a cabo esta acción adicional, no podrás volver a hacerla hasta que finalices un descanso corto o largo, a menos que gastes un dado de energía psiónica (no requiere acción) para restablecer su USO. energía psiónica utiliza solamente los dados de esta",
+        "en": ""
+      }
+    },
+    {
+      "level": 10,
+      "name": {
+        "es": "MENTE ROBUSTA",
+        "en": ""
+      },
+      "description": {
+        "es": "Tienes resistencia al daño psíquico. Además, si comienzas tu turno con el estado de asustado o hechizado, puedes gastar un dado de energía psiónica (no requiere acción) y poner fin a todos los efectos que te causen dichos estados. NrIveL 15: BASTIÓN DE FUERZA Puedes proteger a los demás o a ti con fuerza telequinética. Como acción adicional, puedes elegir hasta una cantidad de criaturas (entre las que puedes estar tú) a 9 m o menos de ti igual a tu modificador por Inteligencia (mínimo una criatura). Cada una de las criaturas elegidas tendrá cobertura media durante 1 minuto o hasta que tengas el estado de incapacitado. Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un descanso largo, a menos que gastes un dado de energía psiónica (no requiere acción) para restablecer su uso. NrvEL 18: MAESTRO TELEQUINÉTICO Siempre tienes el conjuro telequinesis preparado. Con este rasgo, puedes lanzarlo sin un espacio de conjuro ni componentes, y tu aptitud mágica para hacerlo es la Inteligencia. En cada uno de tus turnos en los que mantengas la concentración en el conjuro, incluido el turno en el que lo lances, podrás realizar un ataque con un arma como acción adicional. Cuando lances el conjuro con este rasgo, no podrás volver a hacerlo de esta forma hasta que finalices un descanso largo, a menos que gastes un dado de energía psiónica (no requiere acción) para restablecer su uso. MAESTRO DEL COMBATE Domina maniobras de combate avanzadas. Los maestros del combate estudian el arte de la batalla y aprenden técnicas marciales que transmiten generación tras generación. Los maestros más consumados son figuras equilibradas que combinan las habilidades de combate que han ido perfeccionando cuidadosamente con el estudio académico de la historia, la teoría y las artes.",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "ESTUDIOSO DE LA GUERRA",
+        "en": ""
+      },
+      "description": {
+        "es": "Ganas competencia con un tipo de herramientas de artesano de tu elección y en una habilidad de tu elección de las habilidades disponibles para los guerreros de nivel 1.",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "SUPREMACÍA EN COMBATE",
+        "en": ""
+      },
+      "description": {
+        "es": "Tu experiencia en el campo de batalla ha pulido tus técnicas de combate. Aprendes maniobras que emplean unos dados especiales llamados dados de supremacía. Maniobras. Aprendes tres maniobras de tu elección del apartado “Opciones de maniobras”, que aparece más adelante en la descripción de esta",
+        "en": ""
+      }
+    },
+    {
+      "level": 7,
+      "name": {
+        "es": "CONOCE A TU ENEMIGO",
+        "en": ""
+      },
+      "description": {
+        "es": "Como acción adicional, puedes distinguir determinadas fortalezas y debilidades de una criatura que puedas ver a 9 mo menos de ti. Sabrás si la criatura tiene alguna inmunidad, resistencia o vulnerabilidad y, de ser así, sabrás cuáles son. Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un descanso largo. También puedes recuperar un uso del rasgo gastando un dado de supremacía (no requiere acción).",
+        "en": ""
+      }
+    },
+    {
+      "level": 10,
+      "name": {
+        "es": "SUPREMACÍA EN COMBATE",
+        "en": ""
+      },
+      "description": {
+        "es": "MEJORADA Tu dado de supremacía se convierte en un dl0.",
+        "en": ""
+      }
+    },
+    {
+      "level": 15,
+      "name": {
+        "es": "INCANSABLE",
+        "en": ""
+      },
+      "description": {
+        "es": "Una vez por turno, cuando utilices una maniobra, puedes tirar 1d8 y utilizar el resultado en vez de gastar un dado de supremacía.",
+        "en": ""
+      }
+    },
+    {
+      "level": 18,
+      "name": {
+        "es": "SUPREMACÍA EN COMBATE",
+        "en": ""
+      },
+      "description": {
+        "es": "DEFINITIVA Tu dado de supremacía se convierte en un d12. OPCIONES DE MANIOBRAS Las maniobras se presentan en orden alfabético. Arremetida. Como acción adicional, puedes gastar un dado de supremacía y llevar a cabo la acción de correr. Si te mueves al menos 1,5 m en línea recta justo antes de acertar con un ataque cuerpo a cuerpo como parte de la acción de atacar en este turno, podrás sumar el dado de supremacía a la tirada de daño del ataque. Ataque amenazador. Cuando aciertes a una criatura con una tirada de ataque, puedes gastar un dado de supremacía para intentar asustar al objetivo. Suma el dado de supremacía a la tirada de daño del ataque. El objetivo deberá superar una tirada de salvación de Sabiduría o tendrá el estado de asustado hasta el final de tu siguiente turno. Ataque de barrido. Cuando aciertes a una criatura con una tirada de ataque cuerpo a cuerpo usando un arma o un ataque sin armas, puedes gastar un dado de supremacía para intentar dañar a otra criatura. Elige otra criatura a 1,5 m o menos del objetivo original y que esté a tu alcance. Si la tirada de ataque original hubiera acertado a la segunda criatura, esta sufrirá una cantidad de daño igual al resultado que saques en el dado de supremacía. El daño es del mismo tipo que inflija el ataque original. Ataque preciso. Cuando falles con una tirada de ataque, puedes gastar un dado de supremacía, tirarlo y sumar el resultado a la tirada de ataque, lo que podría hacer que el ataque acierte. Ataque provocador. Cuando aciertes a una criatura con una tirada de ataque, puedes gastar un dado de supremacía para intentar provocar al objetivo para que te ataque. Suma el dado de supremacía a la tirada de daño del ataque. El objetivo deberá superar una tirada de salvación de Sabiduría o tendrá desventaja en sus tiradas de ataque contra cualquier objetivo que no seas tú hasta el final de tu siguiente turno. Ataque y derribo. Cuando aciertes a una criatura con una tirada de ataque usando un arma o un ataque sin ar",
+        "en": ""
+      }
+    }
+  ],
+  "source": "phb2024"
+}

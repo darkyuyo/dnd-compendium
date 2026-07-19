@@ -1,0 +1,58 @@
+{
+  "id": "monster-azer-sentine",
+  "slug": "azer-sentine",
+  "name": {
+    "es": "",
+    "en": "Azer Sentine"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Elemental"
+  },
+  "alignment": {
+    "es": "",
+    "en": "AC"
+  },
+  "armorClass": 18,
+  "hitPoints": "97 (13d8 + 39)",
+  "speed": {
+    "es": "",
+    "en": "30::, ,^\","
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Arcana +4, Perception +7"
+  },
+  "senses": {
+    "es": "",
+    "en": "Passive Perception 17"
+  },
+  "languages": {
+    "es": "",
+    "en": "Primordial (lgnan)"
+  },
+  "challengeRating": "6",
+  "proficiencyBonus": "+3",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.25). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

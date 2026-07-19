@@ -1,0 +1,58 @@
+{
+  "id": "monster-giant-ow",
+  "slug": "giant-ow",
+  "name": {
+    "es": "",
+    "en": "Giant Ow"
+  },
+  "size": {
+    "es": "",
+    "en": "Large"
+  },
+  "type": {
+    "es": "",
+    "en": "Beast"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Unaligned"
+  },
+  "armorClass": 10,
+  "hitPoints": "19 (3d10 + 3)",
+  "speed": {
+    "es": "",
+    "en": "10 ft., Swim 60 ft."
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Perception +6, Stealth +6"
+  },
+  "senses": {
+    "es": "",
+    "en": "Darkvision 50 ft.; Passive Perception 14"
+  },
+  "languages": {
+    "es": "",
+    "en": "None"
+  },
+  "challengeRating": "?",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.358). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

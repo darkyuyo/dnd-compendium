@@ -1,0 +1,58 @@
+{
+  "id": "monster-e1ephant",
+  "slug": "e1ephant",
+  "name": {
+    "es": "",
+    "en": "E1ephant"
+  },
+  "size": {
+    "es": "",
+    "en": "Small"
+  },
+  "type": {
+    "es": "",
+    "en": "Beast"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Unaligned"
+  },
+  "armorClass": 12,
+  "hitPoints": "76 (8d12 + 24)",
+  "speed": {
+    "es": "",
+    "en": "10 ft., Fly 60 ft."
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Perception +6"
+  },
+  "senses": {
+    "es": "",
+    "en": "Passive Perception 16"
+  },
+  "languages": {
+    "es": "",
+    "en": "None"
+  },
+  "challengeRating": "0",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.353). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

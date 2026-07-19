@@ -1,0 +1,54 @@
+{
+  "id": "monster-haunting-revenant",
+  "slug": "haunting-revenant",
+  "name": {
+    "es": "",
+    "en": "Haunting Revenant"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Unknown"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Unaligned"
+  },
+  "armorClass": 20,
+  "hitPoints": "203 (lad20 + s6)",
+  "speed": {
+    "es": "",
+    "en": "30 ft."
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "senses": {
+    "es": "",
+    "en": "Truesight 60 ft.; Passive Perception 14"
+  },
+  "languages": {
+    "es": "",
+    "en": "Common plus two other languages"
+  },
+  "challengeRating": "10",
+  "proficiencyBonus": "+4",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.260). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

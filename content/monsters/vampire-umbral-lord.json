@@ -1,0 +1,54 @@
+{
+  "id": "monster-vampire-umbral-lord",
+  "slug": "vampire-umbral-lord",
+  "name": {
+    "es": "",
+    "en": "Vampire Umbral Lord"
+  },
+  "size": {
+    "es": "",
+    "en": "Large"
+  },
+  "type": {
+    "es": "",
+    "en": "Fiend (Demon)"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Chaotic Evil"
+  },
+  "armorClass": 15,
+  "hitPoints": "152 (16dl0 + 6a)",
+  "speed": {
+    "es": "",
+    "en": "40 fr' t]l\"lo tt MoD sAVi"
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "senses": {
+    "es": "",
+    "en": "Darkvision 120 ft.; Passive Perception 11"
+  },
+  "languages": {
+    "es": "",
+    "en": "Abyssal; telepathy 120 ft."
+  },
+  "challengeRating": "5",
+  "proficiencyBonus": "+3",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.318). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

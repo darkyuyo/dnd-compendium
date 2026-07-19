@@ -1,0 +1,53 @@
+{
+  "id": "monster-kraken",
+  "slug": "kraken",
+  "name": {
+    "es": "",
+    "en": "Kraken"
+  },
+  "size": {
+    "es": "",
+    "en": "Large"
+  },
+  "type": {
+    "es": "",
+    "en": "or smaller"
+  },
+  "alignment": {
+    "es": "",
+    "en": "it is swallowed"
+  },
+  "armorClass": 18,
+  "hitPoints": "481 (26d20 + 208)",
+  "speed": {
+    "es": "",
+    "en": "30 ft., Swim .120 ft."
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "senses": {
+    "es": "",
+    "en": "—"
+  },
+  "languages": {
+    "es": "",
+    "en": "—"
+  },
+  "challengeRating": "?",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.187). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

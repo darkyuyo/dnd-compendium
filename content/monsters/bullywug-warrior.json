@@ -1,0 +1,58 @@
+{
+  "id": "monster-bullywug-warrior",
+  "slug": "bullywug-warrior",
+  "name": {
+    "es": "",
+    "en": "Bullywug Warrior"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Fey"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Neutral"
+  },
+  "armorClass": 16,
+  "hitPoints": "52 (8d8 + 16)",
+  "speed": {
+    "es": "",
+    "en": "30 ft., Swim 30 ft."
+  },
+  "abilityScores": {
+    "str": 8,
+    "dex": 16,
+    "con": 14,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Nature +4, Stealth +5"
+  },
+  "senses": {
+    "es": "",
+    "en": "Passive Perception 13"
+  },
+  "languages": {
+    "es": "",
+    "en": "Bullywug, Common, Sylvan"
+  },
+  "challengeRating": "4",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.64). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

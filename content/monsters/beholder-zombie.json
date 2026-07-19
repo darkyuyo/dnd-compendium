@@ -1,0 +1,54 @@
+{
+  "id": "monster-beholder-zombie",
+  "slug": "beholder-zombie",
+  "name": {
+    "es": "",
+    "en": "Beholder Zombie"
+  },
+  "size": {
+    "es": "",
+    "en": "Large"
+  },
+  "type": {
+    "es": "",
+    "en": "Undead"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Neutral Evil"
+  },
+  "armorClass": 15,
+  "hitPoints": "93 (lld10 + 33)",
+  "speed": {
+    "es": "",
+    "en": "5 *;;! i^13"
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "senses": {
+    "es": "",
+    "en": "Darkvision 60 ft.; Passive Perception 9"
+  },
+  "languages": {
+    "es": "",
+    "en": "Understands Deep Speech and"
+  },
+  "challengeRating": "5",
+  "proficiencyBonus": "+3",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.347). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

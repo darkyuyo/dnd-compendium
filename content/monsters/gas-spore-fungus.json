@@ -1,0 +1,54 @@
+{
+  "id": "monster-gas-spore-fungus",
+  "slug": "gas-spore-fungus",
+  "name": {
+    "es": "",
+    "en": "Gas Spore Fungus"
+  },
+  "size": {
+    "es": "",
+    "en": "Large"
+  },
+  "type": {
+    "es": "",
+    "en": "Plant"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Unaligned"
+  },
+  "armorClass": 8,
+  "hitPoints": "13 (3d8)",
+  "speed": {
+    "es": "",
+    "en": "5 ft."
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "senses": {
+    "es": "",
+    "en": "Blindsight 30 ft; Passive Perception 5"
+  },
+  "languages": {
+    "es": "",
+    "en": "None"
+  },
+  "challengeRating": "?",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.125). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "monster-water-element-al",
+  "slug": "water-element-al",
+  "name": {
+    "es": "",
+    "en": "Water Element al"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Unknown"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Unaligned"
+  },
+  "armorClass": 10,
+  "hitPoints": "55 (I0dl0 + 10)",
+  "speed": {
+    "es": "",
+    "en": "5ki:[rot"
+  },
+  "abilityScores": {
+    "str": 17,
+    "dex": 16,
+    "con": 13,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "senses": {
+    "es": "",
+    "en": "—"
+  },
+  "languages": {
+    "es": "",
+    "en": "—"
+  },
+  "challengeRating": "?",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.322). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

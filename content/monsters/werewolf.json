@@ -1,0 +1,58 @@
+{
+  "id": "monster-werewolf",
+  "slug": "werewolf",
+  "name": {
+    "es": "",
+    "en": "Werewolf"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Monstrosity (Lycanthrope)"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Chaotic Evil"
+  },
+  "armorClass": 15,
+  "hitPoints": "71 (11d8 + 22)",
+  "speed": {
+    "es": "",
+    "en": "30 ft., 40 ft. (wolf form only)"
+  },
+  "abilityScores": {
+    "str": 16,
+    "dex": 14,
+    "con": 14,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Perception +4, Stealth +4"
+  },
+  "senses": {
+    "es": "",
+    "en": "Darkvision 60 ft.; Passive Perception 14"
+  },
+  "languages": {
+    "es": "",
+    "en": "Common (can't speak in wolf form)"
+  },
+  "challengeRating": "3",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.327). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

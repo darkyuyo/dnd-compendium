@@ -1,0 +1,54 @@
+{
+  "id": "monster-warhorse-skeleton",
+  "slug": "warhorse-skeleton",
+  "name": {
+    "es": "",
+    "en": "Warhorse Skeleton"
+  },
+  "size": {
+    "es": "",
+    "en": "Large"
+  },
+  "type": {
+    "es": "",
+    "en": "Undead"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Lawful Evil"
+  },
+  "armorClass": 10,
+  "hitPoints": "22 (3d10 + 5)",
+  "speed": {
+    "es": "",
+    "en": "and might than smaller"
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "senses": {
+    "es": "",
+    "en": "Darkvision 60 ft.; Passive Perception 9"
+  },
+  "languages": {
+    "es": "",
+    "en": "None"
+  },
+  "challengeRating": "112",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.282). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

@@ -1,0 +1,109 @@
+{
+  "id": "monster-adult-bronze-dragon",
+  "slug": "adult-bronze-dragon",
+  "name": {
+    "es": "",
+    "en": "Adult Bronze Dragon"
+  },
+  "size": {
+    "es": "",
+    "en": "Huge"
+  },
+  "type": {
+    "es": "",
+    "en": "Dragon (Metallic)"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Lawful Cood"
+  },
+  "armorClass": 18,
+  "hitPoints": "212 (17d12 + 1 02)",
+  "speed": {
+    "es": "",
+    "en": "40 fr' t]l\"lo tr ' t*'',Lo,tl;\","
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "lnsight +7, Perception +.12, Stealth +5"
+  },
+  "senses": {
+    "es": "",
+    "en": "Blindsight 50 ft., Darkvision '120 ft.;"
+  },
+  "languages": {
+    "es": "",
+    "en": "Common, Draconic"
+  },
+  "challengeRating": "15",
+  "proficiencyBonus": "+5",
+  "traits": [],
+  "actions": [
+    {
+      "name": {
+        "es": "",
+        "en": "expended uses at the stort of each of its turns"
+      },
+      "description": {
+        "es": "",
+        "en": "expended uses at the stort of each of its turns."
+      }
+    },
+    {
+      "name": {
+        "es": "",
+        "en": "Guiding Light"
+      },
+      "description": {
+        "es": "",
+        "en": "Guiding Light.Ihe dragon uses Spellcasting to cast"
+      }
+    },
+    {
+      "name": {
+        "es": "",
+        "en": "Guiding Boh (level 2 version)"
+      },
+      "description": {
+        "es": "",
+        "en": "Guiding Boh (level 2 version)."
+      }
+    },
+    {
+      "name": {
+        "es": "",
+        "en": "Pounce"
+      },
+      "description": {
+        "es": "",
+        "en": "Pounce. The dragon moves up to half its Speed, and it"
+      }
+    },
+    {
+      "name": {
+        "es": "",
+        "en": "Thunderclop"
+      },
+      "description": {
+        "es": "",
+        "en": "Thunderclop. Constitution SavingThrow: DC .17, each"
+      }
+    }
+  ],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.59). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

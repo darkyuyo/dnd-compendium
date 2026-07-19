@@ -1,0 +1,54 @@
+{
+  "id": "monster-bone-naga",
+  "slug": "bone-naga",
+  "name": {
+    "es": "",
+    "en": "Bone Naga"
+  },
+  "size": {
+    "es": "",
+    "en": "Large"
+  },
+  "type": {
+    "es": "",
+    "en": "Undead"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Neutral Evil"
+  },
+  "armorClass": 10,
+  "hitPoints": "55 (10d10 + 10)",
+  "speed": {
+    "es": "",
+    "en": "40 ft."
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "senses": {
+    "es": "",
+    "en": "Darkvision 60 ft.; Passive Perception 12"
+  },
+  "languages": {
+    "es": "",
+    "en": "Common plus one other language"
+  },
+  "challengeRating": "4",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.53). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

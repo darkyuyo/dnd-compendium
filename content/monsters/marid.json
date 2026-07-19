@@ -1,0 +1,57 @@
+{
+  "id": "monster-marid",
+  "slug": "marid",
+  "name": {
+    "es": "",
+    "en": "Marid"
+  },
+  "size": {
+    "es": "",
+    "en": "Large"
+  },
+  "type": {
+    "es": "",
+    "en": "Fiend (Demon)"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Chaotic Evil"
+  },
+  "armorClass": 15,
+  "hitPoints": "220 (21d10 + 10s)",
+  "speed": {
+    "es": "",
+    "en": "40 ft., Climb 40 ft."
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Perception +8"
+  },
+  "senses": {
+    "es": "",
+    "en": "Truesight .120 ft.; Passive Perception 18"
+  },
+  "languages": {
+    "es": "",
+    "en": "—"
+  },
+  "challengeRating": "?",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.203). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

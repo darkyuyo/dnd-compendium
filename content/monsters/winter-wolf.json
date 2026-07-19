@@ -1,0 +1,58 @@
+{
+  "id": "monster-winter-wolf",
+  "slug": "winter-wolf",
+  "name": {
+    "es": "",
+    "en": "Winter Wolf"
+  },
+  "size": {
+    "es": "",
+    "en": "Large"
+  },
+  "type": {
+    "es": "",
+    "en": "Fey"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Neutral Evil"
+  },
+  "armorClass": 13,
+  "hitPoints": "25 (adl0 + a)",
+  "speed": {
+    "es": "",
+    "en": "50:,;,"
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Perception +4"
+  },
+  "senses": {
+    "es": "",
+    "en": "Darkvision 60 ft.; Passive Perception 14"
+  },
+  "languages": {
+    "es": "",
+    "en": "Coblin, Worg"
+  },
+  "challengeRating": "?",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.334). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

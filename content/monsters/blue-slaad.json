@@ -1,0 +1,53 @@
+{
+  "id": "monster-blue-slaad",
+  "slug": "blue-slaad",
+  "name": {
+    "es": "",
+    "en": "Blue Slaad"
+  },
+  "size": {
+    "es": "",
+    "en": "Large"
+  },
+  "type": {
+    "es": "",
+    "en": "Aberration"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Chaotic Neutral"
+  },
+  "armorClass": 14,
+  "hitPoints": "93 (11d10 + 33)",
+  "speed": {
+    "es": "",
+    "en": "30 ft."
+  },
+  "abilityScores": {
+    "str": 20,
+    "dex": 15,
+    "con": 18,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "senses": {
+    "es": "",
+    "en": "—"
+  },
+  "languages": {
+    "es": "",
+    "en": "—"
+  },
+  "challengeRating": "?",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.285). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

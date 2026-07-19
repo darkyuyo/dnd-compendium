@@ -1,0 +1,58 @@
+{
+  "id": "monster-nyca1oth",
+  "slug": "nyca1oth",
+  "name": {
+    "es": "",
+    "en": "Nyca1oth"
+  },
+  "size": {
+    "es": "",
+    "en": "Large"
+  },
+  "type": {
+    "es": "",
+    "en": "Fiend (Yugoloth)"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Neutral Evil"
+  },
+  "armorClass": 15,
+  "hitPoints": "52 (7d10 + la)",
+  "speed": {
+    "es": "",
+    "en": "30 ft."
+  },
+  "abilityScores": {
+    "str": 14,
+    "dex": 16,
+    "con": 16,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Arcana +3, lnsight +4, Perception +4, Stealth +5"
+  },
+  "senses": {
+    "es": "",
+    "en": "Truesight .120 ft.; Passive Perception 14"
+  },
+  "languages": {
+    "es": "",
+    "en": "Undercommon"
+  },
+  "challengeRating": "2",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.229). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

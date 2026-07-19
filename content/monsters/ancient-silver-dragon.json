@@ -1,0 +1,53 @@
+{
+  "id": "monster-ancient-silver-dragon",
+  "slug": "ancient-silver-dragon",
+  "name": {
+    "es": "",
+    "en": "Ancient Silver Dragon"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Unknown"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Unaligned"
+  },
+  "armorClass": 10,
+  "hitPoints": "468",
+  "speed": {
+    "es": "",
+    "en": "4ojt;;t]l,l'tt Mo, 'AVL"
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "senses": {
+    "es": "",
+    "en": "—"
+  },
+  "languages": {
+    "es": "",
+    "en": "—"
+  },
+  "challengeRating": "?",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.280). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

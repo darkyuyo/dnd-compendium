@@ -1,0 +1,58 @@
+{
+  "id": "monster-lamia",
+  "slug": "lamia",
+  "name": {
+    "es": "",
+    "en": "Lamia"
+  },
+  "size": {
+    "es": "",
+    "en": "Large"
+  },
+  "type": {
+    "es": "",
+    "en": "Fiend"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Chaotic Evil"
+  },
+  "armorClass": 13,
+  "hitPoints": "97 ('13dl0 + 26)",
+  "speed": {
+    "es": "",
+    "en": "40 ft."
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Deception +7, lnsight +4, Stealth +5"
+  },
+  "senses": {
+    "es": "",
+    "en": "Darkvision 60 ft.; Passive Perception 12"
+  },
+  "languages": {
+    "es": "",
+    "en": "Abyssal, Common"
+  },
+  "challengeRating": "4",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.192). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

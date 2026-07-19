@@ -1,0 +1,236 @@
+[
+  {
+    "id": "species-aasimar",
+    "slug": "aasimar",
+    "name": {
+      "es": "Aasimar",
+      "en": ""
+    },
+    "creatureType": {
+      "es": "humanoide",
+      "en": ""
+    },
+    "size": {
+      "es": "Mediano",
+      "en": ""
+    },
+    "speed": {
+      "es": "9 m",
+      "en": ""
+    },
+    "description": {
+      "es": "Los aasimars son mortales cuyas almas albergan una",
+      "en": ""
+    },
+    "traits": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "species-draconido",
+    "slug": "draconido",
+    "name": {
+      "es": "Dracónido",
+      "en": ""
+    },
+    "creatureType": {
+      "es": "humanoide",
+      "en": ""
+    },
+    "size": {
+      "es": "Mediano",
+      "en": ""
+    },
+    "speed": {
+      "es": "9 m",
+      "en": ""
+    },
+    "description": {
+      "es": "Los antepasados de los dracónidos eclosionaron de los",
+      "en": ""
+    },
+    "traits": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "species-elfo",
+    "slug": "elfo",
+    "name": {
+      "es": "Elfo",
+      "en": ""
+    },
+    "creatureType": {
+      "es": "humanoide",
+      "en": ""
+    },
+    "size": {
+      "es": "Mediano",
+      "en": ""
+    },
+    "speed": {
+      "es": "9 m",
+      "en": ""
+    },
+    "description": {
+      "es": "Los primeros elfos, creados por el dios Corellon, podían",
+      "en": ""
+    },
+    "traits": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "species-enano",
+    "slug": "enano",
+    "name": {
+      "es": "Enano",
+      "en": ""
+    },
+    "creatureType": {
+      "es": "humanoide",
+      "en": ""
+    },
+    "size": {
+      "es": "Mediano",
+      "en": ""
+    },
+    "speed": {
+      "es": "9 m",
+      "en": ""
+    },
+    "description": {
+      "es": "Los enanos emergieron de la tierra en los primeros tiempos",
+      "en": ""
+    },
+    "traits": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "species-gnomo",
+    "slug": "gnomo",
+    "name": {
+      "es": "Gnomo",
+      "en": ""
+    },
+    "creatureType": {
+      "es": "humanoide",
+      "en": ""
+    },
+    "size": {
+      "es": "Mediano",
+      "en": ""
+    },
+    "speed": {
+      "es": "9 m",
+      "en": ""
+    },
+    "description": {
+      "es": "Los gnomos son un pueblo mágico creado por los dioses",
+      "en": ""
+    },
+    "traits": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "species-goliat",
+    "slug": "goliat",
+    "name": {
+      "es": "Goliat",
+      "en": ""
+    },
+    "creatureType": {
+      "es": "humanoide",
+      "en": ""
+    },
+    "size": {
+      "es": "Mediano",
+      "en": ""
+    },
+    "speed": {
+      "es": "9 m",
+      "en": ""
+    },
+    "description": {
+      "es": "Los goliats son descendientes lejanos de los gigantes",
+      "en": ""
+    },
+    "traits": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "species-humano",
+    "slug": "humano",
+    "name": {
+      "es": "Humano",
+      "en": ""
+    },
+    "creatureType": {
+      "es": "humanoide",
+      "en": ""
+    },
+    "size": {
+      "es": "Mediano",
+      "en": ""
+    },
+    "speed": {
+      "es": "9 m",
+      "en": ""
+    },
+    "description": {
+      "es": "Los humanos, que están repartidos por todo el multiverso,",
+      "en": ""
+    },
+    "traits": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "species-mediano",
+    "slug": "mediano",
+    "name": {
+      "es": "Mediano",
+      "en": ""
+    },
+    "creatureType": {
+      "es": "humanoide",
+      "en": ""
+    },
+    "size": {
+      "es": "Mediano",
+      "en": ""
+    },
+    "speed": {
+      "es": "9 m",
+      "en": ""
+    },
+    "description": {
+      "es": "Los medianos, valorados y guiados por los dioses que",
+      "en": ""
+    },
+    "traits": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "species-tiefling",
+    "slug": "tiefling",
+    "name": {
+      "es": "Tiefling",
+      "en": ""
+    },
+    "creatureType": {
+      "es": "humanoide",
+      "en": ""
+    },
+    "size": {
+      "es": "Mediano",
+      "en": ""
+    },
+    "speed": {
+      "es": "9 m",
+      "en": ""
+    },
+    "description": {
+      "es": "CTÓNICO",
+      "en": ""
+    },
+    "traits": [],
+    "source": "phb2024"
+  }
+]

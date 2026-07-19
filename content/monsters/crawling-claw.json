@@ -1,0 +1,54 @@
+{
+  "id": "monster-crawling-claw",
+  "slug": "crawling-claw",
+  "name": {
+    "es": "",
+    "en": "Crawling Claw"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Swarm of Tiny Undead"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Neutral Evil"
+  },
+  "armorClass": 12,
+  "hitPoints": "49 (ild8)",
+  "speed": {
+    "es": "",
+    "en": "30 ft., Climb 30 ft."
+  },
+  "abilityScores": {
+    "str": 14,
+    "dex": 14,
+    "con": 5,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "senses": {
+    "es": "",
+    "en": "Blindsight 30 ft.; Passive Perception 10"
+  },
+  "languages": {
+    "es": "",
+    "en": "Understands Common but can't speak"
+  },
+  "challengeRating": "3",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.83). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

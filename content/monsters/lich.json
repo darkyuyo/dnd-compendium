@@ -1,0 +1,58 @@
+{
+  "id": "monster-lich",
+  "slug": "lich",
+  "name": {
+    "es": "",
+    "en": "Lich"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Elemental"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Neutral"
+  },
+  "armorClass": 13,
+  "hitPoints": "33 (5d8 + 6)",
+  "speed": {
+    "es": "",
+    "en": "30 ft., Burrow 20 ft., Swim 30 ft."
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Nature +2, Perception +4, Stealth +4"
+  },
+  "senses": {
+    "es": "",
+    "en": "Passive Perception 14"
+  },
+  "languages": {
+    "es": "",
+    "en": "Draconic, Primordial (Terran)"
+  },
+  "challengeRating": "2",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.196). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

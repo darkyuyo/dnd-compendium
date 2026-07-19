@@ -1,0 +1,105 @@
+{
+  "id": "monster-swarm-of-dretches",
+  "slug": "swarm-of-dretches",
+  "name": {
+    "es": "",
+    "en": "Swarm of Dretches"
+  },
+  "size": {
+    "es": "",
+    "en": "Large"
+  },
+  "type": {
+    "es": "",
+    "en": "Swarm of Small Fiends (Demon)"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Chaotic Evil"
+  },
+  "armorClass": 12,
+  "hitPoints": "45 (6d10 + 12)",
+  "speed": {
+    "es": "",
+    "en": "40 ft."
+  },
+  "abilityScores": {
+    "str": 14,
+    "dex": 10,
+    "con": 14,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "senses": {
+    "es": "",
+    "en": "Darkvision 50 ft.; Passive Perception 9"
+  },
+  "languages": {
+    "es": "",
+    "en": "Abyssal; telepathy 50 ft. (works only with"
+  },
+  "challengeRating": "4",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [
+    {
+      "name": {
+        "es": "",
+        "en": "Swarm"
+      },
+      "description": {
+        "es": "",
+        "en": "Swarm. The swarm can occupy another creature's"
+      }
+    },
+    {
+      "name": {
+        "es": "",
+        "en": "space and vice versa, and the swarm can move throu"
+      },
+      "description": {
+        "es": "",
+        "en": "space and vice versa, and the swarm can move through"
+      }
+    },
+    {
+      "name": {
+        "es": "",
+        "en": "any opening large enough for a Small creature"
+      },
+      "description": {
+        "es": "",
+        "en": "any opening large enough for a Small creature. The"
+      }
+    },
+    {
+      "name": {
+        "es": "",
+        "en": "swarm can't regain Hit Points or gain Temporary"
+      },
+      "description": {
+        "es": "",
+        "en": "swarm can't regain Hit Points or gain Temporary"
+      }
+    },
+    {
+      "name": {
+        "es": "",
+        "en": "Multiattack"
+      },
+      "description": {
+        "es": "",
+        "en": "Multiattack. The swarm makes two Rend attacks."
+      }
+    }
+  ],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.104). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

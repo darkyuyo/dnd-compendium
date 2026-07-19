@@ -1,0 +1,58 @@
+{
+  "id": "monster-bugbear-warrior",
+  "slug": "bugbear-warrior",
+  "name": {
+    "es": "",
+    "en": "Bugbear Warrior"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Fey (Coblinoid)"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Chaotic Evil"
+  },
+  "armorClass": 15,
+  "hitPoints": "33 (6d8 + 6)",
+  "speed": {
+    "es": "",
+    "en": "30 ft."
+  },
+  "abilityScores": {
+    "str": 15,
+    "dex": 14,
+    "con": 13,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Stealth +6, Survival +3"
+  },
+  "senses": {
+    "es": "",
+    "en": "Darkvision 60 ft.; Passive Perception 11"
+  },
+  "languages": {
+    "es": "",
+    "en": "Common, Goblin"
+  },
+  "challengeRating": "3",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.62). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

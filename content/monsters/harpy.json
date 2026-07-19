@@ -1,0 +1,54 @@
+{
+  "id": "monster-harpy",
+  "slug": "harpy",
+  "name": {
+    "es": "",
+    "en": "Harpy"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Monstrosity"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Chaotic Evil"
+  },
+  "armorClass": 10,
+  "hitPoints": "38 (7d8 + 7)",
+  "speed": {
+    "es": "",
+    "en": "20i:;1l\"l\"r MoD 'AVE"
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "senses": {
+    "es": "",
+    "en": "Passive Perception 10"
+  },
+  "languages": {
+    "es": "",
+    "en": "Common"
+  },
+  "challengeRating": "?",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.164). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

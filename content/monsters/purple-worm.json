@@ -1,0 +1,54 @@
+{
+  "id": "monster-purple-worm",
+  "slug": "purple-worm",
+  "name": {
+    "es": "",
+    "en": "Purple Worm"
+  },
+  "size": {
+    "es": "",
+    "en": "Large"
+  },
+  "type": {
+    "es": "",
+    "en": "creature"
+  },
+  "alignment": {
+    "es": "",
+    "en": "it has the Crappled condition"
+  },
+  "armorClass": 18,
+  "hitPoints": "247 (15d20 + 90)",
+  "speed": {
+    "es": "",
+    "en": "50 ft., Burrow 50 ft."
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "senses": {
+    "es": "",
+    "en": "Blindsight 30 ft., Tremorsense 50 ft.;"
+  },
+  "languages": {
+    "es": "",
+    "en": "None"
+  },
+  "challengeRating": "15",
+  "proficiencyBonus": "+5",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.250). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "monster-dire-worg",
+  "slug": "dire-worg",
+  "name": {
+    "es": "",
+    "en": "Dire Worg"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Undead"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Neutral Evil"
+  },
+  "armorClass": 13,
+  "hitPoints": "67 (9d8 + 27)",
+  "speed": {
+    "es": "",
+    "en": "5 ft., fly 60 ft. (hover)"
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Perception +l'l"
+  },
+  "senses": {
+    "es": "",
+    "en": "Darkvision .120 ft.; Passive Perception 21"
+  },
+  "languages": {
+    "es": "",
+    "en": "Coblin, Sylvan, Worg"
+  },
+  "challengeRating": "10",
+  "proficiencyBonus": "+4",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.335). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

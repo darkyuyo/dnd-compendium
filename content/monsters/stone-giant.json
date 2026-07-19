@@ -1,0 +1,58 @@
+{
+  "id": "monster-stone-giant",
+  "slug": "stone-giant",
+  "name": {
+    "es": "",
+    "en": "Stone Giant"
+  },
+  "size": {
+    "es": "",
+    "en": "Huge"
+  },
+  "type": {
+    "es": "",
+    "en": "Ctant"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Neutral"
+  },
+  "armorClass": 17,
+  "hitPoints": "126 (11dI2 + 55)",
+  "speed": {
+    "es": "",
+    "en": "40 ft."
+  },
+  "abilityScores": {
+    "str": 23,
+    "dex": 15,
+    "con": 20,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Athletics +12, Perception +4, Stealth +5"
+  },
+  "senses": {
+    "es": "",
+    "en": "Darkvision 50 ft.; Passive Perception 14"
+  },
+  "languages": {
+    "es": "",
+    "en": "Giant"
+  },
+  "challengeRating": "7",
+  "proficiencyBonus": "+3",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.300). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "monster-merfolk-skirmisher",
+  "slug": "merfolk-skirmisher",
+  "name": {
+    "es": "",
+    "en": "Merfolk Skirmisher"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Elemental"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Neutral"
+  },
+  "armorClass": 14,
+  "hitPoints": "97 ('15d8 + 30)",
+  "speed": {
+    "es": "",
+    "en": "10 ft., Swim 40 ft."
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 18,
+    "con": 14,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Perception +7"
+  },
+  "senses": {
+    "es": "",
+    "en": "Passive Perception 17"
+  },
+  "languages": {
+    "es": "",
+    "en": "Common, Primordial (Aquan)"
+  },
+  "challengeRating": "6",
+  "proficiencyBonus": "+3",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.209). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

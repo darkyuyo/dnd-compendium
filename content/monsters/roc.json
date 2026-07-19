@@ -1,0 +1,58 @@
+{
+  "id": "monster-roc",
+  "slug": "roc",
+  "name": {
+    "es": "",
+    "en": "Roc"
+  },
+  "size": {
+    "es": "",
+    "en": "Huge"
+  },
+  "type": {
+    "es": "",
+    "en": "creature"
+  },
+  "alignment": {
+    "es": "",
+    "en": "it has the Grappled condition"
+  },
+  "armorClass": 15,
+  "hitPoints": "248 (]6d20 + 80)",
+  "speed": {
+    "es": "",
+    "en": "20 ft., Fly 120 ft."
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Perception +8"
+  },
+  "senses": {
+    "es": "",
+    "en": "Passive Perception 18"
+  },
+  "languages": {
+    "es": "",
+    "en": "None"
+  },
+  "challengeRating": "1",
+  "proficiencyBonus": "+4",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.261). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

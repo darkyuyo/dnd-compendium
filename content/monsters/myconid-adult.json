@@ -1,0 +1,53 @@
+{
+  "id": "monster-myconid-adult",
+  "slug": "myconid-adult",
+  "name": {
+    "es": "",
+    "en": "Myconid Adult"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Plant"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Lawful Neutral"
+  },
+  "armorClass": 10,
+  "hitPoints": "16 (3d8 + 3)",
+  "speed": {
+    "es": "",
+    "en": "20 ft."
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "senses": {
+    "es": "",
+    "en": "—"
+  },
+  "languages": {
+    "es": "",
+    "en": "—"
+  },
+  "challengeRating": "?",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.223). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

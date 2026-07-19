@@ -1,0 +1,58 @@
+{
+  "id": "monster-death-cultist",
+  "slug": "death-cultist",
+  "name": {
+    "es": "",
+    "en": "Death Cultist"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Humanoid"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Neutral Evrl"
+  },
+  "armorClass": 14,
+  "hitPoints": "137 (2sd8 + 25)",
+  "speed": {
+    "es": "",
+    "en": "30 ft."
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Arcana +5, Perception +7, Religion +5"
+  },
+  "senses": {
+    "es": "",
+    "en": "Darkvision 90 ft.; Passive Perception 17"
+  },
+  "languages": {
+    "es": "",
+    "en": "Common, Deep Speech; telepathy 30 ft."
+  },
+  "challengeRating": "8",
+  "proficiencyBonus": "+3",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.86). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

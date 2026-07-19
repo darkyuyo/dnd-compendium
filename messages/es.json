@@ -1,0 +1,99 @@
+{
+  "meta": {
+    "title": "Compendio D&D",
+    "description": "Referencia privada para tu mesa de Dungeons & Dragons"
+  },
+  "nav": {
+    "home": "Inicio",
+    "monsters": "Monstruos",
+    "spells": "Conjuros",
+    "weapons": "Armas",
+    "equipment": "Equipo",
+    "classes": "Clases",
+    "species": "Especies",
+    "backgrounds": "Orígenes",
+    "feats": "Dotes",
+    "howToPlay": "Cómo jugar",
+    "characterCreation": "Crear personaje",
+    "logout": "Salir"
+  },
+  "home": {
+    "title": "Compendio de la mesa",
+    "subtitle": "Referencia rápida de reglas, criaturas y opciones de personaje para vuestra campaña.",
+    "sections": "Secciones"
+  },
+  "common": {
+    "search": "Buscar…",
+    "filters": "Filtros",
+    "all": "Todos",
+    "level": "Nivel",
+    "school": "Escuela",
+    "cr": "VD",
+    "type": "Tipo",
+    "category": "Categoría",
+    "noResults": "No hay resultados.",
+    "missingTranslation": "Sin traducir",
+    "source": "Fuente",
+    "back": "Volver",
+    "details": "Ver ficha",
+    "cantrip": "Truco"
+  },
+  "spells": {
+    "title": "Conjuros",
+    "subtitle": "Busca y filtra todos los conjuros del compendio."
+  },
+  "monsters": {
+    "title": "Monstruos",
+    "subtitle": "Stat blocks listos para la mesa.",
+    "armorClass": "CA",
+    "hitPoints": "PG",
+    "speed": "Velocidad",
+    "skills": "Habilidades",
+    "senses": "Sentidos",
+    "languages": "Idiomas",
+    "traits": "Rasgos",
+    "actions": "Acciones",
+    "bonusActions": "Acciones adicionales",
+    "reactions": "Reacciones",
+    "legendaryActions": "Acciones legendarias"
+  },
+  "weapons": {
+    "title": "Armas",
+    "subtitle": "Armas simples y marciales."
+  },
+  "equipment": {
+    "title": "Equipo",
+    "subtitle": "Objetos de aventurero y equipo de uso general."
+  },
+  "classes": {
+    "title": "Clases",
+    "subtitle": "Clases de personaje y rasgos por nivel.",
+    "hitDie": "Dado de golpe",
+    "primaryAbility": "Característica principal",
+    "savingThrows": "Tiradas de salvación",
+    "features": "Rasgos de clase"
+  },
+  "species": {
+    "title": "Especies",
+    "subtitle": "Especies y rasgos raciales."
+  },
+  "backgrounds": {
+    "title": "Orígenes",
+    "subtitle": "Trasfondos y orígenes de personaje."
+  },
+  "feats": {
+    "title": "Dotes",
+    "subtitle": "Dotes de origen, generales y de estilo de lucha."
+  },
+  "guides": {
+    "howToPlayTitle": "Cómo jugar",
+    "characterCreationTitle": "Crear personaje"
+  },
+  "login": {
+    "title": "Acceso privado",
+    "subtitle": "Introduce la contraseña de la mesa.",
+    "password": "Contraseña",
+    "submit": "Entrar",
+    "error": "Contraseña incorrecta."
+  }
+}

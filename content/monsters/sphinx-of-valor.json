@@ -1,0 +1,84 @@
+{
+  "id": "monster-sphinx-of-valor",
+  "slug": "sphinx-of-valor",
+  "name": {
+    "es": "",
+    "en": "Sphinx of Valor"
+  },
+  "size": {
+    "es": "",
+    "en": "Large"
+  },
+  "type": {
+    "es": "",
+    "en": "Celestial"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Lawful Neutral"
+  },
+  "armorClass": 17,
+  "hitPoints": "199 ('19d]0 + 95)",
+  "speed": {
+    "es": "",
+    "en": "40 ft., Fly 60 ft."
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "senses": {
+    "es": "",
+    "en": "—"
+  },
+  "languages": {
+    "es": "",
+    "en": "—"
+  },
+  "challengeRating": "?",
+  "traits": [],
+  "actions": [
+    {
+      "name": {
+        "es": "",
+        "en": "expended uses ot the start of each of its turns"
+      },
+      "description": {
+        "es": "",
+        "en": "expended uses ot the start of each of its turns."
+      }
+    },
+    {
+      "name": {
+        "es": "",
+        "en": "Arcane Prowl,The sphinx can teleport up to 30 feet"
+      },
+      "description": {
+        "es": "",
+        "en": "Arcane Prowl,The sphinx can teleport up to 30 feet"
+      }
+    },
+    {
+      "name": {
+        "es": "",
+        "en": "to an unoccupied space it can see, and it makes on"
+      },
+      "description": {
+        "es": "",
+        "en": "to an unoccupied space it can see, and it makes one"
+      }
+    }
+  ],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.294). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

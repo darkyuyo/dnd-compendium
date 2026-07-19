@@ -1,0 +1,58 @@
+{
+  "id": "monster-mind-flayer-arcanist",
+  "slug": "mind-flayer-arcanist",
+  "name": {
+    "es": "",
+    "en": "Mind Flayer Arcanist"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Aberration"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Lawful Evil"
+  },
+  "armorClass": 16,
+  "hitPoints": "143 (26d8 + 26)",
+  "speed": {
+    "es": "",
+    "en": "30 ft., Fly 15 ft. (hover)"
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 12,
+    "con": 12,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Arcana +7, lnsight +5, Perception +5, Stealth +4"
+  },
+  "senses": {
+    "es": "",
+    "en": "Darkvision 120 ft.; Passive Perception 16"
+  },
+  "languages": {
+    "es": "",
+    "en": "Deep Speech, Undercommon;"
+  },
+  "challengeRating": "7",
+  "proficiencyBonus": "+3",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.214). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "monster-adult-black-dragon",
+  "slug": "adult-black-dragon",
+  "name": {
+    "es": "",
+    "en": "Adult Black Dragon"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Unknown"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Unaligned"
+  },
+  "armorClass": 22,
+  "hitPoints": "367 (21d20 + M7)",
+  "speed": {
+    "es": "",
+    "en": "30 ft."
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "senses": {
+    "es": "",
+    "en": "—"
+  },
+  "languages": {
+    "es": "",
+    "en": "—"
+  },
+  "challengeRating": "?",
+  "traits": [],
+  "actions": [
+    {
+      "name": {
+        "es": "",
+        "en": "expended uses at the start of each of its turns"
+      },
+      "description": {
+        "es": "",
+        "en": "expended uses at the start of each of its turns."
+      }
+    },
+    {
+      "name": {
+        "es": "",
+        "en": "Cloud of lnsects"
+      },
+      "description": {
+        "es": "",
+        "en": "Cloud of lnsects. Dexterity SavingThrow: DC 21, one"
+      }
+    }
+  ],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.39). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

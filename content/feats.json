@@ -1,0 +1,529 @@
+[
+  {
+    "id": "feat-afortunado",
+    "slug": "afortunado",
+    "name": {
+      "es": "AFORTUNADO",
+      "en": ""
+    },
+    "category": {
+      "es": "origen",
+      "en": ""
+    },
+    "description": {
+      "es": "Obtienes los siguientes beneficios:",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "feat-alerta",
+    "slug": "alerta",
+    "name": {
+      "es": "ALERTA",
+      "en": ""
+    },
+    "category": {
+      "es": "origen",
+      "en": ""
+    },
+    "description": {
+      "es": "Obtienes los siguientes beneficios:",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "feat-atacante-salvaje",
+    "slug": "atacante-salvaje",
+    "name": {
+      "es": "ATACANTE SALVAJE",
+      "en": ""
+    },
+    "category": {
+      "es": "origen",
+      "en": ""
+    },
+    "description": {
+      "es": "Te has preparado para asestar golpes especialmente",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "feat-duro",
+    "slug": "duro",
+    "name": {
+      "es": "Duro",
+      "en": ""
+    },
+    "category": {
+      "es": "origen",
+      "en": ""
+    },
+    "description": {
+      "es": "Tus puntos de golpe máximos aumentan en una",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "feat-fabricante",
+    "slug": "fabricante",
+    "name": {
+      "es": "FABRICANTE",
+      "en": ""
+    },
+    "category": {
+      "es": "origen",
+      "en": ""
+    },
+    "description": {
+      "es": "Obtienes los siguientes beneficios:",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "feat-habilidoso",
+    "slug": "habilidoso",
+    "name": {
+      "es": "HABILIDOSO",
+      "en": ""
+    },
+    "category": {
+      "es": "origen",
+      "en": ""
+    },
+    "description": {
+      "es": "Ganas competencia en cualquier combinación de tres",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "feat-iniciado-en-la-magia",
+    "slug": "iniciado-en-la-magia",
+    "name": {
+      "es": "INICIADO EN LA MAGIA",
+      "en": ""
+    },
+    "category": {
+      "es": "origen",
+      "en": ""
+    },
+    "description": {
+      "es": "Obtienes los siguientes beneficios:",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "feat-maton-de-taberna",
+    "slug": "maton-de-taberna",
+    "name": {
+      "es": "MATÓN DE TABERNA",
+      "en": ""
+    },
+    "category": {
+      "es": "origen",
+      "en": ""
+    },
+    "description": {
+      "es": "Obtienes los siguientes beneficios:",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "feat-musico",
+    "slug": "musico",
+    "name": {
+      "es": "Músico",
+      "en": ""
+    },
+    "category": {
+      "es": "origen",
+      "en": ""
+    },
+    "description": {
+      "es": "Obtienes los siguientes beneficios:",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "feat-sanador",
+    "slug": "sanador",
+    "name": {
+      "es": "SANADOR",
+      "en": ""
+    },
+    "category": {
+      "es": "origen",
+      "en": ""
+    },
+    "description": {
+      "es": "Obtienes los siguientes beneficios:",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "feat-combate-con-armas-a-dos-manos",
+    "slug": "combate-con-armas-a-dos-manos",
+    "name": {
+      "es": "COMBATE CON ARMAS A DOS MANOS",
+      "en": ""
+    },
+    "category": {
+      "es": "estilo de combate (requisitos: rasgo Estilo de combate)",
+      "en": ""
+    },
+    "description": {
+      "es": "Cuando tires el daño para un ataque hecho con un",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "feat-combate-con-armas-arrojadizas",
+    "slug": "combate-con-armas-arrojadizas",
+    "name": {
+      "es": "COMBATE CON ARMAS ARROJADIZAS",
+      "en": ""
+    },
+    "category": {
+      "es": "estilo de combate (requisitos: rasgo Estilo de combate)",
+      "en": ""
+    },
+    "description": {
+      "es": "Cuando aciertas con una tirada de ataque a distancia con",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "feat-combate-con-dos-armas",
+    "slug": "combate-con-dos-armas",
+    "name": {
+      "es": "COMBATE CON DOS ARMAS",
+      "en": ""
+    },
+    "category": {
+      "es": "estilo de combate (requisitos: rasgo Estilo de combate)",
+      "en": ""
+    },
+    "description": {
+      "es": "Cuando haces un ataque extra como resultado de utilizar",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "feat-combate-sin-armas",
+    "slug": "combate-sin-armas",
+    "name": {
+      "es": "COMBATE SIN ARMAS",
+      "en": ""
+    },
+    "category": {
+      "es": "estilo de combate (requisitos: rasgo Estilo de combate)",
+      "en": ""
+    },
+    "description": {
+      "es": "Cuando aciertes con tu ataque sin armas y causes daño,",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "feat-defensa",
+    "slug": "defensa",
+    "name": {
+      "es": "DEFENSA",
+      "en": ""
+    },
+    "category": {
+      "es": "estilo de combate (requisitos: rasgo Estilo de combate)",
+      "en": ""
+    },
+    "description": {
+      "es": "Mientras lleves puesta una armadura ligera, media o pesada,",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "feat-duelo",
+    "slug": "duelo",
+    "name": {
+      "es": "DueLo",
+      "en": ""
+    },
+    "category": {
+      "es": "estilo de combate (requisitos: rasgo Estilo de combate)",
+      "en": ""
+    },
+    "description": {
+      "es": "Cuando empuñes un arma cuerpo a cuerpo con una mano",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "feat-intercepcion",
+    "slug": "intercepcion",
+    "name": {
+      "es": "INTERCEPCIÓN",
+      "en": ""
+    },
+    "category": {
+      "es": "estilo de combate (requisitos: rasgo Estilo de combate)",
+      "en": ""
+    },
+    "description": {
+      "es": "Cuando una criatura que puedas ver acierte a otra",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "feat-lucha-a-ciegas",
+    "slug": "lucha-a-ciegas",
+    "name": {
+      "es": "LucHA A CIEGAS",
+      "en": ""
+    },
+    "category": {
+      "es": "estilo de combate (requisitos: rasgo Estilo de combate)",
+      "en": ""
+    },
+    "description": {
+      "es": "Tienes visión ciega hasta 3 m.",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "feat-proteccion",
+    "slug": "proteccion",
+    "name": {
+      "es": "PROTECCIÓN",
+      "en": ""
+    },
+    "category": {
+      "es": "estilo de combate (requisitos: rasgo Estilo de combate)",
+      "en": ""
+    },
+    "description": {
+      "es": "Cuando una criatura que puedas ver ataque a un objetivo",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "feat-tiro-con-arco",
+    "slug": "tiro-con-arco",
+    "name": {
+      "es": "TIRO CON ARCO",
+      "en": ""
+    },
+    "category": {
+      "es": "estilo de combate (requisitos: rasgo Estilo de combate)",
+      "en": ""
+    },
+    "description": {
+      "es": "Recibes un bonificador de +2 a las tiradas de ataque con",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "feat-don-de-la-fortaleza",
+    "slug": "don-de-la-fortaleza",
+    "name": {
+      "es": "DON DE LA FORTALEZA",
+      "en": ""
+    },
+    "category": {
+      "es": "don épico (requisito: nivel 19 o más)",
+      "en": ""
+    },
+    "description": {
+      "es": "Obtienes los siguientes beneficios:",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "feat-don-de-la-habilidad",
+    "slug": "don-de-la-habilidad",
+    "name": {
+      "es": "DoN DE LA HABILIDAD",
+      "en": ""
+    },
+    "category": {
+      "es": "don épico (requisito: nivel 19 o más)",
+      "en": ""
+    },
+    "description": {
+      "es": "Obtienes los siguientes beneficios:",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "feat-don-de-la-pericia-en-combate",
+    "slug": "don-de-la-pericia-en-combate",
+    "name": {
+      "es": "DON DE LA PERICIA EN COMBATE",
+      "en": ""
+    },
+    "category": {
+      "es": "don épico (requisito: nivel 19 o más)",
+      "en": ""
+    },
+    "description": {
+      "es": "Obtienes los siguientes beneficios:",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "feat-don-de-la-recuperacion",
+    "slug": "don-de-la-recuperacion",
+    "name": {
+      "es": "DON DE LA RECUPERACIÓN",
+      "en": ""
+    },
+    "category": {
+      "es": "don épico (requisito: nivel 19 o más)",
+      "en": ""
+    },
+    "description": {
+      "es": "Obtienes los siguientes beneficios:",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "feat-don-de-la-resistencia-a-energias",
+    "slug": "don-de-la-resistencia-a-energias",
+    "name": {
+      "es": "DoN DE LA RESISTENCIA A ENERGÍAS",
+      "en": ""
+    },
+    "category": {
+      "es": "don épico (requisito: nivel 19 o más)",
+      "en": ""
+    },
+    "description": {
+      "es": "Obtienes los siguientes beneficios:",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "feat-don-de-la-velocidad",
+    "slug": "don-de-la-velocidad",
+    "name": {
+      "es": "DON DE LA VELOCIDAD",
+      "en": ""
+    },
+    "category": {
+      "es": "don épico (requisito: nivel 19 o más)",
+      "en": ""
+    },
+    "description": {
+      "es": "Obtienes los siguientes beneficios:",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "feat-don-de-la-vision-verdadera",
+    "slug": "don-de-la-vision-verdadera",
+    "name": {
+      "es": "DON DE LA VISIÓN VERDADERA",
+      "en": ""
+    },
+    "category": {
+      "es": "don épico (requisito: nivel 19 o más)",
+      "en": ""
+    },
+    "description": {
+      "es": "Obtienes los siguientes beneficios:",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "feat-don-del-ataque-imparable",
+    "slug": "don-del-ataque-imparable",
+    "name": {
+      "es": "DON DEL ATAQUE IMPARABLE",
+      "en": ""
+    },
+    "category": {
+      "es": "don épico (requisito: nivel 19 o más)",
+      "en": ""
+    },
+    "description": {
+      "es": "Obtienes los siguientes beneficios:",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "feat-don-del-destino",
+    "slug": "don-del-destino",
+    "name": {
+      "es": "DON DEL DESTINO",
+      "en": ""
+    },
+    "category": {
+      "es": "don épico (requisito: nivel 19 o más)",
+      "en": ""
+    },
+    "description": {
+      "es": "Obtienes los siguientes beneficios:",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "feat-don-del-espiritu-de-la-noche",
+    "slug": "don-del-espiritu-de-la-noche",
+    "name": {
+      "es": "DON DEL ESPÍRITU DE LA NOCHE",
+      "en": ""
+    },
+    "category": {
+      "es": "don épico (requisito: nivel 19 o más)",
+      "en": ""
+    },
+    "description": {
+      "es": "Obtienes los siguientes beneficios:",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "feat-don-del-viaje-dimensional",
+    "slug": "don-del-viaje-dimensional",
+    "name": {
+      "es": "DON DEL VIAJE DIMENSIONAL",
+      "en": ""
+    },
+    "category": {
+      "es": "don épico (requisito: nivel 19 o más)",
+      "en": ""
+    },
+    "description": {
+      "es": "Obtienes los siguientes beneficios:",
+      "en": ""
+    },
+    "source": "phb2024"
+  }
+]

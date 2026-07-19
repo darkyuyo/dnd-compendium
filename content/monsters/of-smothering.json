@@ -1,0 +1,54 @@
+{
+  "id": "monster-of-smothering",
+  "slug": "of-smothering",
+  "name": {
+    "es": "",
+    "en": "of Smothering"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "creature"
+  },
+  "alignment": {
+    "es": "",
+    "en": "the rug can give it the Grapple"
+  },
+  "armorClass": 12,
+  "hitPoints": "27 (sd'r0)",
+  "speed": {
+    "es": "",
+    "en": "1o::, ,^\", MoD sAVr IOD SAVE"
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "senses": {
+    "es": "",
+    "en": "Blindsight 60 ft.; Passive Perception 6"
+  },
+  "languages": {
+    "es": "",
+    "en": "None"
+  },
+  "challengeRating": "2",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.17). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

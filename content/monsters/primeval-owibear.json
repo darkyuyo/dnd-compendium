@@ -1,0 +1,58 @@
+{
+  "id": "monster-primeval-owibear",
+  "slug": "primeval-owibear",
+  "name": {
+    "es": "",
+    "en": "Primeval OwIbear"
+  },
+  "size": {
+    "es": "",
+    "en": "Huge"
+  },
+  "type": {
+    "es": "",
+    "en": "M onstrosity"
+  },
+  "alignment": {
+    "es": "",
+    "en": "U naligned"
+  },
+  "armorClass": 16,
+  "hitPoints": "59 (7d10 + 21)",
+  "speed": {
+    "es": "",
+    "en": "40 ft., Climb 40 ft., Fly 5 ft."
+  },
+  "abilityScores": {
+    "str": 20,
+    "dex": 12,
+    "con": 17,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Perception +5"
+  },
+  "senses": {
+    "es": "",
+    "en": "Darkvision 60 ft.; Passive Perception 15"
+  },
+  "languages": {
+    "es": "",
+    "en": "None"
+  },
+  "challengeRating": "3",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.234). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

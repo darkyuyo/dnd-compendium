@@ -1,0 +1,58 @@
+{
+  "id": "monster-swarm-of-ravens",
+  "slug": "swarm-of-ravens",
+  "name": {
+    "es": "",
+    "en": "Swarm of Ravens"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Swarm of Tiny Beasts"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Unaligned"
+  },
+  "armorClass": 12,
+  "hitPoints": "36 (8d8)",
+  "speed": {
+    "es": "",
+    "en": "1o j';t]l\"lo tt r\\4oD 'AVE"
+  },
+  "abilityScores": {
+    "str": 8,
+    "dex": 18,
+    "con": 5,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Perception +3, Stealth +7"
+  },
+  "senses": {
+    "es": "",
+    "en": "Blindsight 10 ft.; Passive Perception 10"
+  },
+  "languages": {
+    "es": "",
+    "en": "None"
+  },
+  "challengeRating": "2",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.371). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

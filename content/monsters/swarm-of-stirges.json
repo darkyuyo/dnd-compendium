@@ -1,0 +1,54 @@
+{
+  "id": "monster-swarm-of-stirges",
+  "slug": "swarm-of-stirges",
+  "name": {
+    "es": "",
+    "en": "Swarm of Stirges"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Swarm of Tiny Monstrosities"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Unaligned"
+  },
+  "armorClass": 14,
+  "hitPoints": "35 (8d8)",
+  "speed": {
+    "es": "",
+    "en": "10 ft., Fly 40 ft."
+  },
+  "abilityScores": {
+    "str": 4,
+    "dex": 16,
+    "con": 8,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "senses": {
+    "es": "",
+    "en": "Darkvision 60 ft.; Passive Perception 9"
+  },
+  "languages": {
+    "es": "",
+    "en": "None"
+  },
+  "challengeRating": "2",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.299). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

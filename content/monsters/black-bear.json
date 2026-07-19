@@ -1,0 +1,58 @@
+{
+  "id": "monster-black-bear",
+  "slug": "black-bear",
+  "name": {
+    "es": "",
+    "en": "Black Bear"
+  },
+  "size": {
+    "es": "",
+    "en": "Tiny"
+  },
+  "type": {
+    "es": "",
+    "en": "Beast"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Unaligned"
+  },
+  "armorClass": 17,
+  "hitPoints": "5 (lda + 3)",
+  "speed": {
+    "es": "",
+    "en": "20 ft., Burrow 5 ft."
+  },
+  "abilityScores": {
+    "str": 2,
+    "dex": 15,
+    "con": 8,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Stealth +5"
+  },
+  "senses": {
+    "es": "",
+    "en": "Passive Perception 12"
+  },
+  "languages": {
+    "es": "",
+    "en": "None"
+  },
+  "challengeRating": "4",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.349). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

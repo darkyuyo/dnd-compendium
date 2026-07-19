@@ -1,0 +1,58 @@
+{
+  "id": "monster-faerie-dragon-adult",
+  "slug": "faerie-dragon-adult",
+  "name": {
+    "es": "",
+    "en": "Faerie Dragon Adult"
+  },
+  "size": {
+    "es": "",
+    "en": "Tiny"
+  },
+  "type": {
+    "es": "",
+    "en": "Dragon"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Chaotic Good"
+  },
+  "armorClass": 15,
+  "hitPoints": "35 (lOda + 10)",
+  "speed": {
+    "es": "",
+    "en": "10 ft., Fly 50 ft."
+  },
+  "abilityScores": {
+    "str": 3,
+    "dex": 20,
+    "con": 3,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Arcana +4, Perception +3, Stealth +7"
+  },
+  "senses": {
+    "es": "",
+    "en": "Darkvision 60 ft.; Passive Perception 13"
+  },
+  "languages": {
+    "es": "",
+    "en": "Draconic, Sylvan; telepathy 50 ft. (faerie"
+  },
+  "challengeRating": "2",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.117). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

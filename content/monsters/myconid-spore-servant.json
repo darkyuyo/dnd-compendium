@@ -1,0 +1,58 @@
+{
+  "id": "monster-myconid-spore-servant",
+  "slug": "myconid-spore-servant",
+  "name": {
+    "es": "",
+    "en": "Myconid Spore Servant"
+  },
+  "size": {
+    "es": "",
+    "en": "Large"
+  },
+  "type": {
+    "es": "",
+    "en": "Fiend (Demon)"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Chaotic Evil"
+  },
+  "armorClass": 18,
+  "hitPoints": "184 (15d10 + 95)",
+  "speed": {
+    "es": "",
+    "en": "30 ft."
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Deception +6, lnsight +5, Perception +5, Stealth +5"
+  },
+  "senses": {
+    "es": "",
+    "en": "Truesight .120 ft.; Passive Perception 11"
+  },
+  "languages": {
+    "es": "",
+    "en": "Abyssal; telepathy 120 ft."
+  },
+  "challengeRating": "5",
+  "proficiencyBonus": "+5",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.225). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

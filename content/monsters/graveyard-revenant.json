@@ -1,0 +1,54 @@
+{
+  "id": "monster-graveyard-revenant",
+  "slug": "graveyard-revenant",
+  "name": {
+    "es": "",
+    "en": "Graveyard Revenant"
+  },
+  "size": {
+    "es": "",
+    "en": "Huge"
+  },
+  "type": {
+    "es": "",
+    "en": "Undead"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Neutral"
+  },
+  "armorClass": 20,
+  "hitPoints": "203 (lad20 + s6)",
+  "speed": {
+    "es": "",
+    "en": "30 ft."
+  },
+  "abilityScores": {
+    "str": 20,
+    "dex": 14,
+    "con": 20,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "senses": {
+    "es": "",
+    "en": "Darkvision .120 ft.; Passive Perception 13"
+  },
+  "languages": {
+    "es": "",
+    "en": "Common plus two other languages"
+  },
+  "challengeRating": "7",
+  "proficiencyBonus": "+3",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.260). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

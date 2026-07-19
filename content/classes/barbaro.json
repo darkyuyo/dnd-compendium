@@ -1,0 +1,388 @@
+{
+  "id": "class-barbaro",
+  "slug": "barbaro",
+  "name": {
+    "es": "Bárbaro",
+    "en": ""
+  },
+  "hitDie": "d12",
+  "primaryAbility": {
+    "es": "Fuerza",
+    "en": ""
+  },
+  "savingThrows": {
+    "es": "Fuerza y Constitución",
+    "en": ""
+  },
+  "armor": {
+    "es": "Armaduras ligeras y medias y escudos",
+    "en": ""
+  },
+  "weapons": {
+    "es": "Armas sencillas y marciales",
+    "en": ""
+  },
+  "skills": {
+    "es": "Competencias con armas Armas sencillas y marciales Entrenamiento con",
+    "en": ""
+  },
+  "description": {
+    "es": "- Obtienes todos los atributos de la tabla “Atributos + Obtienes los rasgos de nivel 1 de bárbaro, que se muestran en la tabla “Rasgos de bárbaro”. + Obtienes los siguientes atributos de la tabla “Atributos básicos de bárbaro”: dado de puntos de golpe, competencia con armas marciales y entrenamiento con escudos. + Obtienes los rasgos de nivel 1 de bárbaro, que se muestran",
+    "en": ""
+  },
+  "features": [
+    {
+      "level": 1,
+      "name": {
+        "es": "FURIA",
+        "en": ""
+      },
+      "description": {
+        "es": "Puedes imbuirte de un poder primigenio llamado furia, que te otorga una fuerza y resistencia extraordinarias. Puedes dejarte llevar por ella como acción adicional si no llevas puesta una armadura pesada. Puedes dejarte llevar por la furia tantas veces como se indica para tu nivel de bárbaro en la columna “N.? de furias” de la tabla “Rasgos de bárbaro”. Recuperas uno de los usos gastados tras finalizar un descanso corto y todos tras finalizar un descanso largo. Mientras estés enfurecido, usa las siguientes reglas. Resistencia al daño. Tienes resistencia al daño contundente, cortante y perforante. Daño por furia. Cuando llevas a cabo un ataque que use la Fuerza (ya sea con un arma o un ataque sin armas) y causas daño al objetivo, obtienes un bonificador al daño que aumenta conforme subes de nivel de bárbaro, como se muestra en la columna “Daño por furia” de la tabla “Rasgos de bárbaro”. Ventaja en Fuerza. Tienes ventaja en las pruebas de Fuerza y en las tiradas de salvación de Fuerza. Sin concentración ni conjuros. No puedes mantener la concentración ni lanzar conjuros. Duración. La furia dura hasta el final de tu siguiente turno y termina antes si te pones una armadura pesada o recibes el estado de incapacitado. Si la furia sigue activa en tu siguiente turno, puedes prolongarla otro asalto de una de las siguientes formas: + Haces una tirada de ataque contra un enemigo. - Obligas a un enemigo a hacer una tirada de salvación. + Empleas una acción adicional para prolongar tu furia. Cada vez que prolongues la furia, durará hasta el final de tu siguiente turno. Puedes mantener una furia hasta 10 minutos.",
+        "en": ""
+      }
+    },
+    {
+      "level": 1,
+      "name": {
+        "es": "MAESTRÍA CON ARMAS",
+        "en": ""
+      },
+      "description": {
+        "es": "Tu entrenamiento con armas te permite utilizar las propiedades de maestría con dos tipos de armas cuerpo a cuerpo sencillas o marciales de tu elección, como las hachas a dos manos y las hachas de mano. Tras finalizar un descanso largo, puedes llevar a cabo ejercicios con armas y cambiar una de dichas elecciones. Cuando alcances ciertos niveles de bárbaro, adquirirás la capacidad de usar las propiedades de maestría con más tipos de armas, como se muestra en la columna “Maestría con armas” de la tabla “Rasgos de bárbaro”. ¿E",
+        "en": ""
+      }
+    },
+    {
+      "level": 2,
+      "name": {
+        "es": "ATAQUE TEMERARIO",
+        "en": ""
+      },
+      "description": {
+        "es": "Puedes abandonar por completo tu defensa para atacar con una mayor fiereza. Cuando vayas a realizar la primera tirada de ataque de tu turno, puedes decidir atacar temerariamente. Si lo haces, tendrás ventaja en las tiradas de ataque que utilicen la Fuerza hasta el principio de tu siguiente turno, pero las tiradas de ataque contra ti también tendrán ventaja durante ese tiempo.",
+        "en": ""
+      }
+    },
+    {
+      "level": 2,
+      "name": {
+        "es": "SENTIR EL PELIGRO",
+        "en": ""
+      },
+      "description": {
+        "es": "Eres capaz de percibir de forma casi sobrenatural cuándo las cosas no son como deberían. Gracias a ello, se te da bien evitar el peligro. Tienes ventaja en las tiradas de salvación de Destreza salvo que tengas el estado de incapacitado.",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "CONOCIMIENTO PRIMIGENIO",
+        "en": ""
+      },
+      "description": {
+        "es": "Ganas competencia en otra habilidad de tu elección de la lista de habilidades disponibles para los bárbaros en el nivel 1. Además, mientras estés enfurecido, puedes canalizar el poder primigenio cuando intentes determinadas tareas. Siempre que hagas una prueba de característica con una de las siguientes habilidades, podrás hacerla como una prueba de Fuerza incluso si normalmente utiliza otra característica: Acrobacias, Intimidación, Percepción, Sigilo o Supervivencia. Cuando utilizas esta capacidad, tu Fuerza representa el poder primigenio que fluye por ti y agudiza tu agilidad, porte y sentidos.",
+        "en": ""
+      }
+    },
+    {
+      "level": 4,
+      "name": {
+        "es": "MEJORA DE CARACTERÍSTICA",
+        "en": ""
+      },
+      "description": {
+        "es": "Obtienes la dote Mejora de característica (consulta el",
+        "en": ""
+      }
+    },
+    {
+      "level": 5,
+      "name": {
+        "es": "ATAQUE ADICIONAL",
+        "en": ""
+      },
+      "description": {
+        "es": "Cuando lleves a cabo la acción de atacar en tu turno, podrás hacer dos ataques en lugar de uno.",
+        "en": ""
+      }
+    },
+    {
+      "level": 5,
+      "name": {
+        "es": "MOVIMIENTO RÁPIDO",
+        "en": ""
+      },
+      "description": {
+        "es": "Tu velocidad aumenta en 3 m si no llevas armadura pesada.",
+        "en": ""
+      }
+    },
+    {
+      "level": 7,
+      "name": {
+        "es": "INSTINTO SALVAJE",
+        "en": ""
+      },
+      "description": {
+        "es": "Tus instintos están tan afinados que tienes ventaja en las tiradas de iniciativa.",
+        "en": ""
+      }
+    },
+    {
+      "level": 7,
+      "name": {
+        "es": "SALTO INSTINTIVO",
+        "en": ""
+      },
+      "description": {
+        "es": "Como parte de la acción adicional para dejarte llevar por la furia, puedes moverte hasta la mitad de tu velocidad.",
+        "en": ""
+      }
+    },
+    {
+      "level": 9,
+      "name": {
+        "es": "GOLPE BRUTAL",
+        "en": ""
+      },
+      "description": {
+        "es": "Si utilizas Ataque temerario, puedes renunciar a cualquier ventaja en una tirada de ataque de tu elección basada en la Fuerza en tu turno. La tirada de ataque elegida no debe tener desventaja. Si la tirada de ataque elegida acierta, el objetivo sufre 1d10 de daño adicional del mismo tipo que inflija el arma o el ataque sin armas y puedes causar un efecto de Golpe brutal de tu elección. Tienes las siguientes opciones de efectos. Golpe enérgico. El objetivo es empujado 4,5 m respecto a ti en línea recta. Luego puedes moverte hasta la mitad de tu velocidad directamente hacia el objetivo sin provocar ataques de oportunidad. Golpe ralentizador. La velocidad del objetivo se reduce en 4,5 m hasta el principio de tu siguiente turno. Un objetivo solo puede sufrir un golpe ralentizador cada vez: el más reciente.",
+        "en": ""
+      }
+    },
+    {
+      "level": 11,
+      "name": {
+        "es": "FURIA IMPLACABLE",
+        "en": ""
+      },
+      "description": {
+        "es": "Tu furia te permite seguir luchando incluso tras sufrir heridas graves. Si tus puntos de golpe se reducen a O mientras estas enfurecido, pero no mueres inmediatamente, puedes hacer una tirada de salvación de Constitución con CD 10. Si la superas, tus puntos de golpe pasarán a ser una cantidad igual al doble de tu nivel de bárbaro. Siempre que uses este rasgo después de la primera vez, la CD aumenta en 5. Tras finalizar un descanso corto o largo, la CD vuelve a ser 10.",
+        "en": ""
+      }
+    },
+    {
+      "level": 13,
+      "name": {
+        "es": "GOLPE BRUTAL MEJORADO",
+        "en": ""
+      },
+      "description": {
+        "es": "Has perfeccionado tus formas de atacar con fiereza. Entre las opciones de Golpe brutal se encuentran ahora los siguientes efectos: Golpe abrumador. El objetivo tiene desventaja en la siguiente tirada de salvación que haga y no puede llevar a cabo ataques de oportunidad hasta el principio de tu siguiente turno. Golpe desgarrador. Antes del principio de tu siguiente turno, la próxima tirada de ataque realizada por otra criatura contra el objetivo obtiene un bonificador de +5. Una tirada de ataque puede obtener solo un bonificador de un golpe desgarrador.",
+        "en": ""
+      }
+    },
+    {
+      "level": 15,
+      "name": {
+        "es": "FURIA PERSISTENTE",
+        "en": ""
+      },
+      "description": {
+        "es": "Cuando tires iniciativa, puedes recuperar todos los usos gastados de la furia. Tras recuperar los usos de la furia de esta manera, no podrás volver a hacerlo hasta que finalices un descanso largo. Además, tu furia es tan intensa que ahora dura 10 minutos sin necesidad de hacer nada para prolongarla de un asalto a otro. Tu furia termina antes si recibes el estado de inconsciente (no solo el de incapacitado) o te pones una armadura pesada. NIveEL 17: GOLPE BRUTAL MEJORADO El daño adicional de tu Golpe brutal aumenta a 2d10. Además, puedes utilizar dos efectos diferentes de Golpe brutal siempre que uses tu rasgo Golpe brutal.",
+        "en": ""
+      }
+    },
+    {
+      "level": 18,
+      "name": {
+        "es": "PODERÍO INDÓMITO",
+        "en": ""
+      },
+      "description": {
+        "es": "Si tu resultado en una prueba de Fuerza o una tirada de salvación de Fuerza es inferior a tu puntuación de Fuerza, puedes usar esa puntuación en lugar del resultado.",
+        "en": ""
+      }
+    },
+    {
+      "level": 19,
+      "name": {
+        "es": "DON ÉPICO",
+        "en": ""
+      },
+      "description": {
+        "es": "Obtienes una dote de don épico (consulta el",
+        "en": ""
+      }
+    },
+    {
+      "level": 20,
+      "name": {
+        "es": "CAMPEÓN PRIMORDIAL",
+        "en": ""
+      },
+      "description": {
+        "es": "Encarnas un poder primigenio. Tus puntuaciones de Fuerza y Constitución aumentan en 4, hasta un máximo de 25.",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "VITALIDAD DEL ÁRBOL",
+        "en": ""
+      },
+      "description": {
+        "es": "Tu furia se nutre de la fuerza vital del Árbol del Mundo. Obtienes los siguientes beneficios: Oleada de vitalidad. Cuando te enfurezcas, obtendrás una cantidad de puntos de golpe temporales igual a tu nivel de bárbaro. Fuerza revitalizante. Al principio de cada uno de tus turnos mientras estés enfurecido, puedes elegir a otra criatura a 3 m 0 menos de ti para que obtenga puntos de golpe temporales. Para determinarlos, tira una cantidad de d6 igual a tu bonificación de daño por furia y suma los resultados. Si algunos de estos puntos de golpe temporales permanecen cuando dejes de estar enfurecido, se desvanecerán.",
+        "en": ""
+      }
+    },
+    {
+      "level": 6,
+      "name": {
+        "es": "RAMAS DEL ÁRBOL",
+        "en": ""
+      },
+      "description": {
+        "es": "Cuando una criatura que puedas ver comience su turno a 9 mo menos de ti mientras estás enfurecido, podrás llevar a cabo una reacción para invocar unas ramas espectrales del Árbol del Mundo a su alrededor. El objetivo deberá superar una tirada de salvación de Fuerza (CD 8 más tu modificador por Fuerza y tu bonificador por competencia) o se teletransportará a un espacio sin ocupar que puedas ver a 1,5 m de ti o al espacio sin ocupar más cercano que puedas ver. Después de que el objetivo se teletransporte, puedes reducir su velocidad a O hasta el final del turno actual. NiveEL 10: RAÍCES APALEADORAS Durante tu turno, tu alcance es 3 m superior con cualquier arma cuerpo a cuerpo que tenga la propiedad de pesada o versátil, ya que los zarcillos del Árbol del Mundo se prolongan desde tu cuerpo. Cuando aciertes con un arma así en tu turno, podrás activar la propiedad de maestría de derribar o empujar, además de otra propiedad de maestría diferente que utilices con ese arma.",
+        "en": ""
+      }
+    },
+    {
+      "level": 14,
+      "name": {
+        "es": "VIAJAR POR EL ÁRBOL",
+        "en": ""
+      },
+      "description": {
+        "es": "Cuando te enfureces y como acción adicional mientras estés enfurecido, puedes teletransportarte hasta 18 m a un espacio sin ocupar que puedas ver. Asimismo, una vez por furia, puedes aumentar el alcance del teletransporte a 45 m. Si lo haces, también puedes transportar hasta seis criaturas voluntarias que estén a 3 mo menos de ti. Cada criatura se teletransportará a un espacio sin ocupar de tu elección a 3 m o menos de tu espacio de destino. SENDA DEL BERSERKER Canaliza la furia en una violencia indómita. Los bárbaros que recorren la senda del berserker ponen su furia principalmente al servicio de la violencia. Su senda se asienta en una rabia sin cortapisas y estos bárbaros se embriagan del caos del combate mientras dejan que su furia se apodere de ellos y los fortalezca.",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "FRENESÍ",
+        "en": ""
+      },
+      "description": {
+        "es": "Si utilizas Ataque temerario mientras estás enfurecido, causarás daño adicional al primer objetivo al que aciertes en tu turno con un ataque basado en la Fuerza. Para determinar el daño adicional, tira una cantidad de d6 igual a tu bonificación de daño por furia y suma los resultados. El daño será del mismo tipo que el del arma o ataque sin armas utilizado para el ataque.",
+        "en": ""
+      }
+    },
+    {
+      "level": 6,
+      "name": {
+        "es": "FURIA IRRACIONAL",
+        "en": ""
+      },
+      "description": {
+        "es": "Tienes inmunidad a los estados de asustado y hechizado mientras estés enfurecido. Si estás asustado o hechizado cuando te dejes llevar por la furia, el estado terminará para ti. NrIveEL 10: REPRESALIA Cuando recibas daño de una criatura que esté a 1,5 m o menos de ti, puedes llevar a cabo una reacción para hacer un ataque cuerpo a cuerpo contra esa criatura usando un arma o un ataque sin armas.",
+        "en": ""
+      }
+    },
+    {
+      "level": 14,
+      "name": {
+        "es": "PRESENCIA INTIMIDANTE",
+        "en": ""
+      },
+      "description": {
+        "es": "Como acción adicional, puedes sembrar el terror en los demás con tu mera presencia amenazadora y tu poder primigenio. Cuando lo hagas, todas las criaturas de tu elección situadas en una emanación de 9 m originada en ti deberá hacer una tirada de salvación de Sabiduría (CD 8 más tu modificador por Fuerza y tu bonificador por competencia). Si la fallan, tendrán el estado de asustadas durante 1 minuto. Al final de cada uno de sus turnos, las criaturas asustadas repiten la tirada de salvación y, si tienen éxito, se librarán del efecto. Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un descanso largo, a menos que gastes un uso de tu furia (no requiere acción) para restablecer su USO.",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "FURIA DE LO SALVAJE",
+        "en": ""
+      },
+      "description": {
+        "es": "Tu furia se sirve del poder primigenio de los animales. Cuando te enfurezcas, obtendrás una de las siguientes opciones, a tu elección. Águila. Cuando te enfurezcas, podrás llevar a cabo las acciones de destrabarse y correr como parte de esa acción adicional. Mientras estés enfurecido, puedes usar una acción adicional para llevar a cabo ambas acciones. Lobo. Mientras estés enfurecido, tus aliados tendrán ventaja en las tiradas de ataque contra cualquiera de tus enemigos que se encuentre a 1,5 m o menos de ti. Oso. Mientras estés enfurecido, tendrás resistencia a todos los tipos de daño salvo de fuerza, necrótico, psíquico y radiante.",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "PORTAVOZ DE LOS ANIMALES",
+        "en": ""
+      },
+      "description": {
+        "es": "Puedes lanzar los conjuros hablar con los animales y sentidos de la bestia, pero solo como rituales. La Sabiduría es tu aptitud mágica para lanzarlos.",
+        "en": ""
+      }
+    },
+    {
+      "level": 6,
+      "name": {
+        "es": "ASPECTO DE LO SALVAJE",
+        "en": ""
+      },
+      "description": {
+        "es": "Obtienes una de las siguientes opciones, a tu elección. Tras finalizar un descanso largo, puedes cambiar de opción. Búho. Tienes visión en la oscuridad hasta 18 m. Si ya posees visión en la oscuridad, su alcance aumenta en 18 m. Pantera. Tienes una velocidad trepando igual a tu velocidad. Salmón. Tienes una velocidad nadando igual a tu velocidad.",
+        "en": ""
+      }
+    },
+    {
+      "level": 10,
+      "name": {
+        "es": "HABLANTE DE LA NATURALEZA",
+        "en": ""
+      },
+      "description": {
+        "es": "Puedes lanzar el conjuro comunión con la naturaleza, pero solo como ritual. La Sabiduría es tu aptitud mágica para lanzarlo. NIveEL 14: PODER DE LO SALVAJE Cuando te enfurezcas, obtendrás una de las siguientes opciones, a tu elección. Carnero. Mientras estés enfurecido, podrás hacer que una criatura Grande o más pequeña sufra el estado de derribada si la aciertas con un ataque cuerpo a cuerpo. Halcón. Mientras estés enfurecido, tendrás una velocidad volando igual a tu velocidad si no llevas ninguna armadura. León. Mientras estés enfurecido, cualquier enemigo que esté a 1,5 m o menos de ti tendrá desventaja en las tiradas de ataque contra otros objetivos que no seáis tú u otro bárbaro que tenga esta opción activa. SENDA DEL FANÁTICO Expresa tu furia en una eufórica unión con una divinidad. Los bárbaros que siguen la senda del fanático reciben beneficios de un dios o panteón. Estos bárbaros experimentan su furia como un episodio eufórico de unión divina que les imbuye de poder. Habitualmente, se alían con sacerdotes y otros seguidores de su dios o panteón.",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "FURIA DIVINA",
+        "en": ""
+      },
+      "description": {
+        "es": "Puedes canalizar el poder divino hacia tus ataques. En cada uno de tus turnos mientras estés enfurecido, la primera criatura a la que aciertes con un arma o un ataque sin armas sufrirá una cantidad de daño adicional igual a 1d6 más la mitad de tu nivel de bárbaro (redondeando hacia abajo). El daño adicional es necrótico o radiante, que eliges cada vez que lo causas.",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "GUERRERO DE LOS DIOSES",
+        "en": ""
+      },
+      "description": {
+        "es": "Una entidad divina ayuda a garantizar que continúes la batalla. Cuentas con una reserva de cuatro d12 que puedes gastar para curarte. Como acción adicional, puedes gastar dados de la reserva, tirarlos y recuperar una cantidad de puntos de golpe igual al resultado total de la tirada. Tu reserva recupera todos los dados gastados tras finalizar un descanso largo. El número máximo de dados de la reserva aumenta en uno cuando alcanzas los niveles 6 (5 dados), 12 (6 dados) y 17 (7 dados) de bárbaro.",
+        "en": ""
+      }
+    },
+    {
+      "level": 6,
+      "name": {
+        "es": "Foco FANÁTICO",
+        "en": ""
+      },
+      "description": {
+        "es": "Una vez por furia, si fallas una tirada de salvación, podrás repetirla con un bonificador igual a tu bonificación de daño por furia y deberás utilizar el nuevo resultado.",
+        "en": ""
+      }
+    },
+    {
+      "level": 10,
+      "name": {
+        "es": "PRESENCIA FERVIENTE",
+        "en": ""
+      },
+      "description": {
+        "es": "Como acción adicional, profieres un grito de guerra imbuido de energía divina. Hasta diez criaturas de tu elección que estén a 18 m o menos de ti obtendrán ventaja en las tiradas de ataque y tiradas de salvación hasta el principio de tu siguiente turno. Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un descanso largo,'a menos que gastes un uso de tu furia (no requiere acción) para restablecer su uso.",
+        "en": ""
+      }
+    },
+    {
+      "level": 14,
+      "name": {
+        "es": "FURIA DE LOS DIOSES",
+        "en": ""
+      },
+      "description": {
+        "es": "Cuando te enfureces, puedes adoptar la forma de un guerrero divino. Esta forma dura 1 minuto o hasta que tus puntos de golpe se reduzcan a 0. Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un descanso largo. Mientras tengas esta forma, obtendrás los siguientes beneficios: Resistencia. Tienes resistencia al daño necrótico, psíquico y radiante. Revitalización. Cuando los puntos de golpe de una criatura que esté a 9 m o menos de ti fueran a reducirse a O, puedes llevar a cabo una reacción para gastar un uso de tu furia y hacer que los puntos de golpe del objetivo cambien a una cantidad igual a tu nivel de bárbaro. Vuelo. Tienes una velocidad volando igual a tu velocidad y puedes levitar.",
+        "en": ""
+      }
+    }
+  ],
+  "source": "phb2024"
+}

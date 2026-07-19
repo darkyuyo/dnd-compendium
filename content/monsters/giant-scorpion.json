@@ -1,0 +1,58 @@
+{
+  "id": "monster-giant-scorpion",
+  "slug": "giant-scorpion",
+  "name": {
+    "es": "",
+    "en": "Giant Scorpion"
+  },
+  "size": {
+    "es": "",
+    "en": "Huge"
+  },
+  "type": {
+    "es": "",
+    "en": "Beast"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Unaligned"
+  },
+  "armorClass": 14,
+  "hitPoints": "92 (8d12 + 40)",
+  "speed": {
+    "es": "",
+    "en": "5kllI'ot'"
+  },
+  "abilityScores": {
+    "str": 16,
+    "dex": 13,
+    "con": 15,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Perception +3"
+  },
+  "senses": {
+    "es": "",
+    "en": "Blindsight 60 ft.; Passive Perception 9"
+  },
+  "languages": {
+    "es": "",
+    "en": "None"
+  },
+  "challengeRating": "3",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.359). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

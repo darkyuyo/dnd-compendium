@@ -1,0 +1,58 @@
+{
+  "id": "monster-a11osaurus",
+  "slug": "a11osaurus",
+  "name": {
+    "es": "",
+    "en": "A11osaurus"
+  },
+  "size": {
+    "es": "",
+    "en": "Large"
+  },
+  "type": {
+    "es": "",
+    "en": "Beast (Dinosau)"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Unaligned"
+  },
+  "armorClass": 13,
+  "hitPoints": "51 (6d10 + '18)",
+  "speed": {
+    "es": "",
+    "en": "60 ft."
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Perception +5"
+  },
+  "senses": {
+    "es": "",
+    "en": "Passive Perception 15"
+  },
+  "languages": {
+    "es": "",
+    "en": "None"
+  },
+  "challengeRating": "2",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.348). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

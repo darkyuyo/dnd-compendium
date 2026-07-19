@@ -1,0 +1,58 @@
+{
+  "id": "monster-hobgoblin-captain",
+  "slug": "hobgoblin-captain",
+  "name": {
+    "es": "",
+    "en": "Hobgoblin Captain"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Fey (Coblinoid)"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Lawful Evil"
+  },
+  "armorClass": 17,
+  "hitPoints": "58 (9d8 + 18)",
+  "speed": {
+    "es": "",
+    "en": "30 ft."
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "and rallying others with orders and threats."
+  },
+  "senses": {
+    "es": "",
+    "en": "Darkvision 60 ft.; Passive Perception 10"
+  },
+  "languages": {
+    "es": "",
+    "en": "Common, Coblin"
+  },
+  "challengeRating": "3",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.171). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

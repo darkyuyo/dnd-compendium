@@ -1,0 +1,58 @@
+{
+  "id": "monster-adult-red-dragon",
+  "slug": "adult-red-dragon",
+  "name": {
+    "es": "",
+    "en": "Adult Red Dragon"
+  },
+  "size": {
+    "es": "",
+    "en": "Huge"
+  },
+  "type": {
+    "es": "",
+    "en": "Dragon (Chromatic)"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Chaottc Evil"
+  },
+  "armorClass": 19,
+  "hitPoints": "256 (19dl2 + 133)",
+  "speed": {
+    "es": "",
+    "en": "40 ft., Climb 40 ft., Fly 80 ft."
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Perception +.13, Stealth +5"
+  },
+  "senses": {
+    "es": "",
+    "en": "Blindsight 50 ft., Darkvision .120 ft.;"
+  },
+  "languages": {
+    "es": "",
+    "en": "Common, Draconic"
+  },
+  "challengeRating": "17",
+  "proficiencyBonus": "+5",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.255). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

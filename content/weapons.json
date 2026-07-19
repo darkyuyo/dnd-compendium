@@ -1,0 +1,724 @@
+[
+  {
+    "id": "weapon-baston",
+    "slug": "baston",
+    "name": {
+      "es": "Bastón",
+      "en": ""
+    },
+    "category": {
+      "es": "Simple cuerpo a cuerpo",
+      "en": ""
+    },
+    "damage": "1d6",
+    "damageType": {
+      "es": "Contundente",
+      "en": ""
+    },
+    "properties": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "weapon-daga",
+    "slug": "daga",
+    "name": {
+      "es": "Daga",
+      "en": ""
+    },
+    "category": {
+      "es": "Simple cuerpo a cuerpo",
+      "en": ""
+    },
+    "damage": "1d4",
+    "damageType": {
+      "es": "Perforante",
+      "en": ""
+    },
+    "properties": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "weapon-garrote",
+    "slug": "garrote",
+    "name": {
+      "es": "Garrote",
+      "en": ""
+    },
+    "category": {
+      "es": "Simple cuerpo a cuerpo",
+      "en": ""
+    },
+    "damage": "1d4",
+    "damageType": {
+      "es": "Contundente",
+      "en": ""
+    },
+    "properties": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "weapon-garrote-grande",
+    "slug": "garrote-grande",
+    "name": {
+      "es": "Garrote grande",
+      "en": ""
+    },
+    "category": {
+      "es": "Simple cuerpo a cuerpo",
+      "en": ""
+    },
+    "damage": "1d8",
+    "damageType": {
+      "es": "Contundente",
+      "en": ""
+    },
+    "properties": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "weapon-hacha-de-mano",
+    "slug": "hacha-de-mano",
+    "name": {
+      "es": "Hacha de mano",
+      "en": ""
+    },
+    "category": {
+      "es": "Simple cuerpo a cuerpo",
+      "en": ""
+    },
+    "damage": "1d6",
+    "damageType": {
+      "es": "Cortante",
+      "en": ""
+    },
+    "properties": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "weapon-hoz",
+    "slug": "hoz",
+    "name": {
+      "es": "Hoz",
+      "en": ""
+    },
+    "category": {
+      "es": "Simple cuerpo a cuerpo",
+      "en": ""
+    },
+    "damage": "1d4",
+    "damageType": {
+      "es": "Cortante",
+      "en": ""
+    },
+    "properties": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "weapon-jabalina",
+    "slug": "jabalina",
+    "name": {
+      "es": "Jabalina",
+      "en": ""
+    },
+    "category": {
+      "es": "Simple cuerpo a cuerpo",
+      "en": ""
+    },
+    "damage": "1d6",
+    "damageType": {
+      "es": "Perforante",
+      "en": ""
+    },
+    "properties": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "weapon-lanza",
+    "slug": "lanza",
+    "name": {
+      "es": "Lanza",
+      "en": ""
+    },
+    "category": {
+      "es": "Simple cuerpo a cuerpo",
+      "en": ""
+    },
+    "damage": "1d6",
+    "damageType": {
+      "es": "Perforante",
+      "en": ""
+    },
+    "properties": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "weapon-martillo-ligero",
+    "slug": "martillo-ligero",
+    "name": {
+      "es": "Martillo ligero",
+      "en": ""
+    },
+    "category": {
+      "es": "Simple cuerpo a cuerpo",
+      "en": ""
+    },
+    "damage": "1d4",
+    "damageType": {
+      "es": "Contundente",
+      "en": ""
+    },
+    "properties": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "weapon-maza",
+    "slug": "maza",
+    "name": {
+      "es": "Maza",
+      "en": ""
+    },
+    "category": {
+      "es": "Simple cuerpo a cuerpo",
+      "en": ""
+    },
+    "damage": "1d6",
+    "damageType": {
+      "es": "Contundente",
+      "en": ""
+    },
+    "properties": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "weapon-arco-corto",
+    "slug": "arco-corto",
+    "name": {
+      "es": "Arco corto",
+      "en": ""
+    },
+    "category": {
+      "es": "Simple a distancia",
+      "en": ""
+    },
+    "damage": "1d6",
+    "damageType": {
+      "es": "Perforante",
+      "en": ""
+    },
+    "properties": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "weapon-ballesta-ligera",
+    "slug": "ballesta-ligera",
+    "name": {
+      "es": "Ballesta ligera",
+      "en": ""
+    },
+    "category": {
+      "es": "Simple a distancia",
+      "en": ""
+    },
+    "damage": "1d8",
+    "damageType": {
+      "es": "Perforante",
+      "en": ""
+    },
+    "properties": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "weapon-dardo",
+    "slug": "dardo",
+    "name": {
+      "es": "Dardo",
+      "en": ""
+    },
+    "category": {
+      "es": "Simple a distancia",
+      "en": ""
+    },
+    "damage": "1d4",
+    "damageType": {
+      "es": "Perforante",
+      "en": ""
+    },
+    "properties": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "weapon-honda",
+    "slug": "honda",
+    "name": {
+      "es": "Honda",
+      "en": ""
+    },
+    "category": {
+      "es": "Simple a distancia",
+      "en": ""
+    },
+    "damage": "1d4",
+    "damageType": {
+      "es": "Contundente",
+      "en": ""
+    },
+    "properties": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "weapon-alabarda",
+    "slug": "alabarda",
+    "name": {
+      "es": "Alabarda",
+      "en": ""
+    },
+    "category": {
+      "es": "Marcial cuerpo a cuerpo",
+      "en": ""
+    },
+    "damage": "1d10",
+    "damageType": {
+      "es": "Cortante",
+      "en": ""
+    },
+    "properties": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "weapon-cimitarra",
+    "slug": "cimitarra",
+    "name": {
+      "es": "Cimitarra",
+      "en": ""
+    },
+    "category": {
+      "es": "Marcial cuerpo a cuerpo",
+      "en": ""
+    },
+    "damage": "1d6",
+    "damageType": {
+      "es": "Cortante",
+      "en": ""
+    },
+    "properties": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "weapon-espada-corta",
+    "slug": "espada-corta",
+    "name": {
+      "es": "Espada corta",
+      "en": ""
+    },
+    "category": {
+      "es": "Marcial cuerpo a cuerpo",
+      "en": ""
+    },
+    "damage": "1d6",
+    "damageType": {
+      "es": "Perforante",
+      "en": ""
+    },
+    "properties": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "weapon-espada-larga",
+    "slug": "espada-larga",
+    "name": {
+      "es": "Espada larga",
+      "en": ""
+    },
+    "category": {
+      "es": "Marcial cuerpo a cuerpo",
+      "en": ""
+    },
+    "damage": "1d8",
+    "damageType": {
+      "es": "Cortante",
+      "en": ""
+    },
+    "properties": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "weapon-espadon",
+    "slug": "espadon",
+    "name": {
+      "es": "Espadón",
+      "en": ""
+    },
+    "category": {
+      "es": "Marcial cuerpo a cuerpo",
+      "en": ""
+    },
+    "damage": "2d6",
+    "damageType": {
+      "es": "Cortante",
+      "en": ""
+    },
+    "properties": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "weapon-estoque",
+    "slug": "estoque",
+    "name": {
+      "es": "Estoque",
+      "en": ""
+    },
+    "category": {
+      "es": "Marcial cuerpo a cuerpo",
+      "en": ""
+    },
+    "damage": "1d8",
+    "damageType": {
+      "es": "Perforante",
+      "en": ""
+    },
+    "properties": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "weapon-guja",
+    "slug": "guja",
+    "name": {
+      "es": "Guja",
+      "en": ""
+    },
+    "category": {
+      "es": "Marcial cuerpo a cuerpo",
+      "en": ""
+    },
+    "damage": "1d10",
+    "damageType": {
+      "es": "Cortante",
+      "en": ""
+    },
+    "properties": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "weapon-hacha-a-dos-manos",
+    "slug": "hacha-a-dos-manos",
+    "name": {
+      "es": "Hacha a dos manos",
+      "en": ""
+    },
+    "category": {
+      "es": "Marcial cuerpo a cuerpo",
+      "en": ""
+    },
+    "damage": "1d12",
+    "damageType": {
+      "es": "Cortante",
+      "en": ""
+    },
+    "properties": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "weapon-hacha-de-guerra",
+    "slug": "hacha-de-guerra",
+    "name": {
+      "es": "Hacha de guerra",
+      "en": ""
+    },
+    "category": {
+      "es": "Marcial cuerpo a cuerpo",
+      "en": ""
+    },
+    "damage": "1d8",
+    "damageType": {
+      "es": "Cortante",
+      "en": ""
+    },
+    "properties": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "weapon-lanza-de-caballeria",
+    "slug": "lanza-de-caballeria",
+    "name": {
+      "es": "Lanza de caballería",
+      "en": ""
+    },
+    "category": {
+      "es": "Marcial cuerpo a cuerpo",
+      "en": ""
+    },
+    "damage": "1d12",
+    "damageType": {
+      "es": "Perforante",
+      "en": ""
+    },
+    "properties": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "weapon-latigo",
+    "slug": "latigo",
+    "name": {
+      "es": "Látigo",
+      "en": ""
+    },
+    "category": {
+      "es": "Marcial cuerpo a cuerpo",
+      "en": ""
+    },
+    "damage": "1d4",
+    "damageType": {
+      "es": "Cortante",
+      "en": ""
+    },
+    "properties": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "weapon-lucero-del-alba",
+    "slug": "lucero-del-alba",
+    "name": {
+      "es": "Lucero del alba",
+      "en": ""
+    },
+    "category": {
+      "es": "Marcial cuerpo a cuerpo",
+      "en": ""
+    },
+    "damage": "1d8",
+    "damageType": {
+      "es": "Perforante",
+      "en": ""
+    },
+    "properties": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "weapon-mangual",
+    "slug": "mangual",
+    "name": {
+      "es": "Mangual",
+      "en": ""
+    },
+    "category": {
+      "es": "Marcial cuerpo a cuerpo",
+      "en": ""
+    },
+    "damage": "1d8",
+    "damageType": {
+      "es": "Contundente",
+      "en": ""
+    },
+    "properties": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "weapon-martillo-de-guerra",
+    "slug": "martillo-de-guerra",
+    "name": {
+      "es": "Martillo de guerra",
+      "en": ""
+    },
+    "category": {
+      "es": "Marcial cuerpo a cuerpo",
+      "en": ""
+    },
+    "damage": "1d8",
+    "damageType": {
+      "es": "Contundente",
+      "en": ""
+    },
+    "properties": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "weapon-maza-a-dos-manos",
+    "slug": "maza-a-dos-manos",
+    "name": {
+      "es": "Maza a dos manos",
+      "en": ""
+    },
+    "category": {
+      "es": "Marcial cuerpo a cuerpo",
+      "en": ""
+    },
+    "damage": "2d6",
+    "damageType": {
+      "es": "Contundente",
+      "en": ""
+    },
+    "properties": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "weapon-pica",
+    "slug": "pica",
+    "name": {
+      "es": "Pica",
+      "en": ""
+    },
+    "category": {
+      "es": "Marcial cuerpo a cuerpo",
+      "en": ""
+    },
+    "damage": "1d10",
+    "damageType": {
+      "es": "Perforante",
+      "en": ""
+    },
+    "properties": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "weapon-pico-de-guerra",
+    "slug": "pico-de-guerra",
+    "name": {
+      "es": "Pico de guerra",
+      "en": ""
+    },
+    "category": {
+      "es": "Marcial cuerpo a cuerpo",
+      "en": ""
+    },
+    "damage": "1d8",
+    "damageType": {
+      "es": "Perforante",
+      "en": ""
+    },
+    "properties": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "weapon-tridente",
+    "slug": "tridente",
+    "name": {
+      "es": "Tridente",
+      "en": ""
+    },
+    "category": {
+      "es": "Marcial cuerpo a cuerpo",
+      "en": ""
+    },
+    "damage": "1d8",
+    "damageType": {
+      "es": "Perforante",
+      "en": ""
+    },
+    "properties": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "weapon-arco-largo",
+    "slug": "arco-largo",
+    "name": {
+      "es": "Arco largo",
+      "en": ""
+    },
+    "category": {
+      "es": "Marcial a distancia",
+      "en": ""
+    },
+    "damage": "1d8",
+    "damageType": {
+      "es": "Perforante",
+      "en": ""
+    },
+    "properties": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "weapon-ballesta-de-mano",
+    "slug": "ballesta-de-mano",
+    "name": {
+      "es": "Ballesta de mano",
+      "en": ""
+    },
+    "category": {
+      "es": "Marcial a distancia",
+      "en": ""
+    },
+    "damage": "1d6",
+    "damageType": {
+      "es": "Perforante",
+      "en": ""
+    },
+    "properties": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "weapon-ballesta-pesada",
+    "slug": "ballesta-pesada",
+    "name": {
+      "es": "Ballesta pesada",
+      "en": ""
+    },
+    "category": {
+      "es": "Marcial a distancia",
+      "en": ""
+    },
+    "damage": "1d10",
+    "damageType": {
+      "es": "Perforante",
+      "en": ""
+    },
+    "properties": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "weapon-cerbatana",
+    "slug": "cerbatana",
+    "name": {
+      "es": "Cerbatana",
+      "en": ""
+    },
+    "category": {
+      "es": "Marcial a distancia",
+      "en": ""
+    },
+    "damage": "1",
+    "damageType": {
+      "es": "Perforante",
+      "en": ""
+    },
+    "properties": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "weapon-mosquete",
+    "slug": "mosquete",
+    "name": {
+      "es": "Mosquete",
+      "en": ""
+    },
+    "category": {
+      "es": "Marcial a distancia",
+      "en": ""
+    },
+    "damage": "1d12",
+    "damageType": {
+      "es": "Perforante",
+      "en": ""
+    },
+    "properties": [],
+    "source": "phb2024"
+  },
+  {
+    "id": "weapon-pistola",
+    "slug": "pistola",
+    "name": {
+      "es": "Pistola",
+      "en": ""
+    },
+    "category": {
+      "es": "Marcial a distancia",
+      "en": ""
+    },
+    "damage": "1d10",
+    "damageType": {
+      "es": "Perforante",
+      "en": ""
+    },
+    "properties": [],
+    "source": "phb2024"
+  }
+]

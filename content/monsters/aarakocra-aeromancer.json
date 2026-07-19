@@ -1,0 +1,58 @@
+{
+  "id": "monster-aarakocra-aeromancer",
+  "slug": "aarakocra-aeromancer",
+  "name": {
+    "es": "",
+    "en": "Aarakocra Aeromancer"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Elemental"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Neutral"
+  },
+  "armorClass": 16,
+  "hitPoints": "66 (12d8 + 12)",
+  "speed": {
+    "es": "",
+    "en": "20 ft., Fly 50 ft."
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 14,
+    "con": 12,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Arcana +3, Nature +5, Perception +7"
+  },
+  "senses": {
+    "es": "",
+    "en": "Passive Perception 17"
+  },
+  "languages": {
+    "es": "",
+    "en": "Aarakocra, Primordial (Auran)"
+  },
+  "challengeRating": "4",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.10). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

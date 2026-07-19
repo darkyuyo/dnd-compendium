@@ -1,0 +1,54 @@
+{
+  "id": "monster-ghast-graveca11er",
+  "slug": "ghast-graveca11er",
+  "name": {
+    "es": "",
+    "en": "Ghast Graveca11er"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Undead"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Chaotic Evil"
+  },
+  "armorClass": 16,
+  "hitPoints": "97 (15d8 + 30)",
+  "speed": {
+    "es": "",
+    "en": "30 ft."
+  },
+  "abilityScores": {
+    "str": 15,
+    "dex": 17,
+    "con": 14,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "senses": {
+    "es": "",
+    "en": "Darkvision .120 ft.; Passive Perception 12"
+  },
+  "languages": {
+    "es": "",
+    "en": "Abyssal, Common"
+  },
+  "challengeRating": "6",
+  "proficiencyBonus": "+3",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.130). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "monster-ancient-copper-dragon",
+  "slug": "ancient-copper-dragon",
+  "name": {
+    "es": "",
+    "en": "Ancient Copper Dragon"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Unknown"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Unaligned"
+  },
+  "armorClass": 10,
+  "hitPoints": "367 (21d20 + u7)",
+  "speed": {
+    "es": "",
+    "en": "40 fr,"
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "senses": {
+    "es": "",
+    "en": "—"
+  },
+  "languages": {
+    "es": "",
+    "en": "—"
+  },
+  "challengeRating": "?",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.80). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

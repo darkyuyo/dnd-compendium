@@ -1,0 +1,58 @@
+{
+  "id": "monster-abominable-yeti",
+  "slug": "abominable-yeti",
+  "name": {
+    "es": "",
+    "en": "Abominable Yeti"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Unknown"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Unaligned"
+  },
+  "armorClass": 15,
+  "hitPoints": "137 (lldl2 + 66)",
+  "speed": {
+    "es": "",
+    "en": "40 ft., Climb 40 ft."
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Perception +9, Stealth +8"
+  },
+  "senses": {
+    "es": "",
+    "en": "Darkvision 60 ft.; Passive Perception 19"
+  },
+  "languages": {
+    "es": "",
+    "en": "Yeti"
+  },
+  "challengeRating": "9",
+  "proficiencyBonus": "+4",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.340). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

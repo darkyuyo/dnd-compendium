@@ -1,0 +1,58 @@
+{
+  "id": "monster-li2ard",
+  "slug": "li2ard",
+  "name": {
+    "es": "",
+    "en": "Li2ard"
+  },
+  "size": {
+    "es": "",
+    "en": "Small"
+  },
+  "type": {
+    "es": "",
+    "en": "Beast"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Unaligned"
+  },
+  "armorClass": 12,
+  "hitPoints": "3 (rd5)",
+  "speed": {
+    "es": "",
+    "en": "40 ft."
+  },
+  "abilityScores": {
+    "str": 2,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Perception +5, Stealth +4"
+  },
+  "senses": {
+    "es": "",
+    "en": "Darkvision 90 ft.; Passive Perception 15"
+  },
+  "languages": {
+    "es": "",
+    "en": "None"
+  },
+  "challengeRating": "0",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.364). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

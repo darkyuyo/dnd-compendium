@@ -1,0 +1,109 @@
+{
+  "id": "monster-adult-copper-dragon",
+  "slug": "adult-copper-dragon",
+  "name": {
+    "es": "",
+    "en": "Adult Copper Dragon"
+  },
+  "size": {
+    "es": "",
+    "en": "Huge"
+  },
+  "type": {
+    "es": "",
+    "en": "Dragon (Metallb)"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Chaotic Cood"
+  },
+  "armorClass": 18,
+  "hitPoints": "184 (15dl2 + 80)",
+  "speed": {
+    "es": "",
+    "en": "40 j,;.,[t oo n., t,r,t\":"
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Deception +9, Perception +.12, Stealth +6"
+  },
+  "senses": {
+    "es": "",
+    "en": "Blindsight 60 ft., Darkvision .120 ft.;"
+  },
+  "languages": {
+    "es": "",
+    "en": "Common, Draconic"
+  },
+  "challengeRating": "14",
+  "proficiencyBonus": "+5",
+  "traits": [],
+  "actions": [
+    {
+      "name": {
+        "es": "",
+        "en": "; its Speed is halved; and it can take either"
+      },
+      "description": {
+        "es": "",
+        "en": "; its Speed is halved; and it can take either"
+      }
+    },
+    {
+      "name": {
+        "es": "",
+        "en": "an action or a Bonus Action on its turn, not both"
+      },
+      "description": {
+        "es": "",
+        "en": "an action or a Bonus Action on its turn, not both. This"
+      }
+    },
+    {
+      "name": {
+        "es": "",
+        "en": "effect lasts until the end ofits next turn"
+      },
+      "description": {
+        "es": "",
+        "en": "effect lasts until the end ofits next turn."
+      }
+    },
+    {
+      "name": {
+        "es": "",
+        "en": "Spellcasting"
+      },
+      "description": {
+        "es": "",
+        "en": "Spellcasting. The dragon casts one of the following"
+      }
+    },
+    {
+      "name": {
+        "es": "",
+        "en": "spells, requiring no Material components and using"
+      },
+      "description": {
+        "es": "",
+        "en": "spells, requiring no Material components and using"
+      }
+    }
+  ],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.79). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

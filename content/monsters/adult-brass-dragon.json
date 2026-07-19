@@ -1,0 +1,58 @@
+{
+  "id": "monster-adult-brass-dragon",
+  "slug": "adult-brass-dragon",
+  "name": {
+    "es": "",
+    "en": "Adult Brass Dragon"
+  },
+  "size": {
+    "es": "",
+    "en": "Huge"
+  },
+  "type": {
+    "es": "",
+    "en": "Dragon (Metallic)"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Chaotic Cood"
+  },
+  "armorClass": 18,
+  "hitPoints": "172 (l sdl2 + 75)",
+  "speed": {
+    "es": "",
+    "en": "4o jt;',ril\"- 'o tt ' t}\"lo,ll, MOD SAVE"
+  },
+  "abilityScores": {
+    "str": 23,
+    "dex": 10,
+    "con": 2,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "History +7, Perception +ll, Persuasion +8,"
+  },
+  "senses": {
+    "es": "",
+    "en": "Blindsight 60 ft., Darkvision .120 ft.;"
+  },
+  "languages": {
+    "es": "",
+    "en": "Common, Draconic"
+  },
+  "challengeRating": "13",
+  "proficiencyBonus": "+5",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.55). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

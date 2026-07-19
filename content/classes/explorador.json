@@ -1,0 +1,388 @@
+{
+  "id": "class-explorador",
+  "slug": "explorador",
+  "name": {
+    "es": "Explorador",
+    "en": ""
+  },
+  "hitDie": "d10",
+  "primaryAbility": {
+    "es": "Destreza y Sabiduría",
+    "en": ""
+  },
+  "savingThrows": {
+    "es": "—",
+    "en": ""
+  },
+  "armor": {
+    "es": "ligeras y medias y escudos.",
+    "en": ""
+  },
+  "weapons": {
+    "es": "—",
+    "en": ""
+  },
+  "skills": {
+    "es": "con las que no tengas pericia. Ganas pericia en esa habilidad. CAPÍTULO 3 | CLASES DE PERSONAJE",
+    "en": ""
+  },
+  "description": {
+    "es": "con el fin de proteger el mundo ante los estragos de cuentan como conjuros de explorador para ti. monstruos y tiranos. Cambiar los conjuros preparados. Tras finalizar un descanso largo, puedes sustituir un conjuro de tu lista",
+    "en": ""
+  },
+  "features": [
+    {
+      "level": 1,
+      "name": {
+        "es": "MAESTRÍA CON ARMAS",
+        "en": ""
+      },
+      "description": {
+        "es": "Tu entrenamiento con armas te permite utilizar las propiedades de maestría con dos tipos de armas de tu elección con las que tengas competencia, como arcos largos y espadas cortas. Tras finalizar un descanso largo, puedes cambiar los tipos de armas elegidas. Por ejemplo, podrías pasar a utilizar las propiedades de maestría con cimitarras y espadas largas.",
+        "en": ""
+      }
+    },
+    {
+      "level": 2,
+      "name": {
+        "es": "ESTILO DE COMBATE",
+        "en": ""
+      },
+      "description": {
+        "es": "Obtienes una dote de estilo de combate de tu elección (consulta el",
+        "en": ""
+      }
+    },
+    {
+      "level": 2,
+      "name": {
+        "es": "EXPLORADOR HÁBIL",
+        "en": ""
+      },
+      "description": {
+        "es": "Tus viajes te proporcionan los siguientes beneficios. Idiomas. Conoces dos idiomas de tu elección de las tablas de idiomas del",
+        "en": ""
+      }
+    },
+    {
+      "level": 4,
+      "name": {
+        "es": "MEJORA DE CARACTERÍSTICA",
+        "en": ""
+      },
+      "description": {
+        "es": "Obtienes la dote Mejora de característica (consulta el",
+        "en": ""
+      }
+    },
+    {
+      "level": 5,
+      "name": {
+        "es": "ATAQUE ADICIONAL",
+        "en": ""
+      },
+      "description": {
+        "es": "Cuando lleves a cabo la acción de atacar en tu turno, podrás hacer dos ataques en lugar de uno.",
+        "en": ""
+      }
+    },
+    {
+      "level": 6,
+      "name": {
+        "es": "ERRANTE",
+        "en": ""
+      },
+      "description": {
+        "es": "Tu velocidad aumenta en 3 m si no llevas armadura pesada. También tienes una velocidad nadando y una velocidad trepando iguales a tu velocidad.",
+        "en": ""
+      }
+    },
+    {
+      "level": 9,
+      "name": {
+        "es": "PERICIA",
+        "en": ""
+      },
+      "description": {
+        "es": "Escoge dos de tus competencias en habilidades con las que no tengas pericia. Ganas pericia en esas habilidades.",
+        "en": ""
+      }
+    },
+    {
+      "level": 10,
+      "name": {
+        "es": "INFATIGABLE",
+        "en": ""
+      },
+      "description": {
+        "es": "Las fuerzas primigenias te ayudan ahora en tus viajes, lo que te otorga los siguientes beneficios. Puntos de golpe temporales. Como acción de magia, puedes concederte una cantidad de puntos de golpe temporales igual a 148 más tu modificador por Sabiduría (mínimo de 1). Puedes usar esta acción una cantidad de veces igual a tu modificador por Sabiduría (mínimo una vez) y recuperas todos los usos tras finalizar un descanso largo. Disminuir cansancio. Tras finalizar un descanso corto, tu nivel de cansancio, si lo tienes, se reduce en 1.",
+        "en": ""
+      }
+    },
+    {
+      "level": 13,
+      "name": {
+        "es": "CAZADOR PERSISTENTE",
+        "en": ""
+      },
+      "description": {
+        "es": "Sufrir daño no rompe tu concentración de marca del cazador.",
+        "en": ""
+      }
+    },
+    {
+      "level": 14,
+      "name": {
+        "es": "VELO DE LA NATURALEZA",
+        "en": ""
+      },
+      "description": {
+        "es": "Invocas espíritus de la naturaleza para esconderte mágicamente. Como acción adicional, puedes otorgarte el estado de invisible hasta el final de tu siguiente turno. Puedes usar este rasgo una cantidad de veces igual a tu modificador por Sabiduría (mínimo una vez) y recuperas todos los usos tras finalizar un descanso largo.",
+        "en": ""
+      }
+    },
+    {
+      "level": 17,
+      "name": {
+        "es": "CAZADOR PRECISO",
+        "en": ""
+      },
+      "description": {
+        "es": "Tienes ventaja en las tiradas de ataque contra la criatura que tenga tu marca del cazador sobre ella.",
+        "en": ""
+      }
+    },
+    {
+      "level": 18,
+      "name": {
+        "es": "SENTIDOS SALVAJES",
+        "en": ""
+      },
+      "description": {
+        "es": "Tu conexión con las fuerzas de la naturaleza te otorga visión ciega hasta 9 m.",
+        "en": ""
+      }
+    },
+    {
+      "level": 19,
+      "name": {
+        "es": "Don ÉPICO",
+        "en": ""
+      },
+      "description": {
+        "es": "Obtienes una dote de don épico (consulta el",
+        "en": ""
+      }
+    },
+    {
+      "level": 20,
+      "name": {
+        "es": "AZOTE DE ENEMIGOS",
+        "en": ""
+      },
+      "description": {
+        "es": "El dado de daño de tu marca del cazador es un d10 en lugar de un d6. LISTA DE CONJUROS DE EXPLORADOR Esta sección presenta la lista de conjuros de explorador. Los conjuros se organizan por su nivel y por orden alfabético y se indica la escuela mágica de cada uno de ellos. En la columna “Especial”, C significa que el conjuro requiere concentración, R significa que es un ritual y M significa que requiere un componente material específico. CONJUROS DE EXPLORADOR DE NIVEL1 Conjuro Escuela Especial Alarma Abjuración R Buenas bayas Conjuración — Curar heridas Abjuración = Detectar magia Adivinación C,R Detectar venenos Adivinación C,R y enfermedades Encantar animal Encantamiento = Enmarañar Conjuración € Golpe apresador Conjuración E Hablar con los animales Adivinación R Conjuro Escuela Especial Marca del cazador Adivinación E Nube de oscurecimiento Conjuración € Salto Transmutación — Tormenta de espinas Conjuración = Zancada prodigiosa Transmutación = CONJUROS DE EXPLORADOR DE NIVEL 2 Conjuro Escuela Especial Arma mágica Transmutación = Auxilio Abjuración = Cordón de flechas Transmutación — Crecimiento espinoso Transmutación € Detectar trampas Adivinación = Invocar bestia Conjuración C,M Localizar animales o plantas Adivinación R Localizar objeto Adivinación € Mensajero animal Encantamiento R Pasar sin rastro Abjuración (E Piel robliza Transmutación = Potenciar característica Transmutación E Protección contra veneno Abjuración = Ráfaga de viento Evocación (a Restablecimiento menor Abjuración = Sentidos de la bestia Adivinación C,R Silencio Ilusionismo CR Visión en la oscuridad Transmutación = CONJUROS DE EXPLORADOR DE NIVEL 3 Conjuro Escuela Especial Arma elemental Transmutación íS Caminar sobre el agua Transmutación R Conjurar animales Conjuración a Conjurar descarga de Conjuración — proyectiles Crecimiento vegetal Transmutación —- Disipar magia Abjuración = Flecha de relámpago Transmutación = Fundirse con la piedra Transmutación R Hablar con las plantas Transmutación —",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "CONJUROS DE ACECHADOR",
+        "en": ""
+      },
+      "description": {
+        "es": "EN LA PENUMBRA Cuando alcances un nivel de explorador especificado en la tabla “Conjuros de acechador en la penumbra”, a partir de entonces siempre tendrás preparados los conjuros que se indican. CONJUROS DE ACECHADOR EN LA PENUMBRA Nivel de explorador Conjuros 3 Disfrazarse 5 Truco de la cuerda E Terror 13 Invisibilidad mejorada 1 Apariencia",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "EMBOSCADOR PAVOROSO",
+        "en": ""
+      },
+      "description": {
+        "es": "Dominas el arte de tender emboscadas temibles, lo que te otorga los siguientes beneficios. Bonificador de iniciativa. Cuando tires iniciativa, puedes sumar tu modificador por Sabiduría a la tirada. Golpe pavoroso. Cuando ataques a una criatura con un armay aciertes, puedes infligirle 2d6 de daño psíquico adicional. Puedes usar este beneficio solo una vez por turno, puedes usarlo una cantidad de veces igual a tu modificador por Sabiduría (mínimo una vez) y recuperas todos los usos tras finalizar un descanso largo. Salto emboscador. Al comienzo de tu primer turno de cada combate, tu velocidad aumenta en 3 m hasta el final de ese turno.",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "VISIÓN EN LA UMBRA",
+        "en": ""
+      },
+      "description": {
+        "es": "Obtienes visión en la oscuridad hasta 18 m. Si ya posees visión en la oscuridad cuando obtienes este rasgo, su alcance aumenta en 18 m. Además, eres muy hábil evitando a criaturas que dependan de la visión en la oscuridad. Mientras estés en una oscuridad total, tendrás el estado de invisible frente a cualquier criatura que dependa de visión en la oscuridad para verte en esas tinieblas.",
+        "en": ""
+      }
+    },
+    {
+      "level": 7,
+      "name": {
+        "es": "MENTE DE HIERRO",
+        "en": ""
+      },
+      "description": {
+        "es": "Has mejorado tu habilidad para resistir los poderes que alteran la mente. Ganas competencia en las tiradas de salvación de Sabiduría. Si ya tienes esta competencia, obtienes competencia en las tiradas de salvación de Inteligencia o Carisma (a tu elección).",
+        "en": ""
+      }
+    },
+    {
+      "level": 11,
+      "name": {
+        "es": "OLEADA DEL ACECHADOR",
+        "en": ""
+      },
+      "description": {
+        "es": "El daño psíquico de tu golpe pavoroso pasa a ser 2d8. Además, cuando utilizas el efecto de golpe pavoroso del rasgo Emboscador pavoroso, puedes provocar uno de los siguientes efectos adicionales. Ataque súbito. Puedes realizar otro ataque con la misma arma contra una criatura distinta que se encuentre a 1,5 m o menos del objetivo original y que esté dentro del alcance del arma. Terror masivo. El objetivo y todas las criaturas a 3 m o menos de él deberán hacer una tirada de salvación de Sabiduría contra tu CD de salvación de conjuros. Si una criatura la falla, tendrá el estado de asustada hasta el principio de tu siguiente turno. NIveEL 15: ESQUIVA DE LAS SOMBRAS Cuando una criatura haga una tirada de ataque contra ti, puedes usar una reacción para darle desventaja en la tirada. Tanto si el ataque acierta como si no, luego podrás teletransportarte hasta 9 m a un espacio sin ocupar que puedas ver. CAZADOR Protege la naturaleza y a la gente contra la destrucción. Acechas a tus presas en las tierras salvajes y en otros lugares y empleas tus habilidades de cazador para proteger la naturaleza y a la gente contra las fuerzas que buscan destruirlas.",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "EL CAZADOR Y LA PRESA",
+        "en": ""
+      },
+      "description": {
+        "es": "Obtienes una de las siguientes opciones de este rasgo, a tu elección. Tras finalizar un descanso corto o largo, puedes cambiar la opción elegida por la otra. Azote de colosos. Tu tenacidad puede agotar incluso a los enemigos más resistentes. Cuando aciertes a una criatura con un arma, esta inflige 1d8 de daño adicional si el objetivo no tiene todos sus puntos de golpe. Solo puedes infligir este daño adicional una vez por turno. Destructor de hordas. Una vez en cada uno de tus turnos, cuando hagas un ataque con un arma, puedes realizar otro con la misma arma contra una criatura distinta que se encuentre a 1,5 m o menos del objetivo original si no la has atacado este turno y está dentro del alcance del arma.",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "SABIDURÍA DEL CAZADOR",
+        "en": ""
+      },
+      "description": {
+        "es": "Puedes invocar a las fuerzas de la naturaleza para mostrar ciertos puntos fuertes y débiles de tu presa. Mientras una criatura tenga tu marca del cazador sobre ella, sabrás si tiene alguna inmunidad, resistencia o vulnerabilidad y cuáles son, de ser así.",
+        "en": ""
+      }
+    },
+    {
+      "level": 7,
+      "name": {
+        "es": "TÁCTICAS DEFENSIVAS",
+        "en": ""
+      },
+      "description": {
+        "es": "Obtienes una de las siguientes opciones de este rasgo, a tu elección. Tras finalizar un descanso corto o largo, puedes cambiar la opción elegida por la otra. Defensa contra ataques múltiples. Cuando una criatura te acierte con una tirada de ataque, esa criatura tendrá desventaja en todas las demás tiradas de ataque contra ti este turno. Escapar de la horda. Los ataques de oportunidad tienen desventaja contra ti. NriveEL 11: EL CAZADOR EXPERTO Y LA PRESA Una vez por turno, cuando inflijas daño a una criatura que tenga tu marca del cazador, también puedes hacer el daño adicional del conjuro a una criatura distinta que puedas ver a 9 m o menos de la primera criatura.",
+        "en": ""
+      }
+    },
+    {
+      "level": 15,
+      "name": {
+        "es": "DEFENSA DE CAZADOR EXPERTO",
+        "en": ""
+      },
+      "description": {
+        "es": "Cuando recibes daño, puedes usar una reacción para concederte resistencia a ese daño y a cualquier otro daño del mismo tipo hasta el final de ese turno. ERRANTE FEÉRICO Sírvete del júbilo y la furia feéricos. Un aura mística te envuelve gracias a la bendición de un señor feérico o de un lugar de los Parajes Feéricos que te transformó. Consiguieras como consiguieras esta magia, ahora eres un errante feérico. Tu risa alegre ilumina los corazones de los oprimidos y tu destreza marcial infunde terror a tus enemigos, pues grande es el regocijo de los feéricos y terrible es su furia.",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "CONJUROS DE ERRANTE FEÉRICO",
+        "en": ""
+      },
+      "description": {
+        "es": "Cuando alcances un nivel de explorador especificado en la tabla “Conjuros de errante feérico”, a partir de entonces siempre tendrás preparados los conjuros que se indican. CONJUROS DE ERRANTE FEÉRICO Nivel de explorador Conjuro 3 Hechizar persona 5 Paso brumoso 9 Invocar feérico 13 AA Puerta dimensional Engañar También cuentas con una bendición feérica. Elígela de | la tabla “Dádivas de los Parajes Feéricos” o determínala | Susciase alazar. | ; DE CATADOR ¡ > $ DÁDIVAS DE LOS PARAJES FEÉRICOS 1d6 Dádiva 1 Unas mariposas ilusorias revolotean a tu alrededor mientras haces un descanso corto o largo. 2 Te brotan flores en el pelo cada amanecer. 3 Emanas un ligero olor a canela, lavanda, nuez moscada u otra hierba o especia agradable. 1d6 Dádiva 4 Tusombra baila cuando nadie la miradirectamente. 5 De tu cabeza brotan cuernos o astas. 6 Tupiel y tu cabello cambian de color cada amanecer.",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "GLAMUR",
+        "en": ""
+      },
+      "description": {
+        "es": "SOBRENATURAL Siempre que hagas una prueba de Carisma, obtienes un bonificador igual a tu modificador por Sabiduría (mínimo de +1). También ganas competencia en una de las siguientes habilidades a tu elección: Engaño, Interpretación o Persuasión.",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "GOLPES PAVOROSOS",
+        "en": ""
+      },
+      "description": {
+        "es": "Puedes potenciar tus ataques con armas usando magia inquietante que proviene de las turbias hondonadas de los Parajes Feéricos. Cuando aciertas a una criatura con un arma, puedes infligir 144 de daño psíquico adicional al objetivo, que solo puede sufrir este daño adicional una vez por turno. El daño adicional aumenta a 1d6 cuando alcanzas el nivel 11 de explorador.",
+        "en": ""
+      }
+    },
+    {
+      "level": 7,
+      "name": {
+        "es": "GIRO SEDUCTOR",
+        "en": ""
+      },
+      "description": {
+        "es": "La magia de los Parajes Feéricos protege tu mente. Tienes ventaja en las tiradas de salvación para evitar o poner fin a los estados de asustado o hechizado. Además, siempre que tú o una criatura que puedas ver a 36 m o menos de ti tengáis éxito en una tirada desalvación para evitar o poner fin a los estados de asustado o hechizado, puedes usar una reacción para obligar a otracriatura distinta que puedas ver a 36 m o menos de ti a hacer una tirada de salvación de Sabiduría contra tu CD de salvación de conjuros. Si la falla, el objetivo quedará asustado o hechizado (a tu elección) durante 1 minuto. El objetivo repetirá la tirada de salvación al final de cada uno de sus turnos y, si tiene éxito, se librará del efecto.",
+        "en": ""
+      }
+    },
+    {
+      "level": 11,
+      "name": {
+        "es": "REFUERZOS",
+        "en": ""
+      },
+      "description": {
+        "es": "FEÉRICOS Puedes lanzar invocar feérico sin ningún componente material. También puedes lanzarlo una vez sin gastar un espacio de conjuro y recuperas la capacidad de hacerlode esta forma tras finalizar un descanso largo. Cuando empieces a lanzar el conjuro, puedes modificarlo para que no requiera concentración. Si lo haces, la duración del conjuro es de 1 minuto para ese lanzamiento. NiveEL 15: ERRANTE BRUMOSO Puedes lanzar paso brumoso sin gastar un espacio de conjuro. Puedes hacerlo una cantidad de veces igual a tu modificador por Sabiduría (mínimo una vez) y recuperas todos los usos tras finalizar un descanso largo. Además, siempre que lances paso brumoso, podrás elegir a una criatura voluntaria que puedas ver a 1,5 m o menos de ti para que te acompañe. Esa criatura se teletransportará a un espacio sin ocupar de tu elección a 1,5 m de tu espacio de destino.",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "COMPAÑERO PRIMIGENIO",
+        "en": ""
+      },
+      "description": {
+        "es": "Invocas mágicamente a una bestia primigenia que extrae fuerza de tu vínculo con la naturaleza. Elige un perfil para ella: bestia de los mares, bestia de tierra firme o bestia del cielo. También eliges el tipo de animal que es, siempre y cuando sea coherente con su perfil. Sea cual sea el tipo que elijas, la bestia tiene marcas primigenias que indican su origen místico. La bestia es amistosa contigo y tus aliados, obedece tus órdenes y desaparecerá si mueres. La bestia en combate. En combate, la bestia actúa durante tu turno. Se puede mover y usar su reacción por cuenta propia, pero la única acción que hace es la de esquivar, a menos que utilices una acción adicional para ordenarle que realice una acción que aparezca en su perfil u otra distinta. También puedes sacrificar uno de tus ataques cuando realices la acción de atacar para ordenar a la bestia que use la acción de golpe de bestia. Si tienes el estado de incapacitado, la bestia actúa por su cuenta y no está limitada a hacer la acción de esquivar. Devolver la bestia a la vida o sustituirla. Si la bestia ha muerto en la última hora, puedes usar una acción de magia para tocarla y gastar un espacio de conjuro. La bestia volverá a la vida después de 1 minuto con todos sus puntos de golpe recuperados. Tras finalizar un descanso largo, puedes invocar a una bestia primigenia diferente, que aparece en un espacio sin ocupar a 1,5 m de ti y eliges su perfil y aspecto. Si ya tienes una bestia por este rasgo, se desvanecerá cuando aparezca la nueva.",
+        "en": ""
+      }
+    },
+    {
+      "level": 7,
+      "name": {
+        "es": "ENTRENAMIENTO EXCEPCIONAL",
+        "en": ""
+      },
+      "description": {
+        "es": "Cuando utilices una acción adicional para ordenarle a la bestia primigenia que lleve acabo una acción, también puedes decirle que realice las acciones de ayudar, correr, destrabarse o esquivar empleando su acción adicional. Además, siempre que acierte con una tirada de ataque y cause daño, eliges si hace daño de fuerza o su tipo de daño normal.",
+        "en": ""
+      }
+    },
+    {
+      "level": 11,
+      "name": {
+        "es": "FURIA BESTIAL",
+        "en": ""
+      },
+      "description": {
+        "es": "Cuando le ordenas a la bestia primigenia que realice la acción de golpe de bestia, podrá usarla dos veces. Además, la primera vez cada turno que acierte a una criatura bajo el efecto de tu conjuro marca del cazador, la bestia inflige un daño de fuerza adicional igual al daño adicional de ese conjuro.",
+        "en": ""
+      }
+    },
+    {
+      "level": 15,
+      "name": {
+        "es": "COMPARTIR CONJUROS",
+        "en": ""
+      },
+      "description": {
+        "es": "Cuando lances un conjuro que te haga objetivo, puedes hacer que también afecte a tu bestia primigenia si se encuentra a 9 m o menos de ti. Y",
+        "en": ""
+      }
+    }
+  ],
+  "source": "phb2024"
+}

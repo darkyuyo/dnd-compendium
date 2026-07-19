@@ -1,0 +1,58 @@
+{
+  "id": "monster-guard-captain",
+  "slug": "guard-captain",
+  "name": {
+    "es": "",
+    "en": "Guard Captain"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Humanoid"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Neutral"
+  },
+  "armorClass": 18,
+  "hitPoints": "75 (10d8 + 30)",
+  "speed": {
+    "es": "",
+    "en": "30 ft."
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Perception +2"
+  },
+  "senses": {
+    "es": "",
+    "en": "Passive Perception 12"
+  },
+  "languages": {
+    "es": "",
+    "en": "Common"
+  },
+  "challengeRating": "4",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.162). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

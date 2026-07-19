@@ -1,0 +1,300 @@
+{
+  "id": "class-bardo",
+  "slug": "bardo",
+  "name": {
+    "es": "Bardo",
+    "en": ""
+  },
+  "hitDie": "d3",
+  "primaryAbility": {
+    "es": "Carisma",
+    "en": ""
+  },
+  "savingThrows": {
+    "es": "Destreza y Carisma",
+    "en": ""
+  },
+  "armor": {
+    "es": "—",
+    "en": ""
+  },
+  "weapons": {
+    "es": "—",
+    "en": ""
+  },
+  "skills": {
+    "es": "de tu elección. Se recomiendan Interpretación y Persuasión si eres",
+    "en": ""
+  },
+  "description": {
+    "es": "todo. Llegan a dominar muchos ámbitos, como la música, la magia o la mofa. Los bardos se pasan la vida viajando, recopilando conocimientos, contando historias y viviendo de la buena voluntad de su público, como la mayoría de artistas. Sin embargo, su amplitud de conocimientos y su dominio de la magia los distingue del resto de intérpretes.",
+    "en": ""
+  },
+  "features": [
+    {
+      "level": 1,
+      "name": {
+        "es": "INSPIRACIÓN BÁRDICA",
+        "en": ""
+      },
+      "description": {
+        "es": "Puedes recurrir a tus palabras, música o danza para inspirar de forma sobrenatural a los demás. Esta inspiración se representa con tu dado de Inspiración bárdica, que es un d6. Utilizar la Inspiración bárdica. Como acción adicional, | puedes inspirar a otra criatura que esté a 18 m o menos de ti y que te pueda ver u oír. Esa criatura obtiene uno de | tus dados de Inspiración bárdica. Cada criatura no puede | tener más de un dado de Inspiración bárdica. Una sola vez durante la siguiente hora, cuando la criatura falle una prueba con d20, podrá tirar el dado de Inspiración bárdica y sumar el resultado al 420, lo que podría hacerle superar la prueba. Un dado de Inspiración bárdica se gasta al tirarlo. Número de usos. Puedes conceder un dado de Inspiración bárdica una cantidad de veces igual a tu modificador por Carisma (mínimo una vez) y recuperas todos sus usos tras finalizar un descanso largo. A niveles superiores. Tu dado de Inspiración bárdica cambia cuando alcanzas ciertos niveles de bardo, como se muestra en la columna “Dado bárdico” de la tabla “Rasgos de bardo”. El dado se convierte en un d8 en el nivel 5, un dl0 en el nivel 10 y un d12 en el nivel 15. NIveL l: LANZAMIENTO DE CONJUROS Has aprendido a lanzar conjuros mediante tus artes bárdicas. Consulta el",
+        "en": ""
+      }
+    },
+    {
+      "level": 2,
+      "name": {
+        "es": "APRENDIZ DE MUCHO",
+        "en": ""
+      },
+      "description": {
+        "es": "Puedes sumar la mitad de tu bonificador por competencia (redondeando hacia abajo) a cualquier prueba de característica que hagas que utilice una habilidad en la que no seas competente y que no use de otro modo tu bonificador por competencia. Por ejemplo, si haces una prueba de Fuerza (Atletismo) y no eres competente en Atletismo, puedes sumar la mitad de tu bonificador por competencia a la prueba.",
+        "en": ""
+      }
+    },
+    {
+      "level": 2,
+      "name": {
+        "es": "PERICIA",
+        "en": ""
+      },
+      "description": {
+        "es": "Ganas pericia (consulta el glosario de reglas) en dos de tus competencias en habilidades de tu elección. Se recomiendan Interpretación y Persuasión si eres competente en ellas. En el nivel 9 de bardo ganas pericia en otras dos competencias de tu elección.",
+        "en": ""
+      }
+    },
+    {
+      "level": 4,
+      "name": {
+        "es": "MEJORA DE CARACTERÍSTICA",
+        "en": ""
+      },
+      "description": {
+        "es": "Obtienes la dote Mejora de característica (consulta el",
+        "en": ""
+      }
+    },
+    {
+      "level": 5,
+      "name": {
+        "es": "FUENTE DE INSPIRACIÓN",
+        "en": ""
+      },
+      "description": {
+        "es": "Ahora recuperas todos los usos de Inspiración bárdica tras finalizar un descanso corto o largo. Además, puedes gastar un espacio de conjuro (no requiere acción) para recuperar un uso gastado de Inspiración bárdica.",
+        "en": ""
+      }
+    },
+    {
+      "level": 7,
+      "name": {
+        "es": "CONTRAENCANTAMIENTO",
+        "en": ""
+      },
+      "description": {
+        "es": "Puedes emplear notas musicales o palabras de poder para interrumpir los efectos que afectan a la mente. Si tú o una criatura que esté a 9 m o menos de ti falláis una tirada de salvación contra un efecto que aplique el estado de asustado o hechizado, puedes llevar a cabo una reacción para que se repita la tirada de salvación, y la nueva tirada tendrá ventaja.",
+        "en": ""
+      }
+    },
+    {
+      "level": 10,
+      "name": {
+        "es": "SECRETOS MÁGICOS",
+        "en": ""
+      },
+      "description": {
+        "es": "Has aprendido secretos de diversas tradiciones mágicas. Cada vez que alcances un nivel de bardo (incluido este) y aumente la cantidad de conjuros preparados de la tabla “Rasgos de bardo”, podrás elegir cualquiera de los nuevos conjuros preparados de entre las listas de conjuros de bardo, clérigo, druida y mago. Los conjuros elegidos contarán como conjuros de bardo para ti (consulta las listas de conjuros en la sección de la clase correspondiente). Además, cuando sustituyas un conjuro preparado para esta clase, podrás hacerlo con un conjuro de esas listas.",
+        "en": ""
+      }
+    },
+    {
+      "level": 18,
+      "name": {
+        "es": "INSPIRACIÓN SUPERIOR",
+        "en": ""
+      },
+      "description": {
+        "es": "Cuando tires iniciativa, recuperarás usos gastados de Inspiración bárdica hasta que tengas dos, si tuvieras menos de esta cifra. UNA BARDO CONVIERTE LA INSPIRACIÓN Y LA IMAGINACIÓN EN MAGIA. NIveEL 19: Don ÉPICO Obtienes una dote de don épico (consulta el",
+        "en": ""
+      }
+    },
+    {
+      "level": 20,
+      "name": {
+        "es": "PALABRAS DE CREACIÓN",
+        "en": ""
+      },
+      "description": {
+        "es": "Ahora dominas dos de las palabras de creación: las palabras de la vida y de la muerte. Por tanto, siempre tienes preparados los conjuros palabra de poder: sanar y palabra de poder: matar. Cuando lances uno de estos conjuros, podrás hacer objetivo a una segunda criatura si esta se encuentra a 3 m o menos del primer objetivo.",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "JUEGO DE PIES DESLUMBRANTE",
+        "en": ""
+      },
+      "description": {
+        "es": "Mientras no lleves armadura ni portes un escudo, obtienes los siguientes beneficios. Virtuoso de la danza. Tienes ventaja en cualquier prueba de Carisma (Interpretación) que hagas que implique bailar. Defensa sin armadura. Tu clase de armadura base es igual a 10 más tus modificadores por Destreza y Carisma. Ataques ágiles. Cuando gastes un uso de tu Inspiración bárdica como parte de una acción, una acción adicional o una reacción, puedes realizar un ataque sin armas como parte de esa acción, acción adicional o reacción. Daño bárdico. Puedes usar tu Destreza en lugar de tu Fuerza para las tiradas de ataque de tus ataques sin armas. Cuando causas daño con un ataque sin armas, puedes infligir una cantidad de daño contundente igual al resultado de una tirada con tu dado de Inspiración bárdica más tu modificador por Destreza, en lugar del daño normal del ataque. No gastas el dado con esta tirada.",
+        "en": ""
+      }
+    },
+    {
+      "level": 6,
+      "name": {
+        "es": "JUEGO DE PIES CONJUNTO",
+        "en": ""
+      },
+      "description": {
+        "es": "Cuando tires iniciativa, puedes gastar un uso de tu Inspiración bárdica si no tienes el estado de incapacitado. Cuando lo hagas, tira tu dado de Inspiración bárdica; tú y todos los aliados que estén a 9 m o menos de ti que puedan verte u oírte ganaréis un bonificador a la iniciativa igual al resultado.",
+        "en": ""
+      }
+    },
+    {
+      "level": 6,
+      "name": {
+        "es": "MOVIMIENTO INSPIRADOR",
+        "en": ""
+      },
+      "description": {
+        "es": "Cuando un enemigo que puedas ver termine su turno a 1,5 m o menos de ti, puedes llevar a cabo una reacción y gastar un uso de tu Inspiración bárdica para moverte hasta la mitad de tu velocidad. Después, un aliado que elijas que esté a 9 m o menos de ti también podrá moverse hasta la mitad de su velocidad usando su reacción. Los movimientos realizados con este rasgo no provocan ataques de oportunidad.",
+        "en": ""
+      }
+    },
+    {
+      "level": 14,
+      "name": {
+        "es": "EVASIÓN DIRIGIDA",
+        "en": ""
+      },
+      "description": {
+        "es": "Cuando sufras un efecto que te permita hacer una tirada de salvación de Destreza para sufrir solo la mitad de daño, no recibes daño alguno si la superas y solo sufres la mitad si la fallas. Si cualquier criatura que esté a 1,5 m de ti hace la misma tirada de salvación de Destreza, puedes compartir este beneficio con ella para la tirada. No puedes usar este rasgo si tienes el estado de incapacitado. COLEGIO DEL CONOCIMIENTO Explora las profundidades del conocimiento mágico. Los bardos del colegio del conocimiento recaban conjuros y secretos de diversas fuentes, como tratados intelectuales, ritos místicos y cuentos de campesinos. Los miembros del colegio se reúnen en bibliotecas y universidades para intercambiar sus conocimientos. También se encuentran en festivales o reuniones de Estado, donde pueden sacar a la luz casos de corrupción, desvelar mentiras o reírse de los vanidosos representantes de la autoridad.",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "COMPETENCIAS ADICIONALES",
+        "en": ""
+      },
+      "description": {
+        "es": "Ganas competencia en tres habilidades de tu elección.",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "PALABRAS CORTANTES",
+        "en": ""
+      },
+      "description": {
+        "es": "Aprendes a usar tu astucia para distraer, confundir y minar la confianza y las aptitudes de los demás de manera sobrenatural. Cuando una criatura que puedas ver a 18 m o menos de ti haga una tirada de daño o tenga éxito en una prueba de característica o una tirada de ataque, puedes llevar a cabo una reacción para gastar un uso de tu Inspiración bárdica; tira tu dado de Inspiración bárdica y resta el número obtenido al resultado de la tirada de la criatura, lo que reducirá el dañoo quizá convierta el éxito en un fallo.",
+        "en": ""
+      }
+    },
+    {
+      "level": 6,
+      "name": {
+        "es": "DESCUBRIMIENTOS MÁGICOS",
+        "en": ""
+      },
+      "description": {
+        "es": "Aprendes dos conjuros de tu elección. Estos conjuros pueden proceder de las listas de conjuros de clérigo, druida o mago, o de cualquier combinación de estas (consulta la lista de conjuros en la sección de la clase). Los conjuros que elijas deben ser trucos o conjuros para los que tengas espacios de conjuro, como se muestra en la tabla “Rasgos de bardo”. Siempre tienes preparados los conjuros elegidos y, cada vez que subas un nivel de bardo, podrás reemplazar uno de los conjuros por otro conjuro que cumpla estos requisitos.",
+        "en": ""
+      }
+    },
+    {
+      "level": 14,
+      "name": {
+        "es": "HABILIDAD SIN PARANGÓN",
+        "en": ""
+      },
+      "description": {
+        "es": "Cuando hagas una prueba de característica o una tirada de ataque y falles, podrás gastar un uso de Inspiración bárdica; tira el dado de Inspiración bárdica y suma el resultado al d20, lo que podría convertir un fallo en un éxito. Si fallas la tirada, la Inspiración bárdica no se gasta. a UBCLASE DE! COLEGIO DEL COLEGIO DEL GLAMOUR Urde la magia cautivadora de los feéricos. El colegio del glamour se originó con la magia cautivadora de los Parajes Feéricos. Los bardos que estudian esta magia tejen hilos de belleza y terror en sus canciones e historias y los más poderosos de ellos pueden envolverse en una majestuosidad sobrenatural. Sus actuaciones suscitan el anhelo nostálgico de una inocencia olvidada, evocan los recuerdos inconscientes de temores arraigados y apelan a las emociones incluso de los oyentes más insensibles.",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "MAGIA CAUTIVADORA",
+        "en": ""
+      },
+      "description": {
+        "es": "Siempre tienes los conjuros hechizar persona e imagen múltiple preparados. Asimismo, inmediatamente después de que lances un conjuro de encantamiento o ilusionismo mediante un espacio de conjuro, podrás hacer que una criatura que puedas ver a 18 m o menos de ti realice una tirada de salvación de Sabiduría contra tu CD de salvación de conjuros. Si la fálla, el objetivo tendrá el estado de asustado o hechizado (a tu elección) durante 1 minuto. El objetivo repetirá la tirada de salvación al final de cada uno de sus turnos y, si tiene éxito, se librará del efecto. Cuando uses este beneficio, no podrás volver a hacerlo hasta que finalices un descanso largo. También puedes restablecer su uso gastando un uso de tu Inspiración bárdica (no requiere acción).",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "MANTO DE INSPIRACIÓN",
+        "en": ""
+      },
+      "description": {
+        "es": "Puedes urdir la magia feérica en una canción o danza que insufle energía a los demás. Como acción adicional, puedes gastar un uso de tu Inspiración Bárdica y tirar un dado de Inspiración bárdica. Cuando lo hagas, elige una cantidad de otras criaturas a 18 m o menos de ti, hasta un máximo igual a tu modificador por Carisma (mínimo una criatura). Cada una de esas criaturas obtendrá una cantidad de puntos de golpe temporales igual al doble del resultado del dado de Inspiración bárdica y luego podrá usar su reacción para moverse hasta su velocidad sin provocar ataques de oportunidad. NIveEL 6: MANTO DE MAJESTAD Siempre tienes el conjuro orden imperiosa preparado. Como acción adicional, puedes lanzar orden imperiosa sin gastar un espacio de conjuro y adoptar una apariencia sobrenatural durante 1 minuto o hasta que pierdas la concentración. Durante este tiempo, puedes lanzar orden imperiosa como acción adicional sin gastar un espacio de conjuro. Cualquier criatura a la que hayas hechizado fallará automáticamente su tirada de salvación contra la orden imperiosa que lances con este rasgo. Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un descanso largo. También puedes restablecer su uso gastando un espacio de conjuro de",
+        "en": ""
+      }
+    },
+    {
+      "level": 14,
+      "name": {
+        "es": "MAJESTAD INQUEBRANTABLE",
+        "en": ""
+      },
+      "description": {
+        "es": "Como acción adicional, puedes adoptar un aspecto majestuoso mágico durante 1 minuto o hasta que tengas el estado de incapacitado. Durante ese tiempo, cuando una criatura te acierte con una tirada de ataque por primera vez en un turno, el atacante deberá superar una tirada de salvación de Carisma contra tu CD de salvación de conjuros o el ataque fallará, puesto que la criatura se amedrentará por tu majestuosidad. Cuando adoptes este especto majestuoso, no podrás volver a hacerlo hasta que finalices un descanso corto o largo. COLEGIO DEL VALOR Canta las hazañas de los héroes de antaño. Los bardos del colegio del valor son narradores osados cuyos relatos conservan el recuerdo de los grandes héroes del pasado. Estos bardos cantan las hazañas de sus ídolos en salones abovedados o ante un público reunido en torno a refulgentes hogueras. Viajan para presenciar los grandes acontecimientos de primera mano y asegurarse de que su recuerdo no cae en el olvido. Con sus canciones, inspiran alas nuevas generaciones a lograr hitos similares a los de los héroes de antaño.",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "ENTRENAMIENTO MARCIAL",
+        "en": ""
+      },
+      "description": {
+        "es": "Ganas competencia con armas marciales y entrenamiento con armaduras medias y escudos. Además, puedes utilizar un arma sencilla o marcial como canalizador mágico para lanzar tus conjuros de bardo.",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "INSPIRACIÓN EN COMBATE",
+        "en": ""
+      },
+      "description": {
+        "es": "Puedes emplear tu ingenio para cambiar las tornas de la batalla. Una criatura que tenga uno de tus dados de Inspiración bárdica podrá usarlo para lograr uno de los siguientes efectos. Defensa. Cuando una tirada de ataque acierte a la criatura, esta podrá usar su reacción para tirar el dado de Inspiración bárdica y sumar el resultado a su CA contra ese ataque, lo que podría hacer que falle. Ofensiva. Inmediatamente después de que la criatura acierte a un objetivo con una tirada de ataque, podrá tirar el dado de Inspiración bárdica y sumar el resultado al daño del ataque contra el objetivo.",
+        "en": ""
+      }
+    },
+    {
+      "level": 6,
+      "name": {
+        "es": "ATAQUE ADICIONAL",
+        "en": ""
+      },
+      "description": {
+        "es": "Cuando lleves a cabo la acción de atacar en tu turno, podrás hacer dos ataques en lugar de uno. Además, podrás lanzar uno de tus trucos que tenga un tiempo de lanzamiento de una acción en vez de realizar uno de esos ataques.",
+        "en": ""
+      }
+    },
+    {
+      "level": 14,
+      "name": {
+        "es": "MAGIA DE BATALLA",
+        "en": ""
+      },
+      "description": {
+        "es": "Tras lanzar un conjuro que tenga un tiempo de lanzamiento de una acción, podrás hacer un ataque con un arma como acción adicional.",
+        "en": ""
+      }
+    }
+  ],
+  "source": "phb2024"
+}

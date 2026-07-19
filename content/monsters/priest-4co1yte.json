@@ -1,0 +1,109 @@
+{
+  "id": "monster-priest-4co1yte",
+  "slug": "priest-4co1yte",
+  "name": {
+    "es": "",
+    "en": "Priest 4co1yte"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Humanoid (Cleric)"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Neutral"
+  },
+  "armorClass": 13,
+  "hitPoints": "11 (2d8 + 2)",
+  "speed": {
+    "es": "",
+    "en": "30 ft."
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Medicine +4, Religion +2"
+  },
+  "senses": {
+    "es": "",
+    "en": "Passive Perception 12"
+  },
+  "languages": {
+    "es": "",
+    "en": "Common"
+  },
+  "challengeRating": "?",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [
+    {
+      "name": {
+        "es": "",
+        "en": "and their magic, which they"
+      },
+      "description": {
+        "es": "",
+        "en": "and their magic, which they"
+      }
+    },
+    {
+      "name": {
+        "es": "",
+        "en": "use to shape the world in line with their ideologi"
+      },
+      "description": {
+        "es": "",
+        "en": "use to shape the world in line with their ideologies."
+      }
+    },
+    {
+      "name": {
+        "es": "",
+        "en": "Roll on or choose a result from the Priest Roles"
+      },
+      "description": {
+        "es": "",
+        "en": "Roll on or choose a result from the Priest Roles"
+      }
+    },
+    {
+      "name": {
+        "es": "",
+        "en": "table to inspire different sorts ofpriests"
+      },
+      "description": {
+        "es": "",
+        "en": "table to inspire different sorts ofpriests."
+      }
+    },
+    {
+      "name": {
+        "es": "",
+        "en": "I An ascetic who keeps wicked spirits at bay"
+      },
+      "description": {
+        "es": "",
+        "en": "I An ascetic who keeps wicked spirits at bay."
+      }
+    }
+  ],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.247). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

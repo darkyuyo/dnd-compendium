@@ -1,0 +1,54 @@
+{
+  "id": "monster-bearded-devi",
+  "slug": "bearded-devi",
+  "name": {
+    "es": "",
+    "en": "Bearded Devi"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Fiend (Devil)"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Lawful Evil"
+  },
+  "armorClass": 10,
+  "hitPoints": "58 (9d8 + 18)",
+  "speed": {
+    "es": "",
+    "en": "30 ft."
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "senses": {
+    "es": "",
+    "en": "Darkvision 120 ft. (unimpeded by magical"
+  },
+  "languages": {
+    "es": "",
+    "en": "lnfernal; telepathy 120 ft."
+  },
+  "challengeRating": "3",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.33). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

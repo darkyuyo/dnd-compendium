@@ -1,0 +1,54 @@
+{
+  "id": "monster-swarm-of-crawling-c1aws",
+  "slug": "swarm-of-crawling-c1aws",
+  "name": {
+    "es": "",
+    "en": "Swarm of Crawling C1aws"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "creature"
+  },
+  "alignment": {
+    "es": "",
+    "en": "it has the Prone"
+  },
+  "armorClass": 10,
+  "hitPoints": "2 (rd4)",
+  "speed": {
+    "es": "",
+    "en": "20 ft., Climb 20 ft."
+  },
+  "abilityScores": {
+    "str": 13,
+    "dex": 14,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "senses": {
+    "es": "",
+    "en": "Blindsight 30 ft.; Passive Perception 10"
+  },
+  "languages": {
+    "es": "",
+    "en": "Understands Common but can't speak"
+  },
+  "challengeRating": "0",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.83). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

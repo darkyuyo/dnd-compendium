@@ -1,0 +1,58 @@
+{
+  "id": "monster-cyclops-oracle",
+  "slug": "cyclops-oracle",
+  "name": {
+    "es": "",
+    "en": "Cyclops Oracle"
+  },
+  "size": {
+    "es": "",
+    "en": "Huge"
+  },
+  "type": {
+    "es": "",
+    "en": "Ciant"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Chaotic Neutral"
+  },
+  "armorClass": 16,
+  "hitPoints": "207 (18d12 + 90)",
+  "speed": {
+    "es": "",
+    "en": "40 ft."
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "History +11, Perception +12"
+  },
+  "senses": {
+    "es": "",
+    "en": "Truesight 30 ft.; Passive Perception 22"
+  },
+  "languages": {
+    "es": "",
+    "en": "Giant"
+  },
+  "challengeRating": "10",
+  "proficiencyBonus": "+4",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.88). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

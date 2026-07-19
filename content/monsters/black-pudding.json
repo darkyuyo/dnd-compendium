@@ -1,0 +1,54 @@
+{
+  "id": "monster-black-pudding",
+  "slug": "black-pudding",
+  "name": {
+    "es": "",
+    "en": "Black Pudding"
+  },
+  "size": {
+    "es": "",
+    "en": "Large"
+  },
+  "type": {
+    "es": "",
+    "en": "Ooze"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Unaligned"
+  },
+  "armorClass": 7,
+  "hitPoints": "68 (8d10 + 2a)",
+  "speed": {
+    "es": "",
+    "en": "20 ft., Climb 20 ft."
+  },
+  "abilityScores": {
+    "str": 16,
+    "dex": 5,
+    "con": 16,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "senses": {
+    "es": "",
+    "en": "Blindsight 50 ft.; Passive Perception 8"
+  },
+  "languages": {
+    "es": "",
+    "en": "None"
+  },
+  "challengeRating": "4",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.42). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "monster-death-slaad",
+  "slug": "death-slaad",
+  "name": {
+    "es": "",
+    "en": "Death Slaad"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Aberration"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Chaotic Evil"
+  },
+  "armorClass": 18,
+  "hitPoints": "178 (21d8 + 8a)",
+  "speed": {
+    "es": "",
+    "en": "40 ft."
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Arcana +6, Perception +8"
+  },
+  "senses": {
+    "es": "",
+    "en": "Blindsight 60 ft., Darkvision 50 ft.;"
+  },
+  "languages": {
+    "es": "",
+    "en": "Common, Slaad; telepathy 60 ft."
+  },
+  "challengeRating": "10",
+  "proficiencyBonus": "+4",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.287). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

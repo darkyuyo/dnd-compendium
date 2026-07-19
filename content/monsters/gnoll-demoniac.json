@@ -1,0 +1,58 @@
+{
+  "id": "monster-gnoll-demoniac",
+  "slug": "gnoll-demoniac",
+  "name": {
+    "es": "",
+    "en": "Gnoll Demoniac"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Fiend"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Chaotic Evil"
+  },
+  "armorClass": 14,
+  "hitPoints": "71 ('11d8 + 22)",
+  "speed": {
+    "es": "",
+    "en": "30 ft."
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Perception +5"
+  },
+  "senses": {
+    "es": "",
+    "en": "Darkvision 60 ft.; Passive Perception 10"
+  },
+  "languages": {
+    "es": "",
+    "en": "Abyssal, Cnol I"
+  },
+  "challengeRating": "4",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.141). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

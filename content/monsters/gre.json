@@ -1,0 +1,58 @@
+{
+  "id": "monster-gre",
+  "slug": "gre",
+  "name": {
+    "es": "",
+    "en": "Gre"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Aberration"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Neutral Evil"
+  },
+  "armorClass": 12,
+  "hitPoints": "55 (10d8 + 10)",
+  "speed": {
+    "es": "",
+    "en": "1o jt;;11\"]ttt tno'\"?oo ,ou, IVOD SAVE"
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Perception +4, Stealth +6"
+  },
+  "senses": {
+    "es": "",
+    "en": "Blindsight 50 ft.; Passive Perception 14"
+  },
+  "languages": {
+    "es": "",
+    "en": "Deep Speech"
+  },
+  "challengeRating": "3",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.157). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "monster-fiend-cuitist",
+  "slug": "fiend-cuitist",
+  "name": {
+    "es": "",
+    "en": "Fiend CuItist"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Humanoid"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Chaotic Evil"
+  },
+  "armorClass": 15,
+  "hitPoints": "127 (17d8 + sl)",
+  "speed": {
+    "es": "",
+    "en": "30 ft."
+  },
+  "abilityScores": {
+    "str": 18,
+    "dex": 12,
+    "con": 16,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Arcana +5, Perception +7, Religion +5"
+  },
+  "senses": {
+    "es": "",
+    "en": "Passive Perception 17"
+  },
+  "languages": {
+    "es": "",
+    "en": "Com mon, Primord ial"
+  },
+  "challengeRating": "8",
+  "proficiencyBonus": "+3",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.87). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

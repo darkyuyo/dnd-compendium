@@ -1,0 +1,58 @@
+{
+  "id": "monster-crocodile",
+  "slug": "crocodile",
+  "name": {
+    "es": "",
+    "en": "Crocodile"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "creature"
+  },
+  "alignment": {
+    "es": "",
+    "en": "it has the Crappled condition"
+  },
+  "armorClass": 13,
+  "hitPoints": "4 (1d8)",
+  "speed": {
+    "es": "",
+    "en": "50 ft."
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 16,
+    "con": 1,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Perception +4"
+  },
+  "senses": {
+    "es": "",
+    "en": "Darkvision 60 ft.; Passive Perception 14"
+  },
+  "languages": {
+    "es": "",
+    "en": "None"
+  },
+  "challengeRating": "0",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.352). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

@@ -1,0 +1,109 @@
+{
+  "id": "monster-performer-maestro",
+  "slug": "performer-maestro",
+  "name": {
+    "es": "",
+    "en": "Performer Maestro"
+  },
+  "size": {
+    "es": "",
+    "en": "Large"
+  },
+  "type": {
+    "es": "",
+    "en": "creature"
+  },
+  "alignment": {
+    "es": "",
+    "en": "it has the Grappled"
+  },
+  "armorClass": 17,
+  "hitPoints": "507 (26d20 + ßa)",
+  "speed": {
+    "es": "",
+    "en": "40 ft, :l[o oo n., t'r,t\"l"
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Perception +15, Stealth +7"
+  },
+  "senses": {
+    "es": "",
+    "en": "Blindsight 50 ft., Darkvision 120 ft.;"
+  },
+  "languages": {
+    "es": "",
+    "en": "Common, Draconic"
+  },
+  "challengeRating": "24",
+  "proficiencyBonus": "+7",
+  "traits": [],
+  "actions": [
+    {
+      "name": {
+        "es": "",
+        "en": "expended'utrt ät the stärt ofeach ofits tirns"
+      },
+      "description": {
+        "es": "",
+        "en": "expended'utrt ät the stärt ofeach ofits tirns. \""
+      }
+    },
+    {
+      "name": {
+        "es": "",
+        "en": "Commanding Presence"
+      },
+      "description": {
+        "es": "",
+        "en": "Commanding Presence. The dragon uses Spellcasting"
+      }
+    },
+    {
+      "name": {
+        "es": "",
+        "en": "to cast Command (level 2 version)"
+      },
+      "description": {
+        "es": "",
+        "en": "to cast Command (level 2 version). The dragon can't"
+      }
+    },
+    {
+      "name": {
+        "es": "",
+        "en": "take this action again until the start of its next"
+      },
+      "description": {
+        "es": "",
+        "en": "take this action again until the start of its next turn."
+      }
+    },
+    {
+      "name": {
+        "es": "",
+        "en": "Fiery Roys"
+      },
+      "description": {
+        "es": "",
+        "en": "Fiery Roys. The dragon uses Spellcasting to cast Scorch-"
+      }
+    }
+  ],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.257). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

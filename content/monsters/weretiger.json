@@ -1,0 +1,53 @@
+{
+  "id": "monster-weretiger",
+  "slug": "weretiger",
+  "name": {
+    "es": "",
+    "en": "Weretiger"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Monstrosity (Lycanthrope)"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Neutral"
+  },
+  "armorClass": 12,
+  "hitPoints": "120 (16d8 + a8)",
+  "speed": {
+    "es": "",
+    "en": "30 ft., 40 ft. (tiger form only)"
+  },
+  "abilityScores": {
+    "str": 17,
+    "dex": 15,
+    "con": 16,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "senses": {
+    "es": "",
+    "en": "—"
+  },
+  "languages": {
+    "es": "",
+    "en": "—"
+  },
+  "challengeRating": "?",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.326). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

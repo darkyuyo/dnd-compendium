@@ -1,0 +1,58 @@
+{
+  "id": "monster-doppe19an9er",
+  "slug": "doppe19an9er",
+  "name": {
+    "es": "",
+    "en": "Doppe19an9er"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Monstrosity"
+  },
+  "alignment": {
+    "es": "",
+    "en": "N eutral"
+  },
+  "armorClass": 14,
+  "hitPoints": "52 (8d8 + '16)",
+  "speed": {
+    "es": "",
+    "en": "30 ft."
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Deception +5, lnsight +3"
+  },
+  "senses": {
+    "es": "",
+    "en": "Darkvision 60 ft.; Passive Perception 11"
+  },
+  "languages": {
+    "es": "",
+    "en": "Common plus three other languages"
+  },
+  "challengeRating": "3",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.100). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

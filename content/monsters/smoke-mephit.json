@@ -1,0 +1,58 @@
+{
+  "id": "monster-smoke-mephit",
+  "slug": "smoke-mephit",
+  "name": {
+    "es": "",
+    "en": "Smoke Mephit"
+  },
+  "size": {
+    "es": "",
+    "en": "Small"
+  },
+  "type": {
+    "es": "",
+    "en": "Elemental"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Neutral Evil"
+  },
+  "armorClass": 10,
+  "hitPoints": "17 (sd6)",
+  "speed": {
+    "es": "",
+    "en": "30 ft., Fly 30 ft."
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Perception +2, Stealth +4"
+  },
+  "senses": {
+    "es": "",
+    "en": "Darkvision 60 ft.; Passive Perception 12"
+  },
+  "languages": {
+    "es": "",
+    "en": "Primordial (Auran, lgnan)"
+  },
+  "challengeRating": "?",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.208). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

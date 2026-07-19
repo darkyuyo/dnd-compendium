@@ -1,0 +1,54 @@
+{
+  "id": "monster-sa1amander",
+  "slug": "sa1amander",
+  "name": {
+    "es": "",
+    "en": "Sa1amander"
+  },
+  "size": {
+    "es": "",
+    "en": "Large"
+  },
+  "type": {
+    "es": "",
+    "en": "Elemental"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Neutral Evil"
+  },
+  "armorClass": 15,
+  "hitPoints": "90 (12d10 + 24)",
+  "speed": {
+    "es": "",
+    "en": "30 ft., Climb 30 ft."
+  },
+  "abilityScores": {
+    "str": 18,
+    "dex": 14,
+    "con": 15,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "senses": {
+    "es": "",
+    "en": "Darkvision 60 ft.; Passive Perception 10"
+  },
+  "languages": {
+    "es": "",
+    "en": "Primordial (l gnan)"
+  },
+  "challengeRating": "5",
+  "proficiencyBonus": "+3",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.267). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

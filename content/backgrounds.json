@@ -1,0 +1,398 @@
+[
+  {
+    "id": "bg-acolito",
+    "slug": "acolito",
+    "name": {
+      "es": "Acólito",
+      "en": ""
+    },
+    "abilityScores": {
+      "es": "Inteligencia, Sabiduría, Carisma Dedicabas tu vida al servicio de un templo enclavado |",
+      "en": ""
+    },
+    "feat": {
+      "es": "Iniciado en la magia (clérigo) (consulta el capítulo 5) en un pueblo o apartado en un bosquecillo sagrado.",
+      "en": ""
+    },
+    "skillProficiencies": {
+      "es": "Perspicacia y Religión En él, realizabas ceremonias en honor a un dios o panteón.",
+      "en": ""
+    },
+    "toolProficiencies": {
+      "es": "suministros de calígrafo Servías a las órdenes de un sacerdote y estudiaste la religión.",
+      "en": ""
+    },
+    "equipment": {
+      "es": "elige A o B: (A) suministros de calígrafo, libro Gracias a la tutela de ese sacerdote y a tu propia devoción, (de oraciones), pergamino (10 hojas), símbolo sagrado, también aprendiste a canalizar un ápice de poder divino al túnica y 8 po, o (B) 50 po servicio de tu lugar de culto y de la gente que r",
+      "en": ""
+    },
+    "description": {
+      "es": "Origen de personaje: Acólito.",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "bg-animador",
+    "slug": "animador",
+    "name": {
+      "es": "Animador",
+      "en": ""
+    },
+    "abilityScores": {
+      "es": "Fuerza, Destreza, Carisma Pasaste buena parte de tu juventud recorriendo ferias |",
+      "en": ""
+    },
+    "feat": {
+      "es": "Músico (consulta el capítulo 5) y festivales en los que desempeñabas tareas diversas para |",
+      "en": ""
+    },
+    "skillProficiencies": {
+      "es": "Acrobacias e Interpretación músicos y acróbatas a cambio de que te formaran. Quizá",
+      "en": ""
+    },
+    "toolProficiencies": {
+      "es": "elige un tipo de instrumento aprendiste a caminar sobre la cuerda floja, a tocar el laúd musical (consulta el capítulo 6",
+      "en": ""
+    },
+    "equipment": {
+      "es": "elige A o B: (A) instrumento musical (el mismo que impecable. Aún hoy te creces con los aplausos y anhelas arriba), 2 disfraces, espejo, perfume, ropas de viaje y 11 po, subir al escenario. o (B) 50 po 178",
+      "en": ""
+    },
+    "description": {
+      "es": "Origen de personaje: Animador.",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "bg-campesino",
+    "slug": "campesino",
+    "name": {
+      "es": "Campesino",
+      "en": ""
+    },
+    "abilityScores": {
+      "es": "Fuerza, Constitución, Sabiduría",
+      "en": ""
+    },
+    "feat": {
+      "es": "Duro (consulta el capítulo 5)",
+      "en": ""
+    },
+    "skillProficiencies": {
+      "es": "Naturaleza y Trato con animales",
+      "en": ""
+    },
+    "toolProficiencies": {
+      "es": "herramientas de carpintero",
+      "en": ""
+    },
+    "equipment": {
+      "es": "elige A o B: (A) hoz, herramientas de carpintero, útiles de sanador, olla de hierro, pala, ropas de viaje y 30 po, o (B) 50 po A / RAR «Ss Comenzaste barriendo suelos y fregando las mesas del taller de un artesano a cambio de unas monedas al día en cuanto tuviste fuerza suficiente para levantar un c",
+      "en": ""
+    },
+    "description": {
+      "es": "Origen de personaje: Campesino.",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "bg-charlatan",
+    "slug": "charlatan",
+    "name": {
+      "es": "Charlatán",
+      "en": ""
+    },
+    "abilityScores": {
+      "es": "Destreza, Constitución, Carisma",
+      "en": ""
+    },
+    "feat": {
+      "es": "Habilidoso (consulta el capítulo 5)",
+      "en": ""
+    },
+    "skillProficiencies": {
+      "es": "Engaño y Juego de manos",
+      "en": ""
+    },
+    "toolProficiencies": {
+      "es": "útiles para falsificar",
+      "en": ""
+    },
+    "equipment": {
+      "es": "elige A o B: (A) útiles para falsificar, disfraz, ropas de calidad y 15 po, o (b) 50 po En cuanto tuviste edad suficiente para pedir una pinta, no tardaste en apropiarte de un taburete en cada taberna a 10 km a la redonda del lugar en que naciste. Mientras recori bares. y antros, aprendiste a aprove",
+      "en": ""
+    },
+    "description": {
+      "es": "Origen de personaje: Charlatán.",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "bg-comercian",
+    "slug": "comercian",
+    "name": {
+      "es": "Comercian",
+      "en": ""
+    },
+    "abilityScores": {
+      "es": "Constitución, Inteligencia, Carisma",
+      "en": ""
+    },
+    "feat": {
+      "es": "Afortunado (consulta el capítulo 5)",
+      "en": ""
+    },
+    "skillProficiencies": {
+      "es": "Persuasión y Trato con animales",
+      "en": ""
+    },
+    "toolProficiencies": {
+      "es": "herramientas de naveganteEquipo: elige A o B: (A) herramientas de navegante, 2 bolsas, ropas de viaje y 22 po, o (B) 50",
+      "en": ""
+    },
+    "equipment": {
+      "es": "elige A o B: (A) 2 dagas, herramientas de ladrón, 2 bolsas, palanqueta, ropas de viaje y 16 po, o (B) 50 po",
+      "en": ""
+    },
+    "description": {
+      "es": "Origen de personaje: Comercian.",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "bg-criminal",
+    "slug": "criminal",
+    "name": {
+      "es": "Criminal",
+      "en": ""
+    },
+    "abilityScores": {
+      "es": "Destreza, Constitución, Inteligencia",
+      "en": ""
+    },
+    "feat": {
+      "es": "Alerta (consulta el capítulo 5)",
+      "en": ""
+    },
+    "skillProficiencies": {
+      "es": "Juego de manos y Sigilo",
+      "en": ""
+    },
+    "toolProficiencies": {
+      "es": "herramientas de ladrón",
+      "en": ""
+    },
+    "equipment": {
+      "es": "elige A o B: (A) 2 dagas, herramientas de ladrón, 2 bolsas, palanqueta, ropas de viaje y 16 po, o (B) 50 po",
+      "en": ""
+    },
+    "description": {
+      "es": "Origen de personaje: Criminal.",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "bg-ermitano",
+    "slug": "ermitano",
+    "name": {
+      "es": "Ermitaño",
+      "en": ""
+    },
+    "abilityScores": {
+      "es": "Constitución, Sabiduría, Carisma",
+      "en": ""
+    },
+    "feat": {
+      "es": "Sanador (consulta el capítulo 5)",
+      "en": ""
+    },
+    "skillProficiencies": {
+      "es": "Medicina y Religión",
+      "en": ""
+    },
+    "toolProficiencies": {
+      "es": "útiles de herborista",
+      "en": ""
+    },
+    "equipment": {
+      "es": "elige A o B: (A) bastón, útiles de herborista, aceite (3 frascos), lámpara, libro (de filosofía), petate, ropas de viaje y 16 po, o (B) 50 po Te buscabas la vida en los callejones oscuros, birlando carteras o robando en comercios. Quizá formabas parte de una pequeña banda de malhechores con ideas af",
+      "en": ""
+    },
+    "description": {
+      "es": "Origen de personaje: Ermitaño.",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "bg-erudito",
+    "slug": "erudito",
+    "name": {
+      "es": "Erudito",
+      "en": ""
+    },
+    "abilityScores": {
+      "es": "Constitución, Inteligencia, Sabiduría",
+      "en": ""
+    },
+    "feat": {
+      "es": "Iniciado en la magia (mago) (consulta el capítulo 5)",
+      "en": ""
+    },
+    "skillProficiencies": {
+      "es": "Conocimiento arcano e Historia",
+      "en": ""
+    },
+    "toolProficiencies": {
+      "es": "suministros de calígrafo",
+      "en": ""
+    },
+    "equipment": {
+      "es": "eligeA o B: (A) bastón, suministros de calígrafo, libro (de historia), pergamino (3 hojas), túnica y 8 po, o (B) 50 po Puntuaciones de característica: Destreza, Inteligencia, Sabiduría Dote: Habilidoso (consulta el",
+      "en": ""
+    },
+    "description": {
+      "es": "Origen de personaje: Erudito.",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "bg-guardia",
+    "slug": "guardia",
+    "name": {
+      "es": "Guardia",
+      "en": ""
+    },
+    "abilityScores": {
+      "es": "Fuerza, Inteligencia, Sabiduría",
+      "en": ""
+    },
+    "feat": {
+      "es": "Alerta (consulta el capítulo 5)",
+      "en": ""
+    },
+    "skillProficiencies": {
+      "es": "Atletismo y Percepción",
+      "en": ""
+    },
+    "toolProficiencies": {
+      "es": "elige un tipo de juego (consulta el capítulo 6)",
+      "en": ""
+    },
+    "equipment": {
+      "es": "elige A o B: (A) lanza, ballesta ligera, 20 virotes, juego (el mismo que arriba), aljaba, esposas, linterna sorda, ropas de viaje y 12 po, o (B) 50 po Puntuaciones de característica: Destreza, Constitución, Sabiduría Dote: Iniciado en la magia (druida) (consulta el",
+      "en": ""
+    },
+    "description": {
+      "es": "Origen de personaje: Guardia.",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "bg-marinero",
+    "slug": "marinero",
+    "name": {
+      "es": "Marinero",
+      "en": ""
+    },
+    "abilityScores": {
+      "es": "Fuerza, Destreza, Sabiduría",
+      "en": ""
+    },
+    "feat": {
+      "es": "Matón de taberna (consulta el capítulo 5)",
+      "en": ""
+    },
+    "skillProficiencies": {
+      "es": "Acrobacias y Percepción",
+      "en": ""
+    },
+    "toolProficiencies": {
+      "es": "herramientas de navegante",
+      "en": ""
+    },
+    "equipment": {
+      "es": "elige A o B: (A) daga, herramientas de navegante,cuerda, ropas de viaje y 20 po, o (B) 50 po Puntuaciones de característica: Fuerza, Inteligencia, Carisma Dote: Habilidoso (consulta el",
+      "en": ""
+    },
+    "description": {
+      "es": "Origen de personaje: Marinero.",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "bg-soldado",
+    "slug": "soldado",
+    "name": {
+      "es": "Soldado",
+      "en": ""
+    },
+    "abilityScores": {
+      "es": "Fuerza, Destreza, Constitución",
+      "en": ""
+    },
+    "feat": {
+      "es": "Atacante salvaje (consulta el capítulo 5)",
+      "en": ""
+    },
+    "skillProficiencies": {
+      "es": "Atletismo e Intimidación",
+      "en": ""
+    },
+    "toolProficiencies": {
+      "es": "elige un tipo de juego (consulta el capítulo 6)",
+      "en": ""
+    },
+    "equipment": {
+      "es": "elige A o B: (A) lanza, arco corto, 20 flechas, aljaba, juego (el mismo que arriba), útiles de sanador, ropas de viaje y 14 po, o (B) 50 po",
+      "en": ""
+    },
+    "description": {
+      "es": "Origen de personaje: Soldado.",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "bg-vagabundo",
+    "slug": "vagabundo",
+    "name": {
+      "es": "Vagabundo",
+      "en": ""
+    },
+    "abilityScores": {
+      "es": "Destreza, Sabiduría, Carisma",
+      "en": ""
+    },
+    "feat": {
+      "es": "Afortunado (consulta el capítulo 5)",
+      "en": ""
+    },
+    "skillProficiencies": {
+      "es": "Perspicacia y Sigilo",
+      "en": ""
+    },
+    "toolProficiencies": {
+      "es": "herramientas de ladrón",
+      "en": ""
+    },
+    "equipment": {
+      "es": "elige A o B: (A) 2 dagas, herramientas de ladrón, juego (cualquiera), 2 bolsas, petate, ropas de viaje y 16 po, o (B) 50 po Comenzaste a entrenarte para la guerra nada más llegar a la edad adulta y tienes pocos recuerdos preciados de tu vida anterior a tomar las armas. Luchar es parte de tu identida",
+      "en": ""
+    },
+    "description": {
+      "es": "Origen de personaje: Vagabundo.",
+      "en": ""
+    },
+    "source": "phb2024"
+  }
+]

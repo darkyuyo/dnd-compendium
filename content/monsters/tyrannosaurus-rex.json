@@ -1,0 +1,58 @@
+{
+  "id": "monster-tyrannosaurus-rex",
+  "slug": "tyrannosaurus-rex",
+  "name": {
+    "es": "",
+    "en": "Tyrannosaurus Rex"
+  },
+  "size": {
+    "es": "",
+    "en": "Large"
+  },
+  "type": {
+    "es": "",
+    "en": "creature"
+  },
+  "alignment": {
+    "es": "",
+    "en": "it has the Grappled condition"
+  },
+  "armorClass": 10,
+  "hitPoints": "19 (3dI0 + 3)",
+  "speed": {
+    "es": "",
+    "en": "10 ft., Fly 50 ft."
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Perception +3"
+  },
+  "senses": {
+    "es": "",
+    "en": "Blindsight 10 ft.; Passive Perception 10"
+  },
+  "languages": {
+    "es": "",
+    "en": "None"
+  },
+  "challengeRating": "0",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.372). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

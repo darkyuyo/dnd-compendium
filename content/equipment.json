@@ -1,0 +1,342 @@
+[
+  {
+    "id": "eq-mochila",
+    "slug": "mochila",
+    "name": {
+      "es": "Mochila",
+      "en": ""
+    },
+    "category": {
+      "es": "Equipo de aventurero",
+      "en": ""
+    },
+    "description": {
+      "es": "Mochila (extraído del capítulo de equipo del PHB 2024). Revisa el PDF para coste y peso exactos.",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "eq-cuerda-de-canamo",
+    "slug": "cuerda-de-canamo",
+    "name": {
+      "es": "Cuerda de cáñamo",
+      "en": ""
+    },
+    "category": {
+      "es": "Equipo de aventurero",
+      "en": ""
+    },
+    "description": {
+      "es": "Cuerda de cáñamo. Completa coste/peso desde el Manual del Jugador.",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "eq-antorcha",
+    "slug": "antorcha",
+    "name": {
+      "es": "Antorcha",
+      "en": ""
+    },
+    "category": {
+      "es": "Equipo de aventurero",
+      "en": ""
+    },
+    "description": {
+      "es": "Antorcha (extraído del capítulo de equipo del PHB 2024). Revisa el PDF para coste y peso exactos.",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "eq-kit-de-sanador",
+    "slug": "kit-de-sanador",
+    "name": {
+      "es": "Kit de sanador",
+      "en": ""
+    },
+    "category": {
+      "es": "Equipo de aventurero",
+      "en": ""
+    },
+    "description": {
+      "es": "Kit de sanador. Completa coste/peso desde el Manual del Jugador.",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "eq-linterna",
+    "slug": "linterna",
+    "name": {
+      "es": "Linterna",
+      "en": ""
+    },
+    "category": {
+      "es": "Equipo de aventurero",
+      "en": ""
+    },
+    "description": {
+      "es": "Linterna (extraído del capítulo de equipo del PHB 2024). Revisa el PDF para coste y peso exactos.",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "eq-raciones",
+    "slug": "raciones",
+    "name": {
+      "es": "Raciones",
+      "en": ""
+    },
+    "category": {
+      "es": "Equipo de aventurero",
+      "en": ""
+    },
+    "description": {
+      "es": "Raciones (extraído del capítulo de equipo del PHB 2024). Revisa el PDF para coste y peso exactos.",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "eq-saco-de-dormir",
+    "slug": "saco-de-dormir",
+    "name": {
+      "es": "Saco de dormir",
+      "en": ""
+    },
+    "category": {
+      "es": "Equipo de aventurero",
+      "en": ""
+    },
+    "description": {
+      "es": "Saco de dormir. Completa coste/peso desde el Manual del Jugador.",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "eq-tienda",
+    "slug": "tienda",
+    "name": {
+      "es": "Tienda",
+      "en": ""
+    },
+    "category": {
+      "es": "Equipo de aventurero",
+      "en": ""
+    },
+    "description": {
+      "es": "Tienda (extraído del capítulo de equipo del PHB 2024). Revisa el PDF para coste y peso exactos.",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "eq-yesca",
+    "slug": "yesca",
+    "name": {
+      "es": "Yesca",
+      "en": ""
+    },
+    "category": {
+      "es": "Equipo de aventurero",
+      "en": ""
+    },
+    "description": {
+      "es": "Yesca (extraído del capítulo de equipo del PHB 2024). Revisa el PDF para coste y peso exactos.",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "eq-pala",
+    "slug": "pala",
+    "name": {
+      "es": "Pala",
+      "en": ""
+    },
+    "category": {
+      "es": "Equipo de aventurero",
+      "en": ""
+    },
+    "description": {
+      "es": "Pala (extraído del capítulo de equipo del PHB 2024). Revisa el PDF para coste y peso exactos.",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "eq-palanqueta",
+    "slug": "palanqueta",
+    "name": {
+      "es": "Palanqueta",
+      "en": ""
+    },
+    "category": {
+      "es": "Equipo de aventurero",
+      "en": ""
+    },
+    "description": {
+      "es": "Palanqueta (extraído del capítulo de equipo del PHB 2024). Revisa el PDF para coste y peso exactos.",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "eq-cadenas",
+    "slug": "cadenas",
+    "name": {
+      "es": "Cadenas",
+      "en": ""
+    },
+    "category": {
+      "es": "Equipo de aventurero",
+      "en": ""
+    },
+    "description": {
+      "es": "Cadenas. Completa coste/peso desde el Manual del Jugador.",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "eq-espejo-de-acero",
+    "slug": "espejo-de-acero",
+    "name": {
+      "es": "Espejo de acero",
+      "en": ""
+    },
+    "category": {
+      "es": "Equipo de aventurero",
+      "en": ""
+    },
+    "description": {
+      "es": "Espejo de acero. Completa coste/peso desde el Manual del Jugador.",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "eq-frasco",
+    "slug": "frasco",
+    "name": {
+      "es": "Frasco",
+      "en": ""
+    },
+    "category": {
+      "es": "Equipo de aventurero",
+      "en": ""
+    },
+    "description": {
+      "es": "Frasco (extraído del capítulo de equipo del PHB 2024). Revisa el PDF para coste y peso exactos.",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "eq-aceite",
+    "slug": "aceite",
+    "name": {
+      "es": "Aceite",
+      "en": ""
+    },
+    "category": {
+      "es": "Equipo de aventurero",
+      "en": ""
+    },
+    "description": {
+      "es": "Aceite (extraído del capítulo de equipo del PHB 2024). Revisa el PDF para coste y peso exactos.",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "eq-pergamino",
+    "slug": "pergamino",
+    "name": {
+      "es": "Pergamino",
+      "en": ""
+    },
+    "category": {
+      "es": "Equipo de aventurero",
+      "en": ""
+    },
+    "description": {
+      "es": "Pergamino (extraído del capítulo de equipo del PHB 2024). Revisa el PDF para coste y peso exactos.",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "eq-tinta",
+    "slug": "tinta",
+    "name": {
+      "es": "Tinta",
+      "en": ""
+    },
+    "category": {
+      "es": "Equipo de aventurero",
+      "en": ""
+    },
+    "description": {
+      "es": "Tinta (extraído del capítulo de equipo del PHB 2024). Revisa el PDF para coste y peso exactos.",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "eq-pluma",
+    "slug": "pluma",
+    "name": {
+      "es": "Pluma",
+      "en": ""
+    },
+    "category": {
+      "es": "Equipo de aventurero",
+      "en": ""
+    },
+    "description": {
+      "es": "Pluma (extraído del capítulo de equipo del PHB 2024). Revisa el PDF para coste y peso exactos.",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "eq-odres",
+    "slug": "odres",
+    "name": {
+      "es": "Odres",
+      "en": ""
+    },
+    "category": {
+      "es": "Equipo de aventurero",
+      "en": ""
+    },
+    "description": {
+      "es": "Odres. Completa coste/peso desde el Manual del Jugador.",
+      "en": ""
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "eq-cantimplora",
+    "slug": "cantimplora",
+    "name": {
+      "es": "Cantimplora",
+      "en": ""
+    },
+    "category": {
+      "es": "Equipo de aventurero",
+      "en": ""
+    },
+    "description": {
+      "es": "Cantimplora (extraído del capítulo de equipo del PHB 2024). Revisa el PDF para coste y peso exactos.",
+      "en": ""
+    },
+    "source": "phb2024"
+  }
+]

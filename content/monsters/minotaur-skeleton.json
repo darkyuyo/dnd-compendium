@@ -1,0 +1,58 @@
+{
+  "id": "monster-minotaur-skeleton",
+  "slug": "minotaur-skeleton",
+  "name": {
+    "es": "",
+    "en": "Minotaur Skeleton"
+  },
+  "size": {
+    "es": "",
+    "en": "Large"
+  },
+  "type": {
+    "es": "",
+    "en": "Aberration"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Chaotic Neutral"
+  },
+  "armorClass": 14,
+  "hitPoints": "93 (11d10 + 33)",
+  "speed": {
+    "es": "",
+    "en": "30 ft."
+  },
+  "abilityScores": {
+    "str": 20,
+    "dex": 15,
+    "con": 18,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Perception +1"
+  },
+  "senses": {
+    "es": "",
+    "en": "Darkvision 50 ft.; Passive Perception 11"
+  },
+  "languages": {
+    "es": "",
+    "en": "Slaad; telepathy 60 ft."
+  },
+  "challengeRating": "5",
+  "proficiencyBonus": "+3",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.285). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

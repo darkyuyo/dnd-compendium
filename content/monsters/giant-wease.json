@@ -1,0 +1,58 @@
+{
+  "id": "monster-giant-wease",
+  "slug": "giant-wease",
+  "name": {
+    "es": "",
+    "en": "Giant Wease"
+  },
+  "size": {
+    "es": "",
+    "en": "Large"
+  },
+  "type": {
+    "es": "",
+    "en": "Monstrosity"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Neutral Evil"
+  },
+  "armorClass": 14,
+  "hitPoints": "11 (2d8 + 2)",
+  "speed": {
+    "es": "",
+    "en": "40 ft., Swim +0 ft."
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Perception +2"
+  },
+  "senses": {
+    "es": "",
+    "en": "Passive Perception 10"
+  },
+  "languages": {
+    "es": "",
+    "en": "None"
+  },
+  "challengeRating": "?",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.361). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "monster-red-dragon-wyrmling",
+  "slug": "red-dragon-wyrmling",
+  "name": {
+    "es": "",
+    "en": "Red Dragon Wyrmling"
+  },
+  "size": {
+    "es": "",
+    "en": "Large"
+  },
+  "type": {
+    "es": "",
+    "en": "Dragon (Chromatic)"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Chaotic Evil"
+  },
+  "armorClass": 18,
+  "hitPoints": "178 (17d10 + 85)",
+  "speed": {
+    "es": "",
+    "en": "40 ft., Climb 40 ft., Fly 80 ft."
+  },
+  "abilityScores": {
+    "str": 23,
+    "dex": 10,
+    "con": 2,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Perception +4, Stealth +2"
+  },
+  "senses": {
+    "es": "",
+    "en": "Blindsight 10 ft., Darkvision 60 ft.;"
+  },
+  "languages": {
+    "es": "",
+    "en": "Draconic"
+  },
+  "challengeRating": "4",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.254). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

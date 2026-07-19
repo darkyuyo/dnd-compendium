@@ -1,0 +1,58 @@
+{
+  "id": "monster-giant-frog",
+  "slug": "giant-frog",
+  "name": {
+    "es": "",
+    "en": "Giant Frog"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "creature"
+  },
+  "alignment": {
+    "es": "",
+    "en": "it has the Crappled condition"
+  },
+  "armorClass": 13,
+  "hitPoints": "18 (4d8)",
+  "speed": {
+    "es": "",
+    "en": "30 ft., Climb 30 ft."
+  },
+  "abilityScores": {
+    "str": 17,
+    "dex": 13,
+    "con": 12,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Perception +2, Stealth +4"
+  },
+  "senses": {
+    "es": "",
+    "en": "Blindsight 30 ft.; Passive Perception 8"
+  },
+  "languages": {
+    "es": "",
+    "en": "None"
+  },
+  "challengeRating": "0",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.357). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

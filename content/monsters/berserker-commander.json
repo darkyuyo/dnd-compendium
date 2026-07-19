@@ -1,0 +1,58 @@
+{
+  "id": "monster-berserker-commander",
+  "slug": "berserker-commander",
+  "name": {
+    "es": "",
+    "en": "Berserker Commander"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Dragon (Metallic)"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Lawful Cood"
+  },
+  "armorClass": 20,
+  "hitPoints": "332 (19d20 + 133)",
+  "speed": {
+    "es": "",
+    "en": "40 fr, til:\"- oo t , t).3111:"
+  },
+  "abilityScores": {
+    "str": 27,
+    "dex": 10,
+    "con": 25,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "History +9, Perception +14, Persuasion +12,"
+  },
+  "senses": {
+    "es": "",
+    "en": "Blindsight 60 ft., Darkvision .120 ft.;"
+  },
+  "languages": {
+    "es": "",
+    "en": "Common, Draconic"
+  },
+  "challengeRating": "20",
+  "proficiencyBonus": "+6",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.57). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "monster-violet-fungus-necrohulk",
+  "slug": "violet-fungus-necrohulk",
+  "name": {
+    "es": "",
+    "en": "Violet Fungus Necrohulk"
+  },
+  "size": {
+    "es": "",
+    "en": "Large"
+  },
+  "type": {
+    "es": "",
+    "en": "Plant"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Neutral Evil"
+  },
+  "armorClass": 17,
+  "hitPoints": "123 (13d'10 + 52)",
+  "speed": {
+    "es": "",
+    "en": "40 ft."
+  },
+  "abilityScores": {
+    "str": 19,
+    "dex": 12,
+    "con": 18,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "senses": {
+    "es": "",
+    "en": "Blindsight 60 ft.; Passive Perception 12"
+  },
+  "languages": {
+    "es": "",
+    "en": "None"
+  },
+  "challengeRating": "7",
+  "proficiencyBonus": "+3",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.126). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

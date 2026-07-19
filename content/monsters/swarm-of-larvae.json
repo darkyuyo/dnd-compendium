@@ -1,0 +1,54 @@
+{
+  "id": "monster-swarm-of-larvae",
+  "slug": "swarm-of-larvae",
+  "name": {
+    "es": "",
+    "en": "Swarm of Larvae"
+  },
+  "size": {
+    "es": "",
+    "en": "Large"
+  },
+  "type": {
+    "es": "",
+    "en": "Swarm of Medium Fiends"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Neutral Evil"
+  },
+  "armorClass": 13,
+  "hitPoints": "22 (3d10 + 6)",
+  "speed": {
+    "es": "",
+    "en": "30 ft."
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "senses": {
+    "es": "",
+    "en": "Darkvision 60 ft.; Passive Perception 1l"
+  },
+  "languages": {
+    "es": "",
+    "en": "Understands all but can't speak"
+  },
+  "challengeRating": "?",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.193). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

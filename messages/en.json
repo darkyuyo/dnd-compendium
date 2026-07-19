@@ -1,0 +1,99 @@
+{
+  "meta": {
+    "title": "D&D Compendium",
+    "description": "Private reference for your Dungeons & Dragons table"
+  },
+  "nav": {
+    "home": "Home",
+    "monsters": "Monsters",
+    "spells": "Spells",
+    "weapons": "Weapons",
+    "equipment": "Equipment",
+    "classes": "Classes",
+    "species": "Species",
+    "backgrounds": "Backgrounds",
+    "feats": "Feats",
+    "howToPlay": "How to play",
+    "characterCreation": "Character creation",
+    "logout": "Log out"
+  },
+  "home": {
+    "title": "Table Compendium",
+    "subtitle": "Quick reference for rules, creatures, and character options for your campaign.",
+    "sections": "Sections"
+  },
+  "common": {
+    "search": "Search…",
+    "filters": "Filters",
+    "all": "All",
+    "level": "Level",
+    "school": "School",
+    "cr": "CR",
+    "type": "Type",
+    "category": "Category",
+    "noResults": "No results.",
+    "missingTranslation": "Untranslated",
+    "source": "Source",
+    "back": "Back",
+    "details": "View entry",
+    "cantrip": "Cantrip"
+  },
+  "spells": {
+    "title": "Spells",
+    "subtitle": "Search and filter every spell in the compendium."
+  },
+  "monsters": {
+    "title": "Monsters",
+    "subtitle": "Stat blocks ready for the table.",
+    "armorClass": "AC",
+    "hitPoints": "HP",
+    "speed": "Speed",
+    "skills": "Skills",
+    "senses": "Senses",
+    "languages": "Languages",
+    "traits": "Traits",
+    "actions": "Actions",
+    "bonusActions": "Bonus Actions",
+    "reactions": "Reactions",
+    "legendaryActions": "Legendary Actions"
+  },
+  "weapons": {
+    "title": "Weapons",
+    "subtitle": "Simple and martial weapons."
+  },
+  "equipment": {
+    "title": "Equipment",
+    "subtitle": "Adventuring gear and general equipment."
+  },
+  "classes": {
+    "title": "Classes",
+    "subtitle": "Character classes and features by level.",
+    "hitDie": "Hit Die",
+    "primaryAbility": "Primary Ability",
+    "savingThrows": "Saving Throws",
+    "features": "Class Features"
+  },
+  "species": {
+    "title": "Species",
+    "subtitle": "Species and racial traits."
+  },
+  "backgrounds": {
+    "title": "Backgrounds",
+    "subtitle": "Character backgrounds and origins."
+  },
+  "feats": {
+    "title": "Feats",
+    "subtitle": "Origin, general, and fighting style feats."
+  },
+  "guides": {
+    "howToPlayTitle": "How to play",
+    "characterCreationTitle": "Character creation"
+  },
+  "login": {
+    "title": "Private access",
+    "subtitle": "Enter the table password.",
+    "password": "Password",
+    "submit": "Enter",
+    "error": "Incorrect password."
+  }
+}

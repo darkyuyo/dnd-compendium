@@ -1,0 +1,109 @@
+{
+  "id": "monster-bandit-deceiver",
+  "slug": "bandit-deceiver",
+  "name": {
+    "es": "",
+    "en": "Bandit Deceiver"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Unknown"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Unaligned"
+  },
+  "armorClass": 10,
+  "hitPoints": "169 (25d8 + 52)",
+  "speed": {
+    "es": "",
+    "en": "30 ft."
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Acrobatics +9, Perception +10, Stealth +.13"
+  },
+  "senses": {
+    "es": "",
+    "en": "Passive Perception 20"
+  },
+  "languages": {
+    "es": "",
+    "en": "Common, Thieves' Cant"
+  },
+  "challengeRating": "?",
+  "proficiencyBonus": "+4",
+  "traits": [],
+  "actions": [
+    {
+      "name": {
+        "es": "",
+        "en": "Bandit crime lords manipulate shadowy organi-"
+      },
+      "description": {
+        "es": "",
+        "en": "Bandit crime lords manipulate shadowy organi-"
+      }
+    },
+    {
+      "name": {
+        "es": "",
+        "en": "zations and prioritize their own survival over any"
+      },
+      "description": {
+        "es": "",
+        "en": "zations and prioritize their own survival over any"
+      }
+    },
+    {
+      "name": {
+        "es": "",
+        "en": "Srn 10 +0 +0 Dex 20 +5 +9 Cott 14 +2"
+      },
+      "description": {
+        "es": "",
+        "en": "Srn 10 +0 +0 Dex 20 +5 +9 Cott 14 +2"
+      }
+    },
+    {
+      "name": {
+        "es": "",
+        "en": "lrr 18 +4 +4 Wts 14 +2 +2 Cxr15 +2"
+      },
+      "description": {
+        "es": "",
+        "en": "lrr 18 +4 +4 Wts 14 +2 +2 Cxr15 +2"
+      }
+    },
+    {
+      "name": {
+        "es": "",
+        "en": "Skills Acrobatics +9, Perception +10, Stealth +"
+      },
+      "description": {
+        "es": "",
+        "en": "Skills Acrobatics +9, Perception +10, Stealth +.13"
+      }
+    }
+  ],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.28). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

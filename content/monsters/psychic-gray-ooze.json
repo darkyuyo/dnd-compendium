@@ -1,0 +1,58 @@
+{
+  "id": "monster-psychic-gray-ooze",
+  "slug": "psychic-gray-ooze",
+  "name": {
+    "es": "",
+    "en": "Psychic Gray Ooze"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Ooze"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Unaligned"
+  },
+  "armorClass": 9,
+  "hitPoints": "22 (3d8 + 9)",
+  "speed": {
+    "es": "",
+    "en": "10 ft., Climb 10 ft."
+  },
+  "abilityScores": {
+    "str": 12,
+    "dex": 6,
+    "con": 16,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Stealth +2"
+  },
+  "senses": {
+    "es": "",
+    "en": "Blindsight 60 ft.; Passive Perception 8"
+  },
+  "languages": {
+    "es": "",
+    "en": "None"
+  },
+  "challengeRating": "?",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.151). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

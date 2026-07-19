@@ -1,0 +1,53 @@
+{
+  "id": "monster-death-tyrant",
+  "slug": "death-tyrant",
+  "name": {
+    "es": "",
+    "en": "Death Tyrant"
+  },
+  "size": {
+    "es": "",
+    "en": "Large"
+  },
+  "type": {
+    "es": "",
+    "en": "lJndead (BeholdeQ"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Lawful Evil"
+  },
+  "armorClass": 19,
+  "hitPoints": "195 (25d10 + 52)",
+  "speed": {
+    "es": "",
+    "en": "5 -;:5i,i3tt' tno'\"\",oo ,ou,"
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "senses": {
+    "es": "",
+    "en": "—"
+  },
+  "languages": {
+    "es": "",
+    "en": "—"
+  },
+  "challengeRating": "?",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.95). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

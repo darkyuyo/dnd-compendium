@@ -1,0 +1,58 @@
+{
+  "id": "monster-succubus",
+  "slug": "succubus",
+  "name": {
+    "es": "",
+    "en": "Succubus"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Fiend"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Neutral Evil"
+  },
+  "armorClass": 15,
+  "hitPoints": "71 (13d8 + 13)",
+  "speed": {
+    "es": "",
+    "en": "3ojt;:t]l,it ot MOD .AVE"
+  },
+  "abilityScores": {
+    "str": 8,
+    "dex": 17,
+    "con": 13,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Deception +9, lnsight +5, Perception +5,"
+  },
+  "senses": {
+    "es": "",
+    "en": "Darkvision 60 ft.; Passive Perception 15"
+  },
+  "languages": {
+    "es": "",
+    "en": "Abyssal, Common, lnfernal; telepathy 60 ft"
+  },
+  "challengeRating": "4",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.303). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

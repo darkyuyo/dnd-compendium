@@ -1,0 +1,54 @@
+{
+  "id": "monster-death-knight-4spirant",
+  "slug": "death-knight-4spirant",
+  "name": {
+    "es": "",
+    "en": "Death Knight 4spirant"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Undead"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Chaotic Evil"
+  },
+  "armorClass": 20,
+  "hitPoints": "199 (21d8 + 105)",
+  "speed": {
+    "es": "",
+    "en": "30 ft."
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "senses": {
+    "es": "",
+    "en": "Darkvision 120ft.; Passive Perception 13"
+  },
+  "languages": {
+    "es": "",
+    "en": "Abyssal, Common"
+  },
+  "challengeRating": "17",
+  "proficiencyBonus": "+6",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.93). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

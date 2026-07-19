@@ -1,0 +1,344 @@
+{
+  "id": "class-druida",
+  "slug": "druida",
+  "name": {
+    "es": "Druida",
+    "en": ""
+  },
+  "hitDie": "d3",
+  "primaryAbility": {
+    "es": "Competencias en",
+    "en": ""
+  },
+  "savingThrows": {
+    "es": "Inteligencia y Sabiduría",
+    "en": ""
+  },
+  "armor": {
+    "es": "medias. Naturalista. Conoces un truco adicional de la lista de",
+    "en": ""
+  },
+  "weapons": {
+    "es": "—",
+    "en": ""
+  },
+  "skills": {
+    "es": "y tiradas de salvación y utilizas tu bonificador por competencia con",
+    "en": ""
+  },
+  "description": {
+    "es": "ecológico que sustenta la vida vegetal y animal, y creen que las personas deben vivir en armonía con la naturaleza. Suelen custodiar lugares sagrados o vigilar las extensiones de naturaleza virgen, pero si surge un peligro importante, los druidas se convierten en aventureros para combatir la amenaza de manera más activa.",
+    "en": ""
+  },
+  "features": [
+    {
+      "level": 1,
+      "name": {
+        "es": "LANZAMIENTO DE CONJUROS",
+        "en": ""
+      },
+      "description": {
+        "es": "Has aprendido a lanzar conjuros estudiando las fuerzas místicas de la naturaleza. Consulta el",
+        "en": ""
+      }
+    },
+    {
+      "level": 1,
+      "name": {
+        "es": "ORDEN PRIMIGENIA",
+        "en": ""
+      },
+      "description": {
+        "es": "Te has consagrado a una de las siguientes funciones sacras, a tu elección. Guardián. Te has entrenado para el combate y ganas competencia con armas marciales y entrenamiento con armaduras medias. Naturalista. Conoces un truco adicional de la lista de conjuros de druida. Además, tu conexión mística con la naturaleza te proporciona un bonificador a tus pruebas de Inteligencia (Conocimiento arcano y Naturaleza). El bonificador es igual a tu modificador por Sabiduría (mínimo de +1).",
+        "en": ""
+      }
+    },
+    {
+      "level": 2,
+      "name": {
+        "es": "COMPAÑERO SALVAJE",
+        "en": ""
+      },
+      "description": {
+        "es": "Puedes invocar un espíritu de la naturaleza que adopta la forma de un animal para ayudarte. Como acción de magia, puedes gastar un espacio de conjuro o un uso de tu rasgo Forma salvaje para lanzar el conjuro encontrar familiar sin necesidad de componentes materiales. Cuando lances el conjuro de esta forma, el familiar será un feérico y desaparecerá tras finalizar un descanso largo.",
+        "en": ""
+      }
+    },
+    {
+      "level": 2,
+      "name": {
+        "es": "FORMA SALVAJE",
+        "en": ""
+      },
+      "description": {
+        "es": "El poder de la naturaleza te permite transformarte en un animal. Como acción adicional, adoptas la forma de una bestia que hayas aprendido para este rasgo (consulta “Formas conocidas” a continuación). Conservas esa forma durante una cantidad de horas igual a la mitad de tu nivel de druida o hasta que vuelvas a utilizar Forma salvaje, tengas el estado de incapacitado o mueras. También puedes abandonar la forma antes de tiempo como acción adicional. Número de usos. Puedes utilizar el rasgo Forma salvaje dos veces. Recuperas uno de los usos gastados tras finalizar un descanso corto y todos tras finalizar un descanso largo. Obtienes usos adicionales cuando alcanzas ciertos niveles de druida, como se muestra en la columna “Forma salvaje” de la tabla “Rasgos de druida”. Formas conocidas. Conoces cuatro formas de bestia para este rasgo, escogidas de entre los perfiles de criaturas de tipo “bestia” que tengan un valor de desafío máximo de 1/4 y que no tengan una velocidad volando (consulta las opciones de perfiles en el apéndice B). Se recomiendan las siguientes bestias: araña, caballo de monta, lobo y rata. Tras finalizar un descanso largo, podrás reemplazar una de tus formas conocidas por otra que cumpla los requisitos. Cuando alcances determinados niveles de druida, la cantidad de formas conocidas y el valor de desafío máximo de estas formas aumentan, como se muestra en la tabla “Formas de bestia”. Además, a partir del nivel 8 podrás adoptar una forma que tenga una velocidad volando. Al escoger las formas conocidas, puedes consultar el Manual de monstruos u otros libros para buscar más bestias si tu Dungeon Master te lo permite. FORMAS DE BESTIA Nivel Formas vD Velocidad de druida conocidas máx. volando 2 4 1/4 No 4 6 1/2 No 8 3 1 Sí Reglas con forma de bestia. Mientras tengas la forma de una bestia, conservas tu personalidad, recuerdos y capacidad de hablar, y se aplican las siguientes normas: Puntos de golpe temporales. Cuando te transformas usando Forma salvaje, obtie",
+        "en": ""
+      }
+    },
+    {
+      "level": 4,
+      "name": {
+        "es": "MEJORA DE CARACTERÍSTICA",
+        "en": ""
+      },
+      "description": {
+        "es": "Obtienes la dote Mejora de característica (consulta el",
+        "en": ""
+      }
+    },
+    {
+      "level": 5,
+      "name": {
+        "es": "RESURGIMIENTO SALVAJE",
+        "en": ""
+      },
+      "description": {
+        "es": "Una vez en cada uno de tus turnos, si no te quedan usos de Forma salvaje, puedes obtener un uso gastando un espacio de conjuro (no requiere acción). Además, puedes gastar un uso de tu rasgo Forma salvaje (no requiere acción) para obtener un espacio de conjuro de nivel 1, pero no podrás volver a hacerlo hasta que finalices un descanso largo.",
+        "en": ""
+      }
+    },
+    {
+      "level": 7,
+      "name": {
+        "es": "FURIA ELEMENTAL",
+        "en": ""
+      },
+      "description": {
+        "es": "El poder de los elementos fluye por ti. Obtienes una de las siguientes opciones, a tu elección. Golpe primordial. Una vez en cada uno de tus turnos, cuando aciertes a una criatura con una tirada de ataque usando un arma o un ataque de una bestia en Forma salvaje, podrás hacer que el objetivo sufra 1d8 de daño de frío, fuego, relámpago o trueno adicional (elígelo cuando aciertes). Lanzamiento potente. Sumas tu modificador por Sabiduría al daño que causas con cualquier truco de druida. NrIveL 15: FURIA ELEMENTAL MEJORADA La opción elegida para Furia elemental se vuelve más poderosa, como se detalla a continuación. Golpe primordial. El daño adicional de tu Golpe primordial aumenta a 2d8. Lanzamiento potente. Cuando lances un truco de druida con un alcance de 3 m o más, el alcance del conjuro aumentará en 90 m.",
+        "en": ""
+      }
+    },
+    {
+      "level": 18,
+      "name": {
+        "es": "CONJURAR COMO BESTIA",
+        "en": ""
+      },
+      "description": {
+        "es": "Mientras utilices Forma salvaje, podrás lanzar conjuros en forma de bestia, salvo cualquier conjuro que tenga un componente material que tenga un coste especificado O que se consuma como parte del conjuro. N1IvEL 19: DON ÉPICO Obtienes una dote de don épico (consulta el",
+        "en": ""
+      }
+    },
+    {
+      "level": 20,
+      "name": {
+        "es": "ARCHIDRUIDA",
+        "en": ""
+      },
+      "description": {
+        "es": "La vitalidad de la naturaleza florece en ti de manera constante, lo que te otorga los siguientes beneficios. Forma salvaje perenne. Cuando tires iniciativa y no te queden usos de Forma salvaje, recuperas uno de los usos gastados. Mago de la naturaleza. Puedes convertir los usos de Forma salvaje en un espacio de conjuro (no requiere acción). Elige una cantidad de usos no gastados de Forma salvaje para convertirlos en un único espacio de conjuro. Cada uso aporta 2 niveles de conjuro. Por ejemplo, si conviertes dos usos de Forma salvaje, produces un espacio de conjuro de nivel 4. Cuando uses este beneficio, no podrás volver a hacerlo hasta que finalices un descanso largo. Longevidad. La magia primigenia que dominas ralentiza tu envejecimiento. Por cada diez años que pasen, tu cuerpo envejece solo uno. LISTA DE CONJUROS DE DRUIDA Esta sección presenta la lista de conjuros de druida. Los conjuros se organizan por su nivel y por orden alfabético y se indica la escuela mágica de cada uno de ellos. En la columna “Especial”, C significa que el conjuro requiere concentración, R significa que es un ritual y M significa que requiere un componente material específico.",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "CONJUROS DEL CÍRCULO",
+        "en": ""
+      },
+      "description": {
+        "es": "DE LA LUNA Cuando alcances un nivel de druida especificado en la tabla “Conjuros del círculo de la luna”, a partir de entonces siempre tendrás preparados los conjuros que se indican. Además, puedes lanzar los conjuros de este rasgo mientras utilizas tu Forma salvaje. CONJUROS DEL CÍRCULO DE LA LUNA Nivel de druida Conjuros preparados 3 Curar heridas, rayo de luna, voluta estelar > Conjurar animales 7 Fuente de luz lunar 9 Curar heridas en masa",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "FORMAS DEL CÍRCULO",
+        "en": ""
+      },
+      "description": {
+        "es": "Puedes canalizar la magia lunar cuando usas tu Forma salvaje, lo que te proporciona los siguientes beneficios: Valor de desafío. El valor de desafío máximo de la forma es igual a tu nivel de druida dividido entre 3 (redondeando hacia abajo). Clase de armadura. Hasta que abandones la forma, tu CA será igual a 13 más tu modificador por Sabiduría si ese total es superior a la CA de la bestia. Puntos de golpe temporales. Obtienes una cantidad de puntos de golpe temporales igual al triple de tu nivel de druida.",
+        "en": ""
+      }
+    },
+    {
+      "level": 6,
+      "name": {
+        "es": "FORMAS DEL CÍRCULO MEJORADAS",
+        "en": ""
+      },
+      "description": {
+        "es": "Mientras utilices tu Forma salvaje, obtienes los siguientes beneficios. Resplandor lunar. Todos los ataques que hagas mientras utilices tu Forma salvaje pueden causar su tipo de daño normal o daño radiante. Tomas esta decisión cada vez que aciertes con esos ataques. Aguante aumentado. Puedes sumar tu modificador por Sabiduría a tus tiradas de salvación de Constitución. NrIveL 10: PASO DE LA LUZ LUNAR Te transportas mágicamente y reapareces en medio de un destello de luz lunar. Como acción adicional, te teletransportas hasta 9 m a un espacio sin ocupar que puedas ver y tienes ventaja en la siguiente tirada de ataque que hagas antes de que finalice este turno. Puedes usar este rasgo una cantidad de veces igual a tu modificador por Sabiduría (mínimo una vez) y recuperas todos los usos tras finalizar un descanso largo. También puedes recuperar usos gastando un espacio de conjuro de nivel 2 o superior por cada uso que quieras recuperar (no requiere acción).",
+        "en": ""
+      }
+    },
+    {
+      "level": 14,
+      "name": {
+        "es": "FORMA LUNAR",
+        "en": ""
+      },
+      "description": {
+        "es": "El poder de la luna te envuelve y te otorga los siguientes beneficios. Luz lunar compartida. Siempre que emplees tu Paso de la luz lunar, podrás teletransportar también a una criatura voluntaria. Esa criatura deberá encontrarse a 3'm o menos de ti y la teletransportarás a un espacio sin ocupar que puedas ver a 3 m o menos de tu espacio de destino.",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "AYUDA DE LA TIERRA",
+        "en": ""
+      },
+      "description": {
+        "es": "Como acción de magia, puedes gastar un uso de tu rasgo Forma salvaje y elegir un punto a 18 m o menos de ti. Unas flores que otorgan vitalidad y espinas que la absorben aparecen por un instante en una esfera de 3 m de radio centrada en ese punto. Todas las criaturas de tu elección situadas en la esfera deberán hacer una tirada de salvación de Constitución contra tu CD de salvación de conjuros; sufrirán 2d6 de daño necrótico si la fallan o la mitad del daño si la superan. Además, una criatura de tu elección situada en esa zona recuperará 2d6 puntos de golpe. El daño y la curación aumentan en 1d6 cuando alcances los niveles 10 (3d6) y 14 (4d6) de druida.",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "CONJUROS DEL CÍRCULO",
+        "en": ""
+      },
+      "description": {
+        "es": "DE LA TIERRA Tras finalizar un descanso largo, elige un tipo de terreno: árido, polar, templado o tropical. Consulta a continuación la tabla que se corresponda con el tipo elegido. Tendrás preparados los conjuros que se mencionan para tu nivel de druida e inferiores. TERRENO ÁRIDO Nivel de druida Conjuros de círculo 3 Contorno borroso, descarga de fuego, manos ardientes 5 Bola de fuego 7 Marchitar 9 Muro de piedra TERRENO POLAR Nivel de druida Conjuros de círculo 3 Inmovilizar persona, nube de oscurecimiento, rayo de escarcha 5 Tormenta de aguanieve a) Tormenta de hielo Cono de frío TERRENO TEMPLADO Nivel de druida Conjuros de círculo 2) Agarre electrizante, dormir, paso brumoso as Relámpago 7 Libertad de movimiento 9 Paso arbóreo TERRENO TROPICAL Nivel de druida Conjuros de círculo 3 Rayo nauseabundo, salpicadura ácida, telaraña 5 Nube apestosa 7 Polimorfar 9 Plaga de insectos",
+        "en": ""
+      }
+    },
+    {
+      "level": 6,
+      "name": {
+        "es": "RECUPERACIÓN NATURAL",
+        "en": ""
+      },
+      "description": {
+        "es": "Puedes lanzar un conjuro de nivel 1 o superior que tengas preparado por el rasgo Conjuros de círculo sin gastar un espacio de conjuro. Deberás finalizar un descanso largo antes de volver a hacerlo. Además, tras finalizar un descanso corto, puedes elegir espacios de conjuro gastados y recuperarlos. La suma de niveles de estos espacios de conjuro debe ser igual o inferior a la mitad de tu nivel de druida (redondeando hacia arriba) y ninguno de los espacios puede ser de",
+        "en": ""
+      }
+    },
+    {
+      "level": 10,
+      "name": {
+        "es": "PROTECCIÓN DE LA NATURALEZA",
+        "en": ""
+      },
+      "description": {
+        "es": "Eres inmune al estado de envenenadoy tienes resistencia a un tipo de daño asociado con tu elección de terreno actual del rasgo Conjuros de círculo, como se muestra en la tabla “Protección de la naturaleza”. PROTECCIÓN DE LA NATURALEZA Tipo de terreno Resistencia Tipo deterreno Resistencia Árido Fuego Templado Relámpago Polar Frío Tropical Veneno",
+        "en": ""
+      }
+    },
+    {
+      "level": 14,
+      "name": {
+        "es": "SANTUARIO DE LA NATURALEZA",
+        "en": ""
+      },
+      "description": {
+        "es": "Como acción de magia, puedes gastar un uso de tu rasgo Forma salvaje y hacer que aparezcan árboles y enredaderas espectrales en un cubo de 4,5 m de lado sobre el suelo a 36 m o menos de ti. Permanecerán ahí 1 minuto o hasta que tengas el estado de incapacitado o mueras. Tus aliados y tú tendréis cobertura media mientras estéis en esa zona y tus aliados obtendrán la resistencia actual de tu Protección de la naturaleza mientras estén ahí. Como acción adicional, puedes mover el cubo hasta 18 m a una parte del suelo que esté a 36 m o menos de ti. CÍRCULO DE LAS ESTRELLAS Utiliza los secretos que se ocultan en las constelaciones. El círculo de las estrellas lleva estudiando los patrones celestes desde tiempos inmemoriales para descubrir los secretos ocultos entre las constelaciones. Mediante la comprensión de dichos secretos, los druidas de este círculo aspiran a acceder a los poderes del cosmos.",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "FORMA ESTELAR",
+        "en": ""
+      },
+      "description": {
+        "es": "Como acción adicional, puedes gastar un uso de tu rasgo Forma salvaje para adoptar una forma estelar en lugar de transformarte en una bestia. Mientras estés en tu forma estelar, sigues teniendo el mismo perfil, pero tu cuerpo se vuelve luminoso: tus articulaciones resplandecen como estrellas y están conectadas por líneas brillantes, como en un mapa estelar. Esta forma emite luz brillante en un radio de 3 m y luz tenue 3 m más allá. La forma dura 10 minutos y termina antes de tiempo si la cancelas (no requiere acción), si tienes el estado de incapacitado, si mueres o si vuelves a usar este rasgo. Siempre que adoptes tu forma estelar, elige cuál de las siguientes constelaciones brillará en tu cuerpo; en función de tu elección, gozarás de ciertos beneficios mientras dure la forma: Arquero. En tu cuerpo aparece una constelación con forma de arquero. Cuando activas esta forma y como acción adicional en tus turnos siguientes mientras dure, puedes realizar un ataque de conjuro a distancia con el que lanzas una flecha luminosa a una criatura a 18 m o menos de ti. Si acierta, el ataque causará una cantidad de daño radiante igual a 148 más tu modificador por Sabiduría. Cáliz. En tu cuerpo aparece una constelación con forma de cáliz de vida. Siempre que gastes un espacio de conjuro para lanzar un conjuro que haga recuperar puntos de golpe a una criatura, tú u otra criatura a 9 m o menos de ti podréis recuperar una cantidad de puntos de golpe igual a 148 más tu modificador por Sabiduría. Dragón. En tu cuerpo aparece una constelación con forma de un sabio dragón. Cuando hagas una prueba de Inteligencia o Sabiduría o una tirada de salvación de Constitución para mantener la concentración, podrás sustituir un resultado de 9 o menos en el d20 por un 10.",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "MAPA ESTELAR",
+        "en": ""
+      },
+      "description": {
+        "es": "Has creado un mapa estelar como parte de tus estudios del firmamento. Es un objeto Diminuto y puedes utilizarlo como canalizador mágico para tus conjuros de druida. Escoge su forma de entre las opciones de la tabla “Mapa estelar” o tira un dado para decidirlo. Mientras sostienes el mapa, tienes los conjuros guía y saeta guía preparados, y puedes lanzar saeta guía sin gastar un espacio de conjuro. Puedes lanzarlo de esa forma una cantidad de veces igual a tu modificador por Sabiduría (mínimo una vez) y recuperas todos los usos tras finalizar un descanso largo. Si pierdes el mapa, puedes realizar una ceremonia de 1 hora para crear un sustituto mágicamente. Esta ceremonia se puede llevar a cabo durante un descanso corto o largo y destruye el mapa anterior.",
+        "en": ""
+      }
+    },
+    {
+      "level": 6,
+      "name": {
+        "es": "PRESAGIO CÓSMICO",
+        "en": ""
+      },
+      "description": {
+        "es": "Tras finalizar un descanso largo, puedes consultar tu mapa estelar para tener un presagio y tirar un dado. Hasta que finalices tu próximo descanso largo, dispondrás de una reacción especial que dependerá de si sacaste un número par o impar en la tirada: Desdicha (impar). Cuando una criatura que puedas ver a 9 mo menos de ti vaya a hacer una prueba con d20, puedes llevar a cabo una reacción para tirar 1d6 y restar el resultado al total. Fortuna (par). Cuando una criatura que puedas ver a 9 m o menos de ti vaya a hacer una prueba con d20, puedes llevar a cabo una reacción para tirar 1d6 y sumar el resultado al total. Puedes usar esta reacción una cantidad de veces igual a tu modificador por Sabiduría (mínimo una vez) y recuperas todos los usos tras finalizar un descanso largo.",
+        "en": ""
+      }
+    },
+    {
+      "level": 10,
+      "name": {
+        "es": "CONSTELACIONES",
+        "en": ""
+      },
+      "description": {
+        "es": "CENTELLEANTES Las constelaciones de tu rasgo Forma estelar mejoran. El 1d8 del arquero y el cáliz se convierte en 2d8 y, mientras el dragón está activo, tienes una velocidad volando de 6 m y puedes levitar. Además, al principio de cada uno de tus turnos, mientras estés en tu forma estelar, podrás cambiar la constelación que brilla en tu cuerpo.",
+        "en": ""
+      }
+    },
+    {
+      "level": 14,
+      "name": {
+        "es": "COLMADO DE LUZ ESTELAR",
+        "en": ""
+      },
+      "description": {
+        "es": "Mientras estés en tu forma estelar, te vuelves parcialmente incorpóreo, lo que te da resistencia al daño contundente, cortante y perforante. CÍRCULO DEL MAR Fúndete con las mareas y las tormentas. Los druidas del círculo del mar utilizan las fuerzas tempestuosas de los océanos y las tormentas. Algunos se ven a sí mismos como encarnaciones de la ira de la naturaleza que pretenden vengarse de quienes expolian la naturaleza. Otros buscan la unidad mística con la naturaleza armonizándose con el flujo y reflujo de las mareas, siguiendo el curso de las corrientes y olas y escuchando los susurros y rugidos inescrutables de los vientos.",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "CONJUROS DEL CÍRCULO DEL MAR",
+        "en": ""
+      },
+      "description": {
+        "es": "Cuando alcances un nivel de druida especificado en la tabla “Conjuros del círculo del mar”, a partir de entonces siempre tendrás preparados los conjuros que se indican. CONJUROS DEL CÍRCULO DEL MAR Nivel de druida Conjuros preparados 3 Hacer añicos, nube de oscurecimiento, ola atronadora, ráfaga de viento, rayo de escarcha 5 Relámpago, respirar bajo el agua 7 Controlar agua, tormenta de hielo 9 Conjurar elemental, inmovilizar monstruo",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "IRA DE LOS MARES",
+        "en": ""
+      },
+      "description": {
+        "es": "Como acción adicional, puedes gastar un uso de tu rasgo Forma salvaje para generar una emanación de 1,5 m que adopta la forma de la espuma de mar y te rodea durante 10 minutos. Terminará antes de tiempo si la disipas (no requiere acción), si la generas de nuevo o si tienes el estado de incapacitado. Cuando generas la emanación y como acción adicional en tus siguientes turnos, puedes elegir a otra criatura que puedas ver en la emanación. El objetivo deberá superar una tirada de salvación de Constitución contra tu CD de salvación de conjuros o sufrirá daño de frío y, si la criatura es Grande o más pequeña, será empujada hasta 4,5 m respecto a ti. Para determinar este daño, tira una cantidad de d6 igual a tu modificador por Sabiduría (un dado como mínimo).",
+        "en": ""
+      }
+    },
+    {
+      "level": 6,
+      "name": {
+        "es": "AFINIDAD ACUÁTICA",
+        "en": ""
+      },
+      "description": {
+        "es": "El tamaño de la emanación creada con tu Ira de los mares aumenta a 3 m. Además, obtienes una velocidad nadando igual a tu velocidad.",
+        "en": ""
+      }
+    },
+    {
+      "level": 10,
+      "name": {
+        "es": "NACIDO DE LA TEMPESTAD",
+        "en": ""
+      },
+      "description": {
+        "es": "Tu rasgo Ira de los mares otorga dos beneficios más mientras está activo, como se detalla a continuación. Resistencia. Tienes resistencia al daño de frío, relámpago y trueno. Vuelo. Obtienes una velocidad volando igual a tu velocidad.",
+        "en": ""
+      }
+    },
+    {
+      "level": 14,
+      "name": {
+        "es": "OBSEQUIO OCEÁNICO",
+        "en": ""
+      },
+      "description": {
+        "es": "En vez de generar la emanación del rasgo Ira de los mares alrededor de ti, puedes generarla alrededor de una criatura voluntaria que esté a 18 m o menos de ti. Esa criatura obtiene todos los beneficios de la emanación y utiliza tu CD de salvación de conjuros y modificador por Sabiduría para ella. Además, puedes generar la emanación alrededor de ti y de la otra criatura si gastas dos usos de Forma salvaje en vez de uno al manifestarla.",
+        "en": ""
+      }
+    }
+  ],
+  "source": "phb2024"
+}

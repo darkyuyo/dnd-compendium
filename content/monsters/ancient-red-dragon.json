@@ -1,0 +1,53 @@
+{
+  "id": "monster-ancient-red-dragon",
+  "slug": "ancient-red-dragon",
+  "name": {
+    "es": "",
+    "en": "Ancient Red Dragon"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Unknown"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Unaligned"
+  },
+  "armorClass": 10,
+  "hitPoints": "507 (26d20 + ßa)",
+  "speed": {
+    "es": "",
+    "en": "40 ft, :l[o oo n., t'r,t\"l"
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "senses": {
+    "es": "",
+    "en": "—"
+  },
+  "languages": {
+    "es": "",
+    "en": "—"
+  },
+  "challengeRating": "?",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.256). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

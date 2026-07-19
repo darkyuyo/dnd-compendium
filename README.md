@@ -1,36 +1,113 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# D&D Compendium
 
-## Getting Started
+Compendio privado de referencia para tu mesa de **Dungeons & Dragons** (reglas 2024).
 
-First, run the development server:
+App en **Next.js + TypeScript** con interfaz en **español e inglés**. El contenido sale de tus PDFs del Manual del Jugador y el Manual de Monstruos.
+
+> Solo para uso personal / de la mesa. No publiques el texto de los libros ni subas el repo a un remoto público.
+
+## Qué incluye
+
+| Sección | Descripción |
+|---------|-------------|
+| Monstruos | Stat blocks con búsqueda y filtro por tipo |
+| Conjuros | Listado completo con filtros (nivel, escuela) |
+| Clases | 12 clases con rasgos por nivel |
+| Especies | Atributos y rasgos raciales |
+| Orígenes | Trasfondos de personaje |
+| Dotes | Dotes de origen, generales, etc. |
+| Armas / Equipo | Tablas de armas y equipo de aventurero |
+| Guías | Cómo jugar y crear personaje |
+
+## Arrancar
+
+Requisitos: Node.js 20+.
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abre [http://localhost:3000](http://localhost:3000). Por defecto entra en `/es`. Cambia idioma con el botón **EN / ES** del header.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Para producción:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+npm run build
+npm start
+```
 
-## Learn More
+## Contenido y PDFs
 
-To learn more about Next.js, take a look at the following resources:
+Los datos viven en `content/` (JSON + guías MDX). Campos bilingües:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```json
+{ "es": "Bola de fuego", "en": "Fireball" }
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Si falta un idioma, la UI muestra el otro y marca “Sin traducir”.
 
-## Deploy on Vercel
+### Pipeline (rellenar / regenerar desde tus libros)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. Coloca (o apunta) tus PDFs. Por defecto el extractor busca:
+   - `D:\Descargas\Manual del Jugador 2024.pdf`
+   - `D:\Descargas\Manual de Monstruos - Ingles.pdf`
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+   Opcional en `.env.local`:
+
+   ```env
+   PHB_PDF_PATH=D:\ruta\al\Manual del Jugador 2024.pdf
+   MM_PDF_PATH=D:\ruta\al\Manual de Monstruos - Ingles.pdf
+   ```
+
+2. Extrae texto crudo:
+
+   ```bash
+   npm run extract:phb
+   npm run extract:mm
+   ```
+
+   Sale en `raw/phb/` y `raw/mm/` (ignorado por git).
+
+3. Parsea a JSON tipado:
+
+   ```bash
+   npm run parse:all
+   npm run content:validate
+   ```
+
+### Calidad del parseo
+
+| Fuente | Calidad típica |
+|--------|----------------|
+| PHB (ES) | Buena en conjuros, clases, dotes, especies |
+| MM (EN) | Nombres desde el índice; stats por OCR (revisar fichas importantes contra el PDF) |
+
+Para merges manuales o validación fina, ver [`scripts/README.md`](scripts/README.md).
+
+## Scripts
+
+| Comando | Qué hace |
+|---------|----------|
+| `npm run dev` | Servidor de desarrollo |
+| `npm run build` / `npm start` | Build y servidor de producción |
+| `npm run lint` | ESLint |
+| `npm run extract:phb` | PDF PHB → `raw/phb/` |
+| `npm run extract:mm` | PDF MM → `raw/mm/` |
+| `npm run parse:all` | `raw/` → `content/` |
+| `npm run content:validate` | Valida todo el JSON con Zod |
+
+## Estructura útil
+
+```
+content/          # Datos de la app (JSON + guías)
+messages/         # Textos de UI (es.json / en.json)
+raw/              # Texto extraído de PDFs (gitignored)
+scripts/          # Extracción y parseo
+src/app/[locale]/ # Rutas /es/... y /en/...
+```
+
+## Notas
+
+- No hace falta `.env` para usar la web en local.
+- Comparte la app en LAN con `npm start` en un PC de la mesa si quieres; evita desplegarla en público con el contenido de los manuales.

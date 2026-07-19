@@ -1,0 +1,54 @@
+{
+  "id": "monster-awakened-shrub",
+  "slug": "awakened-shrub",
+  "name": {
+    "es": "",
+    "en": "Awakened Shrub"
+  },
+  "size": {
+    "es": "",
+    "en": "Small"
+  },
+  "type": {
+    "es": "",
+    "en": "Plant"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Neutral"
+  },
+  "armorClass": 10,
+  "hitPoints": "59 (7d12 + la)",
+  "speed": {
+    "es": "",
+    "en": "20 ft."
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "senses": {
+    "es": "",
+    "en": "Passive Perception 10"
+  },
+  "languages": {
+    "es": "",
+    "en": "Common plus one other language"
+  },
+  "challengeRating": "0",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.23). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

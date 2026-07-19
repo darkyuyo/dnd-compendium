@@ -1,0 +1,58 @@
+{
+  "id": "monster-medusa",
+  "slug": "medusa",
+  "name": {
+    "es": "",
+    "en": "Medusa"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Monstrosity"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Lawful Evil"
+  },
+  "armorClass": 10,
+  "hitPoints": "127 (17d8 + 5l)",
+  "speed": {
+    "es": "",
+    "en": "30 ft."
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 17,
+    "con": 16,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Deception +5, Perception +4, Stealth +6"
+  },
+  "senses": {
+    "es": "",
+    "en": "Darkvision .150 ft.; Passive Perception 14"
+  },
+  "languages": {
+    "es": "",
+    "en": "Common plus one other language"
+  },
+  "challengeRating": "6",
+  "proficiencyBonus": "+3",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.205). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

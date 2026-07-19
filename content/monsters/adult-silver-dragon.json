@@ -1,0 +1,58 @@
+{
+  "id": "monster-adult-silver-dragon",
+  "slug": "adult-silver-dragon",
+  "name": {
+    "es": "",
+    "en": "Adult Silver Dragon"
+  },
+  "size": {
+    "es": "",
+    "en": "Huge"
+  },
+  "type": {
+    "es": "",
+    "en": "Dragon (Metallic)"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Lawful Cood"
+  },
+  "armorClass": 19,
+  "hitPoints": "216 (16dl2 +'l'12)",
+  "speed": {
+    "es": "",
+    "en": "40fr' t]l\"lo tt ,oD sAVr"
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "History +8, Perception +ll, Stealth +5"
+  },
+  "senses": {
+    "es": "",
+    "en": "Blindsight 60 ft., Darkvision 120 ft.;"
+  },
+  "languages": {
+    "es": "",
+    "en": "Common, Draconic"
+  },
+  "challengeRating": "16",
+  "proficiencyBonus": "+5",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.279). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

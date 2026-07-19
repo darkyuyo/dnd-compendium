@@ -1,0 +1,58 @@
+{
+  "id": "monster-f1amesku",
+  "slug": "f1amesku",
+  "name": {
+    "es": "",
+    "en": "F1amesku"
+  },
+  "size": {
+    "es": "",
+    "en": "Huge"
+  },
+  "type": {
+    "es": "",
+    "en": "Ciant"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Lawful Evil"
+  },
+  "armorClass": 18,
+  "hitPoints": "152 (13d12 + 78)",
+  "speed": {
+    "es": "",
+    "en": "30 ft."
+  },
+  "abilityScores": {
+    "str": 5,
+    "dex": 3,
+    "con": 14,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Athletics +11, Perception +5"
+  },
+  "senses": {
+    "es": "",
+    "en": "Passive Perception 16"
+  },
+  "languages": {
+    "es": "",
+    "en": "Ciant"
+  },
+  "challengeRating": "9",
+  "proficiencyBonus": "+4",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.120). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

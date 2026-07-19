@@ -1,0 +1,58 @@
+{
+  "id": "monster-troglodyte",
+  "slug": "troglodyte",
+  "name": {
+    "es": "",
+    "en": "Troglodyte"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Monstrosity"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Chaotic Evil"
+  },
+  "armorClass": 10,
+  "hitPoints": "13 (2d8 + a)",
+  "speed": {
+    "es": "",
+    "en": "30 ft., Climb 30 ft."
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Stealth +4"
+  },
+  "senses": {
+    "es": "",
+    "en": "Darkvision 50 ft.; Passive Perception 10"
+  },
+  "languages": {
+    "es": "",
+    "en": "Troglodyte"
+  },
+  "challengeRating": "?",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.309). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "monster-me22o1oth",
+  "slug": "me22o1oth",
+  "name": {
+    "es": "",
+    "en": "Me22o1oth"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Fiend (Yugoloth)"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Neutral Evil"
+  },
+  "armorClass": 18,
+  "hitPoints": "75 (10d8 + 30)",
+  "speed": {
+    "es": "",
+    "en": "30 ft."
+  },
+  "abilityScores": {
+    "str": 18,
+    "dex": 10,
+    "con": 16,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Perception +5"
+  },
+  "senses": {
+    "es": "",
+    "en": "Blindsight 60 ft., Darkvision 50 ft.;"
+  },
+  "languages": {
+    "es": "",
+    "en": "Abyssal, lnfernal; telepathy 60 ft."
+  },
+  "challengeRating": "5",
+  "proficiencyBonus": "+3",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.211). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

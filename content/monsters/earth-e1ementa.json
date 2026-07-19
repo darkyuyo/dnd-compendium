@@ -1,0 +1,54 @@
+{
+  "id": "monster-earth-e1ementa",
+  "slug": "earth-e1ementa",
+  "name": {
+    "es": "",
+    "en": "Earth E1ementa"
+  },
+  "size": {
+    "es": "",
+    "en": "Large"
+  },
+  "type": {
+    "es": "",
+    "en": "Elemental"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Neutral"
+  },
+  "armorClass": 17,
+  "hitPoints": "147 (ladl0 + 70)",
+  "speed": {
+    "es": "",
+    "en": "30 j,;:T;:\"* ,o ,, \\4oD 'AVE"
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "senses": {
+    "es": "",
+    "en": "Darkvision 60 ft., Tremorsense 60 ft.,"
+  },
+  "languages": {
+    "es": "",
+    "en": "Pri mordial (Terran)"
+  },
+  "challengeRating": "5",
+  "proficiencyBonus": "+3",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.108). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

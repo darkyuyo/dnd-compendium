@@ -1,0 +1,58 @@
+{
+  "id": "monster-storm-giant",
+  "slug": "storm-giant",
+  "name": {
+    "es": "",
+    "en": "Storm Giant"
+  },
+  "size": {
+    "es": "",
+    "en": "Huge"
+  },
+  "type": {
+    "es": "",
+    "en": "Ctant"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Chaotic Cood"
+  },
+  "armorClass": 16,
+  "hitPoints": "230 (20d12 + 100)",
+  "speed": {
+    "es": "",
+    "en": "50 ft.,Fly25 ft. (hover), Swim 50ft."
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Arcana +8, Athletics +14, History +8, Perception +10"
+  },
+  "senses": {
+    "es": "",
+    "en": "Darkvision .120 ft., Truesight 30 ft.;"
+  },
+  "languages": {
+    "es": "",
+    "en": "Common, Ciant"
+  },
+  "challengeRating": "13",
+  "proficiencyBonus": "+5",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.302). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

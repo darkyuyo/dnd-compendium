@@ -1,0 +1,58 @@
+{
+  "id": "monster-giant-e1k",
+  "slug": "giant-e1k",
+  "name": {
+    "es": "",
+    "en": "Giant E1k"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Beast"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Unaligned"
+  },
+  "armorClass": 15,
+  "hitPoints": "85 (9d12 + 27)",
+  "speed": {
+    "es": "",
+    "en": "30 ft., Swim 30 ft."
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Stealth +3"
+  },
+  "senses": {
+    "es": "",
+    "en": "Blindsight 30 ft.; Passive Perception 9"
+  },
+  "languages": {
+    "es": "",
+    "en": "None"
+  },
+  "challengeRating": "5",
+  "proficiencyBonus": "+2",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.356). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

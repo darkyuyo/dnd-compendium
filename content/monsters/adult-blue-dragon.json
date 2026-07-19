@@ -1,0 +1,53 @@
+{
+  "id": "monster-adult-blue-dragon",
+  "slug": "adult-blue-dragon",
+  "name": {
+    "es": "",
+    "en": "Adult Blue Dragon"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Unknown"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Unaligned"
+  },
+  "armorClass": 10,
+  "hitPoints": "481 (26d20 + 208)",
+  "speed": {
+    "es": "",
+    "en": "40 fr' t:JI\"- oo tr' t).lo,ll,"
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "senses": {
+    "es": "",
+    "en": "—"
+  },
+  "languages": {
+    "es": "",
+    "en": "—"
+  },
+  "challengeRating": "?",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.49). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

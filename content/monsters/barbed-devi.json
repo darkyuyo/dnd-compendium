@@ -1,0 +1,109 @@
+{
+  "id": "monster-barbed-devi",
+  "slug": "barbed-devi",
+  "name": {
+    "es": "",
+    "en": "Barbed Devi"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Unknown"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Unaligned"
+  },
+  "armorClass": 10,
+  "hitPoints": "481 (26d20 + 208)",
+  "speed": {
+    "es": "",
+    "en": "40 fr' t:JI\"- oo tr' t).lo,ll,"
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Perception +17, Stealth +7"
+  },
+  "senses": {
+    "es": "",
+    "en": "Blindsight 50 ft., Darkvision 120 ft.;"
+  },
+  "languages": {
+    "es": "",
+    "en": "Common, Draconic"
+  },
+  "challengeRating": "23",
+  "proficiencyBonus": "+7",
+  "traits": [],
+  "actions": [
+    {
+      "name": {
+        "es": "",
+        "en": "expended uses at the start of each of its turns"
+      },
+      "description": {
+        "es": "",
+        "en": "expended uses at the start of each of its turns."
+      }
+    },
+    {
+      "name": {
+        "es": "",
+        "en": "Cloaked Flight,The dragon uses Spellcasting to cas"
+      },
+      "description": {
+        "es": "",
+        "en": "Cloaked Flight,The dragon uses Spellcasting to cast In-"
+      }
+    },
+    {
+      "name": {
+        "es": "",
+        "en": "visibility on itself, and it can fly up to half it"
+      },
+      "description": {
+        "es": "",
+        "en": "visibility on itself, and it can fly up to half its Fly Speed."
+      }
+    },
+    {
+      "name": {
+        "es": "",
+        "en": "The dragon can't take this action again until the"
+      },
+      "description": {
+        "es": "",
+        "en": "The dragon can't take this action again until the start of"
+      }
+    },
+    {
+      "name": {
+        "es": "",
+        "en": "Sonic Boom"
+      },
+      "description": {
+        "es": "",
+        "en": "Sonic Boom. The dragon uses Spellcasting to cast Shat-"
+      }
+    }
+  ],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.50). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

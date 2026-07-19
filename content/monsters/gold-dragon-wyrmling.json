@@ -1,0 +1,58 @@
+{
+  "id": "monster-gold-dragon-wyrmling",
+  "slug": "gold-dragon-wyrmling",
+  "name": {
+    "es": "",
+    "en": "Gold Dragon Wyrmling"
+  },
+  "size": {
+    "es": "",
+    "en": "Large"
+  },
+  "type": {
+    "es": "",
+    "en": "Dragon (Metallic)"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Lawful Cood"
+  },
+  "armorClass": 18,
+  "hitPoints": "178 (17d10 + 85)",
+  "speed": {
+    "es": "",
+    "en": "40 ft., Fly 80 ft., Swim +0 ft."
+  },
+  "abilityScores": {
+    "str": 23,
+    "dex": 14,
+    "con": 2,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "lnsight +5, Perception +9, Persuasion +9,"
+  },
+  "senses": {
+    "es": "",
+    "en": "Blindsight 30 ft., Darkvision 120 ft.;"
+  },
+  "languages": {
+    "es": "",
+    "en": "Common, Draconic"
+  },
+  "challengeRating": "10",
+  "proficiencyBonus": "+4",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.144). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

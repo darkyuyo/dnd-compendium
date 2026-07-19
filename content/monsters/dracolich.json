@@ -1,0 +1,58 @@
+{
+  "id": "monster-dracolich",
+  "slug": "dracolich",
+  "name": {
+    "es": "",
+    "en": "Dracolich"
+  },
+  "size": {
+    "es": "",
+    "en": "Medium"
+  },
+  "type": {
+    "es": "",
+    "en": "Unknown"
+  },
+  "alignment": {
+    "es": "",
+    "en": "Unaligned"
+  },
+  "armorClass": 20,
+  "hitPoints": "50",
+  "speed": {
+    "es": "",
+    "en": "30 ft."
+  },
+  "abilityScores": {
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "skills": {
+    "es": "",
+    "en": "Perception +.14, Stealth +6"
+  },
+  "senses": {
+    "es": "",
+    "en": "Blindsight 60 ft., Darkvision 120 ft.;"
+  },
+  "languages": {
+    "es": "",
+    "en": "Common, Draconic"
+  },
+  "challengeRating": "17",
+  "proficiencyBonus": "+6",
+  "traits": [],
+  "actions": [],
+  "bonusActions": [],
+  "reactions": [],
+  "legendaryActions": [],
+  "description": {
+    "es": "",
+    "en": "From Monster Manual (book p.102). Stats OCR-extracted; verify vs PDF."
+  },
+  "source": "mm"
+}

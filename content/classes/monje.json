@@ -1,0 +1,443 @@
+{
+  "id": "class-monje",
+  "slug": "monje",
+  "name": {
+    "es": "Monje",
+    "en": ""
+  },
+  "hitDie": "d8",
+  "primaryAbility": {
+    "es": "Destreza y Sabiduría",
+    "en": ""
+  },
+  "savingThrows": {
+    "es": "Fuerza y Destreza",
+    "en": ""
+  },
+  "armor": {
+    "es": "—",
+    "en": ""
+  },
+  "weapons": {
+    "es": "—",
+    "en": ""
+  },
+  "skills": {
+    "es": "—",
+    "en": ""
+  },
+  "description": {
+    "es": "extraordinarios, incluso sobrenaturales. Pueden dotar sus ataques de una velocidad y fuerza asombrosas, independientemente de si usan armas o no. En manos de un monje, incluso las armas más básicas pueden",
+    "en": ""
+  },
+  "features": [
+    {
+      "level": 1,
+      "name": {
+        "es": "ARTES MARCIALES",
+        "en": ""
+      },
+      "description": {
+        "es": "La práctica de las artes marciales te ha otorgado un dominio de los estilos de combate que emplean ataques sin armas y armas de monje, que son las siguientes: - armas cuerpo a cuerpo sencillas; + armas cuerpo a cuerpo marciales que tengan la propiedad “ligera”. Obtienes los siguientes beneficios mientras no lleves armadura ni portes un escudo y estés desarmado o empuñes únicamente armas de monje: Ataque sin armas adicional. Puedes hacer un ataque sin armas como acción adicional. Dado de Artes marciales. Puedes tirar 146 en lugar del daño normal de tus ataques sin armas o tus armas de monje. Este dado cambia según subes niveles como monje, como se muestra en la columna “Artes marciales” de la tabla “Rasgos de monje”. Ataques diestros. Puedes usar tu modificador por Destreza en lugar de tu modificador por Fuerza para las tiradas de ataque y de daño de tus ataques sin armas y tus armas de monje. Además, cuando uses las opciones de agarre o empujón de tu ataque sin armas, puedes usar tu modificador por Destreza en lugar de tu modificador por Fuerza para determinar la CD de salvación. NriveEL l: DEFENSA SIN ARMADURA Mientras no lleves armadura ni portes un escudo, tu clase de armadura base será igual a 10 más tus modificadores por Destreza y Sabiduría.",
+        "en": ""
+      }
+    },
+    {
+      "level": 2,
+      "name": {
+        "es": "CONCENTRACIÓN DE MONJE",
+        "en": ""
+      },
+      "description": {
+        "es": "Tu concentración y tu entrenamiento marcial te permiten utilizar una reserva interna de energía extraordinaria. Esta energía se representa mediante los puntos de concentración. Tu nivel de monje determina cuántos de estos puntos posees, como se muestra en la columna “Puntos de concentración” de la tabla “Rasgos de monje”.",
+        "en": ""
+      }
+    },
+    {
+      "level": 2,
+      "name": {
+        "es": "METABOLISMO ASOMBROSO",
+        "en": ""
+      },
+      "description": {
+        "es": "Cuando tires iniciativa, puedes recuperar todos los puntos de concentración gastados. Cuando lo hagas, tira tu dado de Artes marciales y recupera una cantidad de puntos de golpe igual a tu nivel de monje más el resultado obtenido. Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un descanso largo.",
+        "en": ""
+      }
+    },
+    {
+      "level": 2,
+      "name": {
+        "es": "MOVIMIENTO SIN ARMADURA",
+        "en": ""
+      },
+      "description": {
+        "es": "Tu velocidad aumenta en 3 m si no llevas armadura ni portas un escudo. Esta bonificación aumenta cuando alcanzas ciertos niveles de monje, como se muestra en la tabla “Rasgos de monje”.",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "DESVIAR ATAQUES",
+        "en": ""
+      },
+      "description": {
+        "es": "Cuando una tirada de ataque te acierte y su daño incluya los tipos contundente, cortante o perforante, puedes llevar a cabo una reacción para reducir el daño total que sufras del ataque. Se reducirá en 1d10 más tu modificador por Destreza y nivel de monje. Si reduces el daño a O, puedes gastar 1 punto de concentración para redirigir una parte de la fuerza del ataque. Si lo haces, elige una criatura que puedas ver a 1,5 m o menos de ti si el ataque fue cuerpo a cuerpo o una criatura que puedas ver a 18 m o menos de ti que no esté tras cobertura completa si el ataque fue a distancia. La criatura deberá superar una tirada de salvación de Destreza o sufrirá una cantidad de daño igual al resultado de dos tiradas de tu dado de Artes marciales más tu modificador por Destreza. El daño será del mismo tipo que inflija el ataque.",
+        "en": ""
+      }
+    },
+    {
+      "level": 4,
+      "name": {
+        "es": "CAÍDA LENTA",
+        "en": ""
+      },
+      "description": {
+        "es": "Puedes llevar a cabo una reacción cuando caigas para reducir cualquier daño que sufras de la caída en una cantidad igual a cinco veces tu nivel de monje.",
+        "en": ""
+      }
+    },
+    {
+      "level": 4,
+      "name": {
+        "es": "MEJORA DE CARACTERÍSTICA",
+        "en": ""
+      },
+      "description": {
+        "es": "Obtienes la dote Mejora de característica (consulta el",
+        "en": ""
+      }
+    },
+    {
+      "level": 5,
+      "name": {
+        "es": "ATAQUE ADICIONAL",
+        "en": ""
+      },
+      "description": {
+        "es": "Cuando lleves a cabo la acción de atacar en tu turno, podrás hacer dos ataques en lugar de uno.",
+        "en": ""
+      }
+    },
+    {
+      "level": 5,
+      "name": {
+        "es": "GOLPE ATURDIDOR",
+        "en": ""
+      },
+      "description": {
+        "es": "Una vez por turno cuando aciertes a una criatura con un arma de monje o un ataque sin armas, puedes gastar 1 punto de concentración para intentar propinar un golpe aturdidor. El objetivo deberá hacer una tirada de salvación de Constitución. Si la falla, tendrá el estado de aturdido hasta el principio de tu siguiente turno. Si la supera, su velocidad se reducirá a la mitad hasta el principio de tu siguiente turno y la siguiente tirada de ataque realizada contra él antes de ese momento tendrá ventaja.",
+        "en": ""
+      }
+    },
+    {
+      "level": 6,
+      "name": {
+        "es": "GOLPES POTENCIADOS",
+        "en": ""
+      },
+      "description": {
+        "es": "Siempre que inflijas daño con tu ataque sin armas, puedes elegir entre causar daño de fuerza o su tipo de daño normal.",
+        "en": ""
+      }
+    },
+    {
+      "level": 7,
+      "name": {
+        "es": "EVASIÓN",
+        "en": ""
+      },
+      "description": {
+        "es": "Cuando sufras un efecto que te permita hacer una tirada de salvación de Destreza para sufrir solo la mitad de daño, no recibes daño alguno si la superas y'solo sufres la mitad si la fallas. No te beneficias de este rasgo si tienes el estado de incapacitado.",
+        "en": ""
+      }
+    },
+    {
+      "level": 9,
+      "name": {
+        "es": "MOVIMIENTO ACROBÁTICO",
+        "en": ""
+      },
+      "description": {
+        "es": "Mientras no lleves armadura ni portes un escudo, obtienes la capacidad de moverte por superficies verticales y sobre líquidos sin caerte.",
+        "en": ""
+      }
+    },
+    {
+      "level": 10,
+      "name": {
+        "es": "AUTORRESTABLECIMIENTO",
+        "en": ""
+      },
+      "description": {
+        "es": "Por pura fuerza de voluntad, puedes eliminar uno de los siguientes estados que te afecten al final de cada uno de tus turnos: asustado, envenenado o hechizado. Además, privarte de comida y bebida no te aplica niveles de cansancio.",
+        "en": ""
+      }
+    },
+    {
+      "level": 10,
+      "name": {
+        "es": "CONCENTRACIÓN AGUDIZADA",
+        "en": ""
+      },
+      "description": {
+        "es": "Tus rasgos Defensa paciente, Paso del viento y Ráfaga de golpes obtienen los siguientes beneficios: Defensa paciente. Cuando gastes un punto de concentración para usar Defensa paciente, obtienes una cantidad de puntos de golpe temporales igual al resultado de dos tiradas de tu dado de Artes marciales. Paso del viento. Cuando gastes un punto de concentra- ción para usar Paso del viento, puedes elegir una criatura voluntaria Grande o más pequeña que esté a 1,5 m o menos de ti. Moverás a la criatura contigo hasta el final de tu turno. El movimiento de la criatura no provoca ataques de oportunidad. Ráfaga de golpes. Puedes gastar 1 punto de concentración para usar Ráfaga de golpes y hacer tres ataques sin armas en lugar de dos.",
+        "en": ""
+      }
+    },
+    {
+      "level": 13,
+      "name": {
+        "es": "DESVIAR ENERGÍA",
+        "en": ""
+      },
+      "description": {
+        "es": "Ahora puedes usar tu rasgo Desviar ataques contra ataques que causen cualquier tipo de daño, no solo contundente, cortante o perforante. NiIvEL 14: SUPERVIVIENTE DISCIPLINADO Tu disciplina física y mental te otorga competencia en todas las tiradas de salvación. Además, cuando hagas una tirada de salvación y falles, puedes gastar 1 punto de concentración para repetirla, pero deberás utilizar el nuevo resultado.",
+        "en": ""
+      }
+    },
+    {
+      "level": 15,
+      "name": {
+        "es": "CONCENTRACIÓN PERFECTA",
+        "en": ""
+      },
+      "description": {
+        "es": "Cuando tires iniciativa y no utilices Metabolismo asombroso, recuperas los puntos de concentración gastados hasta que tengas 4 si te quedan 3 o menos.",
+        "en": ""
+      }
+    },
+    {
+      "level": 18,
+      "name": {
+        "es": "DEFENSA SUPERIOR",
+        "en": ""
+      },
+      "description": {
+        "es": "Al principio de tu turno, puedes gastar 3 puntos de concentración para protegerte del daño durante 1 minuto o hasta que tengas el estado de incapacitado. Durante ese tiempo, tendrás resistencia a todo el daño excepto al de fuerza.",
+        "en": ""
+      }
+    },
+    {
+      "level": 19,
+      "name": {
+        "es": "Don ÉPICO",
+        "en": ""
+      },
+      "description": {
+        "es": "Obtienes una dote de don épico (consulta el",
+        "en": ""
+      }
+    },
+    {
+      "level": 20,
+      "name": {
+        "es": "CUERPO Y MENTE",
+        "en": ""
+      },
+      "description": {
+        "es": "Has llevado tu cuerpo y mente a otro nivel. Tus puntua- ciones de Destreza y Sabiduría aumentan en 4, hasta un máximo de 25.",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "TÉCNICA DE LA MANO ABIERTA",
+        "en": ""
+      },
+      "description": {
+        "es": "Siempre que aciertes a una criatura con un ataque proporcionado por Ráfaga de golpes, puedes imponerle uno de los siguientes efectos: Derribar. El objetivo deberá superar una tirada de salvación de Destreza o tendrá el estado de derribado. Desconcertar. El objetivo no podrá realizar ataques de oportunidad hasta el principio de su siguiente turno. Empujar. El objetivo deberá superar una tirada de salvación de Fuerza o será empujado hasta 4,5 m respecto a ti.",
+        "en": ""
+      }
+    },
+    {
+      "level": 6,
+      "name": {
+        "es": "PLENITUD DE CUERPO",
+        "en": ""
+      },
+      "description": {
+        "es": "Obtienes la capacidad de sanar tu propio cuerpo. Como acción adicional, puedes tirar tu dado de Artes marciales. Recuperas una cantidad de puntos de golpe igual al resultado más tu modificador por Sabiduría (recuperas 1 punto de golpe como mínimo). Puedes usar este rasgo una cantidad de veces igual a tu modificador por Sabiduría (mínimo una vez) y recuperas todos los usos tras finalizar un descanso largo. NrveEL 11: Paso VELOZ Cuando utilices una acción adicional que no sea Paso del viento, podrás usar también Paso del viento inmediatamente después de esa acción adicional.",
+        "en": ""
+      }
+    },
+    {
+      "level": 17,
+      "name": {
+        "es": "PALMA ESTREMECEDORA",
+        "en": ""
+      },
+      "description": {
+        "es": "Consigues la capacidad de transmitir vibraciones letales al cuerpo de un oponente. Cuando aciertes a una criatura con un ataque sin armas, puedes gastar4 puntos de concentración para iniciar estas vibraciones imper- ceptibles, que durarán tantos días como tu nivel de monje. Las vibraciones son inofensivas, salvo si usas tu acción para hacer que terminen. Como alternativa, cuando lleves a cabo la acción de atacar en tu turno, puedes renunciar a uno de los ataques para poner fin a las vibraciones. Para ello, el objetivo y tú debéis estar en el mismo plano de existencia. Cuando les pongas fin, el objetivo deberá realizar una tirada de salvación de Constitución; sufrirá 10d12 de daño de fuerza si la falla o la mitad del daño si la supera. Solo puedes tener a una criatura bajo el efecto de este rasgo al mismo tiempo. Puedes poner fin a las vibraciones de forma inocua (no requiere acción). GUERRERO DE LA MISERICORDIA Manipula las fuerzas de la vida y la muerte. Los guerreros de la misericordia manipulan la fuerza vital de los demás. Estos monjes son médicos ambulantes, pero capaces de brindar un rápido final a sus enemigos. Suelen llevar máscaras para presentarse como portadores sin rostro de la vida y de la muerte.",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "INSTRUMENTOS DE MISERICORDIA",
+        "en": ""
+      },
+      "description": {
+        "es": "Ganas competencia en las habilidades Medicina y Perspicacia y con los útiles de herborista.",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "MANO DE AFLICCIÓN",
+        "en": ""
+      },
+      "description": {
+        "es": "Una vez por turno, cuando aciertes a una criatura con un ataque sin armas y le causes daño, puedes gastar 1 punto de concentración para infligir una cantidad adicional de daño necrótico igual al resultado de una tirada de tu dado de Artes marciales más tu modificador por Sabiduría.",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "MANO DE CURACIÓN",
+        "en": ""
+      },
+      "description": {
+        "es": "Como acción de magia, puedes gastar 1 punto de concentración para tocar a una criatura y hacer que recupere una cantidad de puntos de golpe igual al resultado de una tirada de tu dado de Artes marciales más tu modificador por Sabiduría. Cuando uses Ráfaga de golpes, puedes sustituir uno de los ataques sin armas por un uso de este rasgo sin gastar un punto de concentración para curar.",
+        "en": ""
+      }
+    },
+    {
+      "level": 6,
+      "name": {
+        "es": "TOQUE DE GALENO",
+        "en": ""
+      },
+      "description": {
+        "es": "Tu Mano de aflicción y Mano de curación mejoran, como se detalla a continuación: Mano de aflicción. Cuando uses Mano de aflicción en una criatura, también podrás infligirle el estado de envenenada hasta el final de tu siguiente turno. Mano de curación. Cuando uses Mano de curación, también podrás poner fin a uno de los siguientes estados en la criatura a la que cures: aturdida, cegada, ensordecida, envenenada o paralizada.",
+        "en": ""
+      }
+    },
+    {
+      "level": 11,
+      "name": {
+        "es": "RÁFAGA DE CURACIÓN Y AFLICCIÓN",
+        "en": ""
+      },
+      "description": {
+        "es": "Cuando uses Ráfaga de golpes, puedes sustituir cada uno de los ataques sin armas por un uso de Mano de curación sin gastar puntos de concentración para curar. Además, cuando hagas un ataque sin armas con Ráfaga de golpes y causes daño, podrás usar Mano de aflicción en ese ataque sin gastar un punto de concentración. Solo puedes usar Mano de aflicción una vez por turno. Puedes utilizar estos beneficios una cantidad de veces igual a tu modificador por Sabiduría (mínimo una vez). Recuperas todos los usos tras finalizar un descanso largo.",
+        "en": ""
+      }
+    },
+    {
+      "level": 17,
+      "name": {
+        "es": "MANO DE MISERICORDIA SUPREMA",
+        "en": ""
+      },
+      "description": {
+        "es": "Tu dominio de la energía vital te abre las puertas de la misericordia suprema. Como acción de magia, puedes tocar el cadáver de una criatura que haya muerto en las últimas 24 horas y gastar 5 puntos de concentración. La criatura volverá a la vida con una cantidad de puntos de golpe igual a 4d10 más tu modificador por Sabiduría. Si la criatura murió mientras tenía alguno de los siguientes estados, revivirá sin ellos: aturdida, cegada, ensordecida, envenenada y paralizada. Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un descanso largo.",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "ARTES SOMBRÍAS",
+        "en": ""
+      },
+      "description": {
+        "es": "Has aprendido a manejar el poder del Páramo Sombrío, lo que te proporciona los siguientes beneficios: Ilusiones sombrías. Conoces el truco ilu: La Sabiduría es tu aptitud mágica para lanzarlo. Oscuridad. Puedes gastar 1 punto de concentración para lanzar el conjuro oscuridad sin necesidad de componentes. Puedes ver dentro de la zona del conjuro cuando lo lanzas con este rasgo. Mientras se mantenga el conjuro, podrás mover la zona de oscuridad a un espacio a 18 m o menos de ti al principio de cada uno de tus turnos. Visión en la oscuridad. Obtienes visión en la oscuridad hasta 18 m. Si ya posees visión en la oscuridad, su alcance aumenta en 18 m. n menor.",
+        "en": ""
+      }
+    },
+    {
+      "level": 6,
+      "name": {
+        "es": "PASO ENTRE SOMBRAS",
+        "en": ""
+      },
+      "description": {
+        "es": "Cuando estés por completo en una zona de luz tenue u oscuridad, puedes utilizar una acción adicional para teletransportarte hasta 18 m a un espacio sin ocupar que puedas ver y que también esté en condiciones de luz tenue u oscuridad. Luego tendrás ventaja en el siguiente ataque cuerpo a cuerpo que hagas antes del final de ese turno.",
+        "en": ""
+      }
+    },
+    {
+      "level": 11,
+      "name": {
+        "es": "PASO ENTRE SOMBRAS MEJORADO",
+        "en": ""
+      },
+      "description": {
+        "es": "Puedes recurrir a tu conexión con el Páramo Sombrío para potenciar tu teletransportación. Cuando uses Paso entre sombras, puedes gastar 1 punto de concentración para eliminar el requisito de comenzar y terminar en una zona de luz tenue u oscuridad para ese uso del rasgo. Como parte de esta acción adicional, puedes hacer un ataque sin armas inmediatamente después de teletransportarte.",
+        "en": ""
+      }
+    },
+    {
+      "level": 17,
+      "name": {
+        "es": "CAPA DE SOMBRAS",
+        "en": ""
+      },
+      "description": {
+        "es": "Como acción de magia cuando estés por completo en una zona de luz tenue u oscuridad, puedes gastar 3 puntos de concentración para envolverte en sombras durante 1 minuto, hasta que tengas el estado de incapacitado o hasta que termines tu turno en una zona de luz brillante. Mientras estés envuelto en estas sombras, obtienes los siguientes beneficios: Incorporeidad parcial. Puedes atravesar espacios ocupados como si fueran terreno difícil. Si terminas tu turno en un espacio así, irás a parar al último espacio sin ocupar en el que hayas estado. Invisibilidad. Tienes el estado de invisible. Ráfaga de sombras. Puedes utilizar tu Ráfaga de golpes sin gastar puntos de concentración. GUERRERO DE LOS ELEMENTOS Emplea ataques y explosiones de poder elemental. Los guerreros de los elementos recurren al poder de los Planos Elementales. Gracias a su concentración sobrenatural, estos monjes controlan momentáneamente la energía del Caos Elemental para fortalecerse tanto dentro como fuera de la batalla.",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "ARMONÍA CON LOS ELEMENTOS",
+        "en": ""
+      },
+      "description": {
+        "es": "Al principio de tu turno, puedes gastar 1 punto de concentración para imbuirte de energía elemental. La energía dura 10 minutos o hasta que tengas el estado de incapacitado. Mientras este rasgo esté activo, obtienes los siguientes beneficios: Alcance. Cuando realizas un ataque sin armas, tu alcance es 3 m superior al normal, ya que la energía elemental surge de ti. Golpes elementales. Siempre que aciertes con tu ataque sin armas, puedes hacer que cause el tipo de daño que quieras entre ácido, frío, fuego, relámpago o trueno en vez de su tipo de daño normal. Cuando inflijas uno de estos tipos con él, también puedes obligar al objetivo a hacer una tirada de salvación de Fuerza. Si la falla, puedes mover al objetivo hasta 3 m hacia ti o en dirección contraria, ya que la energía elemental se arremolina a su alrededor.",
+        "en": ""
+      }
+    },
+    {
+      "level": 3,
+      "name": {
+        "es": "MANIPULAR LOS ELEMENTOS",
+        "en": ""
+      },
+      "description": {
+        "es": "Conoces el conjuro elementalismo. La Sabiduría es tu aptitud mágica para lanzarlo.",
+        "en": ""
+      }
+    },
+    {
+      "level": 6,
+      "name": {
+        "es": "EXPLOSIÓN ELEMENTAL",
+        "en": ""
+      },
+      "description": {
+        "es": "Como acción de magia, puedes gastar 2 puntos de concentración para que la energía elemental explote en una esfera de 6 m de radio centrada en un punto a 36 m o menos de ti. Elige un tipo de daño: ácido, frío, fuego, relámpago o trueno. Todas las criaturas situadas en esa esfera deberán hacer una tirada de salvación de Destreza. Si la fallan, sufrirán una cantidad de daño del tipo elegido igual al resultado de tres tiradas de tu dado de Artes marciales. Si la superan, recibirán la mitad de ese daño.",
+        "en": ""
+      }
+    },
+    {
+      "level": 11,
+      "name": {
+        "es": "PASO DE LOS ELEMENTOS",
+        "en": ""
+      },
+      "description": {
+        "es": "Mientras tu Armonía con los elementos esté activa, tendrás también una velocidad nadando y una velocidad volando iguales a tu velocidad.",
+        "en": ""
+      }
+    },
+    {
+      "level": 17,
+      "name": {
+        "es": "PARADIGMA ELEMENTAL",
+        "en": ""
+      },
+      "description": {
+        "es": "Mientras tu Armonía con los elementos esté activa, obtienes también los siguientes beneficios: Golpes potenciados. Una vez en cada uno de tus turnos, puedes causar a un objetivo una cantidad adicional de daño igual al resultado de una tirada de tu dado de Artes marciales cuando le aciertes con un ataque sin armas. El daño adicional será del mismo tipo que inflija el ataque. Paso destructivo. Cuando utilices tu Paso del viento, tu velocidad aumenta en 6 m hasta el final del turno. Durante ese tiempo, cualquier criatura de tu elección sufre una cantidad de daño igual al resultado de una tirada de tu dado de Artes marciales cuando entres en un espacio a 1,5 m o menos de ella. Elige el tipo de daño: ácido, frío, fuego, relámpago o trueno. Una criatura solo puede sufrir este daño una vez por turno. Resistencia al daño. Ganas resistencia a uno de los siguientes tipos de daño, a tu elección: ácido, frío, fuego, relámpago o trueno. Al principio de cada uno de tus turnos, puedes cambiar esta elección.",
+        "en": ""
+      }
+    }
+  ],
+  "source": "phb2024"
+}
