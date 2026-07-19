@@ -102,6 +102,7 @@ export type CharacterSheet = {
 
   appearance: string;
   backstory: string;
+  extras: string;
   alignment: string;
   languages: string;
   equipmentText: string;
@@ -204,6 +205,7 @@ export function createEmptyCharacter(userId: string): CharacterSheet {
     spells: [],
     appearance: "",
     backstory: "",
+    extras: "",
     alignment: "",
     languages: "",
     equipmentText: "",
