@@ -1,0 +1,210 @@
+[
+  {
+    "id": "armor-padded",
+    "slug": "acolchada",
+    "name": { "es": "Acolchada", "en": "Padded" },
+    "category": { "es": "Ligera", "en": "Light" },
+    "armorClass": "11 + Des",
+    "strength": "",
+    "stealth": { "es": "Desventaja", "en": "Disadvantage" },
+    "weight": "8 lb.",
+    "cost": "5 po",
+    "description": {
+      "es": "Armadura ligera hecha de tela acolchada.",
+      "en": "Light armor made of quilted cloth."
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "armor-leather",
+    "slug": "cuero",
+    "name": { "es": "Cuero", "en": "Leather" },
+    "category": { "es": "Ligera", "en": "Light" },
+    "armorClass": "11 + Des",
+    "strength": "",
+    "stealth": { "es": "—", "en": "—" },
+    "weight": "10 lb.",
+    "cost": "10 po",
+    "description": {
+      "es": "Petos y hombreras de cuero sobre ropa.",
+      "en": "Breastplate and shoulder protectors of leather."
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "armor-studded",
+    "slug": "cuero-tachonado",
+    "name": { "es": "Cuero tachonado", "en": "Studded Leather" },
+    "category": { "es": "Ligera", "en": "Light" },
+    "armorClass": "12 + Des",
+    "strength": "",
+    "stealth": { "es": "—", "en": "—" },
+    "weight": "13 lb.",
+    "cost": "45 po",
+    "description": {
+      "es": "Cuero reforzado con remaches o pinchos.",
+      "en": "Leather reinforced with rivets or spikes."
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "armor-hide",
+    "slug": "pieles",
+    "name": { "es": "Pieles", "en": "Hide" },
+    "category": { "es": "Media", "en": "Medium" },
+    "armorClass": "12 + Des (máx. 2)",
+    "strength": "",
+    "stealth": { "es": "—", "en": "—" },
+    "weight": "12 lb.",
+    "cost": "10 po",
+    "description": {
+      "es": "Múltiples capas de cuero y pieles.",
+      "en": "Multiple layers of leather and hides."
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "armor-chain-shirt",
+    "slug": "camisa-de-mallas",
+    "name": { "es": "Camisa de mallas", "en": "Chain Shirt" },
+    "category": { "es": "Media", "en": "Medium" },
+    "armorClass": "13 + Des (máx. 2)",
+    "strength": "",
+    "stealth": { "es": "—", "en": "—" },
+    "weight": "20 lb.",
+    "cost": "50 po",
+    "description": {
+      "es": "Anillos de metal entrelazados cubren el torso.",
+      "en": "Interlocking metal rings cover the torso."
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "armor-scale",
+    "slug": "escamas",
+    "name": { "es": "Escamas", "en": "Scale Mail" },
+    "category": { "es": "Media", "en": "Medium" },
+    "armorClass": "14 + Des (máx. 2)",
+    "strength": "",
+    "stealth": { "es": "Desventaja", "en": "Disadvantage" },
+    "weight": "45 lb.",
+    "cost": "50 po",
+    "description": {
+      "es": "Abrigo y grebas (y quizá una falda) de escamas de metal.",
+      "en": "Coat and greaves of overlapping metal scales."
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "armor-breastplate",
+    "slug": "coraza",
+    "name": { "es": "Coraza", "en": "Breastplate" },
+    "category": { "es": "Media", "en": "Medium" },
+    "armorClass": "14 + Des (máx. 2)",
+    "strength": "",
+    "stealth": { "es": "—", "en": "—" },
+    "weight": "20 lb.",
+    "cost": "400 po",
+    "description": {
+      "es": "Pieza de metal ajustada que cubre el pecho.",
+      "en": "Fitted metal piece covering the chest."
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "armor-half-plate",
+    "slug": "media-placa",
+    "name": { "es": "Media placa", "en": "Half Plate" },
+    "category": { "es": "Media", "en": "Medium" },
+    "armorClass": "15 + Des (máx. 2)",
+    "strength": "",
+    "stealth": { "es": "Desventaja", "en": "Disadvantage" },
+    "weight": "40 lb.",
+    "cost": "750 po",
+    "description": {
+      "es": "Placas de metal que cubren la mayor parte del cuerpo.",
+      "en": "Metal plates covering most of the body."
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "armor-ring",
+    "slug": "anillas",
+    "name": { "es": "Anillas", "en": "Ring Mail" },
+    "category": { "es": "Pesada", "en": "Heavy" },
+    "armorClass": "14",
+    "strength": "",
+    "stealth": { "es": "Desventaja", "en": "Disadvantage" },
+    "weight": "40 lb.",
+    "cost": "30 po",
+    "description": {
+      "es": "Cuero con anillos de metal pesados cosidos.",
+      "en": "Leather with heavy rings sewn into it."
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "armor-chain",
+    "slug": "cota-de-mallas",
+    "name": { "es": "Cota de mallas", "en": "Chain Mail" },
+    "category": { "es": "Pesada", "en": "Heavy" },
+    "armorClass": "16",
+    "strength": "Fue 13",
+    "stealth": { "es": "Desventaja", "en": "Disadvantage" },
+    "weight": "55 lb.",
+    "cost": "75 po",
+    "description": {
+      "es": "Anillos de metal entrelazados que cubren el cuerpo.",
+      "en": "Interlocking metal rings covering the body."
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "armor-splint",
+    "slug": "brigantina",
+    "name": { "es": "Brigantina", "en": "Splint" },
+    "category": { "es": "Pesada", "en": "Heavy" },
+    "armorClass": "17",
+    "strength": "Fue 15",
+    "stealth": { "es": "Desventaja", "en": "Disadvantage" },
+    "weight": "60 lb.",
+    "cost": "200 po",
+    "description": {
+      "es": "Tiras de metal verticales remachadas a un soporte.",
+      "en": "Vertical strips of metal riveted to a backing."
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "armor-plate",
+    "slug": "placas",
+    "name": { "es": "Placas", "en": "Plate" },
+    "category": { "es": "Pesada", "en": "Heavy" },
+    "armorClass": "18",
+    "strength": "Fue 15",
+    "stealth": { "es": "Desventaja", "en": "Disadvantage" },
+    "weight": "65 lb.",
+    "cost": "1500 po",
+    "description": {
+      "es": "Placas de metal ensambladas que cubren todo el cuerpo.",
+      "en": "Interlocking metal plates covering the whole body."
+    },
+    "source": "phb2024"
+  },
+  {
+    "id": "armor-shield",
+    "slug": "escudo",
+    "name": { "es": "Escudo", "en": "Shield" },
+    "category": { "es": "Escudo", "en": "Shield" },
+    "armorClass": "+2",
+    "strength": "",
+    "stealth": { "es": "—", "en": "—" },
+    "weight": "6 lb.",
+    "cost": "10 po",
+    "description": {
+      "es": "Un escudo aporta +2 a la CA mientras lo empuñas.",
+      "en": "A shield grants +2 to AC while you wield it."
+    },
+    "source": "phb2024"
+  }
+]

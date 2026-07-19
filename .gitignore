@@ -38,3 +38,7 @@ next-env.d.ts
 # PDF extraction raw output (large, private)
 /raw/
 *.pdf
+
+# Local user data & uploads
+/data/
+/public/uploads/

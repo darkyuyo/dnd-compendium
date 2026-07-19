@@ -13,6 +13,7 @@ import { promises as fs } from "fs";
 import path from "path";
 import { z } from "zod";
 import {
+  ArmorSchema,
   BackgroundSchema,
   ClassSchema,
   EquipmentItemSchema,
@@ -27,6 +28,7 @@ type Section =
   | "spells"
   | "monsters"
   | "weapons"
+  | "armor"
   | "equipment"
   | "classes"
   | "species"
@@ -40,6 +42,7 @@ const arraySections: Record<
 > = {
   spells: { file: "spells.json", schema: SpellSchema },
   weapons: { file: "weapons.json", schema: WeaponSchema },
+  armor: { file: "armor.json", schema: ArmorSchema },
   equipment: { file: "equipment.json", schema: EquipmentItemSchema },
   species: { file: "species.json", schema: SpeciesSchema },
   backgrounds: { file: "backgrounds.json", schema: BackgroundSchema },

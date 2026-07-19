@@ -158,3 +158,18 @@ export const FeatSchema = z.object({
   source: SourceSchema,
 });
 export type Feat = z.infer<typeof FeatSchema>;
+
+export const ArmorSchema = z.object({
+  id: z.string(),
+  slug: z.string(),
+  name: LocalizedStringSchema,
+  category: LocalizedStringSchema,
+  armorClass: z.string(),
+  strength: z.string().optional(),
+  stealth: LocalizedStringSchema.optional(),
+  weight: z.string().optional(),
+  cost: z.string().optional(),
+  description: LocalizedStringSchema,
+  source: SourceSchema,
+});
+export type Armor = z.infer<typeof ArmorSchema>;

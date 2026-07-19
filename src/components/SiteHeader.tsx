@@ -2,12 +2,15 @@
 
 import { Link, usePathname } from "@/i18n/navigation";
 import { useLocale, useTranslations } from "next-intl";
+import { useEffect, useState } from "react";
 
 const links = [
   { href: "/", key: "home" as const },
+  { href: "/characters", key: "characters" as const },
   { href: "/monsters", key: "monsters" as const },
   { href: "/spells", key: "spells" as const },
   { href: "/weapons", key: "weapons" as const },
+  { href: "/armor", key: "armor" as const },
   { href: "/equipment", key: "equipment" as const },
   { href: "/classes", key: "classes" as const },
   { href: "/species", key: "species" as const },
@@ -22,6 +25,16 @@ export function SiteHeader() {
   const pathname = usePathname();
   const locale = useLocale();
   const otherLocale = locale === "es" ? "en" : "es";
+  const [user, setUser] = useState<{ name: string } | null | undefined>(
+    undefined,
+  );
+
+  useEffect(() => {
+    fetch("/api/auth/me")
+      .then((r) => (r.ok ? r.json() : { user: null }))
+      .then((d) => setUser(d.user))
+      .catch(() => setUser(null));
+  }, [pathname]);
 
   return (
     <header className="sticky top-0 z-40 border-b border-[var(--border)] bg-[var(--header-bg)]/95 backdrop-blur">
@@ -41,6 +54,36 @@ export function SiteHeader() {
           >
             {otherLocale === "es" ? "ES" : "EN"}
           </Link>
+          {user === undefined ? null : user ? (
+            <>
+              <span className="hidden text-sm text-[var(--muted)] sm:inline">
+                {user.name}
+              </span>
+              <form action="/api/auth/logout" method="POST">
+                <button
+                  type="submit"
+                  className="rounded-md px-2.5 py-1 text-sm text-[var(--muted)] hover:text-[var(--foreground)]"
+                >
+                  {t("logout")}
+                </button>
+              </form>
+            </>
+          ) : (
+            <>
+              <Link
+                href="/login"
+                className="rounded-md px-2.5 py-1 text-sm hover:bg-[var(--surface-2)]"
+              >
+                {t("login")}
+              </Link>
+              <Link
+                href="/register"
+                className="rounded-md bg-[var(--accent)] px-2.5 py-1 text-sm font-semibold text-[var(--accent-fg)]"
+              >
+                {t("register")}
+              </Link>
+            </>
+          )}
         </div>
       </div>
 

@@ -2,6 +2,7 @@ import { promises as fs } from "fs";
 import path from "path";
 import { z } from "zod";
 import {
+  ArmorSchema,
   BackgroundSchema,
   ClassSchema,
   EquipmentItemSchema,
@@ -10,6 +11,7 @@ import {
   SpeciesSchema,
   SpellSchema,
   WeaponSchema,
+  type Armor,
   type Background,
   type Class,
   type EquipmentItem,
@@ -134,6 +136,15 @@ export async function getFeats(): Promise<Feat[]> {
 export async function getFeatBySlug(slug: string): Promise<Feat | undefined> {
   const items = await getFeats();
   return items.find((f) => f.slug === slug);
+}
+
+export async function getArmor(): Promise<Armor[]> {
+  return readJsonArray(path.join(contentRoot, "armor.json"), ArmorSchema);
+}
+
+export async function getArmorBySlug(slug: string): Promise<Armor | undefined> {
+  const items = await getArmor();
+  return items.find((a) => a.slug === slug);
 }
 
 export async function getGuideMarkdown(

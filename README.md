@@ -30,6 +30,14 @@ npm run dev
 
 Abre [http://localhost:3000](http://localhost:3000). Por defecto entra en `/es`. Cambia idioma con el botón **EN / ES** del header.
 
+### Cuentas y personajes
+
+1. **Registro** / **Entrar** en el header.
+2. Ve a **Personajes** → crear hoja.
+3. Rellena la ficha (combate / magia), sube una **foto**, y añade conjuros, armas, armaduras y equipo desde el compendio (botón **Info** abre la ficha).
+
+Los usuarios y personajes se guardan en `data/` (local, gitignored). Las fotos en `public/uploads/`.
+
 Para producción:
 
 ```bash

@@ -17,7 +17,9 @@
     "@mdx-js/react": "^3.1.1",
     "@next/mdx": "^16.2.10",
     "@types/mdx": "^2.0.14",
+    "bcryptjs": "^3.0.3",
     "gray-matter": "^4.0.3",
+    "jose": "^6.2.3",
     "next": "16.2.10",
     "next-intl": "^4.13.2",
     "react": "19.2.4",
@@ -29,6 +31,7 @@
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
+    "@types/bcryptjs": "^2.4.6",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",

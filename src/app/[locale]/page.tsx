@@ -9,6 +9,14 @@ export default async function HomePage({ params }: Props) {
   const t = await getTranslations();
 
   const sections = [
+    {
+      href: "/characters",
+      title: t("nav.characters"),
+      description:
+        locale === "es"
+          ? "Crea y edita hojas de personaje con foto y equipo del compendio."
+          : "Create and edit character sheets with photo and compendium gear.",
+    },
     { href: "/monsters", title: t("nav.monsters"), description: t("monsters.subtitle") },
     { href: "/spells", title: t("nav.spells"), description: t("spells.subtitle") },
     { href: "/classes", title: t("nav.classes"), description: t("classes.subtitle") },
@@ -16,6 +24,7 @@ export default async function HomePage({ params }: Props) {
     { href: "/backgrounds", title: t("nav.backgrounds"), description: t("backgrounds.subtitle") },
     { href: "/feats", title: t("nav.feats"), description: t("feats.subtitle") },
     { href: "/weapons", title: t("nav.weapons"), description: t("weapons.subtitle") },
+    { href: "/armor", title: t("nav.armor"), description: locale === "es" ? "Armaduras y escudos." : "Armor and shields." },
     { href: "/equipment", title: t("nav.equipment"), description: t("equipment.subtitle") },
     { href: "/how-to-play", title: t("nav.howToPlay"), description: t("guides.howToPlayTitle") },
     {

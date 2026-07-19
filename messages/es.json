@@ -5,9 +5,11 @@
   },
   "nav": {
     "home": "Inicio",
+    "characters": "Personajes",
     "monsters": "Monstruos",
     "spells": "Conjuros",
     "weapons": "Armas",
+    "armor": "Armaduras",
     "equipment": "Equipo",
     "classes": "Clases",
     "species": "Especies",
@@ -15,6 +17,8 @@
     "feats": "Dotes",
     "howToPlay": "Cómo jugar",
     "characterCreation": "Crear personaje",
+    "login": "Entrar",
+    "register": "Registro",
     "logout": "Salir"
   },
   "home": {

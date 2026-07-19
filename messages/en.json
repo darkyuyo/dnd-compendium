@@ -5,9 +5,11 @@
   },
   "nav": {
     "home": "Home",
+    "characters": "Characters",
     "monsters": "Monsters",
     "spells": "Spells",
     "weapons": "Weapons",
+    "armor": "Armor",
     "equipment": "Equipment",
     "classes": "Classes",
     "species": "Species",
@@ -15,6 +17,8 @@
     "feats": "Feats",
     "howToPlay": "How to play",
     "characterCreation": "Character creation",
+    "login": "Log in",
+    "register": "Sign up",
     "logout": "Log out"
   },
   "home": {
