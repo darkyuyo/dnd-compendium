@@ -5,7 +5,7 @@ import { SESSION_COOKIE, verifySessionToken } from "./lib/sessionToken";
 
 const intlMiddleware = createMiddleware(routing);
 
-export default async function middleware(request: NextRequest) {
+export default async function proxy(request: NextRequest) {
   const { pathname } = request.nextUrl;
 
   // Never touch API routes (next-intl would prefix /es and break them)

@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { Link, useRouter } from "@/i18n/navigation";
 import { CompendiumPicker } from "@/components/CompendiumPicker";
 import {
@@ -75,6 +75,79 @@ function Field({
 
 function inputClass() {
   return "w-full rounded-md border border-[var(--border)] bg-[var(--bg)] px-2 py-1.5 text-sm outline-none focus:ring-2 focus:ring-[var(--accent)]";
+}
+
+/** Numeric field that allows clearing 0 and typing over it without leading zeros. */
+function NumberInput({
+  value,
+  onChange,
+  className,
+  min,
+  max,
+}: {
+  value: number;
+  onChange: (value: number) => void;
+  className?: string;
+  min?: number;
+  max?: number;
+}) {
+  const [focused, setFocused] = useState(false);
+  const [text, setText] = useState(String(value));
+
+  useEffect(() => {
+    if (!focused) setText(String(value));
+  }, [value, focused]);
+
+  function clamp(n: number) {
+    let next = n;
+    if (min != null) next = Math.max(min, next);
+    if (max != null) next = Math.min(max, next);
+    return next;
+  }
+
+  function parseAndCommit(raw: string, keepDraft: boolean) {
+    const trimmed = raw.trim();
+    if (trimmed === "" || trimmed === "-") {
+      onChange(clamp(0));
+      if (!keepDraft) setText("0");
+      return;
+    }
+    const n = Number(trimmed);
+    if (!Number.isFinite(n)) {
+      if (!keepDraft) setText(String(value));
+      return;
+    }
+    const next = clamp(n);
+    onChange(next);
+    if (!keepDraft) setText(String(next));
+  }
+
+  return (
+    <input
+      type="text"
+      inputMode="numeric"
+      className={className}
+      value={text}
+      onFocus={(e) => {
+        setFocused(true);
+        setText(String(value));
+        e.target.select();
+      }}
+      onChange={(e) => {
+        const raw = e.target.value;
+        if (raw !== "" && raw !== "-" && !/^-?\d*$/.test(raw)) return;
+        setText(raw);
+        if (raw !== "" && raw !== "-") {
+          const n = Number(raw);
+          if (Number.isFinite(n)) onChange(clamp(n));
+        }
+      }}
+      onBlur={() => {
+        setFocused(false);
+        parseAndCommit(text, false);
+      }}
+    />
+  );
 }
 
 export function CharacterSheetEditor({
@@ -252,10 +325,10 @@ export function CharacterSheetEditor({
           <input className={inputClass()} value={sheet.subclass} onChange={(e) => update("subclass", e.target.value)} />
         </Field>
         <Field label="Nivel">
-          <input type="number" className={inputClass()} value={sheet.level} onChange={(e) => update("level", Number(e.target.value))} />
+          <NumberInput className={inputClass()} value={sheet.level} onChange={(n) => update("level", n)} />
         </Field>
         <Field label="PX">
-          <input type="number" className={inputClass()} value={sheet.xp} onChange={(e) => update("xp", Number(e.target.value))} />
+          <NumberInput className={inputClass()} value={sheet.xp} onChange={(n) => update("xp", n)} />
         </Field>
       </section>
 
@@ -277,16 +350,15 @@ export function CharacterSheetEditor({
                     </span>
                   </div>
                   <Field label="Puntuación" className="mt-2">
-                    <input
-                      type="number"
+                    <NumberInput
                       className={inputClass()}
                       value={block.score}
-                      onChange={(e) =>
+                      onChange={(n) =>
                         setSheet((s) => ({
                           ...s,
                           abilities: {
                             ...s.abilities,
-                            [key]: { ...block, score: Number(e.target.value) },
+                            [key]: { ...block, score: n },
                           },
                         }))
                       }
@@ -342,32 +414,32 @@ export function CharacterSheetEditor({
           {/* Combat stats */}
           <section className="grid gap-3 rounded-xl border border-[var(--border)] bg-[var(--surface)] p-4 sm:grid-cols-2 lg:grid-cols-4">
             <Field label="Clase de Armadura">
-              <input type="number" className={inputClass()} value={sheet.armorClass} onChange={(e) => update("armorClass", Number(e.target.value))} />
+              <NumberInput className={inputClass()} value={sheet.armorClass} onChange={(n) => update("armorClass", n)} />
             </Field>
             <label className="flex items-end gap-2 pb-2 text-sm">
               <input type="checkbox" checked={sheet.shield} onChange={(e) => update("shield", e.target.checked)} />
               Escudo
             </label>
             <Field label="PG actuales">
-              <input type="number" className={inputClass()} value={sheet.hpCurrent} onChange={(e) => update("hpCurrent", Number(e.target.value))} />
+              <NumberInput className={inputClass()} value={sheet.hpCurrent} onChange={(n) => update("hpCurrent", n)} />
             </Field>
             <Field label="PG máx.">
-              <input type="number" className={inputClass()} value={sheet.hpMax} onChange={(e) => update("hpMax", Number(e.target.value))} />
+              <NumberInput className={inputClass()} value={sheet.hpMax} onChange={(n) => update("hpMax", n)} />
             </Field>
             <Field label="PG temp.">
-              <input type="number" className={inputClass()} value={sheet.hpTemp} onChange={(e) => update("hpTemp", Number(e.target.value))} />
+              <NumberInput className={inputClass()} value={sheet.hpTemp} onChange={(n) => update("hpTemp", n)} />
             </Field>
             <Field label="Dados de golpe (máx.)">
               <input className={inputClass()} value={sheet.hitDiceMax} onChange={(e) => update("hitDiceMax", e.target.value)} />
             </Field>
             <Field label="Dados gastados">
-              <input type="number" className={inputClass()} value={sheet.hitDiceSpent} onChange={(e) => update("hitDiceSpent", Number(e.target.value))} />
+              <NumberInput className={inputClass()} value={sheet.hitDiceSpent} onChange={(n) => update("hitDiceSpent", n)} />
             </Field>
             <Field label="Bonif. competencia">
-              <input type="number" className={inputClass()} value={sheet.proficiencyBonus} onChange={(e) => update("proficiencyBonus", Number(e.target.value))} />
+              <NumberInput className={inputClass()} value={sheet.proficiencyBonus} onChange={(n) => update("proficiencyBonus", n)} />
             </Field>
             <Field label="Iniciativa">
-              <input type="number" className={inputClass()} value={sheet.initiative} onChange={(e) => update("initiative", Number(e.target.value))} />
+              <NumberInput className={inputClass()} value={sheet.initiative} onChange={(n) => update("initiative", n)} />
             </Field>
             <Field label="Velocidad">
               <input className={inputClass()} value={sheet.speed} onChange={(e) => update("speed", e.target.value)} />
@@ -376,17 +448,17 @@ export function CharacterSheetEditor({
               <input className={inputClass()} value={sheet.size} onChange={(e) => update("size", e.target.value)} />
             </Field>
             <Field label="Percepción pasiva">
-              <input type="number" className={inputClass()} value={sheet.passivePerception} onChange={(e) => update("passivePerception", Number(e.target.value))} />
+              <NumberInput className={inputClass()} value={sheet.passivePerception} onChange={(n) => update("passivePerception", n)} />
             </Field>
             <label className="flex items-end gap-2 pb-2 text-sm">
               <input type="checkbox" checked={sheet.heroicInspiration} onChange={(e) => update("heroicInspiration", e.target.checked)} />
               Inspiración heroica
             </label>
             <Field label="Salvaciones muerte (éxitos)">
-              <input type="number" min={0} max={3} className={inputClass()} value={sheet.deathSuccesses} onChange={(e) => update("deathSuccesses", Number(e.target.value))} />
+              <NumberInput min={0} max={3} className={inputClass()} value={sheet.deathSuccesses} onChange={(n) => update("deathSuccesses", n)} />
             </Field>
             <Field label="Salvaciones muerte (fallos)">
-              <input type="number" min={0} max={3} className={inputClass()} value={sheet.deathFailures} onChange={(e) => update("deathFailures", Number(e.target.value))} />
+              <NumberInput min={0} max={3} className={inputClass()} value={sheet.deathFailures} onChange={(n) => update("deathFailures", n)} />
             </Field>
           </section>
 
@@ -559,13 +631,13 @@ export function CharacterSheetEditor({
                   </select>
                 </Field>
                 <Field label="Mod. aptitud mágica">
-                  <input type="number" className={inputClass()} value={sheet.spellMod} onChange={(e) => update("spellMod", Number(e.target.value))} />
+                  <NumberInput className={inputClass()} value={sheet.spellMod} onChange={(n) => update("spellMod", n)} />
                 </Field>
                 <Field label="CD salvación conjuros">
-                  <input type="number" className={inputClass()} value={sheet.spellSaveDc} onChange={(e) => update("spellSaveDc", Number(e.target.value))} />
+                  <NumberInput className={inputClass()} value={sheet.spellSaveDc} onChange={(n) => update("spellSaveDc", n)} />
                 </Field>
                 <Field label="Bonif. ataque conjuros">
-                  <input type="number" className={inputClass()} value={sheet.spellAttack} onChange={(e) => update("spellAttack", Number(e.target.value))} />
+                  <NumberInput className={inputClass()} value={sheet.spellAttack} onChange={(n) => update("spellAttack", n)} />
                 </Field>
               </div>
 
@@ -577,16 +649,15 @@ export function CharacterSheetEditor({
                       <div className="text-xs font-bold">N{lvl}</div>
                       <label className="mt-1 block text-[10px] text-[var(--muted)]">
                         Total
-                        <input
-                          type="number"
+                        <NumberInput
                           className={`${inputClass()} mt-0.5`}
                           value={sheet.spellSlots[lvl]?.total ?? 0}
-                          onChange={(e) =>
+                          onChange={(n) =>
                             update("spellSlots", {
                               ...sheet.spellSlots,
                               [lvl]: {
                                 ...sheet.spellSlots[lvl],
-                                total: Number(e.target.value),
+                                total: n,
                                 used: sheet.spellSlots[lvl]?.used ?? 0,
                               },
                             })
@@ -595,16 +666,15 @@ export function CharacterSheetEditor({
                       </label>
                       <label className="mt-1 block text-[10px] text-[var(--muted)]">
                         Gastados
-                        <input
-                          type="number"
+                        <NumberInput
                           className={`${inputClass()} mt-0.5`}
                           value={sheet.spellSlots[lvl]?.used ?? 0}
-                          onChange={(e) =>
+                          onChange={(n) =>
                             update("spellSlots", {
                               ...sheet.spellSlots,
                               [lvl]: {
                                 ...sheet.spellSlots[lvl],
-                                used: Number(e.target.value),
+                                used: n,
                                 total: sheet.spellSlots[lvl]?.total ?? 0,
                               },
                             })
@@ -658,9 +728,9 @@ export function CharacterSheetEditor({
                 <div className="space-y-2">
                   {sheet.spells.map((sp, idx) => (
                     <div key={sp.id} className="grid gap-2 rounded-lg border border-[var(--border)] p-2 sm:grid-cols-6">
-                      <input type="number" className={inputClass()} value={sp.level} onChange={(e) => {
+                      <NumberInput className={inputClass()} value={sp.level} onChange={(n) => {
                         const spells = [...sheet.spells];
-                        spells[idx] = { ...sp, level: Number(e.target.value) };
+                        spells[idx] = { ...sp, level: n };
                         update("spells", spells);
                       }} />
                       <input className={`${inputClass()} sm:col-span-2`} value={sp.name} onChange={(e) => {
@@ -793,14 +863,13 @@ export function CharacterSheetEditor({
                     ["pp", "PPT"],
                   ] as const).map(([key, label]) => (
                     <Field key={key} label={label}>
-                      <input
-                        type="number"
+                      <NumberInput
                         className={inputClass()}
                         value={sheet.coins[key]}
-                        onChange={(e) =>
+                        onChange={(n) =>
                           update("coins", {
                             ...sheet.coins,
-                            [key]: Number(e.target.value),
+                            [key]: n,
                           })
                         }
                       />
