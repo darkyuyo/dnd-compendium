@@ -2,25 +2,25 @@
   "id": "monster-a11osaurus",
   "slug": "a11osaurus",
   "name": {
-    "es": "",
+    "es": "Alosaurio",
     "en": "A11osaurus"
   },
   "size": {
-    "es": "",
+    "es": "Grande",
     "en": "Large"
   },
   "type": {
-    "es": "",
+    "es": "Bestia (dinosaurio)",
     "en": "Beast (Dinosau)"
   },
   "alignment": {
-    "es": "",
+    "es": "Sin alineamiento",
     "en": "Unaligned"
   },
   "armorClass": 13,
   "hitPoints": "51 (6d10 + '18)",
   "speed": {
-    "es": "",
+    "es": "18 m",
     "en": "60 ft."
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Percepción +5",
     "en": "Perception +5"
   },
   "senses": {
-    "es": "",
+    "es": "Percepción pasiva 15",
     "en": "Passive Perception 15"
   },
   "languages": {
-    "es": "",
+    "es": "None",
     "en": "None"
   },
   "challengeRating": "2",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.348). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.348). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

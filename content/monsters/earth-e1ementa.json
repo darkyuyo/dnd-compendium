@@ -2,25 +2,25 @@
   "id": "monster-earth-e1ementa",
   "slug": "earth-e1ementa",
   "name": {
-    "es": "",
+    "es": "Elemental de tierra",
     "en": "Earth E1ementa"
   },
   "size": {
-    "es": "",
+    "es": "Grande",
     "en": "Large"
   },
   "type": {
-    "es": "",
+    "es": "Elemental",
     "en": "Elemental"
   },
   "alignment": {
-    "es": "",
+    "es": "Neutral",
     "en": "Neutral"
   },
   "armorClass": 17,
   "hitPoints": "147 (ladl0 + 70)",
   "speed": {
-    "es": "",
+    "es": "30 j,;:T;:\"* ,o ,, \\4oD 'AVE",
     "en": "30 j,;:T;:\"* ,o ,, \\4oD 'AVE"
   },
   "abilityScores": {
@@ -32,11 +32,11 @@
     "cha": 10
   },
   "senses": {
-    "es": "",
+    "es": "Visión en la oscuridad 18 m, Sentido sísmico 18 m,",
     "en": "Darkvision 60 ft., Tremorsense 60 ft.,"
   },
   "languages": {
-    "es": "",
+    "es": "Pri mordial (Terran)",
     "en": "Pri mordial (Terran)"
   },
   "challengeRating": "5",
@@ -47,7 +47,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.108). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.108). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

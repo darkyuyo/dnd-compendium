@@ -2,25 +2,25 @@
   "id": "monster-chasme",
   "slug": "chasme",
   "name": {
-    "es": "",
+    "es": "Chasme",
     "en": "Chasme"
   },
   "size": {
-    "es": "",
+    "es": "Grande",
     "en": "Large"
   },
   "type": {
-    "es": "",
+    "es": "Infernal (demonio)",
     "en": "Fiend (Demon)"
   },
   "alignment": {
-    "es": "",
+    "es": "Caótico malvado",
     "en": "Chaotic Evil"
   },
   "armorClass": 15,
   "hitPoints": "78 (12d]0 + 12)",
   "speed": {
-    "es": "",
+    "es": "2o jt;: t]l\"l' tt LloD sA\\ E MOD SAVE",
     "en": "2o jt;: t]l\"l' tt LloD sA\\ E MOD SAVE"
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Percepción +5",
     "en": "Perception +5"
   },
   "senses": {
-    "es": "",
+    "es": "Vista ciega 3 m, Visión en la oscuridad 36 m;",
     "en": "Blindsight 10 ft., Darkvision 120 ft.;"
   },
   "languages": {
-    "es": "",
+    "es": "Abisal; telepatía 120 ft.",
     "en": "Abyssal; telepathy 120 ft."
   },
   "challengeRating": "6",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.69). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.69). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

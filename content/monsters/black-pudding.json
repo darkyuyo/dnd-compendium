@@ -2,25 +2,25 @@
   "id": "monster-black-pudding",
   "slug": "black-pudding",
   "name": {
-    "es": "",
+    "es": "Pudin negro",
     "en": "Black Pudding"
   },
   "size": {
-    "es": "",
+    "es": "Grande",
     "en": "Large"
   },
   "type": {
-    "es": "",
+    "es": "Cieno",
     "en": "Ooze"
   },
   "alignment": {
-    "es": "",
+    "es": "Sin alineamiento",
     "en": "Unaligned"
   },
   "armorClass": 7,
   "hitPoints": "68 (8d10 + 2a)",
   "speed": {
-    "es": "",
+    "es": "6 m, escalar 6 m",
     "en": "20 ft., Climb 20 ft."
   },
   "abilityScores": {
@@ -32,11 +32,11 @@
     "cha": 10
   },
   "senses": {
-    "es": "",
+    "es": "Vista ciega 15 m; Percepción pasiva 8",
     "en": "Blindsight 50 ft.; Passive Perception 8"
   },
   "languages": {
-    "es": "",
+    "es": "None",
     "en": "None"
   },
   "challengeRating": "4",
@@ -47,7 +47,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.42). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.42). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

@@ -10,6 +10,7 @@
     "extract:phb": "tsx scripts/extract-pdf.ts phb",
     "extract:mm": "tsx scripts/extract-pdf.ts mm",
     "parse:all": "tsx scripts/parse-all-from-raw.ts",
+    "fill:i18n": "tsx scripts/fill-missing-translations.ts",
     "content:validate": "tsx scripts/curate-from-raw.ts validate-all"
   },
   "dependencies": {

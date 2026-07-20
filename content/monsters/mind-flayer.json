@@ -2,25 +2,25 @@
   "id": "monster-mind-flayer",
   "slug": "mind-flayer",
   "name": {
-    "es": "",
+    "es": "Azotamentes",
     "en": "Mind Flayer"
   },
   "size": {
-    "es": "",
+    "es": "Mediano",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Aberración",
     "en": "Aberration"
   },
   "alignment": {
-    "es": "",
+    "es": "Legal malvado",
     "en": "Lawful Evil"
   },
   "armorClass": 16,
   "hitPoints": "143 (26d8 + 26)",
   "speed": {
-    "es": "",
+    "es": "9 m, volar 4,5 m (levitar)",
     "en": "30 ft., Fly 15 ft. (hover)"
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Arcano +7, lnsight +5, Percepción +5, Sigilo +4",
     "en": "Arcana +7, lnsight +5, Perception +5, Stealth +4"
   },
   "senses": {
-    "es": "",
+    "es": "Visión en la oscuridad 36 m; Percepción pasiva 16",
     "en": "Darkvision 120 ft.; Passive Perception 16"
   },
   "languages": {
-    "es": "",
+    "es": "Profundo Habla, Infrasombroso;",
     "en": "Deep Speech, Undercommon;"
   },
   "challengeRating": "7",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.214). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.214). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

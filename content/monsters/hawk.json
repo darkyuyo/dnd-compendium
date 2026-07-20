@@ -2,25 +2,25 @@
   "id": "monster-hawk",
   "slug": "hawk",
   "name": {
-    "es": "",
+    "es": "Halcón",
     "en": "Hawk"
   },
   "size": {
-    "es": "",
+    "es": "Diminuto",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Bestia",
     "en": "Beast"
   },
   "alignment": {
-    "es": "",
+    "es": "Sin alineamiento",
     "en": "Unaligned"
   },
   "armorClass": 13,
   "hitPoints": "11 (2d8 + 2)",
   "speed": {
-    "es": "",
+    "es": "12 m, escalar 9 m",
     "en": "40 ft., Climb 30 ft."
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Percepción +3, Sigilo +7",
     "en": "Perception +3, Stealth +7"
   },
   "senses": {
-    "es": "",
+    "es": "Vista ciega 3 m, Visión en la oscuridad 18 m;",
     "en": "Blindsight 10 ft., Darkvision 60 ft.;"
   },
   "languages": {
-    "es": "",
+    "es": "None",
     "en": "None"
   },
   "challengeRating": "0",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.362). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.362). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

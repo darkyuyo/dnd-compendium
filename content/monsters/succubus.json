@@ -2,25 +2,25 @@
   "id": "monster-succubus",
   "slug": "succubus",
   "name": {
-    "es": "",
+    "es": "Súcubo",
     "en": "Succubus"
   },
   "size": {
-    "es": "",
+    "es": "Mediano",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Infernal",
     "en": "Fiend"
   },
   "alignment": {
-    "es": "",
+    "es": "Neutral malvado",
     "en": "Neutral Evil"
   },
   "armorClass": 15,
   "hitPoints": "71 (13d8 + 13)",
   "speed": {
-    "es": "",
+    "es": "3ojt;:t]l,it ot MOD .AVE",
     "en": "3ojt;:t]l,it ot MOD .AVE"
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Engaño +9, lnsight +5, Percepción +5,",
     "en": "Deception +9, lnsight +5, Perception +5,"
   },
   "senses": {
-    "es": "",
+    "es": "Visión en la oscuridad 18 m; Percepción pasiva 15",
     "en": "Darkvision 60 ft.; Passive Perception 15"
   },
   "languages": {
-    "es": "",
+    "es": "Abisal, Común, lnfernal; telepatía 60 ft",
     "en": "Abyssal, Common, lnfernal; telepathy 60 ft"
   },
   "challengeRating": "4",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.303). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.303). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

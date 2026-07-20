@@ -2,25 +2,25 @@
   "id": "monster-specter",
   "slug": "specter",
   "name": {
-    "es": "",
+    "es": "Espectro",
     "en": "Specter"
   },
   "size": {
-    "es": "",
+    "es": "Mediano",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Muerto viviente",
     "en": "Unknown"
   },
   "alignment": {
-    "es": "",
+    "es": "Caótico malvado",
     "en": "Unaligned"
   },
   "armorClass": 12,
   "hitPoints": "22 (sd8)",
   "speed": {
-    "es": "",
+    "es": "9 m, volar 15 m (levitar)",
     "en": "30 ft., Fly 50 ft. (hover)"
   },
   "abilityScores": {
@@ -32,11 +32,11 @@
     "cha": 10
   },
   "senses": {
-    "es": "",
+    "es": "Visión en la oscuridad 18 m; Percepción pasiva 10",
     "en": "Darkvision 60 ft.; Passive Perception 10"
   },
   "languages": {
-    "es": "",
+    "es": "Entiende Común plus one other",
     "en": "Understands Common plus one other"
   },
   "challengeRating": "?",
@@ -47,7 +47,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.290). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.290). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

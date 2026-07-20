@@ -2,25 +2,25 @@
   "id": "monster-draft-horse",
   "slug": "draft-horse",
   "name": {
-    "es": "",
+    "es": "Caballo de tiro",
     "en": "Draft Horse"
   },
   "size": {
-    "es": "",
+    "es": "Grande",
     "en": "Large"
   },
   "type": {
-    "es": "",
+    "es": "Bestia",
     "en": "Beast"
   },
   "alignment": {
-    "es": "",
+    "es": "Sin alineamiento",
     "en": "Unaligned"
   },
   "armorClass": 12,
   "hitPoints": "13 (2d10 + 2)",
   "speed": {
-    "es": "",
+    "es": "2o j';t.:JI 'o tt \\4oD .ar",
     "en": "2o j';t.:JI 'o tt \\4oD .ar"
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Sigilo +2",
     "en": "Stealth +2"
   },
   "senses": {
-    "es": "",
+    "es": "Percepción pasiva 10",
     "en": "Passive Perception 10"
   },
   "languages": {
-    "es": "",
+    "es": "None",
     "en": "None"
   },
   "challengeRating": "1",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.352). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.352). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

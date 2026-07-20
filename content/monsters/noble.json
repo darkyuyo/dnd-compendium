@@ -2,25 +2,25 @@
   "id": "monster-noble",
   "slug": "noble",
   "name": {
-    "es": "",
+    "es": "Noble",
     "en": "Noble"
   },
   "size": {
-    "es": "",
+    "es": "Mediano o Pequeño",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Humanoide",
     "en": "Humanoid"
   },
   "alignment": {
-    "es": "",
+    "es": "Neutral",
     "en": "Neutral"
   },
   "armorClass": 15,
   "hitPoints": "148 (27d8 + 27)",
   "speed": {
-    "es": "",
+    "es": "3o,lo,",
     "en": "3o,lo,"
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Percepción +6, Persuasión +8",
     "en": "Perception +6, Persuasion +8"
   },
   "senses": {
-    "es": "",
+    "es": "Percepción pasiva 15",
     "en": "Passive Perception 15"
   },
   "languages": {
-    "es": "",
+    "es": "Común plus two other Idiomas",
     "en": "Common plus two other languages"
   },
   "challengeRating": "10",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.227). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.227). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

@@ -2,25 +2,25 @@
   "id": "monster-giant-ow",
   "slug": "giant-ow",
   "name": {
-    "es": "",
+    "es": "Águila gigante",
     "en": "Giant Ow"
   },
   "size": {
-    "es": "",
+    "es": "Grande",
     "en": "Large"
   },
   "type": {
-    "es": "",
+    "es": "Celestial",
     "en": "Beast"
   },
   "alignment": {
-    "es": "",
+    "es": "Neutral bueno",
     "en": "Unaligned"
   },
   "armorClass": 10,
   "hitPoints": "19 (3d10 + 3)",
   "speed": {
-    "es": "",
+    "es": "3 m, nadar 18 m",
     "en": "10 ft., Swim 60 ft."
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Percepción +6, Sigilo +6",
     "en": "Perception +6, Stealth +6"
   },
   "senses": {
-    "es": "",
+    "es": "Visión en la oscuridad 15 m; Percepción pasiva 14",
     "en": "Darkvision 50 ft.; Passive Perception 14"
   },
   "languages": {
-    "es": "",
+    "es": "None",
     "en": "None"
   },
   "challengeRating": "?",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.358). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.358). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

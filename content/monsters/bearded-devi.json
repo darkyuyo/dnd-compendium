@@ -2,25 +2,25 @@
   "id": "monster-bearded-devi",
   "slug": "bearded-devi",
   "name": {
-    "es": "",
+    "es": "Diablo barbado",
     "en": "Bearded Devi"
   },
   "size": {
-    "es": "",
+    "es": "Mediano",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Infernal (diablo)",
     "en": "Fiend (Devil)"
   },
   "alignment": {
-    "es": "",
+    "es": "Legal malvado",
     "en": "Lawful Evil"
   },
   "armorClass": 10,
   "hitPoints": "58 (9d8 + 18)",
   "speed": {
-    "es": "",
+    "es": "9 m",
     "en": "30 ft."
   },
   "abilityScores": {
@@ -32,11 +32,11 @@
     "cha": 10
   },
   "senses": {
-    "es": "",
+    "es": "Visión en la oscuridad 36 m (unimpeded by magical",
     "en": "Darkvision 120 ft. (unimpeded by magical"
   },
   "languages": {
-    "es": "",
+    "es": "lnfernal; telepatía 120 ft.",
     "en": "lnfernal; telepathy 120 ft."
   },
   "challengeRating": "3",
@@ -47,7 +47,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.33). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.33). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

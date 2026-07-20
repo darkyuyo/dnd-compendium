@@ -2,25 +2,25 @@
   "id": "monster-satyr-reve1master",
   "slug": "satyr-reve1master",
   "name": {
-    "es": "",
+    "es": "Sátiro gran vividor",
     "en": "Satyr Reve1master"
   },
   "size": {
-    "es": "",
+    "es": "Mediano",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Feérico",
     "en": "Fey"
   },
   "alignment": {
-    "es": "",
+    "es": "Caótico neutral",
     "en": "Chaotic Neutral"
   },
   "armorClass": 13,
   "hitPoints": "82 (15d8 + 15)",
   "speed": {
-    "es": "",
+    "es": "12 m",
     "en": "40 ft."
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Percepción +2, Interpretación +5, Sigilo +5",
     "en": "Perception +2, Performance +5, Stealth +5"
   },
   "senses": {
-    "es": "",
+    "es": "Percepción pasiva 12",
     "en": "Passive Perception 12"
   },
   "languages": {
-    "es": "",
+    "es": "Común, Élfico, Silvano",
     "en": "Common, Elvish, Sylvan"
   },
   "challengeRating": "6",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.268). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.268). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

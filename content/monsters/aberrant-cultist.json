@@ -2,25 +2,25 @@
   "id": "monster-aberrant-cultist",
   "slug": "aberrant-cultist",
   "name": {
-    "es": "",
+    "es": "Sectario aberrante",
     "en": "Aberrant Cultist"
   },
   "size": {
-    "es": "",
+    "es": "Mediano o Pequeño",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Humanoide",
     "en": "Humanoid"
   },
   "alignment": {
-    "es": "",
+    "es": "Neutral malvado",
     "en": "Neutral Evrl"
   },
   "armorClass": 14,
   "hitPoints": "137 (2sd8 + 25)",
   "speed": {
-    "es": "",
+    "es": "9 m",
     "en": "30 ft."
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Arcano +5, Percepción +7, Religión +5",
     "en": "Arcana +5, Perception +7, Religion +5"
   },
   "senses": {
-    "es": "",
+    "es": "Visión en la oscuridad 27 m; Percepción pasiva 17",
     "en": "Darkvision 90 ft.; Passive Perception 17"
   },
   "languages": {
-    "es": "",
+    "es": "Común, Profundo Habla; telepatía 30 ft.",
     "en": "Common, Deep Speech; telepathy 30 ft."
   },
   "challengeRating": "8",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.86). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.86). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

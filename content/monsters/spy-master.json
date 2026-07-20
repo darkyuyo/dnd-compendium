@@ -2,25 +2,25 @@
   "id": "monster-spy-master",
   "slug": "spy-master",
   "name": {
-    "es": "",
+    "es": "Espía maestro",
     "en": "Spy Master"
   },
   "size": {
-    "es": "",
+    "es": "Mediano o Pequeño",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Humanoide",
     "en": "Humanoid"
   },
   "alignment": {
-    "es": "",
+    "es": "Neutral",
     "en": "Neutral"
   },
   "armorClass": 12,
   "hitPoints": "27 (6d8)",
   "speed": {
-    "es": "",
+    "es": "9 m, escalar 9 m",
     "en": "30 ft., Climb 30 ft."
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Engaño +5, lnsight +4, lnvestigation +5,",
     "en": "Deception +5, lnsight +4, lnvestigation +5,"
   },
   "senses": {
-    "es": "",
+    "es": "Percepción pasiva 16",
     "en": "Passive Perception 16"
   },
   "languages": {
-    "es": "",
+    "es": "Común plus one other Idioma",
     "en": "Common plus one other language"
   },
   "challengeRating": "10",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.295). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.295). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

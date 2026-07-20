@@ -2,25 +2,25 @@
   "id": "monster-worg",
   "slug": "worg",
   "name": {
-    "es": "",
+    "es": "Huargo",
     "en": "Worg"
   },
   "size": {
-    "es": "",
+    "es": "Grande",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Feérico",
     "en": "Undead"
   },
   "alignment": {
-    "es": "",
+    "es": "Neutral malvado",
     "en": "Neutral Evil"
   },
   "armorClass": 13,
   "hitPoints": "67 (9d8 + 27)",
   "speed": {
-    "es": "",
+    "es": "1,5 m, volar 18 m (levitar)",
     "en": "5 ft., fly 60 ft. (hover)"
   },
   "abilityScores": {
@@ -32,11 +32,11 @@
     "cha": 10
   },
   "senses": {
-    "es": "",
+    "es": "Visión en la oscuridad 15 m; Percepción pasiva 12",
     "en": "Darkvision 50 ft.; Passive Perception 12"
   },
   "languages": {
-    "es": "",
+    "es": "Común plus two other Idiomas",
     "en": "Common plus two other languages"
   },
   "challengeRating": "5",
@@ -47,7 +47,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.335). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.335). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

@@ -2,25 +2,25 @@
   "id": "monster-giant-boar",
   "slug": "giant-boar",
   "name": {
-    "es": "",
+    "es": "Jabalí gigante",
     "en": "Giant Boar"
   },
   "size": {
-    "es": "",
+    "es": "Grande",
     "en": "Large"
   },
   "type": {
-    "es": "",
+    "es": "Bestia",
     "en": "Beast"
   },
   "alignment": {
-    "es": "",
+    "es": "Sin alineamiento",
     "en": "Unaligned"
   },
   "armorClass": 13,
   "hitPoints": "22 (4d10)",
   "speed": {
-    "es": "",
+    "es": "3 m, volar 18 m",
     "en": "10 ft., Fly 60 ft."
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Percepción +2",
     "en": "Perception +2"
   },
   "senses": {
-    "es": "",
+    "es": "Vista ciega .36 m; Percepción pasiva 11",
     "en": "Blindsight .120 ft.; Passive Perception 11"
   },
   "languages": {
-    "es": "",
+    "es": "None",
     "en": "None"
   },
   "challengeRating": "2",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.355). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.355). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

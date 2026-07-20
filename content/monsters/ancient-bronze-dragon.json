@@ -2,25 +2,25 @@
   "id": "monster-ancient-bronze-dragon",
   "slug": "ancient-bronze-dragon",
   "name": {
-    "es": "",
+    "es": "Dragón de bronce anciano",
     "en": "Ancient Bronze Dragon"
   },
   "size": {
-    "es": "",
+    "es": "Gargantuesco",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Dragón (metálico)",
     "en": "Unknown"
   },
   "alignment": {
-    "es": "",
+    "es": "Legal bueno",
     "en": "Unaligned"
   },
   "armorClass": 10,
   "hitPoints": "444",
   "speed": {
-    "es": "",
+    "es": "ignore the extra cost",
     "en": "ignore the extra cost"
   },
   "abilityScores": {
@@ -32,11 +32,11 @@
     "cha": 10
   },
   "senses": {
-    "es": "",
+    "es": "—",
     "en": "—"
   },
   "languages": {
-    "es": "",
+    "es": "—",
     "en": "—"
   },
   "challengeRating": "?",
@@ -46,7 +46,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.60). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.60). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

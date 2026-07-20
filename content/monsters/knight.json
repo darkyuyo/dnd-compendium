@@ -2,25 +2,25 @@
   "id": "monster-knight",
   "slug": "knight",
   "name": {
-    "es": "",
+    "es": "Caballero",
     "en": "Knight"
   },
   "size": {
-    "es": "",
+    "es": "Mediano o Pequeño",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Humanoide",
     "en": "Humanoid"
   },
   "alignment": {
-    "es": "",
+    "es": "Cualquier alineamiento",
     "en": "Neutral"
   },
   "armorClass": 18,
   "hitPoints": "202 (27d8 + 8l)",
   "speed": {
-    "es": "",
+    "es": "3o:t;,",
     "en": "3o:t;,"
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Atletismo +9, Percepción +5, Persuasión +8",
     "en": "Athletics +9, Perception +5, Persuasion +8"
   },
   "senses": {
-    "es": "",
+    "es": "Percepción pasiva 15",
     "en": "Passive Perception 15"
   },
   "languages": {
-    "es": "",
+    "es": "Común plus one other Idioma",
     "en": "Common plus one other language"
   },
   "challengeRating": "12",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.184). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.184). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

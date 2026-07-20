@@ -2,25 +2,25 @@
   "id": "monster-death-slaad",
   "slug": "death-slaad",
   "name": {
-    "es": "",
+    "es": "Slaad de la muerte",
     "en": "Death Slaad"
   },
   "size": {
-    "es": "",
+    "es": "Mediano",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Aberración",
     "en": "Aberration"
   },
   "alignment": {
-    "es": "",
+    "es": "Caótico malvado",
     "en": "Chaotic Evil"
   },
   "armorClass": 18,
   "hitPoints": "178 (21d8 + 8a)",
   "speed": {
-    "es": "",
+    "es": "12 m",
     "en": "40 ft."
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Arcano +6, Percepción +8",
     "en": "Arcana +6, Perception +8"
   },
   "senses": {
-    "es": "",
+    "es": "Vista ciega 18 m, Visión en la oscuridad 15 m;",
     "en": "Blindsight 60 ft., Darkvision 50 ft.;"
   },
   "languages": {
-    "es": "",
+    "es": "Común, Slaad; telepatía 60 ft.",
     "en": "Common, Slaad; telepathy 60 ft."
   },
   "challengeRating": "10",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.287). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.287). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

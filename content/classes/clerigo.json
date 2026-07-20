@@ -3,28 +3,28 @@
   "slug": "clerigo",
   "name": {
     "es": "Clérigo",
-    "en": ""
+    "en": "Cleric"
   },
   "hitDie": "d8",
   "primaryAbility": {
     "es": "Competencias en",
-    "en": ""
+    "en": "Wisdom"
   },
   "savingThrows": {
     "es": "Sabiduría y Carisma",
-    "en": ""
+    "en": "Wisdom and Charisma"
   },
   "armor": {
     "es": "pesadas. Taumaturgo. Conoces un truco adicional de la lista de",
-    "en": ""
+    "en": "heavy. Taumaturgo. Conoces un truco adicional de la lista de"
   },
   "weapons": {
     "es": "—",
-    "en": ""
+    "en": "—"
   },
   "skills": {
     "es": "—",
-    "en": ""
+    "en": "—"
   },
   "description": {
     "es": "+ Obtienes todos los atributos de la tabla “Atributos + Obtienes los rasgos de nivel 1 de clérigo, que se muestran - Obtienes los siguientes atributos de la tabla “Atributos básicos de clérigo”: dado de puntos de golpe y entrena- miento con armaduras ligeras y medias y escudos. - Obtienes los rasgos de nivel 1 de clérigo, que se muestran en la tabla “Rasgos de clérigo”. Consulta las reglas de multiclase del capítulo 2 para determinar tus espacios",
@@ -35,7 +35,7 @@
       "level": 1,
       "name": {
         "es": "LANZAMIENTO DE CONJUROS",
-        "en": ""
+        "en": "SPELLCASTING"
       },
       "description": {
         "es": "Has aprendido a lanzar conjuros gracias a la oración y la meditación. Consulta el",
@@ -46,7 +46,7 @@
       "level": 1,
       "name": {
         "es": "ORDEN DIVINA",
-        "en": ""
+        "en": "ORDEN DIVINA"
       },
       "description": {
         "es": "Te has consagrado a una de las siguientes funciones sacras, a tu elección. Protector. Te has entrenado para el combate y ganas competencia con armas marciales y entrenamiento con armaduras pesadas. Taumaturgo. Conoces un truco adicional de la lista de conjuros de clérigo. Además, tu conexión mística con lo divino te proporciona un bonificador a tus pruebas de Inteligencia (Conocimiento arcano y Religión). El bonificador es igual a tu modificador por Sabiduría (mínimo de +1).",
@@ -57,7 +57,7 @@
       "level": 2,
       "name": {
         "es": "CANALIZAR DIVINIDAD",
-        "en": ""
+        "en": "CANALIZAR DIVINIDAD"
       },
       "description": {
         "es": "Puedes canalizar energía divina directamente de los Planos Exteriores para alimentar varios efectos mágicos. Empiezas con dos de estos efectos: Chispa divina y Expulsar muertos vivientes, que se describen a continuación. Cada vez que utilices el rasgo Canalizar divinidad de esta clase, elige qué efecto de esta clase creas. En niveles superiores de clérigo recibes opciones adicionales. Puedes usar el rasgo Canalizar divinidad dos veces. Recuperas uno de los usos gastados tras finalizar un descanso corto y todos tras finalizar un descanso largo. Obtienes usos adicionales cuando alcanzas ciertos niveles de clérigo, como se muestra en la columna “Canalizar divinidad” de la tabla “Rasgos de clérigo”.",
@@ -68,7 +68,7 @@
       "level": 4,
       "name": {
         "es": "MEJORA DE CARACTERÍSTICA",
-        "en": ""
+        "en": "MEJORA DE CARACTERÍSTICA"
       },
       "description": {
         "es": "Obtienes la dote Mejora de característica (consulta el",
@@ -79,7 +79,7 @@
       "level": 5,
       "name": {
         "es": "ABRASAR MUERTOS VIVIENTES",
-        "en": ""
+        "en": "ABRASAR MUERTOS VIVIENTES"
       },
       "description": {
         "es": "Cuando utilices Expulsar muertos vivientes, puedes tirar una cantidad de d8 igual a tu modificador por Sabiduría (mínimo 1d8) y sumar los resultados. Todos los muertos vivientes que fallen su tirada de salvación contra ese uso de Expulsar muertos vivientes sufrirán una cantidad de daño radiante igual al resultado total de las tiradas. Este daño no pone fin al efecto de expulsión.",
@@ -90,7 +90,7 @@
       "level": 7,
       "name": {
         "es": "GOLPES BENDITOS",
-        "en": ""
+        "en": "GOLPES BENDITOS"
       },
       "description": {
         "es": "Te imbuyes de poder divino en la batalla. Obtienes una de las siguientes opciones, a tu elección (si obtienes cualquiera de ellas por una",
@@ -101,7 +101,7 @@
       "level": 14,
       "name": {
         "es": "GOLPES BENDITOS MEJORADOS",
-        "en": ""
+        "en": "GOLPES BENDITOS MEJORADOS"
       },
       "description": {
         "es": "La opción elegida para Golpes benditos se vuelve más poderosa. Golpe divino. El daño adicional de tu Golpe divino aumenta a 2d8. Lanzamiento potente. Cuando lances un truco de clérigo y causes daño a una criatura con él, podrás transmitir vitalidad a tio a otra criatura que esté a 18 m o menos de ti; se concederá una cantidad de puntos de golpe temporales igual al doble de tu modificador por Sabiduría.",
@@ -112,7 +112,7 @@
       "level": 19,
       "name": {
         "es": "DoN ÉPICO",
-        "en": ""
+        "en": "DoN ÉPICO"
       },
       "description": {
         "es": "Obtienes una dote de don épico (consulta el",
@@ -123,7 +123,7 @@
       "level": 20,
       "name": {
         "es": "INTERCESIÓN DIVINA MAYOR",
-        "en": ""
+        "en": "INTERCESIÓN DIVINA MAYOR"
       },
       "description": {
         "es": "Puedes solicitar una intercesión divina todavía más poderosa. Cuando uses tu rasgo Intercesión divina, puedes elegir deseo al seleccionar un conjuro. Si lo haces, no podrás volver a usar Intercesión divina hasta que finalices 2d4 descansos largos. LISTA DE CONJUROS DE CLÉRIGO Esta sección presenta la lista de conjuros de clérigo. Los conjuros se organizan por su nivel y por orden alfabético y se indica la escuela mágica de cada uno de ellos. En la columna “Especial”, C significa que el conjuro requiere concentración, R significa que es un ritual y M significa que requiere un componente material específico. Trucos (CONJUROS DE CLÉRIGO DE NIVEL O) Conjuro Escuela Especial Guía Adivinación E Llama sagrada Evocación = Luz Evocación = | Palabra de resplandor Evocación = | Piedad con los moribundos Nigromancia a | Reparar Transmutación - Resistencia Abjuración E | Tañido por los muertos Nigromancia = Taumaturgia Transmutación = CONJUROS DE CLÉRIGO DE NIVEL 1 Conjuro Escuela Especial Bendición Encantamiento C,M Crear o destruir agua Transmutación = Curar heridas Abjuración = Detectar el bien y el mal Adivinación E | Detectar magia Adivinación CUR | Detectar venenos y enfermedades Adivinación CR Escudo de fe Abjuración c Infligir heridas Nigromancia = | Orden imperiosa Encantamiento — Palabra de curación Abjuración = Perdición Encantamiento c Protección contra el bien y el mal Abjuración C, M Purificar comida y bebida Transmutación R Saeta guía Evocación = Santuario Abjuración =",
@@ -134,7 +134,7 @@
       "level": 3,
       "name": {
         "es": "CONJUROS DEL DOMINIO",
-        "en": ""
+        "en": "CONJUROS DEL DOMINIO"
       },
       "description": {
         "es": "DE LA GUERRA Tu conexión con este dominio divino garantiza que siempre tengas ciertos conjuros preparados. Cuando alcances un nivel de clérigo especificado en la tabla “Conjuros del dominio de la guerra”, a partir de entonces siempre tendrás preparados los conjuros que se indican. CONJUROS DEL DOMINIO DE LA GUERRA Nivel de clérigo Conjuros preparados 3 Arma espiritual, arma mágica, escudo de fe, saeta guía 5 Espíritus guardianes, manto del cruzado 7 Escudo de fuego, libertad del movimiento 9 Golpe de viento acerado, inmovilizar monstruo",
@@ -145,7 +145,7 @@
       "level": 3,
       "name": {
         "es": "GOLPE GUIADO",
-        "en": ""
+        "en": "GOLPE GUIADO"
       },
       "description": {
         "es": "Cuando tú o una criatura a 9 m o menos de ti falléis una tirada de ataque, podrás gastar un uso de Canalizar divinidad y conceder un bonificador de +10 a la tirada, lo que podría hacer que acierte. Cuando utilices este rasgo para mejorar la tirada de ataque de otra criatura, deberás llevar a cabo una reacción para ello.",
@@ -156,7 +156,7 @@
       "level": 3,
       "name": {
         "es": "SACERDOTE GUERRERO",
-        "en": ""
+        "en": "SACERDOTE GUERRERO"
       },
       "description": {
         "es": "Como acción adicional, puedes realizar un ataque con un arma o un ataque sin armas. Puedes utilizar esta acción adicional una cantidad de veces igual a tu modificador por Sabiduría (mínimo una vez). Recuperas todos los usos tras finalizar un descanso corto o largo.",
@@ -167,7 +167,7 @@
       "level": 6,
       "name": {
         "es": "BENDICIÓN DEL DIOS DE LA GUERRA",
-        "en": ""
+        "en": "BENDICIÓN DEL DIOS DE LA GUERRA"
       },
       "description": {
         "es": "Puedes gastar un uso de Canalizar divinidad para lanzar arma espiritual o escudo de fe en vez de gastar un espacio de conjuro. Cuando lances cualquiera de esos conjuros de esta forma, no requerirá concentración. En su lugar, el conjuro durará 1 minuto, pero terminará antes de tiempo si lanzas el conjuro de nuevo, si tienes el estado incapacitado o si mueres.",
@@ -178,7 +178,7 @@
       "level": 17,
       "name": {
         "es": "AVATAR DE LA BATALLA",
-        "en": ""
+        "en": "AVATAR DE LA BATALLA"
       },
       "description": {
         "es": "Ganas resistencia al daño contundente, cortante y perforante. DOMINIO DE LA LUZ Trae la luz para repeler la oscuridad. El dominio de la luz se sirve del poder divino para producir fuegos abrasadores y revelaciones. Los clérigos que emplean este poder son almas iluminadas e imbuidas del brillo y el poder de la visión perceptiva de sus deidades, y asumen la misión de ahuyentar la mentira y traer la luz ala oscuridad.” El dominio de la luz se asocia con los dioses de la verdad, la vigilancia, la belleza, la perspicacia y la renovación. A algunos de estos dioses se les representa como el propio sol o como aurigas que guían al sol a través del cielo. Otros son centinelas que deshacen los engaños, mientras que algunos son deidades de la belleza y la creatividad que enseñan que el arte es un medio para perfeccionar el alma.",
@@ -189,7 +189,7 @@
       "level": 3,
       "name": {
         "es": "CONJUROS DEL DOMINIO DE LA LUZ",
-        "en": ""
+        "en": "CONJUROS DEL DOMINIO DE LA LUZ"
       },
       "description": {
         "es": "Tu conexión con este dominio divino garantiza que siempre tengas ciertos conjuros preparados. Cuando alcances un nivel de clérigo especificado en la tabla “Conjuros del dominio de la luz”, a partir de entonces siempre tendrás preparados los conjuros que se indican. CONJUROS DEL DOMINIO DE LA LUZ Nivel de clérigo Conjuros preparados 3 Fuego feérico, manos ardientes, rayo abrasador, ver invisibilidad 5 Bola de fuego, luz del día 7 Muro defuego, ojo arcano 9 Escudriñar, golpe flamígero",
@@ -200,7 +200,7 @@
       "level": 3,
       "name": {
         "es": "FULGOR PROTECTOR",
-        "en": ""
+        "en": "FULGOR PROTECTOR"
       },
       "description": {
         "es": "Cuando una criatura que puedas ver a 9 m o menos de ti haga una tirada de ataque, puedes llevar a cabo una reacción para imponer desventaja a su tirada de ataque haciendo que una luz resplandezca ante ella antes de que acierte o falle. Puedes utilizar este rasgo una cantidad de veces igual a tu modificador por Sabiduría (mínimo una vez). Recuperas todos los usos tras finalizar un descanso largo.",
@@ -211,7 +211,7 @@
       "level": 3,
       "name": {
         "es": "RESPLANDOR DEL AMANECER",
-        "en": ""
+        "en": "RESPLANDOR DEL AMANECER"
       },
       "description": {
         "es": "Como acción de magia, muestras tu símbolo sagrado y gastas un uso de Canalizar divinidad para emitir un destello luminoso en una emanación de 9 m originada en ti. Cualquier oscuridad mágica, como la que crea el conjuro oscuridad, se disipa en esa zona. Asimismo, todas las criaturas de tu elección situadas en esa zona deberán hacer una tirada de salvación de Constitución; sufrirán una cantidad de daño radiante igual a 2d10 más tu nivel de clérigo si la fallan o la mitad del daño si la superan.",
@@ -222,7 +222,7 @@
       "level": 6,
       "name": {
         "es": "FULGOR PROTECTOR MEJORADO",
-        "en": ""
+        "en": "FULGOR PROTECTOR MEJORADO"
       },
       "description": {
         "es": "Recuperas todos los usos de tu Fulgor protector tras finalizar un descanso corto o largo. Además, cuando uses tu Fulgor protector, puedes conceder al objetivo del ataque al que reaccionas una cantidad de puntos de golpe temporales igual a 246 más tu modificador por Sabiduría.",
@@ -233,7 +233,7 @@
       "level": 17,
       "name": {
         "es": "HALO DE LUZ",
-        "en": ""
+        "en": "HALO DE LUZ"
       },
       "description": {
         "es": "Como acción de magia, puedes emitir un aura de luz solar que dura 1 minuto o hasta que la disipes (no requiere acción). Emitirás luz brillante en un radio de 18 m y luz tenue 9 m más allá. Los enemigos situados en la zona de luz brillante tendrán desventaja en las tiradas de salvación contra tu rasgo Resplandor del amanecer o contra cualquier conjuro que cause daño de fuego o radiante. Puedes usar este rasgo una cantidad de veces igual a tu modificador por Sabiduría (mínimo una vez) y recuperas todos los usos tras finalizar un descanso largo. DOMINIO DE LA VIDA Alivia las penas del mundo. El dominio de la vida se centra en la energía positiva que ayuda a sustentar la vida en el multiverso. Los clérigos que acceden a este dominio son maestros de la curación y emplean la fuerza vital para sanar el sufrimiento. La existencia en sí depende de la energía positiva asociada a este dominio, así que los clérigos de casi cualquier tradición religiosa podrían optar por él. Este dominio se asocia, en especial, con las deidades de la agricultura, la curación o la resistencia y los dioses del hogar y la comunidad. Las órdenes religiosas dedicadas a la sanación también recurren a la magia de este dominio.",
@@ -244,7 +244,7 @@
       "level": 3,
       "name": {
         "es": "CONJUROS DEL DOMINIO DE LA VIDA",
-        "en": ""
+        "en": "CONJUROS DEL DOMINIO DE LA VIDA"
       },
       "description": {
         "es": "Tu conexión con este dominio divino garantiza que siempre tengas ciertos conjuros preparados. Cuando alcances un nivel de clérigo especificado en la tabla “Conjuros del dominio de la vida”, a partir de entonces siempre tendrás preparados los conjuros que se indican.",
@@ -255,7 +255,7 @@
       "level": 3,
       "name": {
         "es": "DISCÍPULO DE LA VIDA",
-        "en": ""
+        "en": "DISCÍPULO DE LA VIDA"
       },
       "description": {
         "es": "Cuando uses un espacio de conjuro para lanzar un conjuro que haga recuperar puntos de golpe a una criatura, esa criatura recuperará puntos de golpe adicionales en el turno en que lances el conjuro. La cantidad de puntos de golpe adicionales es igual a 2 más el nivel del espacio de conjuro.",
@@ -266,7 +266,7 @@
       "level": 3,
       "name": {
         "es": "PRESERVAR VIDA",
-        "en": ""
+        "en": "PRESERVAR VIDA"
       },
       "description": {
         "es": "Como acción de magia, muestras tu símbolo sagrado y gastas un uso de Canalizar divinidad para generar una energía curativa capaz de restaurar una cantidad de puntos de golpe igual a cinco veces tu nivel de clérigo. Elige criaturas maltrechas a 9 m o menos de ti (lo que puede incluirte a ti) y divide estos puntos de golpe entre ellas. Este rasgo no puede hacer que una criatura pase a tener más de la mitad de sus puntos de golpe máximos.",
@@ -277,7 +277,7 @@
       "level": 6,
       "name": {
         "es": "SANADOR BENDITO",
-        "en": ""
+        "en": "SANADOR BENDITO"
       },
       "description": {
         "es": "Los conjuros de curación que lances sobre otros también te sanan a ti. Inmediatamente después de usar un espacio de conjuro para lanzar un conjuro que haga recuperar puntos de golpe a una o varias criaturas que no seas tú, recuperarás una cantidad de puntos de golpe igual a 2 más el nivel del espacio de conjuro. NiIvEL 17: SANACIÓN SUPREMA En vez de tirar uno o más dados para hacer que una criatura recupere puntos de golpe con un conjuro o con Canalizar divinidad, no tirarás estos dados para la curación, sino que utilizarás el número más alto de cada dado. Por ejemplo, en lugar de hacer que una criatura recupere 2d6 puntos de golpe, harás que recupere 12. DOMINIO DEL ENGAÑO Comete travesuras y desafía a las autoridades. El dominio del engaño ofrece la magia de los embustes, las ilusiones y el sigilo. Los clérigos que emplean esta magia son una fuerza que perturba el mundo pinchando a los orgullosos, mofándose de los tiranos, liberando a los cautivos y desdeñando tradiciones vacías. Prefieren el subterfugio y las bromas a la confrontación directa. Los dioses del engaño son seres revoltosos e instigadores que presentan un desafío constante al orden aceptado tanto por dioses como por mortales. Encarnan las fuerzas del cambio y la revuelta social y son patrones de ladrones, canallas, apostadores, rebeldes y libertadores. Las órdenes religiosas que operan en secreto, sobre todo las que pretenden minar los gobiernos o las jerarquías de carácter opresivo, también se valen del poder del dominio del engaño.",
@@ -288,7 +288,7 @@
       "level": 3,
       "name": {
         "es": "BENDICIÓN DEL EMBAUCADOR",
-        "en": ""
+        "en": "BENDICIÓN DEL EMBAUCADOR"
       },
       "description": {
         "es": "Como acción de magia, puedes escogerte a ti o a una criatura voluntaria a 9 m o menos de ti para que tenga ventaja en las pruebas de Destreza (Sigilo). Esta bendición dura hasta que finalices un descanso largo o hasta que vuelvas a usar este rasgo.",
@@ -299,7 +299,7 @@
       "level": 3,
       "name": {
         "es": "CONJUROS DEL DOMINIO",
-        "en": ""
+        "en": "CONJUROS DEL DOMINIO"
       },
       "description": {
         "es": "DEL ENGAÑO Tu conexión con este dominio divino garantiza que siempre tengas ciertos conjuros preparados. Cuando alcances un nivel de clérigo especificado en la tabla “Conjuros del dominio del engaño”, a partir de entonces siempre tendrás preparados los conjuros que se indican. CONJUROS DEL DOMINIO DEL ENGAÑO Nivel de clérigo Conjuros preparados 3 Disfrazarse, hechizar persona, invisibilidad, pasar sin rastro 5 Indetectable, patrón hipnótico y Confusión, puerta dimensional 9 Alterar los recuerdos, dominar persona",
@@ -310,7 +310,7 @@
       "level": 3,
       "name": {
         "es": "INVOCAR DUPLICIDAD",
-        "en": ""
+        "en": "INVOCAR DUPLICIDAD"
       },
       "description": {
         "es": "Como acción adicional, puedes gastar un uso de Canalizar divinidad para crear un duplicado ilusorio perfecto de ti en un espacio sin ocupar que puedas ver a 9 m o menos de ti. La ilusión no es tangible ni ocupa el espacio en el que se encuentra. Dura 1 minuto, pero termina antes de tiempo si la disipas (no requiere acción) o si tienes el estado de incapacitado. La ilusión está animada e imita tus expresiones y gestos. Mientras persista, obtienes los siguientes beneficios: Distraer. Cuando tanto tu ilusión como tú estéis a 1,5 m o menos de una criatura que pueda ver la ilusión, tendrás ventaja en las tiradas de ataque contra esa criatura, ya que la ilusión distrae al objetivo. Lanzar conjuros. Puedes lanzar conjuros como si estuvieras en el espacio de la ilusión, pero debes utilizar tus propios sentidos. Mover. Como acción adicional, puedes mover la ilusión hasta 9 m a un espacio sin ocupar que puedas ver a 36 m o menos de ti.",
@@ -321,7 +321,7 @@
       "level": 6,
       "name": {
         "es": "TRANSPOSICIÓN DEL EMBAUCADOR",
-        "en": ""
+        "en": "TRANSPOSICIÓN DEL EMBAUCADOR"
       },
       "description": {
         "es": "Siempre que utilices una acción adicional para crear o mover la ilusión de Invocar duplicidad, podrás teletransportarte y cambiarle el lugar a la ilusión.",
@@ -332,7 +332,7 @@
       "level": 17,
       "name": {
         "es": "DUPLICIDAD MEJORADA",
-        "en": ""
+        "en": "DUPLICIDAD MEJORADA"
       },
       "description": {
         "es": "La ilusión de Invocar duplicidad se vuelve más poderosa de las siguientes formas: Distracción compartida. Cuando tus aliados y tú hagáis tiradas de ataque contra una criatura que se encuentre a 1,5 m o menos de la ilusión, esas tiradas de ataque tendrán ventaja. Hlusión sanadora. Cuando la ilusión desaparezca, tú o una criatura de tu elección a 1,5 m o menos de ella recuperaréis una cantidad de puntos de golpe igual a tu nivel de clérigo.",

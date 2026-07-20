@@ -2,25 +2,25 @@
   "id": "monster-adult-copper-dragon",
   "slug": "adult-copper-dragon",
   "name": {
-    "es": "",
+    "es": "Dragón de cobre adulto",
     "en": "Adult Copper Dragon"
   },
   "size": {
-    "es": "",
+    "es": "Enorme",
     "en": "Huge"
   },
   "type": {
-    "es": "",
+    "es": "Dragón (metálico)",
     "en": "Dragon (Metallb)"
   },
   "alignment": {
-    "es": "",
+    "es": "Caótico bueno",
     "en": "Chaotic Cood"
   },
   "armorClass": 18,
   "hitPoints": "184 (15dl2 + 80)",
   "speed": {
-    "es": "",
+    "es": "40 j,;.,[t oo n., t,r,t\":",
     "en": "40 j,;.,[t oo n., t,r,t\":"
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Engaño +9, Percepción +.12, Sigilo +6",
     "en": "Deception +9, Perception +.12, Stealth +6"
   },
   "senses": {
-    "es": "",
+    "es": "Vista ciega 18 m, Visión en la oscuridad .36 m;",
     "en": "Blindsight 60 ft., Darkvision .120 ft.;"
   },
   "languages": {
-    "es": "",
+    "es": "Común, Dracónico",
     "en": "Common, Draconic"
   },
   "challengeRating": "14",
@@ -49,51 +49,51 @@
   "actions": [
     {
       "name": {
-        "es": "",
+        "es": "; its Speed is halved; and it can take either",
         "en": "; its Speed is halved; and it can take either"
       },
       "description": {
-        "es": "",
+        "es": "; its Velocidad is halved; and it can take either",
         "en": "; its Speed is halved; and it can take either"
       }
     },
     {
       "name": {
-        "es": "",
+        "es": "an action or a Bonus Action on its turn, not both",
         "en": "an action or a Bonus Action on its turn, not both"
       },
       "description": {
-        "es": "",
+        "es": "an action or a Bonus Action on its turn, not both. This",
         "en": "an action or a Bonus Action on its turn, not both. This"
       }
     },
     {
       "name": {
-        "es": "",
+        "es": "effect lasts until the end ofits next turn",
         "en": "effect lasts until the end ofits next turn"
       },
       "description": {
-        "es": "",
+        "es": "effect lasts until the end ofits next turn.",
         "en": "effect lasts until the end ofits next turn."
       }
     },
     {
       "name": {
-        "es": "",
+        "es": "Lanzamiento de conjuros",
         "en": "Spellcasting"
       },
       "description": {
-        "es": "",
+        "es": "Spellcasting. The dragon casts one of the following",
         "en": "Spellcasting. The dragon casts one of the following"
       }
     },
     {
       "name": {
-        "es": "",
+        "es": "spells, requiring no Material components and using",
         "en": "spells, requiring no Material components and using"
       },
       "description": {
-        "es": "",
+        "es": "spells, requiring no Material components and using",
         "en": "spells, requiring no Material components and using"
       }
     }
@@ -102,7 +102,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.79). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.79). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

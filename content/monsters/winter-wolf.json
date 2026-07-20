@@ -2,25 +2,25 @@
   "id": "monster-winter-wolf",
   "slug": "winter-wolf",
   "name": {
-    "es": "",
+    "es": "Lobo invernal",
     "en": "Winter Wolf"
   },
   "size": {
-    "es": "",
+    "es": "Grande",
     "en": "Large"
   },
   "type": {
-    "es": "",
+    "es": "Monstruosidad",
     "en": "Fey"
   },
   "alignment": {
-    "es": "",
+    "es": "Neutral malvado",
     "en": "Neutral Evil"
   },
   "armorClass": 13,
   "hitPoints": "25 (adl0 + a)",
   "speed": {
-    "es": "",
+    "es": "50:,;,",
     "en": "50:,;,"
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Percepción +4",
     "en": "Perception +4"
   },
   "senses": {
-    "es": "",
+    "es": "Visión en la oscuridad 18 m; Percepción pasiva 14",
     "en": "Darkvision 60 ft.; Passive Perception 14"
   },
   "languages": {
-    "es": "",
+    "es": "Coblin, Worg",
     "en": "Coblin, Worg"
   },
   "challengeRating": "?",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.334). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.334). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

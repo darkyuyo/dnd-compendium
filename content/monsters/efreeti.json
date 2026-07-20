@@ -2,25 +2,25 @@
   "id": "monster-efreeti",
   "slug": "efreeti",
   "name": {
-    "es": "",
+    "es": "Ifrit",
     "en": "Efreeti"
   },
   "size": {
-    "es": "",
+    "es": "Grande",
     "en": "Large"
   },
   "type": {
-    "es": "",
+    "es": "Elemental (genio)",
     "en": "Elemental (Cenie)"
   },
   "alignment": {
-    "es": "",
+    "es": "Neutral",
     "en": "Neutral"
   },
   "armorClass": 10,
   "hitPoints": "212 (17dl0 + ll9)",
   "speed": {
-    "es": "",
+    "es": "12 m, volar 15 m (levitar)",
     "en": "40 ft., Fly 50 ft. (hover)"
   },
   "abilityScores": {
@@ -32,11 +32,11 @@
     "cha": 10
   },
   "senses": {
-    "es": "",
+    "es": "Visión en la oscuridad 36 m; Percepción pasiva 12",
     "en": "Darkvision 120 ft.; Passive Perception 12"
   },
   "languages": {
-    "es": "",
+    "es": "Primordial (l gnan)",
     "en": "Primordial (l gnan)"
   },
   "challengeRating": "?",
@@ -47,7 +47,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.109). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.109). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

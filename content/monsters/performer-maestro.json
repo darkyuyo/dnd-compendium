@@ -2,25 +2,25 @@
   "id": "monster-performer-maestro",
   "slug": "performer-maestro",
   "name": {
-    "es": "",
+    "es": "Artista virtuoso",
     "en": "Performer Maestro"
   },
   "size": {
-    "es": "",
+    "es": "Mediano o Pequeño",
     "en": "Large"
   },
   "type": {
-    "es": "",
+    "es": "Humanoide",
     "en": "creature"
   },
   "alignment": {
-    "es": "",
+    "es": "Neutral",
     "en": "it has the Grappled"
   },
   "armorClass": 17,
   "hitPoints": "507 (26d20 + ßa)",
   "speed": {
-    "es": "",
+    "es": "12 m, :l[o oo n., t'r,t\"l",
     "en": "40 ft, :l[o oo n., t'r,t\"l"
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Percepción +15, Sigilo +7",
     "en": "Perception +15, Stealth +7"
   },
   "senses": {
-    "es": "",
+    "es": "Vista ciega 15 m, Visión en la oscuridad 36 m;",
     "en": "Blindsight 50 ft., Darkvision 120 ft.;"
   },
   "languages": {
-    "es": "",
+    "es": "Común, Dracónico",
     "en": "Common, Draconic"
   },
   "challengeRating": "24",
@@ -49,51 +49,51 @@
   "actions": [
     {
       "name": {
-        "es": "",
+        "es": "expended'utrt ät the stärt ofeach ofits tirns",
         "en": "expended'utrt ät the stärt ofeach ofits tirns"
       },
       "description": {
-        "es": "",
+        "es": "expended'utrt ät the stärt ofeach ofits tirns. \"",
         "en": "expended'utrt ät the stärt ofeach ofits tirns. \""
       }
     },
     {
       "name": {
-        "es": "",
+        "es": "Commanding Presence",
         "en": "Commanding Presence"
       },
       "description": {
-        "es": "",
+        "es": "Commanding Presence. The dragon uses Spellcasting",
         "en": "Commanding Presence. The dragon uses Spellcasting"
       }
     },
     {
       "name": {
-        "es": "",
+        "es": "to cast Command (level 2 version)",
         "en": "to cast Command (level 2 version)"
       },
       "description": {
-        "es": "",
+        "es": "to cast Command (level 2 version). The dragon can't",
         "en": "to cast Command (level 2 version). The dragon can't"
       }
     },
     {
       "name": {
-        "es": "",
+        "es": "take this action again until the start of its next",
         "en": "take this action again until the start of its next"
       },
       "description": {
-        "es": "",
+        "es": "take this action again until the start of its next turn.",
         "en": "take this action again until the start of its next turn."
       }
     },
     {
       "name": {
-        "es": "",
+        "es": "Fiery Roys",
         "en": "Fiery Roys"
       },
       "description": {
-        "es": "",
+        "es": "Fiery Roys. The dragon uses Spellcasting to cast ScOrcoh-",
         "en": "Fiery Roys. The dragon uses Spellcasting to cast Scorch-"
       }
     }
@@ -102,7 +102,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.257). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.257). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

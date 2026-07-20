@@ -2,25 +2,25 @@
   "id": "monster-spined-devi",
   "slug": "spined-devi",
   "name": {
-    "es": "",
+    "es": "Diablo espinoso",
     "en": "Spined Devi"
   },
   "size": {
-    "es": "",
+    "es": "Pequeño",
     "en": "Small"
   },
   "type": {
-    "es": "",
+    "es": "Infernal (diablo)",
     "en": "Fiend (Devil)"
   },
   "alignment": {
-    "es": "",
+    "es": "Legal malvado",
     "en": "Lawful Evil"
   },
   "armorClass": 13,
   "hitPoints": "45 (10d6 + 10)",
   "speed": {
-    "es": "",
+    "es": "6 m, volar 12 m",
     "en": "20 ft., Fly 40 ft."
   },
   "abilityScores": {
@@ -32,11 +32,11 @@
     "cha": 10
   },
   "senses": {
-    "es": "",
+    "es": "Visión en la oscuridad 36 m (unimpeded by magical",
     "en": "Darkvision 120 ft. (unimpeded by magical"
   },
   "languages": {
-    "es": "",
+    "es": "lnfernal; telepatía 120 ft.",
     "en": "lnfernal; telepathy 120 ft."
   },
   "challengeRating": "2",
@@ -47,7 +47,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.296). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.296). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

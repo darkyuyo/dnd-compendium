@@ -2,25 +2,25 @@
   "id": "monster-myconid-spore-servant",
   "slug": "myconid-spore-servant",
   "name": {
-    "es": "",
+    "es": "Micónido siervo espora",
     "en": "Myconid Spore Servant"
   },
   "size": {
-    "es": "",
+    "es": "Mediano o Pequeño",
     "en": "Large"
   },
   "type": {
-    "es": "",
+    "es": "Planta",
     "en": "Fiend (Demon)"
   },
   "alignment": {
-    "es": "",
+    "es": "Sin alineamiento",
     "en": "Chaotic Evil"
   },
   "armorClass": 18,
   "hitPoints": "184 (15d10 + 95)",
   "speed": {
-    "es": "",
+    "es": "9 m",
     "en": "30 ft."
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Engaño +6, lnsight +5, Percepción +5, Sigilo +5",
     "en": "Deception +6, lnsight +5, Perception +5, Stealth +5"
   },
   "senses": {
-    "es": "",
+    "es": "Visión verdadera .36 m; Percepción pasiva 11",
     "en": "Truesight .120 ft.; Passive Perception 11"
   },
   "languages": {
-    "es": "",
+    "es": "Abisal; telepatía 120 ft.",
     "en": "Abyssal; telepathy 120 ft."
   },
   "challengeRating": "5",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.225). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.225). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

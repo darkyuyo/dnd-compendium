@@ -2,25 +2,25 @@
   "id": "monster-adult-bronze-dragon",
   "slug": "adult-bronze-dragon",
   "name": {
-    "es": "",
+    "es": "Dragón de bronce adulto",
     "en": "Adult Bronze Dragon"
   },
   "size": {
-    "es": "",
+    "es": "Enorme",
     "en": "Huge"
   },
   "type": {
-    "es": "",
+    "es": "Dragón (metálico)",
     "en": "Dragon (Metallic)"
   },
   "alignment": {
-    "es": "",
+    "es": "Legal bueno",
     "en": "Lawful Cood"
   },
   "armorClass": 18,
   "hitPoints": "212 (17d12 + 1 02)",
   "speed": {
-    "es": "",
+    "es": "40 fr' t]l\"lo tr ' t*'',Lo,tl;\",",
     "en": "40 fr' t]l\"lo tr ' t*'',Lo,tl;\","
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "lnsight +7, Percepción +.12, Sigilo +5",
     "en": "lnsight +7, Perception +.12, Stealth +5"
   },
   "senses": {
-    "es": "",
+    "es": "Vista ciega 15 m, Visión en la oscuridad '36 m;",
     "en": "Blindsight 50 ft., Darkvision '120 ft.;"
   },
   "languages": {
-    "es": "",
+    "es": "Común, Dracónico",
     "en": "Common, Draconic"
   },
   "challengeRating": "15",
@@ -49,51 +49,51 @@
   "actions": [
     {
       "name": {
-        "es": "",
+        "es": "expended uses at the stort of each of its turns",
         "en": "expended uses at the stort of each of its turns"
       },
       "description": {
-        "es": "",
+        "es": "expended uses at the stort of each of its turns.",
         "en": "expended uses at the stort of each of its turns."
       }
     },
     {
       "name": {
-        "es": "",
+        "es": "Guiding Light",
         "en": "Guiding Light"
       },
       "description": {
-        "es": "",
+        "es": "Guiding Light.Ihe dragon uses Spellcasting to cast",
         "en": "Guiding Light.Ihe dragon uses Spellcasting to cast"
       }
     },
     {
       "name": {
-        "es": "",
+        "es": "Guiding Boh (level 2 version)",
         "en": "Guiding Boh (level 2 version)"
       },
       "description": {
-        "es": "",
+        "es": "Guiding Boh (level 2 version).",
         "en": "Guiding Boh (level 2 version)."
       }
     },
     {
       "name": {
-        "es": "",
+        "es": "Pounce",
         "en": "Pounce"
       },
       "description": {
-        "es": "",
+        "es": "Pounce. The dragon moves up to half its Velocidad, and it",
         "en": "Pounce. The dragon moves up to half its Speed, and it"
       }
     },
     {
       "name": {
-        "es": "",
+        "es": "Thunderclop",
         "en": "Thunderclop"
       },
       "description": {
-        "es": "",
+        "es": "Thunderclop. Constitution SavingThrow: DC .17, each",
         "en": "Thunderclop. Constitution SavingThrow: DC .17, each"
       }
     }
@@ -102,7 +102,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.59). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.59). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

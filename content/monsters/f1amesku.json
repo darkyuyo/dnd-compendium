@@ -2,25 +2,25 @@
   "id": "monster-f1amesku",
   "slug": "f1amesku",
   "name": {
-    "es": "",
+    "es": "Calavera llameante",
     "en": "F1amesku"
   },
   "size": {
-    "es": "",
+    "es": "Diminuto",
     "en": "Huge"
   },
   "type": {
-    "es": "",
+    "es": "Muerto viviente",
     "en": "Ciant"
   },
   "alignment": {
-    "es": "",
+    "es": "Neutral malvado",
     "en": "Lawful Evil"
   },
   "armorClass": 18,
   "hitPoints": "152 (13d12 + 78)",
   "speed": {
-    "es": "",
+    "es": "9 m",
     "en": "30 ft."
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Atletismo +11, Percepción +5",
     "en": "Athletics +11, Perception +5"
   },
   "senses": {
-    "es": "",
+    "es": "Percepción pasiva 16",
     "en": "Passive Perception 16"
   },
   "languages": {
-    "es": "",
+    "es": "Ciant",
     "en": "Ciant"
   },
   "challengeRating": "9",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.120). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.120). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

@@ -2,25 +2,25 @@
   "id": "monster-spectator",
   "slug": "spectator",
   "name": {
-    "es": "",
+    "es": "Espectador",
     "en": "Spectator"
   },
   "size": {
-    "es": "",
+    "es": "Mediano",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Aberración (beholder)",
     "en": "Unknown"
   },
   "alignment": {
-    "es": "",
+    "es": "Legal neutral",
     "en": "Unaligned"
   },
   "armorClass": 12,
   "hitPoints": "22 (sd8)",
   "speed": {
-    "es": "",
+    "es": "9 m, volar 15 m (levitar)",
     "en": "30 ft., Fly 50 ft. (hover)"
   },
   "abilityScores": {
@@ -32,11 +32,11 @@
     "cha": 10
   },
   "senses": {
-    "es": "",
+    "es": "—",
     "en": "—"
   },
   "languages": {
-    "es": "",
+    "es": "—",
     "en": "—"
   },
   "challengeRating": "?",
@@ -46,7 +46,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.289). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.289). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

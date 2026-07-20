@@ -2,25 +2,25 @@
   "id": "monster-barbed-devi",
   "slug": "barbed-devi",
   "name": {
-    "es": "",
+    "es": "Diablo punzante",
     "en": "Barbed Devi"
   },
   "size": {
-    "es": "",
+    "es": "Mediano",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Infernal (diablo)",
     "en": "Unknown"
   },
   "alignment": {
-    "es": "",
+    "es": "Legal malvado",
     "en": "Unaligned"
   },
   "armorClass": 10,
   "hitPoints": "481 (26d20 + 208)",
   "speed": {
-    "es": "",
+    "es": "40 fr' t:JI\"- oo tr' t).lo,ll,",
     "en": "40 fr' t:JI\"- oo tr' t).lo,ll,"
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Percepción +17, Sigilo +7",
     "en": "Perception +17, Stealth +7"
   },
   "senses": {
-    "es": "",
+    "es": "Vista ciega 15 m, Visión en la oscuridad 36 m;",
     "en": "Blindsight 50 ft., Darkvision 120 ft.;"
   },
   "languages": {
-    "es": "",
+    "es": "Común, Dracónico",
     "en": "Common, Draconic"
   },
   "challengeRating": "23",
@@ -49,51 +49,51 @@
   "actions": [
     {
       "name": {
-        "es": "",
+        "es": "expended uses at the start of each of its turns",
         "en": "expended uses at the start of each of its turns"
       },
       "description": {
-        "es": "",
+        "es": "expended uses at the start of each of its turns.",
         "en": "expended uses at the start of each of its turns."
       }
     },
     {
       "name": {
-        "es": "",
+        "es": "Cloaked Flight,The dragon uses Lanzamiento de conjuros to cas",
         "en": "Cloaked Flight,The dragon uses Spellcasting to cas"
       },
       "description": {
-        "es": "",
+        "es": "Cloaked Flight,The dragon uses Spellcasting to cast In-",
         "en": "Cloaked Flight,The dragon uses Spellcasting to cast In-"
       }
     },
     {
       "name": {
-        "es": "",
+        "es": "visibility on itself, and it can fly up to half it",
         "en": "visibility on itself, and it can fly up to half it"
       },
       "description": {
-        "es": "",
+        "es": "visibility on itself, and it can volar up to half its volar Velocidad.",
         "en": "visibility on itself, and it can fly up to half its Fly Speed."
       }
     },
     {
       "name": {
-        "es": "",
+        "es": "The dragon can't take this action again until the",
         "en": "The dragon can't take this action again until the"
       },
       "description": {
-        "es": "",
+        "es": "The dragon can't take this action again until the start of",
         "en": "The dragon can't take this action again until the start of"
       }
     },
     {
       "name": {
-        "es": "",
+        "es": "Sonic Boom",
         "en": "Sonic Boom"
       },
       "description": {
-        "es": "",
+        "es": "Sonic Boom. The dragon uses Spellcasting to cast Shat-",
         "en": "Sonic Boom. The dragon uses Spellcasting to cast Shat-"
       }
     }
@@ -102,7 +102,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.50). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.50). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

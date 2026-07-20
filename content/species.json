@@ -4,19 +4,19 @@
     "slug": "aasimar",
     "name": {
       "es": "Aasimar",
-      "en": ""
+      "en": "Aasimar"
     },
     "creatureType": {
       "es": "humanoide",
-      "en": ""
+      "en": "Humanoid"
     },
     "size": {
       "es": "Mediano",
-      "en": ""
+      "en": "Medium"
     },
     "speed": {
       "es": "9 m",
-      "en": ""
+      "en": "30 feet"
     },
     "description": {
       "es": "Los aasimars son mortales cuyas almas albergan una",
@@ -30,19 +30,19 @@
     "slug": "draconido",
     "name": {
       "es": "Dracónido",
-      "en": ""
+      "en": "Dragonborn"
     },
     "creatureType": {
       "es": "humanoide",
-      "en": ""
+      "en": "Humanoid"
     },
     "size": {
       "es": "Mediano",
-      "en": ""
+      "en": "Medium"
     },
     "speed": {
       "es": "9 m",
-      "en": ""
+      "en": "30 feet"
     },
     "description": {
       "es": "Los antepasados de los dracónidos eclosionaron de los",
@@ -56,19 +56,19 @@
     "slug": "elfo",
     "name": {
       "es": "Elfo",
-      "en": ""
+      "en": "Elf"
     },
     "creatureType": {
       "es": "humanoide",
-      "en": ""
+      "en": "Humanoid"
     },
     "size": {
       "es": "Mediano",
-      "en": ""
+      "en": "Medium"
     },
     "speed": {
       "es": "9 m",
-      "en": ""
+      "en": "30 feet"
     },
     "description": {
       "es": "Los primeros elfos, creados por el dios Corellon, podían",
@@ -82,19 +82,19 @@
     "slug": "enano",
     "name": {
       "es": "Enano",
-      "en": ""
+      "en": "Dwarf"
     },
     "creatureType": {
       "es": "humanoide",
-      "en": ""
+      "en": "Humanoid"
     },
     "size": {
       "es": "Mediano",
-      "en": ""
+      "en": "Medium"
     },
     "speed": {
       "es": "9 m",
-      "en": ""
+      "en": "30 feet"
     },
     "description": {
       "es": "Los enanos emergieron de la tierra en los primeros tiempos",
@@ -108,19 +108,19 @@
     "slug": "gnomo",
     "name": {
       "es": "Gnomo",
-      "en": ""
+      "en": "Gnome"
     },
     "creatureType": {
       "es": "humanoide",
-      "en": ""
+      "en": "Humanoid"
     },
     "size": {
       "es": "Mediano",
-      "en": ""
+      "en": "Medium"
     },
     "speed": {
       "es": "9 m",
-      "en": ""
+      "en": "30 feet"
     },
     "description": {
       "es": "Los gnomos son un pueblo mágico creado por los dioses",
@@ -134,19 +134,19 @@
     "slug": "goliat",
     "name": {
       "es": "Goliat",
-      "en": ""
+      "en": "Goliath"
     },
     "creatureType": {
       "es": "humanoide",
-      "en": ""
+      "en": "Humanoid"
     },
     "size": {
       "es": "Mediano",
-      "en": ""
+      "en": "Medium"
     },
     "speed": {
       "es": "9 m",
-      "en": ""
+      "en": "30 feet"
     },
     "description": {
       "es": "Los goliats son descendientes lejanos de los gigantes",
@@ -160,19 +160,19 @@
     "slug": "humano",
     "name": {
       "es": "Humano",
-      "en": ""
+      "en": "Human"
     },
     "creatureType": {
       "es": "humanoide",
-      "en": ""
+      "en": "Humanoid"
     },
     "size": {
       "es": "Mediano",
-      "en": ""
+      "en": "Medium"
     },
     "speed": {
       "es": "9 m",
-      "en": ""
+      "en": "30 feet"
     },
     "description": {
       "es": "Los humanos, que están repartidos por todo el multiverso,",
@@ -186,19 +186,19 @@
     "slug": "mediano",
     "name": {
       "es": "Mediano",
-      "en": ""
+      "en": "Halfling"
     },
     "creatureType": {
       "es": "humanoide",
-      "en": ""
+      "en": "Humanoid"
     },
     "size": {
       "es": "Mediano",
-      "en": ""
+      "en": "Medium"
     },
     "speed": {
       "es": "9 m",
-      "en": ""
+      "en": "30 feet"
     },
     "description": {
       "es": "Los medianos, valorados y guiados por los dioses que",
@@ -212,19 +212,19 @@
     "slug": "tiefling",
     "name": {
       "es": "Tiefling",
-      "en": ""
+      "en": "Tiefling"
     },
     "creatureType": {
       "es": "humanoide",
-      "en": ""
+      "en": "Humanoid"
     },
     "size": {
       "es": "Mediano",
-      "en": ""
+      "en": "Medium"
     },
     "speed": {
       "es": "9 m",
-      "en": ""
+      "en": "30 feet"
     },
     "description": {
       "es": "CTÓNICO",

@@ -4,16 +4,16 @@
     "slug": "baston",
     "name": {
       "es": "Bastón",
-      "en": ""
+      "en": "Quarterstaff"
     },
     "category": {
       "es": "Simple cuerpo a cuerpo",
-      "en": ""
+      "en": "Simple Melee"
     },
     "damage": "1d6",
     "damageType": {
       "es": "Contundente",
-      "en": ""
+      "en": "Bludgeoning"
     },
     "properties": [],
     "source": "phb2024"
@@ -23,16 +23,16 @@
     "slug": "daga",
     "name": {
       "es": "Daga",
-      "en": ""
+      "en": "Dagger"
     },
     "category": {
       "es": "Simple cuerpo a cuerpo",
-      "en": ""
+      "en": "Simple Melee"
     },
     "damage": "1d4",
     "damageType": {
       "es": "Perforante",
-      "en": ""
+      "en": "Piercing"
     },
     "properties": [],
     "source": "phb2024"
@@ -42,16 +42,16 @@
     "slug": "garrote",
     "name": {
       "es": "Garrote",
-      "en": ""
+      "en": "Club"
     },
     "category": {
       "es": "Simple cuerpo a cuerpo",
-      "en": ""
+      "en": "Simple Melee"
     },
     "damage": "1d4",
     "damageType": {
       "es": "Contundente",
-      "en": ""
+      "en": "Bludgeoning"
     },
     "properties": [],
     "source": "phb2024"
@@ -61,16 +61,16 @@
     "slug": "garrote-grande",
     "name": {
       "es": "Garrote grande",
-      "en": ""
+      "en": "Greatclub"
     },
     "category": {
       "es": "Simple cuerpo a cuerpo",
-      "en": ""
+      "en": "Simple Melee"
     },
     "damage": "1d8",
     "damageType": {
       "es": "Contundente",
-      "en": ""
+      "en": "Bludgeoning"
     },
     "properties": [],
     "source": "phb2024"
@@ -80,16 +80,16 @@
     "slug": "hacha-de-mano",
     "name": {
       "es": "Hacha de mano",
-      "en": ""
+      "en": "Handaxe"
     },
     "category": {
       "es": "Simple cuerpo a cuerpo",
-      "en": ""
+      "en": "Simple Melee"
     },
     "damage": "1d6",
     "damageType": {
       "es": "Cortante",
-      "en": ""
+      "en": "Slashing"
     },
     "properties": [],
     "source": "phb2024"
@@ -99,16 +99,16 @@
     "slug": "hoz",
     "name": {
       "es": "Hoz",
-      "en": ""
+      "en": "Sickle"
     },
     "category": {
       "es": "Simple cuerpo a cuerpo",
-      "en": ""
+      "en": "Simple Melee"
     },
     "damage": "1d4",
     "damageType": {
       "es": "Cortante",
-      "en": ""
+      "en": "Slashing"
     },
     "properties": [],
     "source": "phb2024"
@@ -118,16 +118,16 @@
     "slug": "jabalina",
     "name": {
       "es": "Jabalina",
-      "en": ""
+      "en": "Javelin"
     },
     "category": {
       "es": "Simple cuerpo a cuerpo",
-      "en": ""
+      "en": "Simple Melee"
     },
     "damage": "1d6",
     "damageType": {
       "es": "Perforante",
-      "en": ""
+      "en": "Piercing"
     },
     "properties": [],
     "source": "phb2024"
@@ -137,16 +137,16 @@
     "slug": "lanza",
     "name": {
       "es": "Lanza",
-      "en": ""
+      "en": "Spear"
     },
     "category": {
       "es": "Simple cuerpo a cuerpo",
-      "en": ""
+      "en": "Simple Melee"
     },
     "damage": "1d6",
     "damageType": {
       "es": "Perforante",
-      "en": ""
+      "en": "Piercing"
     },
     "properties": [],
     "source": "phb2024"
@@ -156,16 +156,16 @@
     "slug": "martillo-ligero",
     "name": {
       "es": "Martillo ligero",
-      "en": ""
+      "en": "Light Hammer"
     },
     "category": {
       "es": "Simple cuerpo a cuerpo",
-      "en": ""
+      "en": "Simple Melee"
     },
     "damage": "1d4",
     "damageType": {
       "es": "Contundente",
-      "en": ""
+      "en": "Bludgeoning"
     },
     "properties": [],
     "source": "phb2024"
@@ -175,16 +175,16 @@
     "slug": "maza",
     "name": {
       "es": "Maza",
-      "en": ""
+      "en": "Mace"
     },
     "category": {
       "es": "Simple cuerpo a cuerpo",
-      "en": ""
+      "en": "Simple Melee"
     },
     "damage": "1d6",
     "damageType": {
       "es": "Contundente",
-      "en": ""
+      "en": "Bludgeoning"
     },
     "properties": [],
     "source": "phb2024"
@@ -194,16 +194,16 @@
     "slug": "arco-corto",
     "name": {
       "es": "Arco corto",
-      "en": ""
+      "en": "Shortbow"
     },
     "category": {
       "es": "Simple a distancia",
-      "en": ""
+      "en": "Simple Ranged"
     },
     "damage": "1d6",
     "damageType": {
       "es": "Perforante",
-      "en": ""
+      "en": "Piercing"
     },
     "properties": [],
     "source": "phb2024"
@@ -213,16 +213,16 @@
     "slug": "ballesta-ligera",
     "name": {
       "es": "Ballesta ligera",
-      "en": ""
+      "en": "Light Crossbow"
     },
     "category": {
       "es": "Simple a distancia",
-      "en": ""
+      "en": "Simple Ranged"
     },
     "damage": "1d8",
     "damageType": {
       "es": "Perforante",
-      "en": ""
+      "en": "Piercing"
     },
     "properties": [],
     "source": "phb2024"
@@ -232,16 +232,16 @@
     "slug": "dardo",
     "name": {
       "es": "Dardo",
-      "en": ""
+      "en": "Dart"
     },
     "category": {
       "es": "Simple a distancia",
-      "en": ""
+      "en": "Simple Ranged"
     },
     "damage": "1d4",
     "damageType": {
       "es": "Perforante",
-      "en": ""
+      "en": "Piercing"
     },
     "properties": [],
     "source": "phb2024"
@@ -251,16 +251,16 @@
     "slug": "honda",
     "name": {
       "es": "Honda",
-      "en": ""
+      "en": "Sling"
     },
     "category": {
       "es": "Simple a distancia",
-      "en": ""
+      "en": "Simple Ranged"
     },
     "damage": "1d4",
     "damageType": {
       "es": "Contundente",
-      "en": ""
+      "en": "Bludgeoning"
     },
     "properties": [],
     "source": "phb2024"
@@ -270,16 +270,16 @@
     "slug": "alabarda",
     "name": {
       "es": "Alabarda",
-      "en": ""
+      "en": "Halberd"
     },
     "category": {
       "es": "Marcial cuerpo a cuerpo",
-      "en": ""
+      "en": "Martial Melee"
     },
     "damage": "1d10",
     "damageType": {
       "es": "Cortante",
-      "en": ""
+      "en": "Slashing"
     },
     "properties": [],
     "source": "phb2024"
@@ -289,16 +289,16 @@
     "slug": "cimitarra",
     "name": {
       "es": "Cimitarra",
-      "en": ""
+      "en": "Scimitar"
     },
     "category": {
       "es": "Marcial cuerpo a cuerpo",
-      "en": ""
+      "en": "Martial Melee"
     },
     "damage": "1d6",
     "damageType": {
       "es": "Cortante",
-      "en": ""
+      "en": "Slashing"
     },
     "properties": [],
     "source": "phb2024"
@@ -308,16 +308,16 @@
     "slug": "espada-corta",
     "name": {
       "es": "Espada corta",
-      "en": ""
+      "en": "Shortsword"
     },
     "category": {
       "es": "Marcial cuerpo a cuerpo",
-      "en": ""
+      "en": "Martial Melee"
     },
     "damage": "1d6",
     "damageType": {
       "es": "Perforante",
-      "en": ""
+      "en": "Piercing"
     },
     "properties": [],
     "source": "phb2024"
@@ -327,16 +327,16 @@
     "slug": "espada-larga",
     "name": {
       "es": "Espada larga",
-      "en": ""
+      "en": "Longsword"
     },
     "category": {
       "es": "Marcial cuerpo a cuerpo",
-      "en": ""
+      "en": "Martial Melee"
     },
     "damage": "1d8",
     "damageType": {
       "es": "Cortante",
-      "en": ""
+      "en": "Slashing"
     },
     "properties": [],
     "source": "phb2024"
@@ -346,16 +346,16 @@
     "slug": "espadon",
     "name": {
       "es": "Espadón",
-      "en": ""
+      "en": "Greatsword"
     },
     "category": {
       "es": "Marcial cuerpo a cuerpo",
-      "en": ""
+      "en": "Martial Melee"
     },
     "damage": "2d6",
     "damageType": {
       "es": "Cortante",
-      "en": ""
+      "en": "Slashing"
     },
     "properties": [],
     "source": "phb2024"
@@ -365,16 +365,16 @@
     "slug": "estoque",
     "name": {
       "es": "Estoque",
-      "en": ""
+      "en": "Rapier"
     },
     "category": {
       "es": "Marcial cuerpo a cuerpo",
-      "en": ""
+      "en": "Martial Melee"
     },
     "damage": "1d8",
     "damageType": {
       "es": "Perforante",
-      "en": ""
+      "en": "Piercing"
     },
     "properties": [],
     "source": "phb2024"
@@ -384,16 +384,16 @@
     "slug": "guja",
     "name": {
       "es": "Guja",
-      "en": ""
+      "en": "Glaive"
     },
     "category": {
       "es": "Marcial cuerpo a cuerpo",
-      "en": ""
+      "en": "Martial Melee"
     },
     "damage": "1d10",
     "damageType": {
       "es": "Cortante",
-      "en": ""
+      "en": "Slashing"
     },
     "properties": [],
     "source": "phb2024"
@@ -403,16 +403,16 @@
     "slug": "hacha-a-dos-manos",
     "name": {
       "es": "Hacha a dos manos",
-      "en": ""
+      "en": "Greataxe"
     },
     "category": {
       "es": "Marcial cuerpo a cuerpo",
-      "en": ""
+      "en": "Martial Melee"
     },
     "damage": "1d12",
     "damageType": {
       "es": "Cortante",
-      "en": ""
+      "en": "Slashing"
     },
     "properties": [],
     "source": "phb2024"
@@ -422,16 +422,16 @@
     "slug": "hacha-de-guerra",
     "name": {
       "es": "Hacha de guerra",
-      "en": ""
+      "en": "Battleaxe"
     },
     "category": {
       "es": "Marcial cuerpo a cuerpo",
-      "en": ""
+      "en": "Martial Melee"
     },
     "damage": "1d8",
     "damageType": {
       "es": "Cortante",
-      "en": ""
+      "en": "Slashing"
     },
     "properties": [],
     "source": "phb2024"
@@ -441,16 +441,16 @@
     "slug": "lanza-de-caballeria",
     "name": {
       "es": "Lanza de caballería",
-      "en": ""
+      "en": "Lance"
     },
     "category": {
       "es": "Marcial cuerpo a cuerpo",
-      "en": ""
+      "en": "Martial Melee"
     },
     "damage": "1d12",
     "damageType": {
       "es": "Perforante",
-      "en": ""
+      "en": "Piercing"
     },
     "properties": [],
     "source": "phb2024"
@@ -460,16 +460,16 @@
     "slug": "latigo",
     "name": {
       "es": "Látigo",
-      "en": ""
+      "en": "Whip"
     },
     "category": {
       "es": "Marcial cuerpo a cuerpo",
-      "en": ""
+      "en": "Martial Melee"
     },
     "damage": "1d4",
     "damageType": {
       "es": "Cortante",
-      "en": ""
+      "en": "Slashing"
     },
     "properties": [],
     "source": "phb2024"
@@ -479,16 +479,16 @@
     "slug": "lucero-del-alba",
     "name": {
       "es": "Lucero del alba",
-      "en": ""
+      "en": "Morningstar"
     },
     "category": {
       "es": "Marcial cuerpo a cuerpo",
-      "en": ""
+      "en": "Martial Melee"
     },
     "damage": "1d8",
     "damageType": {
       "es": "Perforante",
-      "en": ""
+      "en": "Piercing"
     },
     "properties": [],
     "source": "phb2024"
@@ -498,16 +498,16 @@
     "slug": "mangual",
     "name": {
       "es": "Mangual",
-      "en": ""
+      "en": "Flail"
     },
     "category": {
       "es": "Marcial cuerpo a cuerpo",
-      "en": ""
+      "en": "Martial Melee"
     },
     "damage": "1d8",
     "damageType": {
       "es": "Contundente",
-      "en": ""
+      "en": "Bludgeoning"
     },
     "properties": [],
     "source": "phb2024"
@@ -517,16 +517,16 @@
     "slug": "martillo-de-guerra",
     "name": {
       "es": "Martillo de guerra",
-      "en": ""
+      "en": "Warhammer"
     },
     "category": {
       "es": "Marcial cuerpo a cuerpo",
-      "en": ""
+      "en": "Martial Melee"
     },
     "damage": "1d8",
     "damageType": {
       "es": "Contundente",
-      "en": ""
+      "en": "Bludgeoning"
     },
     "properties": [],
     "source": "phb2024"
@@ -536,16 +536,16 @@
     "slug": "maza-a-dos-manos",
     "name": {
       "es": "Maza a dos manos",
-      "en": ""
+      "en": "Maul"
     },
     "category": {
       "es": "Marcial cuerpo a cuerpo",
-      "en": ""
+      "en": "Martial Melee"
     },
     "damage": "2d6",
     "damageType": {
       "es": "Contundente",
-      "en": ""
+      "en": "Bludgeoning"
     },
     "properties": [],
     "source": "phb2024"
@@ -555,16 +555,16 @@
     "slug": "pica",
     "name": {
       "es": "Pica",
-      "en": ""
+      "en": "Pike"
     },
     "category": {
       "es": "Marcial cuerpo a cuerpo",
-      "en": ""
+      "en": "Martial Melee"
     },
     "damage": "1d10",
     "damageType": {
       "es": "Perforante",
-      "en": ""
+      "en": "Piercing"
     },
     "properties": [],
     "source": "phb2024"
@@ -574,16 +574,16 @@
     "slug": "pico-de-guerra",
     "name": {
       "es": "Pico de guerra",
-      "en": ""
+      "en": "War Pick"
     },
     "category": {
       "es": "Marcial cuerpo a cuerpo",
-      "en": ""
+      "en": "Martial Melee"
     },
     "damage": "1d8",
     "damageType": {
       "es": "Perforante",
-      "en": ""
+      "en": "Piercing"
     },
     "properties": [],
     "source": "phb2024"
@@ -593,16 +593,16 @@
     "slug": "tridente",
     "name": {
       "es": "Tridente",
-      "en": ""
+      "en": "Trident"
     },
     "category": {
       "es": "Marcial cuerpo a cuerpo",
-      "en": ""
+      "en": "Martial Melee"
     },
     "damage": "1d8",
     "damageType": {
       "es": "Perforante",
-      "en": ""
+      "en": "Piercing"
     },
     "properties": [],
     "source": "phb2024"
@@ -612,16 +612,16 @@
     "slug": "arco-largo",
     "name": {
       "es": "Arco largo",
-      "en": ""
+      "en": "Longbow"
     },
     "category": {
       "es": "Marcial a distancia",
-      "en": ""
+      "en": "Martial Ranged"
     },
     "damage": "1d8",
     "damageType": {
       "es": "Perforante",
-      "en": ""
+      "en": "Piercing"
     },
     "properties": [],
     "source": "phb2024"
@@ -631,16 +631,16 @@
     "slug": "ballesta-de-mano",
     "name": {
       "es": "Ballesta de mano",
-      "en": ""
+      "en": "Hand Crossbow"
     },
     "category": {
       "es": "Marcial a distancia",
-      "en": ""
+      "en": "Martial Ranged"
     },
     "damage": "1d6",
     "damageType": {
       "es": "Perforante",
-      "en": ""
+      "en": "Piercing"
     },
     "properties": [],
     "source": "phb2024"
@@ -650,16 +650,16 @@
     "slug": "ballesta-pesada",
     "name": {
       "es": "Ballesta pesada",
-      "en": ""
+      "en": "Heavy Crossbow"
     },
     "category": {
       "es": "Marcial a distancia",
-      "en": ""
+      "en": "Martial Ranged"
     },
     "damage": "1d10",
     "damageType": {
       "es": "Perforante",
-      "en": ""
+      "en": "Piercing"
     },
     "properties": [],
     "source": "phb2024"
@@ -669,16 +669,16 @@
     "slug": "cerbatana",
     "name": {
       "es": "Cerbatana",
-      "en": ""
+      "en": "Blowgun"
     },
     "category": {
       "es": "Marcial a distancia",
-      "en": ""
+      "en": "Martial Ranged"
     },
     "damage": "1",
     "damageType": {
       "es": "Perforante",
-      "en": ""
+      "en": "Piercing"
     },
     "properties": [],
     "source": "phb2024"
@@ -688,16 +688,16 @@
     "slug": "mosquete",
     "name": {
       "es": "Mosquete",
-      "en": ""
+      "en": "Musket"
     },
     "category": {
       "es": "Marcial a distancia",
-      "en": ""
+      "en": "Martial Ranged"
     },
     "damage": "1d12",
     "damageType": {
       "es": "Perforante",
-      "en": ""
+      "en": "Piercing"
     },
     "properties": [],
     "source": "phb2024"
@@ -707,16 +707,16 @@
     "slug": "pistola",
     "name": {
       "es": "Pistola",
-      "en": ""
+      "en": "Pistol"
     },
     "category": {
       "es": "Marcial a distancia",
-      "en": ""
+      "en": "Martial Ranged"
     },
     "damage": "1d10",
     "damageType": {
       "es": "Perforante",
-      "en": ""
+      "en": "Piercing"
     },
     "properties": [],
     "source": "phb2024"

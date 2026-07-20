@@ -2,25 +2,25 @@
   "id": "monster-fiend-cuitist",
   "slug": "fiend-cuitist",
   "name": {
-    "es": "",
+    "es": "Espíritu infernal",
     "en": "Fiend CuItist"
   },
   "size": {
-    "es": "",
+    "es": "Grande",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Infernal",
     "en": "Humanoid"
   },
   "alignment": {
-    "es": "",
+    "es": "Neutral",
     "en": "Chaotic Evil"
   },
   "armorClass": 15,
   "hitPoints": "127 (17d8 + sl)",
   "speed": {
-    "es": "",
+    "es": "9 m",
     "en": "30 ft."
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Arcano +5, Percepción +7, Religión +5",
     "en": "Arcana +5, Perception +7, Religion +5"
   },
   "senses": {
-    "es": "",
+    "es": "Percepción pasiva 17",
     "en": "Passive Perception 17"
   },
   "languages": {
-    "es": "",
+    "es": "Com mon, Primord ial",
     "en": "Com mon, Primord ial"
   },
   "challengeRating": "8",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.87). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.87). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

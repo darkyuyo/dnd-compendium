@@ -2,25 +2,25 @@
   "id": "monster-water-element-al",
   "slug": "water-element-al",
   "name": {
-    "es": "",
+    "es": "Elemental de agua",
     "en": "Water Element al"
   },
   "size": {
-    "es": "",
+    "es": "Grande",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Elemental",
     "en": "Unknown"
   },
   "alignment": {
-    "es": "",
+    "es": "Neutral",
     "en": "Unaligned"
   },
   "armorClass": 10,
   "hitPoints": "55 (I0dl0 + 10)",
   "speed": {
-    "es": "",
+    "es": "5ki:[rot",
     "en": "5ki:[rot"
   },
   "abilityScores": {
@@ -32,11 +32,11 @@
     "cha": 10
   },
   "senses": {
-    "es": "",
+    "es": "—",
     "en": "—"
   },
   "languages": {
-    "es": "",
+    "es": "—",
     "en": "—"
   },
   "challengeRating": "?",
@@ -46,7 +46,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.322). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.322). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

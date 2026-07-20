@@ -2,25 +2,25 @@
   "id": "monster-adult-blue-dragon",
   "slug": "adult-blue-dragon",
   "name": {
-    "es": "",
+    "es": "Dragón azul adulto",
     "en": "Adult Blue Dragon"
   },
   "size": {
-    "es": "",
+    "es": "Enorme",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Dragón (cromático)",
     "en": "Unknown"
   },
   "alignment": {
-    "es": "",
+    "es": "Legal malvado",
     "en": "Unaligned"
   },
   "armorClass": 10,
   "hitPoints": "481 (26d20 + 208)",
   "speed": {
-    "es": "",
+    "es": "40 fr' t:JI\"- oo tr' t).lo,ll,",
     "en": "40 fr' t:JI\"- oo tr' t).lo,ll,"
   },
   "abilityScores": {
@@ -32,11 +32,11 @@
     "cha": 10
   },
   "senses": {
-    "es": "",
+    "es": "—",
     "en": "—"
   },
   "languages": {
-    "es": "",
+    "es": "—",
     "en": "—"
   },
   "challengeRating": "?",
@@ -46,7 +46,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.49). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.49). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

@@ -2,25 +2,25 @@
   "id": "monster-awakened-shrub",
   "slug": "awakened-shrub",
   "name": {
-    "es": "",
+    "es": "Arbusto despertado",
     "en": "Awakened Shrub"
   },
   "size": {
-    "es": "",
+    "es": "Pequeño",
     "en": "Small"
   },
   "type": {
-    "es": "",
+    "es": "Planta",
     "en": "Plant"
   },
   "alignment": {
-    "es": "",
+    "es": "Neutral",
     "en": "Neutral"
   },
   "armorClass": 10,
   "hitPoints": "59 (7d12 + la)",
   "speed": {
-    "es": "",
+    "es": "6 m",
     "en": "20 ft."
   },
   "abilityScores": {
@@ -32,11 +32,11 @@
     "cha": 10
   },
   "senses": {
-    "es": "",
+    "es": "Percepción pasiva 10",
     "en": "Passive Perception 10"
   },
   "languages": {
-    "es": "",
+    "es": "Común plus one other Idioma",
     "en": "Common plus one other language"
   },
   "challengeRating": "0",
@@ -47,7 +47,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.23). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.23). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

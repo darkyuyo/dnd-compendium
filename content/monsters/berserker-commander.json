@@ -2,25 +2,25 @@
   "id": "monster-berserker-commander",
   "slug": "berserker-commander",
   "name": {
-    "es": "",
+    "es": "Berserker comandante",
     "en": "Berserker Commander"
   },
   "size": {
-    "es": "",
+    "es": "Mediano o Pequeño",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Humanoide",
     "en": "Dragon (Metallic)"
   },
   "alignment": {
-    "es": "",
+    "es": "Neutral",
     "en": "Lawful Cood"
   },
   "armorClass": 20,
   "hitPoints": "332 (19d20 + 133)",
   "speed": {
-    "es": "",
+    "es": "40 fr, til:\"- oo t , t).3111:",
     "en": "40 fr, til:\"- oo t , t).3111:"
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Historia +9, Percepción +14, Persuasión +12,",
     "en": "History +9, Perception +14, Persuasion +12,"
   },
   "senses": {
-    "es": "",
+    "es": "Vista ciega 18 m, Visión en la oscuridad .36 m;",
     "en": "Blindsight 60 ft., Darkvision .120 ft.;"
   },
   "languages": {
-    "es": "",
+    "es": "Común, Dracónico",
     "en": "Common, Draconic"
   },
   "challengeRating": "20",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.57). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.57). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

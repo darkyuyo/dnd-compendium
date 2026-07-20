@@ -4,11 +4,11 @@
     "slug": "afortunado",
     "name": {
       "es": "AFORTUNADO",
-      "en": ""
+      "en": "AFORTUNADO"
     },
     "category": {
       "es": "origen",
-      "en": ""
+      "en": "Origin"
     },
     "description": {
       "es": "Obtienes los siguientes beneficios:",
@@ -21,11 +21,11 @@
     "slug": "alerta",
     "name": {
       "es": "ALERTA",
-      "en": ""
+      "en": "ALERTA"
     },
     "category": {
       "es": "origen",
-      "en": ""
+      "en": "Origin"
     },
     "description": {
       "es": "Obtienes los siguientes beneficios:",
@@ -38,11 +38,11 @@
     "slug": "atacante-salvaje",
     "name": {
       "es": "ATACANTE SALVAJE",
-      "en": ""
+      "en": "ATACANTE SALVAJE"
     },
     "category": {
       "es": "origen",
-      "en": ""
+      "en": "Origin"
     },
     "description": {
       "es": "Te has preparado para asestar golpes especialmente",
@@ -55,11 +55,11 @@
     "slug": "duro",
     "name": {
       "es": "Duro",
-      "en": ""
+      "en": "Duro"
     },
     "category": {
       "es": "origen",
-      "en": ""
+      "en": "Origin"
     },
     "description": {
       "es": "Tus puntos de golpe máximos aumentan en una",
@@ -72,11 +72,11 @@
     "slug": "fabricante",
     "name": {
       "es": "FABRICANTE",
-      "en": ""
+      "en": "FABRICANTE"
     },
     "category": {
       "es": "origen",
-      "en": ""
+      "en": "Origin"
     },
     "description": {
       "es": "Obtienes los siguientes beneficios:",
@@ -89,11 +89,11 @@
     "slug": "habilidoso",
     "name": {
       "es": "HABILIDOSO",
-      "en": ""
+      "en": "HABILIDOSO"
     },
     "category": {
       "es": "origen",
-      "en": ""
+      "en": "Origin"
     },
     "description": {
       "es": "Ganas competencia en cualquier combinación de tres",
@@ -106,11 +106,11 @@
     "slug": "iniciado-en-la-magia",
     "name": {
       "es": "INICIADO EN LA MAGIA",
-      "en": ""
+      "en": "INICIADO EN LA MAGIA"
     },
     "category": {
       "es": "origen",
-      "en": ""
+      "en": "Origin"
     },
     "description": {
       "es": "Obtienes los siguientes beneficios:",
@@ -123,11 +123,11 @@
     "slug": "maton-de-taberna",
     "name": {
       "es": "MATÓN DE TABERNA",
-      "en": ""
+      "en": "MATÓN DE TABERNA"
     },
     "category": {
       "es": "origen",
-      "en": ""
+      "en": "Origin"
     },
     "description": {
       "es": "Obtienes los siguientes beneficios:",
@@ -140,11 +140,11 @@
     "slug": "musico",
     "name": {
       "es": "Músico",
-      "en": ""
+      "en": "Músico"
     },
     "category": {
       "es": "origen",
-      "en": ""
+      "en": "Origin"
     },
     "description": {
       "es": "Obtienes los siguientes beneficios:",
@@ -157,11 +157,11 @@
     "slug": "sanador",
     "name": {
       "es": "SANADOR",
-      "en": ""
+      "en": "SANADOR"
     },
     "category": {
       "es": "origen",
-      "en": ""
+      "en": "Origin"
     },
     "description": {
       "es": "Obtienes los siguientes beneficios:",
@@ -174,11 +174,11 @@
     "slug": "combate-con-armas-a-dos-manos",
     "name": {
       "es": "COMBATE CON ARMAS A DOS MANOS",
-      "en": ""
+      "en": "COMBATE CON ARMAS A DOS MANOS"
     },
     "category": {
       "es": "estilo de combate (requisitos: rasgo Estilo de combate)",
-      "en": ""
+      "en": "Fighting Style de combate (requisitos: rasgo Fighting Style de combate)"
     },
     "description": {
       "es": "Cuando tires el daño para un ataque hecho con un",
@@ -191,11 +191,11 @@
     "slug": "combate-con-armas-arrojadizas",
     "name": {
       "es": "COMBATE CON ARMAS ARROJADIZAS",
-      "en": ""
+      "en": "COMBATE CON ARMAS ARROJADIZAS"
     },
     "category": {
       "es": "estilo de combate (requisitos: rasgo Estilo de combate)",
-      "en": ""
+      "en": "Fighting Style de combate (requisitos: rasgo Fighting Style de combate)"
     },
     "description": {
       "es": "Cuando aciertas con una tirada de ataque a distancia con",
@@ -208,11 +208,11 @@
     "slug": "combate-con-dos-armas",
     "name": {
       "es": "COMBATE CON DOS ARMAS",
-      "en": ""
+      "en": "COMBATE CON DOS ARMAS"
     },
     "category": {
       "es": "estilo de combate (requisitos: rasgo Estilo de combate)",
-      "en": ""
+      "en": "Fighting Style de combate (requisitos: rasgo Fighting Style de combate)"
     },
     "description": {
       "es": "Cuando haces un ataque extra como resultado de utilizar",
@@ -225,11 +225,11 @@
     "slug": "combate-sin-armas",
     "name": {
       "es": "COMBATE SIN ARMAS",
-      "en": ""
+      "en": "COMBATE SIN ARMAS"
     },
     "category": {
       "es": "estilo de combate (requisitos: rasgo Estilo de combate)",
-      "en": ""
+      "en": "Fighting Style de combate (requisitos: rasgo Fighting Style de combate)"
     },
     "description": {
       "es": "Cuando aciertes con tu ataque sin armas y causes daño,",
@@ -242,11 +242,11 @@
     "slug": "defensa",
     "name": {
       "es": "DEFENSA",
-      "en": ""
+      "en": "DEFENSA"
     },
     "category": {
       "es": "estilo de combate (requisitos: rasgo Estilo de combate)",
-      "en": ""
+      "en": "Fighting Style de combate (requisitos: rasgo Fighting Style de combate)"
     },
     "description": {
       "es": "Mientras lleves puesta una armadura ligera, media o pesada,",
@@ -259,11 +259,11 @@
     "slug": "duelo",
     "name": {
       "es": "DueLo",
-      "en": ""
+      "en": "DueLo"
     },
     "category": {
       "es": "estilo de combate (requisitos: rasgo Estilo de combate)",
-      "en": ""
+      "en": "Fighting Style de combate (requisitos: rasgo Fighting Style de combate)"
     },
     "description": {
       "es": "Cuando empuñes un arma cuerpo a cuerpo con una mano",
@@ -276,11 +276,11 @@
     "slug": "intercepcion",
     "name": {
       "es": "INTERCEPCIÓN",
-      "en": ""
+      "en": "INTERCEPCIÓN"
     },
     "category": {
       "es": "estilo de combate (requisitos: rasgo Estilo de combate)",
-      "en": ""
+      "en": "Fighting Style de combate (requisitos: rasgo Fighting Style de combate)"
     },
     "description": {
       "es": "Cuando una criatura que puedas ver acierte a otra",
@@ -293,15 +293,15 @@
     "slug": "lucha-a-ciegas",
     "name": {
       "es": "LucHA A CIEGAS",
-      "en": ""
+      "en": "LucHA A CIEGAS"
     },
     "category": {
       "es": "estilo de combate (requisitos: rasgo Estilo de combate)",
-      "en": ""
+      "en": "Fighting Style de combate (requisitos: rasgo Fighting Style de combate)"
     },
     "description": {
       "es": "Tienes visión ciega hasta 3 m.",
-      "en": ""
+      "en": "Tienes visión ciega hasta 10 feet."
     },
     "source": "phb2024"
   },
@@ -310,11 +310,11 @@
     "slug": "proteccion",
     "name": {
       "es": "PROTECCIÓN",
-      "en": ""
+      "en": "PROTECCIÓN"
     },
     "category": {
       "es": "estilo de combate (requisitos: rasgo Estilo de combate)",
-      "en": ""
+      "en": "Fighting Style de combate (requisitos: rasgo Fighting Style de combate)"
     },
     "description": {
       "es": "Cuando una criatura que puedas ver ataque a un objetivo",
@@ -327,11 +327,11 @@
     "slug": "tiro-con-arco",
     "name": {
       "es": "TIRO CON ARCO",
-      "en": ""
+      "en": "TIRO CON ARCO"
     },
     "category": {
       "es": "estilo de combate (requisitos: rasgo Estilo de combate)",
-      "en": ""
+      "en": "Fighting Style de combate (requisitos: rasgo Fighting Style de combate)"
     },
     "description": {
       "es": "Recibes un bonificador de +2 a las tiradas de ataque con",
@@ -344,11 +344,11 @@
     "slug": "don-de-la-fortaleza",
     "name": {
       "es": "DON DE LA FORTALEZA",
-      "en": ""
+      "en": "DON DE LA FORTALEZA"
     },
     "category": {
       "es": "don épico (requisito: nivel 19 o más)",
-      "en": ""
+      "en": "don épico (requisito: nivel 19 o más)"
     },
     "description": {
       "es": "Obtienes los siguientes beneficios:",
@@ -361,11 +361,11 @@
     "slug": "don-de-la-habilidad",
     "name": {
       "es": "DoN DE LA HABILIDAD",
-      "en": ""
+      "en": "DoN DE LA HABILIDAD"
     },
     "category": {
       "es": "don épico (requisito: nivel 19 o más)",
-      "en": ""
+      "en": "don épico (requisito: nivel 19 o más)"
     },
     "description": {
       "es": "Obtienes los siguientes beneficios:",
@@ -378,11 +378,11 @@
     "slug": "don-de-la-pericia-en-combate",
     "name": {
       "es": "DON DE LA PERICIA EN COMBATE",
-      "en": ""
+      "en": "DON DE LA PERICIA EN COMBATE"
     },
     "category": {
       "es": "don épico (requisito: nivel 19 o más)",
-      "en": ""
+      "en": "don épico (requisito: nivel 19 o más)"
     },
     "description": {
       "es": "Obtienes los siguientes beneficios:",
@@ -395,11 +395,11 @@
     "slug": "don-de-la-recuperacion",
     "name": {
       "es": "DON DE LA RECUPERACIÓN",
-      "en": ""
+      "en": "DON DE LA RECUPERACIÓN"
     },
     "category": {
       "es": "don épico (requisito: nivel 19 o más)",
-      "en": ""
+      "en": "don épico (requisito: nivel 19 o más)"
     },
     "description": {
       "es": "Obtienes los siguientes beneficios:",
@@ -412,11 +412,11 @@
     "slug": "don-de-la-resistencia-a-energias",
     "name": {
       "es": "DoN DE LA RESISTENCIA A ENERGÍAS",
-      "en": ""
+      "en": "DoN DE LA RESISTENCIA A ENERGÍAS"
     },
     "category": {
       "es": "don épico (requisito: nivel 19 o más)",
-      "en": ""
+      "en": "don épico (requisito: nivel 19 o más)"
     },
     "description": {
       "es": "Obtienes los siguientes beneficios:",
@@ -429,11 +429,11 @@
     "slug": "don-de-la-velocidad",
     "name": {
       "es": "DON DE LA VELOCIDAD",
-      "en": ""
+      "en": "DON DE LA VELOCIDAD"
     },
     "category": {
       "es": "don épico (requisito: nivel 19 o más)",
-      "en": ""
+      "en": "don épico (requisito: nivel 19 o más)"
     },
     "description": {
       "es": "Obtienes los siguientes beneficios:",
@@ -446,11 +446,11 @@
     "slug": "don-de-la-vision-verdadera",
     "name": {
       "es": "DON DE LA VISIÓN VERDADERA",
-      "en": ""
+      "en": "DON DE LA VISIÓN VERDADERA"
     },
     "category": {
       "es": "don épico (requisito: nivel 19 o más)",
-      "en": ""
+      "en": "don épico (requisito: nivel 19 o más)"
     },
     "description": {
       "es": "Obtienes los siguientes beneficios:",
@@ -463,11 +463,11 @@
     "slug": "don-del-ataque-imparable",
     "name": {
       "es": "DON DEL ATAQUE IMPARABLE",
-      "en": ""
+      "en": "DON DEL ATAQUE IMPARABLE"
     },
     "category": {
       "es": "don épico (requisito: nivel 19 o más)",
-      "en": ""
+      "en": "don épico (requisito: nivel 19 o más)"
     },
     "description": {
       "es": "Obtienes los siguientes beneficios:",
@@ -480,11 +480,11 @@
     "slug": "don-del-destino",
     "name": {
       "es": "DON DEL DESTINO",
-      "en": ""
+      "en": "DON DEL DESTINO"
     },
     "category": {
       "es": "don épico (requisito: nivel 19 o más)",
-      "en": ""
+      "en": "don épico (requisito: nivel 19 o más)"
     },
     "description": {
       "es": "Obtienes los siguientes beneficios:",
@@ -497,11 +497,11 @@
     "slug": "don-del-espiritu-de-la-noche",
     "name": {
       "es": "DON DEL ESPÍRITU DE LA NOCHE",
-      "en": ""
+      "en": "DON DEL ESPÍRITU DE LA NOCHE"
     },
     "category": {
       "es": "don épico (requisito: nivel 19 o más)",
-      "en": ""
+      "en": "don épico (requisito: nivel 19 o más)"
     },
     "description": {
       "es": "Obtienes los siguientes beneficios:",
@@ -514,11 +514,11 @@
     "slug": "don-del-viaje-dimensional",
     "name": {
       "es": "DON DEL VIAJE DIMENSIONAL",
-      "en": ""
+      "en": "DON DEL VIAJE DIMENSIONAL"
     },
     "category": {
       "es": "don épico (requisito: nivel 19 o más)",
-      "en": ""
+      "en": "don épico (requisito: nivel 19 o más)"
     },
     "description": {
       "es": "Obtienes los siguientes beneficios:",

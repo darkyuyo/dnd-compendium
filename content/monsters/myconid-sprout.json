@@ -2,25 +2,25 @@
   "id": "monster-myconid-sprout",
   "slug": "myconid-sprout",
   "name": {
-    "es": "",
+    "es": "Micónido brote",
     "en": "Myconid Sprout"
   },
   "size": {
-    "es": "",
+    "es": "Pequeño",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Planta",
     "en": "Plant"
   },
   "alignment": {
-    "es": "",
+    "es": "Legal neutral",
     "en": "Lawful Neutral"
   },
   "armorClass": 10,
   "hitPoints": "16 (3d8 + 3)",
   "speed": {
-    "es": "",
+    "es": "6 m",
     "en": "20 ft."
   },
   "abilityScores": {
@@ -32,11 +32,11 @@
     "cha": 10
   },
   "senses": {
-    "es": "",
+    "es": "Visión en la oscuridad .36 m; Percepción pasiva 1i",
     "en": "Darkvision .120 ft.; Passive Perception 1i"
   },
   "languages": {
-    "es": "",
+    "es": "telepatía 240 ft",
     "en": "Telepathy 240 ft"
   },
   "challengeRating": "?",
@@ -47,7 +47,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.222). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.222). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

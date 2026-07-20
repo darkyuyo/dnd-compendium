@@ -20,6 +20,14 @@ npx tsx scripts/curate-from-raw.ts monsters staging/my-monster.json
 npx tsx scripts/curate-from-raw.ts validate-all
 ```
 
+5. Fill missing `es`/`en` labels (names, schools, sizes, etc.) from bilingual glossaries:
+
+```bash
+npm run fill:i18n
+```
+
+Long rule-text descriptions are left on the language already present so the UI can fall back with “Sin traducir” instead of mixed machine swaps. The Spanish Monster Manual PDF in `Descargas` is scan-only (no text layer); Spanish monster names/types come from the glossary map in `staging/`.
+
 Tables in rulebook PDFs often extract poorly — hand-edit JSON after merge.
 
 ## Coverage checklist

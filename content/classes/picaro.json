@@ -3,28 +3,28 @@
   "slug": "picaro",
   "name": {
     "es": "Pícaro",
-    "en": ""
+    "en": "Rogue"
   },
   "hitDie": "d8",
   "primaryAbility": {
     "es": "Destreza",
-    "en": ""
+    "en": "Dexterity"
   },
   "savingThrows": {
     "es": "Elige cuatro: Acrobacias,",
-    "en": ""
+    "en": "Dexterity and Intelligence"
   },
   "armor": {
     "es": "ligeras. + Obtienes los rasgos de nivel 1 de pícaro, que se muestran",
-    "en": ""
+    "en": "light. + Obtienes los rasgos de nivel 1 de pícaro, que se muestran"
   },
   "weapons": {
     "es": "—",
-    "en": ""
+    "en": "—"
   },
   "skills": {
     "es": "de tu elección. Se recomiendan Juego de manosy Sigilo si eres competente en ellas.",
-    "en": ""
+    "en": "of your choice.  Recommended: Juego de manosy Sigilo si eres competente en ellas."
   },
   "description": {
     "es": "+ Obtienes todos los atributos de la tabla “Atributos + Obtienes los rasgos de nivel 1 de pícaro, que se muestran + Obtienes los siguientes atributos de la tabla “Atributos básicos de pícaro”: dado de puntos de golpe, competencia en una habilidad de tu elección de la lista de habilidades de pícaro, competencia con herramientas de ladrón y entrenamiento con armaduras ligeras. + Obtienes los rasgos de nivel 1 de pícaro, que se muestran",
@@ -35,7 +35,7 @@
       "level": 1,
       "name": {
         "es": "ATAQUE FURTIVO",
-        "en": ""
+        "en": "ATAQUE FURTIVO"
       },
       "description": {
         "es": "Sabes cómo atacar sutilmente y aprovecharte de un enemigo distraído. Una vez por turno, puedes infligir 1d6 de daño adicional a una criatura a la que aciertes con una tirada de ataque si tienes ventaja en la tirada y si ha sido utilizando un arma sutil o a distancia. El daño adicional es del mismo tipo que el del arma. No necesitas tener ventaja en la tirada de ataque si al menos uno de tus aliados está a 1,5 m o menos del objetivo, dicho aliado no tiene el estado de incapacitado y no sufres desventaja en la tirada de ataque. El daño adicional aumenta conforme subes de nivel de pícaro, como se muestra en la columna “Ataque furtivo” de la tabla “Rasgos de pícaro”.",
@@ -46,7 +46,7 @@
       "level": 1,
       "name": {
         "es": "JERGA DE LADRONES",
-        "en": ""
+        "en": "JERGA DE LADRONES"
       },
       "description": {
         "es": "Has aprendido varios idiomas en las comunidades donde empleabas tus talentos de pícaro. Conoces la jerga de ladrones y otro idioma de tu elección de las tablas de idiomas del",
@@ -57,7 +57,7 @@
       "level": 1,
       "name": {
         "es": "MAESTRÍA CON ARMAS",
-        "en": ""
+        "en": "MAESTRÍA CON ARMAS"
       },
       "description": {
         "es": "Tu entrenamiento con armas te permite utilizar las propiedades de maestría con dos tipos de armas de tu elección con las que tengas competencia, como dagas y arcos cortos. Tras finalizar un descanso largo, puedes cambiar los tipos de armas elegidas. Por ejemplo, podrías pasar a utilizar las propiedades de maestría con cimitarras y espadas cortas.",
@@ -68,7 +68,7 @@
       "level": 1,
       "name": {
         "es": "PERICIA",
-        "en": ""
+        "en": "PERICIA"
       },
       "description": {
         "es": "Ganas pericia en dos de tus competencias en habilidades de tu elección. Se recomiendan Juego de manosy Sigilo si eres competente en ellas. En el nivel 6 de pícaro ganas pericia en otras dos competencias en habilidades de tu elección.",
@@ -79,18 +79,18 @@
       "level": 2,
       "name": {
         "es": "ACCIÓN ASTUTA",
-        "en": ""
+        "en": "ACCIÓN ASTUTA"
       },
       "description": {
         "es": "Tu agilidad mental y tu rapidez te permiten moverte y actuar con presteza. En tu turno, puedes llevar a cabo una de las siguientes acciones como acción adicional: correr, destrabarse o esconderse.",
-        "en": ""
+        "en": "Tu agilidad mental y tu rapidez te permiten moverte y actuar con presteza. En tu turno, puedes llevar a cabo una de las siguientes acciones como Bonus Action: correr, destrabarse o esconderse."
       }
     },
     {
       "level": 3,
       "name": {
         "es": "PUNTERÍA CERTERA",
-        "en": ""
+        "en": "PUNTERÍA CERTERA"
       },
       "description": {
         "es": "Como acción adicional, te concedes ventaja en tu siguiente tirada de ataque del turno actual. Solo puedes usar este rasgo si no te has movido durante este turno y, después de usarlo, tu velocidad es O hasta el final del turno.",
@@ -101,7 +101,7 @@
       "level": 4,
       "name": {
         "es": "MEJORA DE CARACTERÍSTICA",
-        "en": ""
+        "en": "MEJORA DE CARACTERÍSTICA"
       },
       "description": {
         "es": "Obtienes la dote Mejora de característica (consulta el",
@@ -112,7 +112,7 @@
       "level": 5,
       "name": {
         "es": "ESQUIVA ASOMBROSA",
-        "en": ""
+        "en": "ESQUIVA ASOMBROSA"
       },
       "description": {
         "es": "Cuando un atacante que puedas ver te acierte con una tirada de ataque, puedes usar una reacción para reducir a la mitad el daño que te causa dicho ataque (redondeando hacia abajo).",
@@ -123,7 +123,7 @@
       "level": 5,
       "name": {
         "es": "GOLPE ASTUTO",
-        "en": ""
+        "en": "GOLPE ASTUTO"
       },
       "description": {
         "es": "Has desarrollado formas astutas de usar tu Ataque furtivo. Cuando infliges daño de Ataque furtivo, puedes añadir uno de los siguientes efectos de Golpe astuto. Cada uno tiene un coste en dados que es la cantidad de dados de daño de Ataque furtivo a los que debes renunciar para añadir el efecto. Retiras la cantidad de dados antes de tirar y el efecto se produce inmediatamente después de que se cause el daño del ataque. Por ejemplo, si añades el efecto de veneno, quita 1d6 del daño de Ataque furtivo antes de tirar. Si un efecto de Golpe astuto requiere una tirada de salvación, la CD es igual a 8 más tu modificador por Destreza y tu bonificador por competencia. Retirada (coste: 1d6). Justo después del ataque, te mueves hasta la mitad de tu velocidad sin provocar ataques de oportunidad. Tropiezo (coste: 1d6). Si el objetivo es Grande o más pequeño, deberá superar una tirada de salvación de Destreza o tendrá el estado de derribado. Veneno (coste: 146). Añades una toxina a tu golpe, lo que obliga al objetivo a hacer una tirada de salvación de Constitución. Si la falla, tendrá el estado de envenenado durante 1 minuto. Al final de cada uno de sus turnos, el objetivo envenenado repetirá la tirada de salvación y, si tiene éxito, se librará del efecto. Para usar este efecto, debes llevar contigo unos útiles de envenenador.",
@@ -134,7 +134,7 @@
       "level": 7,
       "name": {
         "es": "EVASIÓN",
-        "en": ""
+        "en": "EVASIÓN"
       },
       "description": {
         "es": "Puedes esquivar con agilidad ciertos peligros. Cuando sufras un efecto que te permita hacer una tirada de salvación de Destreza para sufrir solo la mitad de daño, no recibes daño alguno si la superas y solo sufres la mitad si la fallas. No puedes usar este rasgo si tienes el estado de incapacitado.",
@@ -145,7 +145,7 @@
       "level": 7,
       "name": {
         "es": "TALENTOS FIABLES",
-        "en": ""
+        "en": "TALENTOS FIABLES"
       },
       "description": {
         "es": "Cuando hagas una prueba de característica que utilice una de tus competencias en habilidades o con herramientas, puedes sustituir un resultado de 9 o menos en el d20 por un 10.",
@@ -156,7 +156,7 @@
       "level": 11,
       "name": {
         "es": "GOLPE ASTUTO MEJORADO",
-        "en": ""
+        "en": "GOLPE ASTUTO MEJORADO"
       },
       "description": {
         "es": "Puedes usar hasta dos efectos de Golpe astuto cuando inflijas daño de Ataque furtivo pagando el coste en dados por cada efecto.",
@@ -167,7 +167,7 @@
       "level": 14,
       "name": {
         "es": "GOLPES TAIMADOS",
-        "en": ""
+        "en": "GOLPES TAIMADOS"
       },
       "description": {
         "es": "Has practicado nuevas formas de usar tu Ataque furtivo de forma artera. Entre las opciones de Golpe astuto se encuentran ahora los siguientes efectos. Confundir (coste: 2d6). El objetivo deberá superar una tirada de salvación de Constitución. Si no lo hace, en su próximo turno solo podrá moverse, realizar una acción o realizar una acción adicional. Noquear (coste: 6d6). El objetivo deberá superar una tirada de salvación de Constitución o tendrá el estado de inconsciente durante 1 minuto o hasta recibir daño. El objetivo inconsciente repetirá la tirada de salvación al final de cada uno de sus turnos y, si tiene éxito, se librará del efecto. Ofuscar (coste: 3d6). El objetivo deberá superar una tirada de salvación de Destreza o tendrá el estado de cegado hasta el final de su siguiente turno.",
@@ -178,7 +178,7 @@
       "level": 15,
       "name": {
         "es": "MENTE ESCURRIDIZA",
-        "en": ""
+        "en": "MENTE ESCURRIDIZA"
       },
       "description": {
         "es": "Tu mente astuta es excepcionalmente difícil de controlar. Ganas competencia en las tiradas de salvación de Sabiduría y Carisma. NiveEL 18: ELUSIvo Eres tan escurridizo que será raro que un atacante pueda golpearte con facilidad. Ninguna tirada de ataque contra ti tendrá ventaja a menos que tengas el estado de incapacitado. NiveEL 19: Don ÉPICO Obtienes una dote de don épico (consulta el",
@@ -189,7 +189,7 @@
       "level": 20,
       "name": {
         "es": "GOLPE DE SUERTE",
-        "en": ""
+        "en": "GOLPE DE SUERTE"
       },
       "description": {
         "es": "Has desarrollado una capacidad asombrosa para tener éxito justo cuando lo necesitas. Si fallas una prueba con d20, puedes convertir el resultado de la tirada en un 20. Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un descanso corto o largo.",
@@ -200,7 +200,7 @@
       "level": 3,
       "name": {
         "es": "ASESINAR",
-        "en": ""
+        "en": "ASESINAR"
       },
       "description": {
         "es": "Se te da muy bien emboscar objetivos, lo que te otorga los siguientes beneficios. Golpes sorprendentes. Durante el primer asalto de cada combate, tienes ventaja en las tiradas de ataque contra cualquier criatura que aún no haya jugado un turno. Si tu Ataque furtivo acierta a cualquier objetivo durante ese asalto, el objetivo recibirá un daño adicional del tipo del arma igual a tu nivel de pícaro. Iniciativa. Tienes ventaja en las tiradas de iniciativa.",
@@ -211,7 +211,7 @@
       "level": 3,
       "name": {
         "es": "HERRAMIENTAS DE ASESINO",
-        "en": ""
+        "en": "HERRAMIENTAS DE ASESINO"
       },
       "description": {
         "es": "Consigues útiles de envenenador y útiles para disfrazarse y tienes competencia con ellos.",
@@ -222,7 +222,7 @@
       "level": 9,
       "name": {
         "es": "PERICIA EN INFILTRARSE",
-        "en": ""
+        "en": "PERICIA EN INFILTRARSE"
       },
       "description": {
         "es": "Eres experto en las siguientes técnicas que te ayudan en tus infiltraciones. Imitación magistral. Puedes imitar a la perfección el habla de otra persona, su caligrafía o ambas si pasas al menos 1 hora estudiándolas. Puntería ambulante. Tu velocidad no se reduce a O cuando usas Puntería certera.",
@@ -233,7 +233,7 @@
       "level": 13,
       "name": {
         "es": "ENVENENAR ARMAS",
-        "en": ""
+        "en": "ENVENENAR ARMAS"
       },
       "description": {
         "es": "Cuando utilizas la opción de veneno de tu Golpe astuto, el objetivo también recibirá 2d6 de daño de veneno si falla la tirada de salvación. Este daño ignora la resistencia al daño de veneno.",
@@ -244,7 +244,7 @@
       "level": 17,
       "name": {
         "es": "GOLPE MORTAL",
-        "en": ""
+        "en": "GOLPE MORTAL"
       },
       "description": {
         "es": "Cuando aciertes con tu Ataque furtivo en el primer asalto de un combate, el objetivo deberá hacer una tirada de salvación de Constitución (CD 8 más tu modificador por Destreza y tu bonificador por competencia). Si no la supera, se duplicará el daño del ataque contra el objetivo. EMBAUCADOR ARCANO Mejora tu sigilo mediante conjuros arcanos. unos pícaros usan conjuros para complementar bien pulidas habilidades para el sigilo y su agilidad, aprendiendo trucos mágicos que los ayuden en sus metidos. Muchos embaucadores arcanos emplean sus entos como carteristas o ladrones, pero también como omistas.",
@@ -255,7 +255,7 @@
       "level": 3,
       "name": {
         "es": "LANZAMIENTO DE CONJUROS",
-        "en": ""
+        "en": "SPELLCASTING"
       },
       "description": {
         "es": "Has aprendido a lanzar conjuros. Consulta el",
@@ -266,18 +266,18 @@
       "level": 3,
       "name": {
         "es": "DESTREZA CON MANO DE MAGO",
-        "en": ""
+        "en": "DESTREZA CON MANO DE MAGO"
       },
       "description": {
         "es": "Cuando lanzas mano de mago, puedes hacerlo como acción adicional y de modo que la mano espectral sea invisible. Puedes controlar la mano como acción adicional y usarla para hacer pruebas de Destreza (Juego de manos).",
-        "en": ""
+        "en": "Cuando lanzas mano de mago, puedes hacerlo como Bonus Action y de modo que la mano espectral sea invisible. Puedes controlar la mano como Bonus Action y usarla para hacer pruebas de Destreza (Juego de manos)."
       }
     },
     {
       "level": 9,
       "name": {
         "es": "EMBOSCADA MÁGICA",
-        "en": ""
+        "en": "EMBOSCADA MÁGICA"
       },
       "description": {
         "es": "Si tienes el estado de invisible cuando lances un conjuro sobre una criatura, tendrá desventaja en cualquier tirada de salvación que haga contra el conjuro ese mismo turno.",
@@ -288,7 +288,7 @@
       "level": 13,
       "name": {
         "es": "EMBAUCADOR VERSÁTIL",
-        "en": ""
+        "en": "EMBAUCADOR VERSÁTIL"
       },
       "description": {
         "es": "Obtienes la capacidad de distraer a los objetivos con tu mano de mago. Cuando utilizas la opción de tropiezo de tu Golpe astuto sobre una criatura, también podrás usar esa opción sobre otra criatura a 1,5 m o menos de la mano espectral.",
@@ -299,7 +299,7 @@
       "level": 17,
       "name": {
         "es": "LABRÓN DE CONJUROS",
-        "en": ""
+        "en": "LABRÓN DE CONJUROS"
       },
       "description": {
         "es": "Obtienes la capacidad de robar mágicamente el conocimiento de otro lanzador para usar un conjuro. Inmediatamente después de que una criatura lance un conjuro que te haga objetivo o cuya área de efecto te incluya, puedes usar una reacción para obligar a la criatura a hacer una tirada de salvación de Inteligencia. La CD es tu CD de salvación de conjuros. Si la falla, anularás los efectos del conjuro sobre ti y robarás el conocimiento de cómo lanzarlo si es al menos de nivel 1 y de un nivel que puedas lanzar (no tiene por qué ser un conjuro de mago). Durante las siguientes 8 horas, tendrás el conjuro preparado. Además, la criatura no podrá lanzarlo hasta que las 8 horas hayan pasado. Una vez robes un conjuro empleando este rasgo, no podrás volver a utilizar el rasgo hasta que finalices un descanso largo. LADRÓN Busca tesoros como los aventureros clásicos. Mezcla de ladrón, cazatesoros y explorador, representas el paradigma del aventurero. Además de mejorar tu agilidad y sigilo, también aprendes habilidades útiles para explorar ruinas y sacarles el máximo provecho a los objetos mágicos que encuentras en ellas.",
@@ -310,7 +310,7 @@
       "level": 3,
       "name": {
         "es": "BALCONERO",
-        "en": ""
+        "en": "BALCONERO"
       },
       "description": {
         "es": "Te has entrenado para llegar a lugares especialmente difíciles de alcanzar, lo que te otorga los siguientes beneficios. Escalador. Obtienes una velocidad trepando igual a tu velocidad. Saltador. Puedes determinar tu distancia de salto empleando tu Destreza en lugar de tu Fuerza.",
@@ -321,7 +321,7 @@
       "level": 3,
       "name": {
         "es": "MANOS RÁPIDAS",
-        "en": ""
+        "en": "MANOS RÁPIDAS"
       },
       "description": {
         "es": "Como acción adicional, puedes hacer una de las siguientes Cosas: Juego de manos. Haz una prueba de Destreza (Juego de manos) para robarle a alguien o usar herramientas de ladrón para forzar una cerradura o desarmar una trampa. Usar un objeto. Emplea la acción de utilizar o la acción de magia para usar un objeto mágico que necesite una acción.",
@@ -332,7 +332,7 @@
       "level": 9,
       "name": {
         "es": "SIGILO SUPREMO",
-        "en": ""
+        "en": "SIGILO SUPREMO"
       },
       "description": {
         "es": "Obtienes la siguiente opción de Golpe astuto. Ataque sigiloso (coste: 1d6). Si tienes el estado de invisible por una acción de esconderse, este ataque no pone fin a ese estado si terminas el turno tras una cobertura tres cuartos o cobertura completa.",
@@ -343,7 +343,7 @@
       "level": 13,
       "name": {
         "es": "USAR OBJETOS MÁGICOS",
-        "en": ""
+        "en": "USAR OBJETOS MÁGICOS"
       },
       "description": {
         "es": "Has aprendido a sacarles el máximo provecho a los objetos mágicos, lo que te otorga los siguientes beneficios. Cargas. Siempre que uses una propiedad de objeto mágico que gaste cargas, tira 1d6. Si sacas un 6, usa la propiedad sin gastar cargas. Pergaminos. Puedes usar cualquier pergamino de conjuro empleando la Inteligencia como aptitud mágica para el conjuro. Si el conjuro es de nivel 1 o un truco, puedes lanzarlo de forma fiable. Si el pergamiho contiene un conjuro de mayor nivel, primero deberás superar una prueba de Inteligencia (Conocimiento arcano) con CD 10 más el nivel conjuro. Si la superas, podrás lanzar el conjuro desde el pergamino. Si la fallas, el pergamino se desintegrará. Sintonización. Puedes sintonizarte con hasta cuatro objetos mágicos a la vez.",
@@ -354,7 +354,7 @@
       "level": 17,
       "name": {
         "es": "REFLEJOS DE LADRÓN",
-        "en": ""
+        "en": "REFLEJOS DE LADRÓN"
       },
       "description": {
         "es": "Eres experto en tender emboscadas y escapar rápidamente del peligro. Puedes actuar dos turnos durante el primer asalto de cualquier combate. Llevarás a cabo tu primer turno según tu iniciativa normal y el segundo en tu iniciativa menos 10.",
@@ -365,7 +365,7 @@
       "level": 3,
       "name": {
         "es": "CUCHILLAS PSÍQUICAS",
-        "en": ""
+        "en": "CUCHILLAS PSÍQUICAS"
       },
       "description": {
         "es": "Puedes hacer que tu poder se manifieste en forma de resplandecientes cuchillas de energía psíquica. Siempre que uses la acción de atacar o hagas un ataque de oportunidad, podrás hacer que aparezca una cuchilla psíquica en tu mano libre y realizar el ataque con esa arma. La cuchilla mágica tiene los siguientes atributos: Categoría de arma: cuerpo a cuerpo sencilla. Daño al acertar: 1d6 de daño psíquico más el modificador por característica usado para la tirada de ataque. Propiedades: arrojadiza (alcance 18/36 m), sutil. Maestría: molestar (puedes usar esta propiedad y no contará para el total de propiedades que puedes usar con Maestría con armas). La cuchilla se desvanecerá inmediatamente después de acertar o fallar contra su objetivo y no dejará ninguna marca aunque le inflija daño. Tras atacar con la cuchilla en tu turno, puedes realizar un ataque cuerpo a cuerpo o a distancia con una segunda cuchilla psíquica como acción adicional en el mismo turno si tu otra mano está libre para crearla. El dado de daño de este ataque extra es 1d4, en vez de 1d6.",
@@ -376,7 +376,7 @@
       "level": 3,
       "name": {
         "es": "PODER PSIÓNICO",
-        "en": ""
+        "en": "PODER PSIÓNICO"
       },
       "description": {
         "es": "Albergas una fuente de energía psiónica en tu interior. Esta se representa mediante dados de energía psiónica, que alimentan ciertos poderes que tienes por esta",

@@ -2,25 +2,25 @@
   "id": "monster-gre",
   "slug": "gre",
   "name": {
-    "es": "",
+    "es": "Grell",
     "en": "Gre"
   },
   "size": {
-    "es": "",
+    "es": "Mediano",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Aberración",
     "en": "Aberration"
   },
   "alignment": {
-    "es": "",
+    "es": "Neutral malvado",
     "en": "Neutral Evil"
   },
   "armorClass": 12,
   "hitPoints": "55 (10d8 + 10)",
   "speed": {
-    "es": "",
+    "es": "1o jt;;11\"]ttt tno'\"?oo ,ou, IVOD SAVE",
     "en": "1o jt;;11\"]ttt tno'\"?oo ,ou, IVOD SAVE"
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Percepción +4, Sigilo +6",
     "en": "Perception +4, Stealth +6"
   },
   "senses": {
-    "es": "",
+    "es": "Vista ciega 15 m; Percepción pasiva 14",
     "en": "Blindsight 50 ft.; Passive Perception 14"
   },
   "languages": {
-    "es": "",
+    "es": "Profundo Habla",
     "en": "Deep Speech"
   },
   "challengeRating": "3",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.157). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.157). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

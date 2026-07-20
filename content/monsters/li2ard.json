@@ -2,25 +2,25 @@
   "id": "monster-li2ard",
   "slug": "li2ard",
   "name": {
-    "es": "",
+    "es": "Lagarto",
     "en": "Li2ard"
   },
   "size": {
-    "es": "",
+    "es": "Diminuto",
     "en": "Small"
   },
   "type": {
-    "es": "",
+    "es": "Bestia",
     "en": "Beast"
   },
   "alignment": {
-    "es": "",
+    "es": "Sin alineamiento",
     "en": "Unaligned"
   },
   "armorClass": 12,
   "hitPoints": "3 (rd5)",
   "speed": {
-    "es": "",
+    "es": "12 m",
     "en": "40 ft."
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Percepción +5, Sigilo +4",
     "en": "Perception +5, Stealth +4"
   },
   "senses": {
-    "es": "",
+    "es": "Visión en la oscuridad 27 m; Percepción pasiva 15",
     "en": "Darkvision 90 ft.; Passive Perception 15"
   },
   "languages": {
-    "es": "",
+    "es": "None",
     "en": "None"
   },
   "challengeRating": "0",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.364). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.364). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

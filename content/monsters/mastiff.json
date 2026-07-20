@@ -2,25 +2,25 @@
   "id": "monster-mastiff",
   "slug": "mastiff",
   "name": {
-    "es": "",
+    "es": "Mastín",
     "en": "Mastiff"
   },
   "size": {
-    "es": "",
+    "es": "Mediano",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Bestia",
     "en": "Beast"
   },
   "alignment": {
-    "es": "",
+    "es": "Sin alineamiento",
     "en": "Unaligned"
   },
   "armorClass": 10,
   "hitPoints": "11 (2d8 + 2)",
   "speed": {
-    "es": "",
+    "es": "12 m",
     "en": "40 ft."
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Percepción +5",
     "en": "Perception +5"
   },
   "senses": {
-    "es": "",
+    "es": "Percepción pasiva 10",
     "en": "Passive Perception 10"
   },
   "languages": {
-    "es": "",
+    "es": "None",
     "en": "None"
   },
   "challengeRating": "6",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.365). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.365). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

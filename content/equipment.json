@@ -4,11 +4,11 @@
     "slug": "mochila",
     "name": {
       "es": "Mochila",
-      "en": ""
+      "en": "Backpack"
     },
     "category": {
       "es": "Equipo de aventurero",
-      "en": ""
+      "en": "Adventuring Gear"
     },
     "description": {
       "es": "Mochila (extraído del capítulo de equipo del PHB 2024). Revisa el PDF para coste y peso exactos.",
@@ -21,11 +21,11 @@
     "slug": "cuerda-de-canamo",
     "name": {
       "es": "Cuerda de cáñamo",
-      "en": ""
+      "en": "Hempen Rope"
     },
     "category": {
       "es": "Equipo de aventurero",
-      "en": ""
+      "en": "Adventuring Gear"
     },
     "description": {
       "es": "Cuerda de cáñamo. Completa coste/peso desde el Manual del Jugador.",
@@ -38,11 +38,11 @@
     "slug": "antorcha",
     "name": {
       "es": "Antorcha",
-      "en": ""
+      "en": "Torch"
     },
     "category": {
       "es": "Equipo de aventurero",
-      "en": ""
+      "en": "Adventuring Gear"
     },
     "description": {
       "es": "Antorcha (extraído del capítulo de equipo del PHB 2024). Revisa el PDF para coste y peso exactos.",
@@ -55,15 +55,15 @@
     "slug": "kit-de-sanador",
     "name": {
       "es": "Kit de sanador",
-      "en": ""
+      "en": "Healer's Kit"
     },
     "category": {
       "es": "Equipo de aventurero",
-      "en": ""
+      "en": "Adventuring Gear"
     },
     "description": {
       "es": "Kit de sanador. Completa coste/peso desde el Manual del Jugador.",
-      "en": ""
+      "en": "Kit de sanador. Completa cost/weight desde el Player's Handbook."
     },
     "source": "phb2024"
   },
@@ -72,11 +72,11 @@
     "slug": "linterna",
     "name": {
       "es": "Linterna",
-      "en": ""
+      "en": "Lantern"
     },
     "category": {
       "es": "Equipo de aventurero",
-      "en": ""
+      "en": "Adventuring Gear"
     },
     "description": {
       "es": "Linterna (extraído del capítulo de equipo del PHB 2024). Revisa el PDF para coste y peso exactos.",
@@ -89,11 +89,11 @@
     "slug": "raciones",
     "name": {
       "es": "Raciones",
-      "en": ""
+      "en": "Rations"
     },
     "category": {
       "es": "Equipo de aventurero",
-      "en": ""
+      "en": "Adventuring Gear"
     },
     "description": {
       "es": "Raciones (extraído del capítulo de equipo del PHB 2024). Revisa el PDF para coste y peso exactos.",
@@ -106,15 +106,15 @@
     "slug": "saco-de-dormir",
     "name": {
       "es": "Saco de dormir",
-      "en": ""
+      "en": "Bedroll"
     },
     "category": {
       "es": "Equipo de aventurero",
-      "en": ""
+      "en": "Adventuring Gear"
     },
     "description": {
       "es": "Saco de dormir. Completa coste/peso desde el Manual del Jugador.",
-      "en": ""
+      "en": "Saco de dormir. Completa cost/weight desde el Player's Handbook."
     },
     "source": "phb2024"
   },
@@ -123,11 +123,11 @@
     "slug": "tienda",
     "name": {
       "es": "Tienda",
-      "en": ""
+      "en": "Tent"
     },
     "category": {
       "es": "Equipo de aventurero",
-      "en": ""
+      "en": "Adventuring Gear"
     },
     "description": {
       "es": "Tienda (extraído del capítulo de equipo del PHB 2024). Revisa el PDF para coste y peso exactos.",
@@ -140,11 +140,11 @@
     "slug": "yesca",
     "name": {
       "es": "Yesca",
-      "en": ""
+      "en": "Tinderbox"
     },
     "category": {
       "es": "Equipo de aventurero",
-      "en": ""
+      "en": "Adventuring Gear"
     },
     "description": {
       "es": "Yesca (extraído del capítulo de equipo del PHB 2024). Revisa el PDF para coste y peso exactos.",
@@ -157,11 +157,11 @@
     "slug": "pala",
     "name": {
       "es": "Pala",
-      "en": ""
+      "en": "Shovel"
     },
     "category": {
       "es": "Equipo de aventurero",
-      "en": ""
+      "en": "Adventuring Gear"
     },
     "description": {
       "es": "Pala (extraído del capítulo de equipo del PHB 2024). Revisa el PDF para coste y peso exactos.",
@@ -174,11 +174,11 @@
     "slug": "palanqueta",
     "name": {
       "es": "Palanqueta",
-      "en": ""
+      "en": "Crowbar"
     },
     "category": {
       "es": "Equipo de aventurero",
-      "en": ""
+      "en": "Adventuring Gear"
     },
     "description": {
       "es": "Palanqueta (extraído del capítulo de equipo del PHB 2024). Revisa el PDF para coste y peso exactos.",
@@ -191,15 +191,15 @@
     "slug": "cadenas",
     "name": {
       "es": "Cadenas",
-      "en": ""
+      "en": "Chain"
     },
     "category": {
       "es": "Equipo de aventurero",
-      "en": ""
+      "en": "Adventuring Gear"
     },
     "description": {
       "es": "Cadenas. Completa coste/peso desde el Manual del Jugador.",
-      "en": ""
+      "en": "Cadenas. Completa cost/weight desde el Player's Handbook."
     },
     "source": "phb2024"
   },
@@ -208,15 +208,15 @@
     "slug": "espejo-de-acero",
     "name": {
       "es": "Espejo de acero",
-      "en": ""
+      "en": "Steel Mirror"
     },
     "category": {
       "es": "Equipo de aventurero",
-      "en": ""
+      "en": "Adventuring Gear"
     },
     "description": {
       "es": "Espejo de acero. Completa coste/peso desde el Manual del Jugador.",
-      "en": ""
+      "en": "Espejo de acero. Completa cost/weight desde el Player's Handbook."
     },
     "source": "phb2024"
   },
@@ -225,11 +225,11 @@
     "slug": "frasco",
     "name": {
       "es": "Frasco",
-      "en": ""
+      "en": "Flask"
     },
     "category": {
       "es": "Equipo de aventurero",
-      "en": ""
+      "en": "Adventuring Gear"
     },
     "description": {
       "es": "Frasco (extraído del capítulo de equipo del PHB 2024). Revisa el PDF para coste y peso exactos.",
@@ -242,11 +242,11 @@
     "slug": "aceite",
     "name": {
       "es": "Aceite",
-      "en": ""
+      "en": "Oil"
     },
     "category": {
       "es": "Equipo de aventurero",
-      "en": ""
+      "en": "Adventuring Gear"
     },
     "description": {
       "es": "Aceite (extraído del capítulo de equipo del PHB 2024). Revisa el PDF para coste y peso exactos.",
@@ -259,11 +259,11 @@
     "slug": "pergamino",
     "name": {
       "es": "Pergamino",
-      "en": ""
+      "en": "Parchment"
     },
     "category": {
       "es": "Equipo de aventurero",
-      "en": ""
+      "en": "Adventuring Gear"
     },
     "description": {
       "es": "Pergamino (extraído del capítulo de equipo del PHB 2024). Revisa el PDF para coste y peso exactos.",
@@ -276,11 +276,11 @@
     "slug": "tinta",
     "name": {
       "es": "Tinta",
-      "en": ""
+      "en": "Ink"
     },
     "category": {
       "es": "Equipo de aventurero",
-      "en": ""
+      "en": "Adventuring Gear"
     },
     "description": {
       "es": "Tinta (extraído del capítulo de equipo del PHB 2024). Revisa el PDF para coste y peso exactos.",
@@ -293,11 +293,11 @@
     "slug": "pluma",
     "name": {
       "es": "Pluma",
-      "en": ""
+      "en": "Ink Pen"
     },
     "category": {
       "es": "Equipo de aventurero",
-      "en": ""
+      "en": "Adventuring Gear"
     },
     "description": {
       "es": "Pluma (extraído del capítulo de equipo del PHB 2024). Revisa el PDF para coste y peso exactos.",
@@ -310,15 +310,15 @@
     "slug": "odres",
     "name": {
       "es": "Odres",
-      "en": ""
+      "en": "Waterskin"
     },
     "category": {
       "es": "Equipo de aventurero",
-      "en": ""
+      "en": "Adventuring Gear"
     },
     "description": {
       "es": "Odres. Completa coste/peso desde el Manual del Jugador.",
-      "en": ""
+      "en": "Odres. Completa cost/weight desde el Player's Handbook."
     },
     "source": "phb2024"
   },
@@ -327,11 +327,11 @@
     "slug": "cantimplora",
     "name": {
       "es": "Cantimplora",
-      "en": ""
+      "en": "Waterskin"
     },
     "category": {
       "es": "Equipo de aventurero",
-      "en": ""
+      "en": "Adventuring Gear"
     },
     "description": {
       "es": "Cantimplora (extraído del capítulo de equipo del PHB 2024). Revisa el PDF para coste y peso exactos.",

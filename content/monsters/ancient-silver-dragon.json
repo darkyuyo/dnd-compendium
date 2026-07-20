@@ -2,25 +2,25 @@
   "id": "monster-ancient-silver-dragon",
   "slug": "ancient-silver-dragon",
   "name": {
-    "es": "",
+    "es": "Dragón de plata anciano",
     "en": "Ancient Silver Dragon"
   },
   "size": {
-    "es": "",
+    "es": "Gargantuesco",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Dragón (metálico)",
     "en": "Unknown"
   },
   "alignment": {
-    "es": "",
+    "es": "Legal bueno",
     "en": "Unaligned"
   },
   "armorClass": 10,
   "hitPoints": "468",
   "speed": {
-    "es": "",
+    "es": "4ojt;;t]l,l'tt Mo, 'AVL",
     "en": "4ojt;;t]l,l'tt Mo, 'AVL"
   },
   "abilityScores": {
@@ -32,11 +32,11 @@
     "cha": 10
   },
   "senses": {
-    "es": "",
+    "es": "—",
     "en": "—"
   },
   "languages": {
-    "es": "",
+    "es": "—",
     "en": "—"
   },
   "challengeRating": "?",
@@ -46,7 +46,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.280). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.280). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

@@ -2,25 +2,25 @@
   "id": "monster-giant-hyena",
   "slug": "giant-hyena",
   "name": {
-    "es": "",
+    "es": "Hiena gigante",
     "en": "Giant Hyena"
   },
   "size": {
-    "es": "",
+    "es": "Grande",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Bestia",
     "en": "creature"
   },
   "alignment": {
-    "es": "",
+    "es": "Sin alineamiento",
     "en": "it has the Crappled condition"
   },
   "armorClass": 13,
   "hitPoints": "18 (4d8)",
   "speed": {
-    "es": "",
+    "es": "9 m, escalar 9 m",
     "en": "30 ft., Climb 30 ft."
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Percepción +2, Sigilo +4",
     "en": "Perception +2, Stealth +4"
   },
   "senses": {
-    "es": "",
+    "es": "Vista ciega 9 m; Percepción pasiva 8",
     "en": "Blindsight 30 ft.; Passive Perception 8"
   },
   "languages": {
-    "es": "",
+    "es": "None",
     "en": "None"
   },
   "challengeRating": "0",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.357). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.357). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

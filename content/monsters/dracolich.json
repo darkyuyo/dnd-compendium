@@ -2,25 +2,25 @@
   "id": "monster-dracolich",
   "slug": "dracolich",
   "name": {
-    "es": "",
+    "es": "Dracoliche",
     "en": "Dracolich"
   },
   "size": {
-    "es": "",
+    "es": "Enorme o Gargantuesco",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Muerto viviente",
     "en": "Unknown"
   },
   "alignment": {
-    "es": "",
+    "es": "Legal malvado",
     "en": "Unaligned"
   },
   "armorClass": 20,
   "hitPoints": "50",
   "speed": {
-    "es": "",
+    "es": "9 m",
     "en": "30 ft."
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Percepción +.14, Sigilo +6",
     "en": "Perception +.14, Stealth +6"
   },
   "senses": {
-    "es": "",
+    "es": "Vista ciega 18 m, Visión en la oscuridad 36 m;",
     "en": "Blindsight 60 ft., Darkvision 120 ft.;"
   },
   "languages": {
-    "es": "",
+    "es": "Común, Dracónico",
     "en": "Common, Draconic"
   },
   "challengeRating": "17",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.102). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.102). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

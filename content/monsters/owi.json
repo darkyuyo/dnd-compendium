@@ -2,25 +2,25 @@
   "id": "monster-owi",
   "slug": "owi",
   "name": {
-    "es": "",
+    "es": "Búho",
     "en": "OwI"
   },
   "size": {
-    "es": "",
+    "es": "Diminuto",
     "en": "Tiny"
   },
   "type": {
-    "es": "",
+    "es": "Bestia",
     "en": "Beast"
   },
   "alignment": {
-    "es": "",
+    "es": "Sin alineamiento",
     "en": "Unaligned"
   },
   "armorClass": 13,
   "hitPoints": "68 (8d10 + 2a)",
   "speed": {
-    "es": "",
+    "es": "5 -;:5",
     "en": "5 -;:5"
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Percepción +5, Sigilo +5",
     "en": "Perception +5, Stealth +5"
   },
   "senses": {
-    "es": "",
+    "es": "Visión en la oscuridad 36 m; Percepción pasiva 15",
     "en": "Darkvision 120 ft.; Passive Perception 15"
   },
   "languages": {
-    "es": "",
+    "es": "None",
     "en": "None"
   },
   "challengeRating": "0",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.366). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.366). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

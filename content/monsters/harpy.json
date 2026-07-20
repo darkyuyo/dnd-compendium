@@ -2,25 +2,25 @@
   "id": "monster-harpy",
   "slug": "harpy",
   "name": {
-    "es": "",
+    "es": "Arpía",
     "en": "Harpy"
   },
   "size": {
-    "es": "",
+    "es": "Mediano",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Monstruosidad",
     "en": "Monstrosity"
   },
   "alignment": {
-    "es": "",
+    "es": "Caótico malvado",
     "en": "Chaotic Evil"
   },
   "armorClass": 10,
   "hitPoints": "38 (7d8 + 7)",
   "speed": {
-    "es": "",
+    "es": "20i:;1l\"l\"r MoD 'AVE",
     "en": "20i:;1l\"l\"r MoD 'AVE"
   },
   "abilityScores": {
@@ -32,11 +32,11 @@
     "cha": 10
   },
   "senses": {
-    "es": "",
+    "es": "Percepción pasiva 10",
     "en": "Passive Perception 10"
   },
   "languages": {
-    "es": "",
+    "es": "Común",
     "en": "Common"
   },
   "challengeRating": "?",
@@ -47,7 +47,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.164). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.164). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

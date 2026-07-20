@@ -2,25 +2,25 @@
   "id": "monster-ancient-white-dragon",
   "slug": "ancient-white-dragon",
   "name": {
-    "es": "",
+    "es": "Dragón blanco anciano",
     "en": "Ancient White Dragon"
   },
   "size": {
-    "es": "",
+    "es": "Gargantuesco",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Dragón (cromático)",
     "en": "Unknown"
   },
   "alignment": {
-    "es": "",
+    "es": "Caótico malvado",
     "en": "Unaligned"
   },
   "armorClass": 20,
   "hitPoints": "333 (18d20 + 144)",
   "speed": {
-    "es": "",
+    "es": "reduced by 10 metros for t hour.",
     "en": "reduced by 10 feet for t hour."
   },
   "abilityScores": {
@@ -32,11 +32,11 @@
     "cha": 10
   },
   "senses": {
-    "es": "",
+    "es": "—",
     "en": "—"
   },
   "languages": {
-    "es": "",
+    "es": "—",
     "en": "—"
   },
   "challengeRating": "?",
@@ -46,7 +46,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.330). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.330). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

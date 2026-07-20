@@ -2,25 +2,25 @@
   "id": "monster-gas-spore-fungus",
   "slug": "gas-spore-fungus",
   "name": {
-    "es": "",
+    "es": "Hongo espora de gas",
     "en": "Gas Spore Fungus"
   },
   "size": {
-    "es": "",
+    "es": "Grande",
     "en": "Large"
   },
   "type": {
-    "es": "",
+    "es": "Planta",
     "en": "Plant"
   },
   "alignment": {
-    "es": "",
+    "es": "Sin alineamiento",
     "en": "Unaligned"
   },
   "armorClass": 8,
   "hitPoints": "13 (3d8)",
   "speed": {
-    "es": "",
+    "es": "1,5 m",
     "en": "5 ft."
   },
   "abilityScores": {
@@ -32,11 +32,11 @@
     "cha": 10
   },
   "senses": {
-    "es": "",
+    "es": "Vista ciega 9 m; Percepción pasiva 5",
     "en": "Blindsight 30 ft; Passive Perception 5"
   },
   "languages": {
-    "es": "",
+    "es": "None",
     "en": "None"
   },
   "challengeRating": "?",
@@ -47,7 +47,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.125). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.125). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

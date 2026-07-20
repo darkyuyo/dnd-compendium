@@ -2,25 +2,25 @@
   "id": "monster-dire-worg",
   "slug": "dire-worg",
   "name": {
-    "es": "",
+    "es": "Huargo terrible",
     "en": "Dire Worg"
   },
   "size": {
-    "es": "",
+    "es": "Enorme",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Feérico",
     "en": "Undead"
   },
   "alignment": {
-    "es": "",
+    "es": "Neutral malvado",
     "en": "Neutral Evil"
   },
   "armorClass": 13,
   "hitPoints": "67 (9d8 + 27)",
   "speed": {
-    "es": "",
+    "es": "1,5 m, volar 18 m (levitar)",
     "en": "5 ft., fly 60 ft. (hover)"
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Percepción +l'l",
     "en": "Perception +l'l"
   },
   "senses": {
-    "es": "",
+    "es": "Visión en la oscuridad .36 m; Percepción pasiva 21",
     "en": "Darkvision .120 ft.; Passive Perception 21"
   },
   "languages": {
-    "es": "",
+    "es": "Coblin, Silvano, Worg",
     "en": "Coblin, Sylvan, Worg"
   },
   "challengeRating": "10",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.335). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.335). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

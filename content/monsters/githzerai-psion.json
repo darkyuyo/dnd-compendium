@@ -2,25 +2,25 @@
   "id": "monster-githzerai-psion",
   "slug": "githzerai-psion",
   "name": {
-    "es": "",
+    "es": "Githzerai psiónico",
     "en": "Githzerai Psion"
   },
   "size": {
-    "es": "",
+    "es": "Mediano",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Aberración (gith)",
     "en": "Aberration (Cith)"
   },
   "alignment": {
-    "es": "",
+    "es": "Legal neutral",
     "en": "Lawful Neutral"
   },
   "armorClass": 14,
   "hitPoints": "38 (7d8 + 7)",
   "speed": {
-    "es": "",
+    "es": "12 m",
     "en": "40 ft."
   },
   "abilityScores": {
@@ -32,11 +32,11 @@
     "cha": 10
   },
   "senses": {
-    "es": "",
+    "es": "—",
     "en": "—"
   },
   "languages": {
-    "es": "",
+    "es": "—",
     "en": "—"
   },
   "challengeRating": "?",
@@ -46,7 +46,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.137). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.137). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

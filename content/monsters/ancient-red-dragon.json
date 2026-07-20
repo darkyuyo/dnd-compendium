@@ -2,25 +2,25 @@
   "id": "monster-ancient-red-dragon",
   "slug": "ancient-red-dragon",
   "name": {
-    "es": "",
+    "es": "Dragón rojo anciano",
     "en": "Ancient Red Dragon"
   },
   "size": {
-    "es": "",
+    "es": "Gargantuesco",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Dragón (cromático)",
     "en": "Unknown"
   },
   "alignment": {
-    "es": "",
+    "es": "Caótico malvado",
     "en": "Unaligned"
   },
   "armorClass": 10,
   "hitPoints": "507 (26d20 + ßa)",
   "speed": {
-    "es": "",
+    "es": "12 m, :l[o oo n., t'r,t\"l",
     "en": "40 ft, :l[o oo n., t'r,t\"l"
   },
   "abilityScores": {
@@ -32,11 +32,11 @@
     "cha": 10
   },
   "senses": {
-    "es": "",
+    "es": "—",
     "en": "—"
   },
   "languages": {
-    "es": "",
+    "es": "—",
     "en": "—"
   },
   "challengeRating": "?",
@@ -46,7 +46,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.256). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.256). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

@@ -2,25 +2,25 @@
   "id": "monster-stone-golem",
   "slug": "stone-golem",
   "name": {
-    "es": "",
+    "es": "Gólem de piedra",
     "en": "Stone Golem"
   },
   "size": {
-    "es": "",
+    "es": "Grande",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Autómata",
     "en": "Unknown"
   },
   "alignment": {
-    "es": "",
+    "es": "Sin alineamiento",
     "en": "Unaligned"
   },
   "armorClass": 18,
   "hitPoints": "220 (2ldl0 + 10s)",
   "speed": {
-    "es": "",
+    "es": "30,::,",
     "en": "30,::,"
   },
   "abilityScores": {
@@ -32,11 +32,11 @@
     "cha": 10
   },
   "senses": {
-    "es": "",
+    "es": "Visión en la oscuridad .36 m; Percepción pasiva 10",
     "en": "Darkvision .120 ft.; Passive Perception 10"
   },
   "languages": {
-    "es": "",
+    "es": "Entiende Común plus two other",
     "en": "Understands Common plus two other"
   },
   "challengeRating": "10",
@@ -47,7 +47,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.301). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.301). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

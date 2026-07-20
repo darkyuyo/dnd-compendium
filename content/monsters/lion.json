@@ -2,25 +2,25 @@
   "id": "monster-lion",
   "slug": "lion",
   "name": {
-    "es": "",
+    "es": "León",
     "en": "Lion"
   },
   "size": {
-    "es": "",
+    "es": "Grande",
     "en": "Tiny"
   },
   "type": {
-    "es": "",
+    "es": "Bestia",
     "en": "Beast"
   },
   "alignment": {
-    "es": "",
+    "es": "Sin alineamiento",
     "en": "Unaligned"
   },
   "armorClass": 10,
   "hitPoints": "2 (rd4)",
   "speed": {
-    "es": "",
+    "es": "6 m, escalar 6 m",
     "en": "20 ft., Climb 20 ft."
   },
   "abilityScores": {
@@ -32,11 +32,11 @@
     "cha": 10
   },
   "senses": {
-    "es": "",
+    "es": "Visión en la oscuridad 9 m; Percepción pasiva 9",
     "en": "Darkvision 30 ft.; Passive Perception 9"
   },
   "languages": {
-    "es": "",
+    "es": "None",
     "en": "None"
   },
   "challengeRating": "0",
@@ -47,7 +47,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.364). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.364). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

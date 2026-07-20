@@ -2,25 +2,25 @@
   "id": "monster-thri-kreen-psion",
   "slug": "thri-kreen-psion",
   "name": {
-    "es": "",
+    "es": "Thri-kreen psiónico",
     "en": "Thri-kreen Psion"
   },
   "size": {
-    "es": "",
+    "es": "Mediano",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Monstruosidad",
     "en": "Monstrosity"
   },
   "alignment": {
-    "es": "",
+    "es": "Neutral",
     "en": "N eutral"
   },
   "armorClass": 16,
   "hitPoints": "149 (23d8 + a6)",
   "speed": {
-    "es": "",
+    "es": "4oil;;1l\"lt t'' (no'\"?o, ,ouu",
     "en": "4oil;;1l\"lt t'' (no'\"?o, ,ouu"
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Percepción +4, Sigilo +8",
     "en": "Perception +4, Stealth +8"
   },
   "senses": {
-    "es": "",
+    "es": "Visión en la oscuridad 15 m; Percepción pasiva 14",
     "en": "Darkvision 50 ft.; Passive Perception 14"
   },
   "languages": {
-    "es": "",
+    "es": "Thri-kreen; telepatía I20 ft.",
     "en": "Thri-kreen; telepathy I20 ft."
   },
   "challengeRating": "8",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.306). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.306). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

@@ -2,25 +2,25 @@
   "id": "monster-blob-of-annihilation",
   "slug": "blob-of-annihilation",
   "name": {
-    "es": "",
+    "es": "Amasijo de aniquilación",
     "en": "Blob of Annihilation"
   },
   "size": {
-    "es": "",
+    "es": "Gargantuesco",
     "en": "Gargantuan"
   },
   "type": {
-    "es": "",
+    "es": "Cieno (titan)",
     "en": "Ooze (Titan)"
   },
   "alignment": {
-    "es": "",
+    "es": "Neutral malvado",
     "en": "Neutral Evil"
   },
   "armorClass": 18,
   "hitPoints": "448 (23d20 + 207)",
   "speed": {
-    "es": "",
+    "es": "and can move",
     "en": "and can move"
   },
   "abilityScores": {
@@ -32,11 +32,11 @@
     "cha": 10
   },
   "senses": {
-    "es": "",
+    "es": "Vista ciega .36 m; Percepción pasiva 13",
     "en": "Blindsight .120 ft.; Passive Perception 13"
   },
   "languages": {
-    "es": "",
+    "es": "None",
     "en": "None"
   },
   "challengeRating": "23",
@@ -47,7 +47,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.47). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.47). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

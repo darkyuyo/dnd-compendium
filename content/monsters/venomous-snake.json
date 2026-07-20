@@ -2,25 +2,25 @@
   "id": "monster-venomous-snake",
   "slug": "venomous-snake",
   "name": {
-    "es": "",
+    "es": "Serpiente venenosa",
     "en": "Venomous Snake"
   },
   "size": {
-    "es": "",
+    "es": "Diminuto",
     "en": "Huge"
   },
   "type": {
-    "es": "",
+    "es": "Bestia",
     "en": "Beast (Dinosaur)"
   },
   "alignment": {
-    "es": "",
+    "es": "Sin alineamiento",
     "en": "Unaligned"
   },
   "armorClass": 14,
   "hitPoints": "136 (13d12 + 52)",
   "speed": {
-    "es": "",
+    "es": "15 m",
     "en": "50 ft."
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Percepción +4",
     "en": "Perception +4"
   },
   "senses": {
-    "es": "",
+    "es": "Percepción pasiva 10",
     "en": "Passive Perception 10"
   },
   "languages": {
-    "es": "",
+    "es": "None",
     "en": "None"
   },
   "challengeRating": "5",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.372). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.372). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

@@ -2,25 +2,25 @@
   "id": "monster-stone-giant",
   "slug": "stone-giant",
   "name": {
-    "es": "",
+    "es": "Gigante de piedra",
     "en": "Stone Giant"
   },
   "size": {
-    "es": "",
+    "es": "Enorme",
     "en": "Huge"
   },
   "type": {
-    "es": "",
+    "es": "Gigante",
     "en": "Ctant"
   },
   "alignment": {
-    "es": "",
+    "es": "Neutral",
     "en": "Neutral"
   },
   "armorClass": 17,
   "hitPoints": "126 (11dI2 + 55)",
   "speed": {
-    "es": "",
+    "es": "12 m",
     "en": "40 ft."
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Atletismo +12, Percepción +4, Sigilo +5",
     "en": "Athletics +12, Perception +4, Stealth +5"
   },
   "senses": {
-    "es": "",
+    "es": "Visión en la oscuridad 15 m; Percepción pasiva 14",
     "en": "Darkvision 50 ft.; Passive Perception 14"
   },
   "languages": {
-    "es": "",
+    "es": "Gigante",
     "en": "Giant"
   },
   "challengeRating": "7",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.300). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.300). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

@@ -2,25 +2,25 @@
   "id": "monster-adult-brass-dragon",
   "slug": "adult-brass-dragon",
   "name": {
-    "es": "",
+    "es": "Dragón de oropel adulto",
     "en": "Adult Brass Dragon"
   },
   "size": {
-    "es": "",
+    "es": "Enorme",
     "en": "Huge"
   },
   "type": {
-    "es": "",
+    "es": "Dragón (metálico)",
     "en": "Dragon (Metallic)"
   },
   "alignment": {
-    "es": "",
+    "es": "Caótico bueno",
     "en": "Chaotic Cood"
   },
   "armorClass": 18,
   "hitPoints": "172 (l sdl2 + 75)",
   "speed": {
-    "es": "",
+    "es": "4o jt;',ril\"- 'o tt ' t}\"lo,ll, MOD SAVE",
     "en": "4o jt;',ril\"- 'o tt ' t}\"lo,ll, MOD SAVE"
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Historia +7, Percepción +ll, Persuasión +8,",
     "en": "History +7, Perception +ll, Persuasion +8,"
   },
   "senses": {
-    "es": "",
+    "es": "Vista ciega 18 m, Visión en la oscuridad .36 m;",
     "en": "Blindsight 60 ft., Darkvision .120 ft.;"
   },
   "languages": {
-    "es": "",
+    "es": "Común, Dracónico",
     "en": "Common, Draconic"
   },
   "challengeRating": "13",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.55). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.55). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

@@ -2,25 +2,25 @@
   "id": "monster-bone-naga",
   "slug": "bone-naga",
   "name": {
-    "es": "",
+    "es": "Naga ósea",
     "en": "Bone Naga"
   },
   "size": {
-    "es": "",
+    "es": "Grande",
     "en": "Large"
   },
   "type": {
-    "es": "",
+    "es": "Muerto viviente",
     "en": "Undead"
   },
   "alignment": {
-    "es": "",
+    "es": "Neutral malvado",
     "en": "Neutral Evil"
   },
   "armorClass": 10,
   "hitPoints": "55 (10d10 + 10)",
   "speed": {
-    "es": "",
+    "es": "12 m",
     "en": "40 ft."
   },
   "abilityScores": {
@@ -32,11 +32,11 @@
     "cha": 10
   },
   "senses": {
-    "es": "",
+    "es": "Visión en la oscuridad 18 m; Percepción pasiva 12",
     "en": "Darkvision 60 ft.; Passive Perception 12"
   },
   "languages": {
-    "es": "",
+    "es": "Común plus one other Idioma",
     "en": "Common plus one other language"
   },
   "challengeRating": "4",
@@ -47,7 +47,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.53). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.53). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

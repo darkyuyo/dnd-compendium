@@ -2,25 +2,25 @@
   "id": "monster-tyrannosaurus-rex",
   "slug": "tyrannosaurus-rex",
   "name": {
-    "es": "",
+    "es": "Tiranosaurio Rex",
     "en": "Tyrannosaurus Rex"
   },
   "size": {
-    "es": "",
+    "es": "Enorme",
     "en": "Large"
   },
   "type": {
-    "es": "",
+    "es": "Bestia (dinosaurio)",
     "en": "creature"
   },
   "alignment": {
-    "es": "",
+    "es": "Sin alineamiento",
     "en": "it has the Grappled condition"
   },
   "armorClass": 10,
   "hitPoints": "19 (3dI0 + 3)",
   "speed": {
-    "es": "",
+    "es": "3 m, volar 15 m",
     "en": "10 ft., Fly 50 ft."
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Percepción +3",
     "en": "Perception +3"
   },
   "senses": {
-    "es": "",
+    "es": "Vista ciega 3 m; Percepción pasiva 10",
     "en": "Blindsight 10 ft.; Passive Perception 10"
   },
   "languages": {
-    "es": "",
+    "es": "None",
     "en": "None"
   },
   "challengeRating": "0",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.372). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.372). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

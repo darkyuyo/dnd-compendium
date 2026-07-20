@@ -2,25 +2,25 @@
   "id": "monster-reef-shark",
   "slug": "reef-shark",
   "name": {
-    "es": "",
+    "es": "Tiburón de arrecife",
     "en": "Reef Shark"
   },
   "size": {
-    "es": "",
+    "es": "Mediano",
     "en": "Tiny"
   },
   "type": {
-    "es": "",
+    "es": "Bestia",
     "en": "Beast"
   },
   "alignment": {
-    "es": "",
+    "es": "Sin alineamiento",
     "en": "Unaligned"
   },
   "armorClass": 12,
   "hitPoints": "2 (rd4)",
   "speed": {
-    "es": "",
+    "es": "1o:';tll\":\"'",
     "en": "1o:';tll\":\"'"
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Percepción +3",
     "en": "Perception +3"
   },
   "senses": {
-    "es": "",
+    "es": "Percepción pasiva 13",
     "en": "Passive Perception 13"
   },
   "languages": {
-    "es": "",
+    "es": "None",
     "en": "None"
   },
   "challengeRating": "0",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.368). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.368). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

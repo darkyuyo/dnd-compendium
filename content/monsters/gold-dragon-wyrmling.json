@@ -2,25 +2,25 @@
   "id": "monster-gold-dragon-wyrmling",
   "slug": "gold-dragon-wyrmling",
   "name": {
-    "es": "",
+    "es": "Dragón de oro cría",
     "en": "Gold Dragon Wyrmling"
   },
   "size": {
-    "es": "",
+    "es": "Mediano",
     "en": "Large"
   },
   "type": {
-    "es": "",
+    "es": "Dragón (metálico)",
     "en": "Dragon (Metallic)"
   },
   "alignment": {
-    "es": "",
+    "es": "Legal bueno",
     "en": "Lawful Cood"
   },
   "armorClass": 18,
   "hitPoints": "178 (17d10 + 85)",
   "speed": {
-    "es": "",
+    "es": "12 m, volar 24 m, nadar +0 m",
     "en": "40 ft., Fly 80 ft., Swim +0 ft."
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "lnsight +5, Percepción +9, Persuasión +9,",
     "en": "lnsight +5, Perception +9, Persuasion +9,"
   },
   "senses": {
-    "es": "",
+    "es": "Vista ciega 9 m, Visión en la oscuridad 36 m;",
     "en": "Blindsight 30 ft., Darkvision 120 ft.;"
   },
   "languages": {
-    "es": "",
+    "es": "Común, Dracónico",
     "en": "Common, Draconic"
   },
   "challengeRating": "10",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.144). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.144). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

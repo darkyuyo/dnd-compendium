@@ -2,25 +2,25 @@
   "id": "monster-animated-8room",
   "slug": "animated-8room",
   "name": {
-    "es": "",
+    "es": "Escoba animada",
     "en": "Animated 8room"
   },
   "size": {
-    "es": "",
+    "es": "Pequeño",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Autómata",
     "en": "Unknown"
   },
   "alignment": {
-    "es": "",
+    "es": "Sin alineamiento",
     "en": "Unaligned"
   },
   "armorClass": 15,
   "hitPoints": "14 (4d6)",
   "speed": {
-    "es": "",
+    "es": "1,5 m, volar 15 m (hoveQ",
     "en": "5 ft., Fly 50 ft. (hoveQ"
   },
   "abilityScores": {
@@ -32,11 +32,11 @@
     "cha": 10
   },
   "senses": {
-    "es": "",
+    "es": "Vista ciega 18 m; Percepción pasiva 7",
     "en": "Blindsight 60 ft.; Passive Perception 7"
   },
   "languages": {
-    "es": "",
+    "es": "None",
     "en": "None"
   },
   "challengeRating": "?",
@@ -47,7 +47,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.16). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.16). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

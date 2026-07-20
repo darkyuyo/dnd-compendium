@@ -2,25 +2,25 @@
   "id": "monster-swarm-of-crawling-c1aws",
   "slug": "swarm-of-crawling-c1aws",
   "name": {
-    "es": "",
+    "es": "Enjambre de garras reptantes",
     "en": "Swarm of Crawling C1aws"
   },
   "size": {
-    "es": "",
+    "es": "Mediano",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Enjambre de Muertos vivientes Diminutos",
     "en": "creature"
   },
   "alignment": {
-    "es": "",
+    "es": "Neutral malvado",
     "en": "it has the Prone"
   },
   "armorClass": 10,
   "hitPoints": "2 (rd4)",
   "speed": {
-    "es": "",
+    "es": "6 m, escalar 6 m",
     "en": "20 ft., Climb 20 ft."
   },
   "abilityScores": {
@@ -32,11 +32,11 @@
     "cha": 10
   },
   "senses": {
-    "es": "",
+    "es": "Vista ciega 9 m; Percepción pasiva 10",
     "en": "Blindsight 30 ft.; Passive Perception 10"
   },
   "languages": {
-    "es": "",
+    "es": "Entiende Común pero no puede hablar",
     "en": "Understands Common but can't speak"
   },
   "challengeRating": "0",
@@ -47,7 +47,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.83). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.83). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

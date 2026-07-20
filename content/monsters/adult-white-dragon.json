@@ -2,25 +2,25 @@
   "id": "monster-adult-white-dragon",
   "slug": "adult-white-dragon",
   "name": {
-    "es": "",
+    "es": "Dragón blanco adulto",
     "en": "Adult White Dragon"
   },
   "size": {
-    "es": "",
+    "es": "Enorme",
     "en": "Huge"
   },
   "type": {
-    "es": "",
+    "es": "Dragón (cromático)",
     "en": "Dragon (Chromatic)"
   },
   "alignment": {
-    "es": "",
+    "es": "Caótico malvado",
     "en": "Chaotic Evil"
   },
   "armorClass": 18,
   "hitPoints": "200 (16dl2 + 95)",
   "speed": {
-    "es": "",
+    "es": "12 m, excavar 9 m, volar 24 m, nadar 12 m",
     "en": "40 ft., Burrow 30 ft., Fly 80 ft., Swim 40 ft."
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Percepción +11, Sigilo +5",
     "en": "Perception +11, Stealth +5"
   },
   "senses": {
-    "es": "",
+    "es": "Vista ciega 15 m, Visión en la oscuridad .36 m;",
     "en": "Blindsight 50 ft., Darkvision .120 ft.;"
   },
   "languages": {
-    "es": "",
+    "es": "Común, Dracónico",
     "en": "Common, Draconic"
   },
   "challengeRating": "13",
@@ -49,51 +49,51 @@
   "actions": [
     {
       "name": {
-        "es": "",
+        "es": "expended uses at the start of each of its turns",
         "en": "expended uses at the start of each of its turns"
       },
       "description": {
-        "es": "",
+        "es": "expended uses at the start of each of its turns.",
         "en": "expended uses at the start of each of its turns."
       }
     },
     {
       "name": {
-        "es": "",
+        "es": "Freezing Burst",
         "en": "Freezing Burst"
       },
       "description": {
-        "es": "",
+        "es": "Freezing Burst. Constitution SavingThrow: DC .14, each",
         "en": "Freezing Burst. Constitution SavingThrow: DC .14, each"
       }
     },
     {
       "name": {
-        "es": "",
+        "es": "creature in a 30-foot-radius Sphere centered on a",
         "en": "creature in a 30-foot-radius Sphere centered on a"
       },
       "description": {
-        "es": "",
+        "es": "creature in a 30-foot-radius Sphere centered on a point",
         "en": "creature in a 30-foot-radius Sphere centered on a point"
       }
     },
     {
       "name": {
-        "es": "",
+        "es": "the dragon can see within",
         "en": "the dragon can see within"
       },
       "description": {
-        "es": "",
+        "es": "the dragon can see within .120 metros. Failure:7 (2d6) Cold",
         "en": "the dragon can see within .120 feet. Failure:7 (2d6) Cold"
       }
     },
     {
       "name": {
-        "es": "",
+        "es": "damage, and the target's Speed is 0 until the end",
         "en": "damage, and the target's Speed is 0 until the end"
       },
       "description": {
-        "es": "",
+        "es": "daño, and the target's Velocidad is 0 until the end of the",
         "en": "damage, and the target's Speed is 0 until the end of the"
       }
     }
@@ -102,7 +102,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.329). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.329). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

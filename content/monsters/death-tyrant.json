@@ -2,25 +2,25 @@
   "id": "monster-death-tyrant",
   "slug": "death-tyrant",
   "name": {
-    "es": "",
+    "es": "Tirano sepulcral",
     "en": "Death Tyrant"
   },
   "size": {
-    "es": "",
+    "es": "Grande",
     "en": "Large"
   },
   "type": {
-    "es": "",
+    "es": "Muerto viviente (beholder)",
     "en": "lJndead (BeholdeQ"
   },
   "alignment": {
-    "es": "",
+    "es": "Legal malvado",
     "en": "Lawful Evil"
   },
   "armorClass": 19,
   "hitPoints": "195 (25d10 + 52)",
   "speed": {
-    "es": "",
+    "es": "5 -;:5i,i3tt' tno'\"\",oo ,ou,",
     "en": "5 -;:5i,i3tt' tno'\"\",oo ,ou,"
   },
   "abilityScores": {
@@ -32,11 +32,11 @@
     "cha": 10
   },
   "senses": {
-    "es": "",
+    "es": "—",
     "en": "—"
   },
   "languages": {
-    "es": "",
+    "es": "—",
     "en": "—"
   },
   "challengeRating": "?",
@@ -46,7 +46,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.95). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.95). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

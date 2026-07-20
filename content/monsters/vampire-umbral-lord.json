@@ -2,25 +2,25 @@
   "id": "monster-vampire-umbral-lord",
   "slug": "vampire-umbral-lord",
   "name": {
-    "es": "",
+    "es": "Vampiro señor de las sombras",
     "en": "Vampire Umbral Lord"
   },
   "size": {
-    "es": "",
+    "es": "Mediano o Pequeño",
     "en": "Large"
   },
   "type": {
-    "es": "",
+    "es": "Muerto viviente",
     "en": "Fiend (Demon)"
   },
   "alignment": {
-    "es": "",
+    "es": "Legal malvado",
     "en": "Chaotic Evil"
   },
   "armorClass": 15,
   "hitPoints": "152 (16dl0 + 6a)",
   "speed": {
-    "es": "",
+    "es": "40 fr' t]l\"lo tt MoD sAVi",
     "en": "40 fr' t]l\"lo tt MoD sAVi"
   },
   "abilityScores": {
@@ -32,11 +32,11 @@
     "cha": 10
   },
   "senses": {
-    "es": "",
+    "es": "Visión en la oscuridad 36 m; Percepción pasiva 11",
     "en": "Darkvision 120 ft.; Passive Perception 11"
   },
   "languages": {
-    "es": "",
+    "es": "Abisal; telepatía 120 ft.",
     "en": "Abyssal; telepathy 120 ft."
   },
   "challengeRating": "5",
@@ -47,7 +47,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.318). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.318). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

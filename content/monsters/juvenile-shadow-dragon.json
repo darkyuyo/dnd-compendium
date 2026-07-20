@@ -2,25 +2,25 @@
   "id": "monster-juvenile-shadow-dragon",
   "slug": "juvenile-shadow-dragon",
   "name": {
-    "es": "",
+    "es": "Dragón sombrío vástago",
     "en": "Juvenile Shadow Dragon"
   },
   "size": {
-    "es": "",
+    "es": "Mediano",
     "en": "Huge"
   },
   "type": {
-    "es": "",
+    "es": "Dragón",
     "en": "Dragon"
   },
   "alignment": {
-    "es": "",
+    "es": "Caótico malvado",
     "en": "Chaotic Evil"
   },
   "armorClass": 16,
   "hitPoints": "189 (18d12 + 72)",
   "speed": {
-    "es": "",
+    "es": "30 fr, ::[o ,o t , t'r,,:::,;,,",
     "en": "30 fr, ::[o ,o t , t'r,,:::,;,,"
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Percepción +ll, Sigilo +14",
     "en": "Perception +ll, Stealth +14"
   },
   "senses": {
-    "es": "",
+    "es": "Vista ciega 9 m, Visión en la oscuridad i6 m;",
     "en": "Blindsight 30 ft., Darkvision i20 ft.;"
   },
   "languages": {
-    "es": "",
+    "es": "Común, Dracónico",
     "en": "Common, Draconic"
   },
   "challengeRating": "13",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.275). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.275). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

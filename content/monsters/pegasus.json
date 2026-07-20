@@ -2,25 +2,25 @@
   "id": "monster-pegasus",
   "slug": "pegasus",
   "name": {
-    "es": "",
+    "es": "Pegaso",
     "en": "Pegasus"
   },
   "size": {
-    "es": "",
+    "es": "Grande",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Celestial",
     "en": "Humanoid"
   },
   "alignment": {
-    "es": "",
+    "es": "Caótico bueno",
     "en": "Neutral"
   },
   "armorClass": 13,
   "hitPoints": "27 (5d8 + 5)",
   "speed": {
-    "es": "",
+    "es": "9 m",
     "en": "30 ft."
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Acrobacias +5, Atletismo +3, Interpretación +7",
     "en": "Acrobatics +5, Athletics +3, Performance +7"
   },
   "senses": {
-    "es": "",
+    "es": "Percepción pasiva 12",
     "en": "Passive Perception 12"
   },
   "languages": {
-    "es": "",
+    "es": "Común plus one other Idioma",
     "en": "Common plus one other language"
   },
   "challengeRating": "?",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.235). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.235). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

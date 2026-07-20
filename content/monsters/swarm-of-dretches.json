@@ -2,25 +2,25 @@
   "id": "monster-swarm-of-dretches",
   "slug": "swarm-of-dretches",
   "name": {
-    "es": "",
+    "es": "Enjambre de dretchs",
     "en": "Swarm of Dretches"
   },
   "size": {
-    "es": "",
+    "es": "Grande",
     "en": "Large"
   },
   "type": {
-    "es": "",
+    "es": "Enjambre de Infernales Pequeños (demonio)",
     "en": "Swarm of Small Fiends (Demon)"
   },
   "alignment": {
-    "es": "",
+    "es": "Caótico malvado",
     "en": "Chaotic Evil"
   },
   "armorClass": 12,
   "hitPoints": "45 (6d10 + 12)",
   "speed": {
-    "es": "",
+    "es": "12 m",
     "en": "40 ft."
   },
   "abilityScores": {
@@ -32,11 +32,11 @@
     "cha": 10
   },
   "senses": {
-    "es": "",
+    "es": "Visión en la oscuridad 15 m; Percepción pasiva 9",
     "en": "Darkvision 50 ft.; Passive Perception 9"
   },
   "languages": {
-    "es": "",
+    "es": "Abisal; telepatía 50 ft. (works only with",
     "en": "Abyssal; telepathy 50 ft. (works only with"
   },
   "challengeRating": "4",
@@ -45,51 +45,51 @@
   "actions": [
     {
       "name": {
-        "es": "",
+        "es": "Swarm",
         "en": "Swarm"
       },
       "description": {
-        "es": "",
+        "es": "Swarm. The swarm can occupy another creature's",
         "en": "Swarm. The swarm can occupy another creature's"
       }
     },
     {
       "name": {
-        "es": "",
+        "es": "space and vice versa, and the swarm can move throu",
         "en": "space and vice versa, and the swarm can move throu"
       },
       "description": {
-        "es": "",
+        "es": "space and vice versa, and the swarm can move through",
         "en": "space and vice versa, and the swarm can move through"
       }
     },
     {
       "name": {
-        "es": "",
+        "es": "any opening large enough for a Small creature",
         "en": "any opening large enough for a Small creature"
       },
       "description": {
-        "es": "",
+        "es": "any opening large enough for a Small creature. The",
         "en": "any opening large enough for a Small creature. The"
       }
     },
     {
       "name": {
-        "es": "",
+        "es": "swarm can't regain Hit Points or gain Temporary",
         "en": "swarm can't regain Hit Points or gain Temporary"
       },
       "description": {
-        "es": "",
+        "es": "swarm can't regain Impacto Points or gain Temporary",
         "en": "swarm can't regain Hit Points or gain Temporary"
       }
     },
     {
       "name": {
-        "es": "",
+        "es": "Ataque múltiple",
         "en": "Multiattack"
       },
       "description": {
-        "es": "",
+        "es": "Multiattack. The swarm makes two Rend attacks.",
         "en": "Multiattack. The swarm makes two Rend attacks."
       }
     }
@@ -98,7 +98,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.104). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.104). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

@@ -2,25 +2,25 @@
   "id": "monster-ancient-green-dragon",
   "slug": "ancient-green-dragon",
   "name": {
-    "es": "",
+    "es": "Dragón verde anciano",
     "en": "Ancient Green Dragon"
   },
   "size": {
-    "es": "",
+    "es": "Gargantuesco",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Dragón (cromático)",
     "en": "Unknown"
   },
   "alignment": {
-    "es": "",
+    "es": "Legal malvado",
     "en": "Unaligned"
   },
   "armorClass": 10,
   "hitPoints": "402 (23d20 + 151)",
   "speed": {
-    "es": "",
+    "es": "12 m, volar 24 m, nadar 12 m",
     "en": "40 ft., Fly 80 ft., Swim 40 ft."
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Engaño +13, Percepción +.17, Persuasión +.13,",
     "en": "Deception +13, Perception +.17, Persuasion +.13,"
   },
   "senses": {
-    "es": "",
+    "es": "Vista ciega 15 m, Visión en la oscuridad 36 m;",
     "en": "Blindsight 50 ft., Darkvision 120 ft.;"
   },
   "languages": {
-    "es": "",
+    "es": "Común, Dracónico",
     "en": "Common, Draconic"
   },
   "challengeRating": "22",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.154). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.154). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

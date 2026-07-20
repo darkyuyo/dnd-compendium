@@ -2,25 +2,25 @@
   "id": "monster-scarecrow",
   "slug": "scarecrow",
   "name": {
-    "es": "",
+    "es": "Espantapájaros",
     "en": "Scarecrow"
   },
   "size": {
-    "es": "",
+    "es": "Mediano",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Autómata",
     "en": "Construct"
   },
   "alignment": {
-    "es": "",
+    "es": "Caótico malvado",
     "en": "Chaotic Evil"
   },
   "armorClass": 10,
   "hitPoints": "27 (6d8)",
   "speed": {
-    "es": "",
+    "es": "9 m",
     "en": "30 ft."
   },
   "abilityScores": {
@@ -32,11 +32,11 @@
     "cha": 10
   },
   "senses": {
-    "es": "",
+    "es": "Visión en la oscuridad 18 m; Percepción pasiva 10",
     "en": "Darkvision 60 ft.; Passive Perception 10"
   },
   "languages": {
-    "es": "",
+    "es": "Común plus one other Idioma",
     "en": "Common plus one other language"
   },
   "challengeRating": "?",
@@ -47,7 +47,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.269). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.269). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

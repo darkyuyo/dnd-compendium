@@ -2,25 +2,25 @@
   "id": "monster-gelatinous-cube",
   "slug": "gelatinous-cube",
   "name": {
-    "es": "",
+    "es": "Cubo gelatinoso",
     "en": "Gelatinous Cube"
   },
   "size": {
-    "es": "",
+    "es": "Grande",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Cieno",
     "en": "Unknown"
   },
   "alignment": {
-    "es": "",
+    "es": "Sin alineamiento",
     "en": "Unaligned"
   },
   "armorClass": 16,
   "hitPoints": "97 (15d8 + 30)",
   "speed": {
-    "es": "",
+    "es": "9 m",
     "en": "30 ft."
   },
   "abilityScores": {
@@ -32,11 +32,11 @@
     "cha": 10
   },
   "senses": {
-    "es": "",
+    "es": "Visión en la oscuridad .36 m; Percepción pasiva 12",
     "en": "Darkvision .120 ft.; Passive Perception 12"
   },
   "languages": {
-    "es": "",
+    "es": "Abisal, Común",
     "en": "Abyssal, Common"
   },
   "challengeRating": "6",
@@ -47,7 +47,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.129). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.129). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

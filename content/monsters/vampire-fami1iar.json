@@ -2,25 +2,25 @@
   "id": "monster-vampire-fami1iar",
   "slug": "vampire-fami1iar",
   "name": {
-    "es": "",
+    "es": "Siervo de vampiro",
     "en": "Vampire Fami1iar"
   },
   "size": {
-    "es": "",
+    "es": "Mediano o Pequeño",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Humanoide",
     "en": "Unknown"
   },
   "alignment": {
-    "es": "",
+    "es": "Neutral malvado",
     "en": "Unaligned"
   },
   "armorClass": 15,
   "hitPoints": "65 (10d8 + 20)",
   "speed": {
-    "es": "",
+    "es": "9 m, escalar 9 m",
     "en": "30 ft., Climb 30 ft."
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Percepción +4, Persuasión +4, Sigilo +7",
     "en": "Perception +4, Persuasion +4, Stealth +7"
   },
   "senses": {
-    "es": "",
+    "es": "Visión en la oscuridad 18 m; Percepción pasiva 14",
     "en": "Darkvision 60 ft.; Passive Perception 14"
   },
   "languages": {
-    "es": "",
+    "es": "Común plus one other Idioma",
     "en": "Common plus one other language"
   },
   "challengeRating": "3",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.314). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.314). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

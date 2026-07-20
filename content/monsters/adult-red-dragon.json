@@ -2,25 +2,25 @@
   "id": "monster-adult-red-dragon",
   "slug": "adult-red-dragon",
   "name": {
-    "es": "",
+    "es": "Dragón rojo adulto",
     "en": "Adult Red Dragon"
   },
   "size": {
-    "es": "",
+    "es": "Enorme",
     "en": "Huge"
   },
   "type": {
-    "es": "",
+    "es": "Dragón (cromático)",
     "en": "Dragon (Chromatic)"
   },
   "alignment": {
-    "es": "",
+    "es": "Caótico malvado",
     "en": "Chaottc Evil"
   },
   "armorClass": 19,
   "hitPoints": "256 (19dl2 + 133)",
   "speed": {
-    "es": "",
+    "es": "12 m, escalar 12 m, volar 24 m",
     "en": "40 ft., Climb 40 ft., Fly 80 ft."
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Percepción +.13, Sigilo +5",
     "en": "Perception +.13, Stealth +5"
   },
   "senses": {
-    "es": "",
+    "es": "Vista ciega 15 m, Visión en la oscuridad .36 m;",
     "en": "Blindsight 50 ft., Darkvision .120 ft.;"
   },
   "languages": {
-    "es": "",
+    "es": "Común, Dracónico",
     "en": "Common, Draconic"
   },
   "challengeRating": "17",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.255). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.255). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

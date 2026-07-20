@@ -3,28 +3,28 @@
   "slug": "paladin",
   "name": {
     "es": "Paladín",
-    "en": ""
+    "en": "Paladin"
   },
   "hitDie": "d8",
   "primaryAbility": {
     "es": "Fuerza y Carisma",
-    "en": ""
+    "en": "Strength and Charisma"
   },
   "savingThrows": {
     "es": "Competencias",
-    "en": ""
+    "en": "Wisdom and Charisma"
   },
   "armor": {
     "es": "—",
-    "en": ""
+    "en": "—"
   },
   "weapons": {
     "es": "—",
-    "en": ""
+    "en": "—"
   },
   "skills": {
     "es": "—",
-    "en": ""
+    "en": "—"
   },
   "description": {
     "es": "+ Obtienes los siguientes atributos de la tabla “Atributos básicos de paladín”: dado de puntos de golpe, competencia con armas marciales y entrenamiento con armaduras ligeras y medias y escudos. + Obtienes los rasgos de nivel 1 de paladín, que se muestran en la tabla “Rasgos de paladín”. Consulta las reglas de multiclase del capítulo 2 para determinar tus",
@@ -35,7 +35,7 @@
       "level": 1,
       "name": {
         "es": "IMPONER LAS MANOS",
-        "en": ""
+        "en": "IMPONER LAS MANOS"
       },
       "description": {
         "es": "Tu toque bendito puede curar heridas. Tienes una reserva de poder de curación que se rellena tras finalizar un descanso largo. Puedes recurrir a esta reserva para restaurar tantos puntos de golpe como cinco veces tu nivel de paladín. Como acción adicional, puedes tocar a una criatura (que puedes ser tú) y extraer energía de la reserva de curación para hacer que esa criatura recupere una cantidad de puntos de golpe, que como máximo será la cantidad que te quede en dicha reserva. También puedes gastar 5 puntos de golpe de la reserva para eliminar el estado de envenenada de la criatura, pero esos puntos gastados no restaurarán puntos de golpe. NIVEL l: LANZAMIENTO DE CONJUROS Has aprendido a lanzar conjuros gracias a la oración y la meditación. Consulta el",
@@ -46,7 +46,7 @@
       "level": 1,
       "name": {
         "es": "MAESTRÍA CON ARMAS",
-        "en": ""
+        "en": "MAESTRÍA CON ARMAS"
       },
       "description": {
         "es": "Tu entrenamiento con armas te permite utilizar las propiedades de maestría con dos tipos de armas de tu elección con las que tengas competencia, como espadas largas y jabalinas. Tras finalizar un descanso largo, puedes cambiar los tipos de armas elegidas. Por ejemplo, podrías pasar a utilizar las propiedades de maestría con alabardas y manguales.",
@@ -57,7 +57,7 @@
       "level": 2,
       "name": {
         "es": "CASTIGO DE PALADÍN",
-        "en": ""
+        "en": "CASTIGO DE PALADÍN"
       },
       "description": {
         "es": "Siempre tienes el conjuro castigo divino preparado. Además, puedes lanzarlo sin gastar un espacio de conjuro, pero debes finalizar un descanso largo antes de poder volver a lanzarlo de este modo.",
@@ -68,7 +68,7 @@
       "level": 2,
       "name": {
         "es": "ESTILO DE COMBATE",
-        "en": ""
+        "en": "ESTILO DE COMBATE"
       },
       "description": {
         "es": "Obtienes una dote de estilo de combate de tu elección (consulta las dotes en el",
@@ -79,7 +79,7 @@
       "level": 3,
       "name": {
         "es": "CANALIZAR DIVINIDAD",
-        "en": ""
+        "en": "CANALIZAR DIVINIDAD"
       },
       "description": {
         "es": "Puedes canalizar energía divina directamente de los Planos Exteriores para alimentar varios efectos mágicos. Empiezas con uno de esos efectos: Sentidos divinos, que se describe a continuación. Otros rasgos de paladín ofrecen opciones adicionales como efectos de Canalizar divinidad. Cada vez que utilices el rasgo Canalizar divinidad de esta clase, elige qué efecto de esta clase creas. Puedes usar el rasgo Canalizar divinidad dos veces. Recuperas uno de los usos gastados tras finalizar un descanso corto y todos tras finalizar un descanso largo. Obtienes un uso adicional cuando alcances el nivel 11 de paladín. Si un efecto de Canalizar divinidad requiere una tirada de salvación, la CD será igual a la CD de salvación de conjuros del rasgo Lanzamiento de conjuros de esta clase. Sentidos divinos. Como acción adicional, puedes expandir tu percepción para detectar celestiales, infernales y muertos vivientes. Durante los siguientes 10 minutos o hasta que tengas el estado de incapacitado, conoces la ubicación de cualquier criatura de esos tipos que se encuentre a 18 m o menos de ti y su tipo de criatura. En el mismo radio, también detectarás la presencia de cualquier lugar u objeto que haya sido consagrado o profanado, como con el conjuro consagrar,",
@@ -90,7 +90,7 @@
       "level": 4,
       "name": {
         "es": "MEJORA DE CARACTERÍSTICA",
-        "en": ""
+        "en": "MEJORA DE CARACTERÍSTICA"
       },
       "description": {
         "es": "Obtienes la dote Mejora de característica (consulta el",
@@ -101,7 +101,7 @@
       "level": 5,
       "name": {
         "es": "ATAQUE ADICIONAL",
-        "en": ""
+        "en": "ATAQUE ADICIONAL"
       },
       "description": {
         "es": "Cuando lleves a cabo la acción de atacar en tu turno, podrás hacer dos ataques en lugar de uno.",
@@ -112,7 +112,7 @@
       "level": 5,
       "name": {
         "es": "CORCEL FIEL",
-        "en": ""
+        "en": "CORCEL FIEL"
       },
       "description": {
         "es": "Puedes invocar la ayuda de un corcel sobrenatural. Siempre tienes el conjuro hallar corcel preparado. También puedes lanzarlo una vez sin gastar un espacio de conjuro y recuperas la capacidad de hacerlo tras finalizar un descanso largo.",
@@ -123,7 +123,7 @@
       "level": 6,
       "name": {
         "es": "AURA DE PROTECCIÓN",
-        "en": ""
+        "en": "AURA DE PROTECCIÓN"
       },
       "description": {
         "es": "Irradias un aura protectora e invisible en una emanación de 3 m que se origina de ti. El aura estará inactiva mientras tengas el estado de incapacitado. Tus aliados dentro del aura y tú obtenéis un bonificador a las tiradas de salvación igual a tu modificador por Carisma (mínimo de +1). Si hay otro paladín presente, una criatura solo puede beneficiarse de un Aura de protección a la vez; esa criatura elegirá cuál de ellas mientras esté dentro de ambas.",
@@ -134,7 +134,7 @@
       "level": 9,
       "name": {
         "es": "ABJURAR DE LOS ENEMIGOS",
-        "en": ""
+        "en": "ABJURAR DE LOS ENEMIGOS"
       },
       "description": {
         "es": "Como acción de magia, puedes gastar uno de los usos de Canalizar divinidad de esta clase para sobrecoger a tus enemigos. Mientras muestras tu símbolo sagrado o arma, puedes hacer objetivo a una cantidad de criaturas que puedas ver a 18 m o menos de ti igual a tu modificador ROMPER TU JURAMENTO Los paladines siempre intentan alcanzar los más altos estándares de conducta, pero incluso los más entregados pueden fallar. A veces, un paladín quebranta su juramento. Un paladín que rompe sus votos tiende a buscar la absolución. Para ello, y en señal de penitencia, pasa la noche en vela o lleva a cabo un ayuno. Tras finalizar el rito del perdón, el paladín puede hacer borrón y cuenta nueva. Si tu paladín rompe su juramento y no se arrepiente, habla con tu DM. Tu paladín probablemente debería buscar una",
@@ -145,7 +145,7 @@
       "level": 11,
       "name": {
         "es": "GOLPES RADIANTES",
-        "en": ""
+        "en": "GOLPES RADIANTES"
       },
       "description": {
         "es": "Ahora, tus golpes tienen un poder sobrenatural. Cuando aciertes a un objetivo con una tirada de ataque usando un arma cuerpo a cuerpo o un ataque sin armas, el objetivo recibirá 1d8 de daño radiante adicional.",
@@ -156,7 +156,7 @@
       "level": 14,
       "name": {
         "es": "TOQUE REPARADOR",
-        "en": ""
+        "en": "TOQUE REPARADOR"
       },
       "description": {
         "es": "Cuando uses Imponer las manos sobre una criatura, también podrás eliminar uno o más de los siguientes estados que la afecten: asustado, aturdido, cegado, ensordecido, hechizado o paralizado. Deberás gastar 5 puntos de golpe de la reserva de curación de Imponer las manos por cada uno de los estados que elimines, pero esos puntos gastados no restaurarán puntos de golpe.",
@@ -167,7 +167,7 @@
       "level": 18,
       "name": {
         "es": "EXPANSIÓN DE AURA",
-        "en": ""
+        "en": "EXPANSIÓN DE AURA"
       },
       "description": {
         "es": "Tu Aura de protección ahora es una emanación de 9 m. NrveEL 19: Don ÉPICO Obtienes una dote de don épico (consulta el",
@@ -178,7 +178,7 @@
       "level": 3,
       "name": {
         "es": "ARMA SAGRADA",
-        "en": ""
+        "en": "ARMA SAGRADA"
       },
       "description": {
         "es": "Cuando realizas la acción de atacar, puedes gastar uno de los usos de Canalizar divinidad para imbuir de energía positiva un arma cuerpo a cuerpo que sostengas. Durante 10 minutos o hasta que vuelvas a usar este rasgo, sumas tu modificador por Carisma a las tiradas de ataque que hagas con esa arma (mínimo de +1), y cada vez que aciertes con ella, haces que inflija su tipo de daño normal o daño radiante. El arma también emite luz brillante en un radio de 6 m y luz tenue 6 m más allá. Puedes poner fin a este efecto antes (no requiere acción). El efecto también terminará si no llevas el arma contigo.",
@@ -189,7 +189,7 @@
       "level": 3,
       "name": {
         "es": "CONJUROS DEL",
-        "en": ""
+        "en": "CONJUROS DEL"
       },
       "description": {
         "es": "JURAMENTO DE ENTREGA La magia de tujuramento garantiza que siempre tengas ciertos conjuros preparados. Cuando alcances un nivel de paladín especificado en la tabla “Conjuros del juramento de entrega”, a partir de entonces siempre tendrás preparados los conjuros que se indican.",
@@ -200,7 +200,7 @@
       "level": 7,
       "name": {
         "es": "AURA DE ENTREGA",
-        "en": ""
+        "en": "AURA DE ENTREGA"
       },
       "description": {
         "es": "Tus aliados y tú tenéis inmunidad al estado de hechizados mientras estéis dentro de tu Aura de protección. Si un aliado hechizado entra en el aura, ese estado no tendrá efecto en él mientras esté dentro.",
@@ -211,7 +211,7 @@
       "level": 15,
       "name": {
         "es": "CASTIGO PROTECTOR",
-        "en": ""
+        "en": "CASTIGO PROTECTOR"
       },
       "description": {
         "es": "Tu castigo mágico ahora irradia energía protectora. Siempre que lances castigo divino, tus aliados y tú tenéis cobertura media mientras estéis dentro de tu Aura de protección. El aura tiene este beneficio hasta el principio de tu siguiente turno.",
@@ -222,7 +222,7 @@
       "level": 20,
       "name": {
         "es": "HALO SAGRADO",
-        "en": ""
+        "en": "HALO SAGRADO"
       },
       "description": {
         "es": "Como acción adicional, puedes imbuir de poder divino tu Aura de protección, lo que otorga los beneficios indicados a continuación durante 10 minutos o hasta que les pongas fin (no requiere acción). Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un descanso largo. También puedes restablecer su uso gastando un espacio de conjuro de nivel 5 (no requiere acción). Daño radiante. Siempre que un enemigo comience su turno dentro del aura, esa criatura recibirá una cantidad de daño radiante igual a tu modificador por Carisma más tu bonificador por competencia. Luz solar. El aura está llena de luz brillante del sol. Protección sagrada. Tienes ventaja en las tiradas de salvación que te obliguen a hacer infernales o muertos vivientes. JURAMENTO DE GLORIA Esfuérzate por alcanzar la cima del heroísmo. Los paladines que pronuncian el juramento de gloria creen que ellos y sus compañeros están destinados a alcanzar la gloria mediante actos de heroísmo. Entrenan con diligencia y levantan los ánimos de sus compañeros para que estén preparados cuando toque responder a la llamada del destino. Estos paladines comparten los siguientes principios: + Esfuérzate para que te conozcan por tus gestas. + Afronta las dificultades con valentía. + Inspira a los demás para que busquen la gloria.",
@@ -233,7 +233,7 @@
       "level": 3,
       "name": {
         "es": "ATLETA SIN PARANGÓN",
-        "en": ""
+        "en": "ATLETA SIN PARANGÓN"
       },
       "description": {
         "es": "Como acción adicional, puedes gastar uno de los usos de Canalizar divinidad para potenciar tus capacidades atléticas. Durante 1 hora, tendrás ventaja en las pruebas de Fuerza (Atletismo) y Destreza (Acrobacias) y la distancia de tus saltos de longitud y de altura aumentará en 3 m (para esta distancia adicional, tendrás que gastar movimiento del modo habitual).",
@@ -244,7 +244,7 @@
       "level": 3,
       "name": {
         "es": "CASTIGO INSPIRADOR",
-        "en": ""
+        "en": "CASTIGO INSPIRADOR"
       },
       "description": {
         "es": "Inmediatamente después de que lances castigo divino, puedes gastar uno de los usos de Canalizar divinidad y distribuir puntos de golpe temporales entre criaturas de tu elección (que puede incluirte a ti) que estén a 9 m o menos de ti. La cantidad total de puntos de golpe temporales es igual a 2d8 más tu nivel de paladín, repartidos como tú quieras entre las criaturas elegidas.",
@@ -255,7 +255,7 @@
       "level": 3,
       "name": {
         "es": "CONJUROS DEL JURAMENTO",
-        "en": ""
+        "en": "CONJUROS DEL JURAMENTO"
       },
       "description": {
         "es": "DE GLORIA La magia de tu juramento garantiza que siempre tengas ciertos conjuros preparados. Cuando alcances un nivel de paladín especificado en la tabla “Conjuros del juramento de gloria”, a partir de entonces siempre tendrás preparados los conjuros que se indican. CONJUROS DEL JURAMENTO DE GLORIA Nivel de paladín Conjuros 3 Heroísmo, saeta guía 5 Arma mágica, potenciar característica 9 Acelerar, protección contra energía 13 Compulsión, libertad de movimiento 17 Conocer las leyendas, presencia regia de Yolande",
@@ -266,7 +266,7 @@
       "level": 7,
       "name": {
         "es": "AURA DE CELERIDAD",
-        "en": ""
+        "en": "AURA DE CELERIDAD"
       },
       "description": {
         "es": "Tu velocidad aumenta en 3 m. Además, siempre que un aliado entre en tu Aura de protección por primera vez en un turno o comience su turno dentro de ella, la velocidad de ese aliado aumentará en 3 m hasta el final de su próximo turno. NiveEL 15: DEFENSA GLORIOSA Puedes convertir la defensa en un ataque súbito. Si una tirada de ataque os acierta a tio a otra criatura que puedas ver a 3 m o menos de ti, puedes llevar a cabo una reacción para sumar un bonificador a la CA del objetivo contra ese ataque, lo que podría hacer que falle. El bonificador es igual a tu modificador por Carisma (mínimo de +1). Si el ataque falla, como parte de esta reacción podrás hacer un ataque con un arma contra el atacante si está en el alcance de tu arma. Puedes usar este rasgo una cantidad de veces igual a tu modificador por Carisma (mínimo una vez) y recuperas todos los usos tras finalizar un descanso largo.",
@@ -277,7 +277,7 @@
       "level": 20,
       "name": {
         "es": "LEYENDA VIVIENTE",
-        "en": ""
+        "en": "LEYENDA VIVIENTE"
       },
       "description": {
         "es": "Puedes fortalecerte con las leyendas (ya sean veraces o exageradas) de tus grandes hazañas. Como acción adicional, obtienes los beneficios presentados a continuación durante 10 minutos. Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un descanso largo. También puedes restablecer su uso gastando un espacio de conjuro de nivel 5 (no requiere acción). Carismático. Estás bendecido por una presencia sobrenatural y tienes ventaja en todas las pruebas de Carisma. Golpe certero. Una vez en cada uno de tus turnos, si fallas una tirada de ataque con un arma, puedes hacer que el ataque acierte. Repetir tiradas de salvación. Si fallas una tirada de salvación, puedes llevar a cabo una reacción para repetirla. Deberás usar el resultado de la nueva tirada. JURAMENTO DE LOS ANTIGUOS Preserva la vida y la luz en el mundo. El juramento de los antiguos es tan arcaico como los primeros elfos. Los paladines que pronuncian este juramento valoran la luz y aman las cosas bellas y revitalizantes del mundo más que cualquier principio de honor, valentía y justicia. A menudo adornan su armadura y sus prendas con imágenes que representan seres capaces de crecer, como hojas, astas o flores, para así reflejar su compromiso con el cuidado de la vida y la luz. Estos paladines comparten los siguientes principios: + Prende la luz de la esperanza. + Cobija la vida. + Deléitate con el arte y la risa.",
@@ -288,7 +288,7 @@
       "level": 3,
       "name": {
         "es": "CONJUROS DEL JURAMENTO",
-        "en": ""
+        "en": "CONJUROS DEL JURAMENTO"
       },
       "description": {
         "es": "DE LOS ANTIGUOS La magia de tu juramento garantiza que siempre tengas ciertos conjuros preparados. Cuando alcances un nivel de paladín especificado en la tabla “Conjuros del juramento de los antiguos”, a partir de entonces siempre tendrás preparados los conjuros que se indican. CONJUROS DEL JURAMENTO DE LOS ANTIGUOS Nivel de paladín Conjuros 3 Golpe apresador, hablar con los animales 5 Paso brumoso, rayo de luna 9 Crecimiento vegetal, protección contra energía 13 Piel pétrea, tormenta de hielo 17 Comunión con la naturaleza, paso arbóreo",
@@ -299,7 +299,7 @@
       "level": 3,
       "name": {
         "es": "IRA DE LA NATURALEZA",
-        "en": ""
+        "en": "IRA DE LA NATURALEZA"
       },
       "description": {
         "es": "Como acción de magia, puedes gastar uno de los usos de Canalizar divinidad para invocar enredaderas espectrales alrededor de las criaturas cercanas. Todas las criaturas de tu elección que puedas ver a 4,5 m o menos de ti deberán superar una tirada de salvación de Fuerza o tendrán el estado de apresadas durante 1 minuto. Una criatura apresada repetirá la tirada de salvación al final de cada uno de sus turnos y, si tiene éxito, se librará del efecto.",
@@ -310,7 +310,7 @@
       "level": 7,
       "name": {
         "es": "AURA DE SALVAGUARDA",
-        "en": ""
+        "en": "AURA DE SALVAGUARDA"
       },
       "description": {
         "es": "La magia ancestral recae sobre ti con tanta fuerza que forma una protección sobrenatural con energía de más allá del Plano Material. Tus aliados y tú tenéis resistencia al daño necrótico, psíquico y radiante mientras estéis dentro de tu Aura de protección.",
@@ -321,7 +321,7 @@
       "level": 15,
       "name": {
         "es": "CENTINELA IMPERECEDERO",
-        "en": ""
+        "en": "CENTINELA IMPERECEDERO"
       },
       "description": {
         "es": "7 Cuando tus puntos de golpe se reducen a O pero no y 4 mueres inmediatamente, puedes quedarte con 1 punto de golpe y recuperas una cantidad de ellos igual a tres veces tu nivel de paladín. Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un descanso largo. Además, no podrás envejecer por medios mágicos y dejarás de hacerlo de forma visible.",
@@ -332,7 +332,7 @@
       "level": 20,
       "name": {
         "es": "CAMPEÓN ANCESTRAL",
-        "en": ""
+        "en": "CAMPEÓN ANCESTRAL"
       },
       "description": {
         "es": "Como acción adicional, puedes imbuir tu Aura de protección de un poder primordial, lo que otorga los beneficios indicados a continuación durante 1 minuto o hasta que les pongas fin (no requiere acción). Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un descanso largo. También puedes restablecer su uso gastando un espacio de conjuro de nivel 5 (no requiere acción). Conjuros veloces. Siempre que lances un conjuro que tenga un tiempo de lanzamiento de una acción, puedes lanzarlo usando una acción adicional en su lugar. Mermar la oposición. Los enemigos dentro del aura tendrán desventaja en las tiradas de salvación contra tus conjuros y opciones de Canalizar divinidad. Regeneración. Al principio de cada uno de tus turnos, recuperas 10 puntos de golpe. JURAMENTO DE VENGANZA Castiga a los malhechores a toda costa. El juramento de venganza es el propósito solemne de castigar a quienes han cometido actos de gran maldad. Cuando las fuerzas del mal masacran a aldeanos indefensos, un tirano desafía la voluntad de los dioses, un gremio de ladrones se torna excesivamente violento o un dragón arrasa los campos de cultivo, surgen paladines que pronuncian el juramento de venganza, decididos a enderezar aquello que se ha torcido. Estos paladines comparten los siguientes principios: + No muestres piedad por los malvados. + Lucha contra la iniquidad y sus causas. + Ayuda alos perjudicados por las injusticias.",
@@ -343,7 +343,7 @@
       "level": 3,
       "name": {
         "es": "CONJUROS DEL JURAMENTO",
-        "en": ""
+        "en": "CONJUROS DEL JURAMENTO"
       },
       "description": {
         "es": "DE VENGANZA La magia de tu juramento garantiza que siempre tengas ciertos conjuros preparados. Cuando alcances un nivel de paladín especificado en la tabla “Conjuros del juramento de venganza”, a partir de entonces siempre tendrás preparados los conjuros que se indican.",
@@ -354,7 +354,7 @@
       "level": 3,
       "name": {
         "es": "VOTO DE ENEMISTAD",
-        "en": ""
+        "en": "VOTO DE ENEMISTAD"
       },
       "description": {
         "es": "Cuando realizas la acción de atacar, puedes gastar uno de los usos de Canalizar divinidad para murmurar un voto de enemistad contra una criatura que puedas ver a 9 m o menos de ti. Tienes ventaja en las tiradas de ataque contra esa criatura durante 1 minuto o hasta que vuelvas a usar este rasgo. Silos puntos de golpe de la criatura se reducen a O antes de que termine el voto, podrás transferirlo a una criatura distinta a 9 m o menos de ti (no requiere acción).",
@@ -365,7 +365,7 @@
       "level": 7,
       "name": {
         "es": "VENGADOR IMPLACABLE",
-        "en": ""
+        "en": "VENGADOR IMPLACABLE"
       },
       "description": {
         "es": "Tu concentración sobrenatural te permite impedir la retirada de un enemigo. Cuando aciertes un ataque de oportunidad contra una criatura, puedes reducir su velocidad a O hasta el final del turno actual. A continuación, puedes moverte hasta la mitad de tu velocidad como parte de la misma reacción. Este movimiento no provoca ataques de oportunidad.",
@@ -376,7 +376,7 @@
       "level": 15,
       "name": {
         "es": "ESPÍRITU VENGATIVO",
-        "en": ""
+        "en": "ESPÍRITU VENGATIVO"
       },
       "description": {
         "es": "Inmediatamente después de que una criatura bajo los efectos de tu Voto de enemistad acierte o falle una tirada de ataque, podrás llevar a cabo una reacción para realizar un ataque cuerpo a cuerpo contra esa criatura si se encuentra dentro del alcance.",
@@ -387,7 +387,7 @@
       "level": 20,
       "name": {
         "es": "ÁNGEL VENGADOR",
-        "en": ""
+        "en": "ÁNGEL VENGADOR"
       },
       "description": {
         "es": "Como acción adicional, obtienes los beneficios presentados a continuación durante 10 minutos o hasta que les pongas fin (no requiere acción). Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un descanso largo. También puedes restablecer su uso gastando un espacio de conjuro de nivel 5 (no requiere acción). Aura aterradora. Siempre que un enemigo comience su turno dentro de tu Aura de protección, esa criatura deberá superar una tirada de salvación de Sabiduría o tendrá el estado de asustada durante 1 minuto o hasta recibir daño. Las tiradas de ataque contra las criaturas asustadas tienen ventaja. Vuelo. Te crecen unas alas espectrales en la espalda, tienes una velocidad volando de 18 m y puedes levitar.",

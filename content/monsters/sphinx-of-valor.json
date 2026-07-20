@@ -2,25 +2,25 @@
   "id": "monster-sphinx-of-valor",
   "slug": "sphinx-of-valor",
   "name": {
-    "es": "",
+    "es": "Esfinge del valor",
     "en": "Sphinx of Valor"
   },
   "size": {
-    "es": "",
+    "es": "Grande",
     "en": "Large"
   },
   "type": {
-    "es": "",
+    "es": "Celestial",
     "en": "Celestial"
   },
   "alignment": {
-    "es": "",
+    "es": "Legal neutral",
     "en": "Lawful Neutral"
   },
   "armorClass": 17,
   "hitPoints": "199 ('19d]0 + 95)",
   "speed": {
-    "es": "",
+    "es": "12 m, volar 18 m",
     "en": "40 ft., Fly 60 ft."
   },
   "abilityScores": {
@@ -32,11 +32,11 @@
     "cha": 10
   },
   "senses": {
-    "es": "",
+    "es": "—",
     "en": "—"
   },
   "languages": {
-    "es": "",
+    "es": "—",
     "en": "—"
   },
   "challengeRating": "?",
@@ -44,31 +44,31 @@
   "actions": [
     {
       "name": {
-        "es": "",
+        "es": "expended uses ot the start of each of its turns",
         "en": "expended uses ot the start of each of its turns"
       },
       "description": {
-        "es": "",
+        "es": "expended uses ot the start of each of its turns.",
         "en": "expended uses ot the start of each of its turns."
       }
     },
     {
       "name": {
-        "es": "",
+        "es": "Arcane Prowl,The sphinx can teleport up to 30 feet",
         "en": "Arcane Prowl,The sphinx can teleport up to 30 feet"
       },
       "description": {
-        "es": "",
+        "es": "Arcane Prowl,The sphinx can teleport up to 30 metros",
         "en": "Arcane Prowl,The sphinx can teleport up to 30 feet"
       }
     },
     {
       "name": {
-        "es": "",
+        "es": "to an unoccupied space it can see, and it makes on",
         "en": "to an unoccupied space it can see, and it makes on"
       },
       "description": {
-        "es": "",
+        "es": "to an unoccupied space it can see, and it makes one",
         "en": "to an unoccupied space it can see, and it makes one"
       }
     }
@@ -77,7 +77,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.294). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.294). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

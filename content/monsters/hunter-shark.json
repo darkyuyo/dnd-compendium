@@ -2,25 +2,25 @@
   "id": "monster-hunter-shark",
   "slug": "hunter-shark",
   "name": {
-    "es": "",
+    "es": "Tiburón cazador",
     "en": "Hunter Shark"
   },
   "size": {
-    "es": "",
+    "es": "Grande",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Bestia",
     "en": "Unknown"
   },
   "alignment": {
-    "es": "",
+    "es": "Sin alineamiento",
     "en": "Unaligned"
   },
   "armorClass": 12,
   "hitPoints": "45 (5d10 + '12)",
   "speed": {
-    "es": "",
+    "es": "15 m",
     "en": "50 ft."
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Percepción +2",
     "en": "Perception +2"
   },
   "senses": {
-    "es": "",
+    "es": "Vista ciega 18 m; Percepción pasiva 12",
     "en": "Blindsight 60 ft.; Passive Perception 12"
   },
   "languages": {
-    "es": "",
+    "es": "None",
     "en": "None"
   },
   "challengeRating": "2",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.363). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.363). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

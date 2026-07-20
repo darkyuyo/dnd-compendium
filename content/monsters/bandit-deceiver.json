@@ -2,25 +2,25 @@
   "id": "monster-bandit-deceiver",
   "slug": "bandit-deceiver",
   "name": {
-    "es": "",
+    "es": "Embaucador bandido",
     "en": "Bandit Deceiver"
   },
   "size": {
-    "es": "",
+    "es": "Mediano o Pequeño",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Humanoide",
     "en": "Unknown"
   },
   "alignment": {
-    "es": "",
+    "es": "Neutral",
     "en": "Unaligned"
   },
   "armorClass": 10,
   "hitPoints": "169 (25d8 + 52)",
   "speed": {
-    "es": "",
+    "es": "9 m",
     "en": "30 ft."
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Acrobacias +9, Percepción +10, Sigilo +.13",
     "en": "Acrobatics +9, Perception +10, Stealth +.13"
   },
   "senses": {
-    "es": "",
+    "es": "Percepción pasiva 20",
     "en": "Passive Perception 20"
   },
   "languages": {
-    "es": "",
+    "es": "Común, Thieves' Cant",
     "en": "Common, Thieves' Cant"
   },
   "challengeRating": "?",
@@ -49,51 +49,51 @@
   "actions": [
     {
       "name": {
-        "es": "",
+        "es": "Bandit crime lords manipulate shadowy organi-",
         "en": "Bandit crime lords manipulate shadowy organi-"
       },
       "description": {
-        "es": "",
+        "es": "Bandit crime lords manipulate shadowy organi-",
         "en": "Bandit crime lords manipulate shadowy organi-"
       }
     },
     {
       "name": {
-        "es": "",
+        "es": "zations and prioritize their own survival over any",
         "en": "zations and prioritize their own survival over any"
       },
       "description": {
-        "es": "",
+        "es": "zations and prioritize their own survival over any",
         "en": "zations and prioritize their own survival over any"
       }
     },
     {
       "name": {
-        "es": "",
+        "es": "Srn 10 +0 +0 Dex 20 +5 +9 Cott 14 +2",
         "en": "Srn 10 +0 +0 Dex 20 +5 +9 Cott 14 +2"
       },
       "description": {
-        "es": "",
+        "es": "Srn 10 +0 +0 Dex 20 +5 +9 Cott 14 +2",
         "en": "Srn 10 +0 +0 Dex 20 +5 +9 Cott 14 +2"
       }
     },
     {
       "name": {
-        "es": "",
+        "es": "lrr 18 +4 +4 Wts 14 +2 +2 Cxr15 +2",
         "en": "lrr 18 +4 +4 Wts 14 +2 +2 Cxr15 +2"
       },
       "description": {
-        "es": "",
+        "es": "lrr 18 +4 +4 Wts 14 +2 +2 Cxr15 +2",
         "en": "lrr 18 +4 +4 Wts 14 +2 +2 Cxr15 +2"
       }
     },
     {
       "name": {
-        "es": "",
+        "es": "Skills Acrobatics +9, Perception +10, Stealth +",
         "en": "Skills Acrobatics +9, Perception +10, Stealth +"
       },
       "description": {
-        "es": "",
+        "es": "Skills Acrobatics +9, Perception +10, Stealth +.13",
         "en": "Skills Acrobatics +9, Perception +10, Stealth +.13"
       }
     }
@@ -102,7 +102,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.28). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.28). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

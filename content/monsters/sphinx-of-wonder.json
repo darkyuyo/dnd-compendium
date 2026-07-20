@@ -2,25 +2,25 @@
   "id": "monster-sphinx-of-wonder",
   "slug": "sphinx-of-wonder",
   "name": {
-    "es": "",
+    "es": "Esfinge de las maravillas",
     "en": "Sphinx of Wonder"
   },
   "size": {
-    "es": "",
+    "es": "Diminuto",
     "en": "Tiny"
   },
   "type": {
-    "es": "",
+    "es": "Celestial",
     "en": "Celestial"
   },
   "alignment": {
-    "es": "",
+    "es": "Legal bueno",
     "en": "Lawful Cood"
   },
   "armorClass": 13,
   "hitPoints": "24",
   "speed": {
-    "es": "",
+    "es": "6 m, volar 12 m",
     "en": "20 ft., Fly 40 ft."
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Arcano +4, Religión +4, Sigilo +5",
     "en": "Arcana +4, Religion +4, Stealth +5"
   },
   "senses": {
-    "es": "",
+    "es": "Visión en la oscuridad 15 m; Percepción pasiva 11",
     "en": "Darkvision 50 ft.; Passive Perception 11"
   },
   "languages": {
-    "es": "",
+    "es": "Celestial, Común",
     "en": "Celestial, Common"
   },
   "challengeRating": "?",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.291). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.291). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

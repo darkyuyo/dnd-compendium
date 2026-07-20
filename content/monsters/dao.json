@@ -2,25 +2,25 @@
   "id": "monster-dao",
   "slug": "dao",
   "name": {
-    "es": "",
+    "es": "Dao",
     "en": "Dao"
   },
   "size": {
-    "es": "",
+    "es": "Grande",
     "en": "Large"
   },
   "type": {
-    "es": "",
+    "es": "Elemental (genio)",
     "en": "Elemental (Genie)"
   },
   "alignment": {
-    "es": "",
+    "es": "Neutral",
     "en": "Neutral"
   },
   "armorClass": 10,
   "hitPoints": "200 (16d10 r ll2)",
   "speed": {
-    "es": "",
+    "es": "30ihtlJI*'o n' tll.:o,ft' (levitar)",
     "en": "30ihtlJI*'o n' tll.:o,ft' (hover)"
   },
   "abilityScores": {
@@ -32,11 +32,11 @@
     "cha": 10
   },
   "senses": {
-    "es": "",
+    "es": "Visión en la oscuridad 36 m; Percepción pasiva 11",
     "en": "Darkvision 120 ft.; Passive Perception 11"
   },
   "languages": {
-    "es": "",
+    "es": "Pri mordial (Terran)",
     "en": "Pri mordial (Terran)"
   },
   "challengeRating": "?",
@@ -47,7 +47,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.89). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.89). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

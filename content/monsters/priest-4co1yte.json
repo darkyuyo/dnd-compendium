@@ -2,25 +2,25 @@
   "id": "monster-priest-4co1yte",
   "slug": "priest-4co1yte",
   "name": {
-    "es": "",
+    "es": "Sacerdote acólito",
     "en": "Priest 4co1yte"
   },
   "size": {
-    "es": "",
+    "es": "Mediano o Pequeño",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Humanoide (clérigo)",
     "en": "Humanoid (Cleric)"
   },
   "alignment": {
-    "es": "",
+    "es": "Neutral",
     "en": "Neutral"
   },
   "armorClass": 13,
   "hitPoints": "11 (2d8 + 2)",
   "speed": {
-    "es": "",
+    "es": "9 m",
     "en": "30 ft."
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Medicina +4, Religión +2",
     "en": "Medicine +4, Religion +2"
   },
   "senses": {
-    "es": "",
+    "es": "Percepción pasiva 12",
     "en": "Passive Perception 12"
   },
   "languages": {
-    "es": "",
+    "es": "Común",
     "en": "Common"
   },
   "challengeRating": "?",
@@ -49,51 +49,51 @@
   "actions": [
     {
       "name": {
-        "es": "",
+        "es": "and their magic, which they",
         "en": "and their magic, which they"
       },
       "description": {
-        "es": "",
+        "es": "and their magic, which they",
         "en": "and their magic, which they"
       }
     },
     {
       "name": {
-        "es": "",
+        "es": "use to shape the world in line with their ideologi",
         "en": "use to shape the world in line with their ideologi"
       },
       "description": {
-        "es": "",
+        "es": "use to shape the world in line with their ideologies.",
         "en": "use to shape the world in line with their ideologies."
       }
     },
     {
       "name": {
-        "es": "",
+        "es": "Roll on or choose a result from the Priest Roles",
         "en": "Roll on or choose a result from the Priest Roles"
       },
       "description": {
-        "es": "",
+        "es": "Roll on or choose a result from the Priest Roles",
         "en": "Roll on or choose a result from the Priest Roles"
       }
     },
     {
       "name": {
-        "es": "",
+        "es": "table to inspire different sorts ofpriests",
         "en": "table to inspire different sorts ofpriests"
       },
       "description": {
-        "es": "",
+        "es": "table to inspire different sorts ofpriests.",
         "en": "table to inspire different sorts ofpriests."
       }
     },
     {
       "name": {
-        "es": "",
+        "es": "I An ascetic who keeps wicked spirits at bay",
         "en": "I An ascetic who keeps wicked spirits at bay"
       },
       "description": {
-        "es": "",
+        "es": "I An ascetic who keeps wicked spirits at bay.",
         "en": "I An ascetic who keeps wicked spirits at bay."
       }
     }
@@ -102,7 +102,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.247). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.247). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

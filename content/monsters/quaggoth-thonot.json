@@ -2,25 +2,25 @@
   "id": "monster-quaggoth-thonot",
   "slug": "quaggoth-thonot",
   "name": {
-    "es": "",
+    "es": "Quaggoth thonot",
     "en": "Quaggoth Thonot"
   },
   "size": {
-    "es": "",
+    "es": "Mediano",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Monstruosidad",
     "en": "Monstrosity"
   },
   "alignment": {
-    "es": "",
+    "es": "Caótico neutral",
     "en": "Chaotic Neutral"
   },
   "armorClass": 13,
   "hitPoints": "57 (9d8 + 271 sPeed 3o fr' climb 3o ft' N.4oD sAvE Srn 17 +3 +3 Dex 12 +l lnr 6 -2 -2 Wrs 14 +2 MOD SAVE +l Cott 16 +3 +2 Cxr 7 -2 +3 -2 ll st<itts Athletics +5 li tmmunities Poison; Poisoned ll Senses Darkvision'120ft.; Passive Perception 11 jl tanguages Undercommon ll cn z (XP a5o; PB +2)",
   "speed": {
-    "es": "",
+    "es": "9 m, escalar 9 m",
     "en": "30 ft., Climb 30 ft."
   },
   "abilityScores": {
@@ -32,11 +32,11 @@
     "cha": 10
   },
   "senses": {
-    "es": "",
+    "es": "Visión en la oscuridad'36 m; Percepción pasiva 11",
     "en": "Darkvision'120ft.; Passive Perception 11"
   },
   "languages": {
-    "es": "",
+    "es": "—",
     "en": "—"
   },
   "challengeRating": "?",
@@ -47,7 +47,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.251). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.251). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

@@ -1,0 +1,4108 @@
+{
+  "byEnNorm": {
+    "aarakocra aeromancer": {
+      "es": "Aarakocra aeromante",
+      "en": "Aarakocra Aeromancer",
+      "cr": "4",
+      "type": "Elemental",
+      "size": "Mediano",
+      "alignment": "Neutral"
+    },
+    "aarakocra skirmisher": {
+      "es": "Aarakocra experto en escaramuzas",
+      "en": "Aarakocra Skirmisher",
+      "cr": "1/4",
+      "type": "Elemental",
+      "size": "Mediano",
+      "alignment": "Neutral"
+    },
+    "aboleth": {
+      "es": "Aboleth",
+      "en": "Aboleth",
+      "cr": "10",
+      "type": "Aberración",
+      "size": "Grande",
+      "alignment": "Legal malvado"
+    },
+    "invisible stalker": {
+      "es": "Acechador invisible",
+      "en": "Invisible Stalker",
+      "cr": "6",
+      "type": "Elemental",
+      "size": "Grande",
+      "alignment": "Neutral"
+    },
+    "eagle": {
+      "es": "Águila",
+      "en": "Eagle",
+      "cr": "0",
+      "type": "Bestia",
+      "size": "Pequeño",
+      "alignment": "Sin alineamiento"
+    },
+    "giant eagle": {
+      "es": "Águila gigante",
+      "en": "Giant Eagle",
+      "cr": "1",
+      "type": "Celestial",
+      "size": "Grande",
+      "alignment": "Neutral bueno"
+    },
+    "elk": {
+      "es": "Alce",
+      "en": "Elk",
+      "cr": "1/4",
+      "type": "Bestia",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "giant elk": {
+      "es": "Alce gigante",
+      "en": "Giant Elk",
+      "cr": "2",
+      "type": "Celestial",
+      "size": "Enorme",
+      "alignment": "Neutral bueno"
+    },
+    "animated rug of smothering": {
+      "es": "Alfombra asfixiante animada",
+      "en": "Animated Rug of Smothering",
+      "cr": "2",
+      "type": "Autómata",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "allosaurus": {
+      "es": "Alosaurio",
+      "en": "Allosaurus",
+      "cr": "2",
+      "type": "Bestia (dinosaurio)",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "blob of annihilation": {
+      "es": "Amasijo de aniquilación",
+      "en": "Blob of Annihilation",
+      "cr": "23",
+      "type": "Cieno (titan)",
+      "size": "Gargantuesco",
+      "alignment": "Neutral malvado"
+    },
+    "ankheg": {
+      "es": "Ankheg",
+      "en": "Ankheg",
+      "cr": "2",
+      "type": "Monstruosidad",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "ankylosaurus": {
+      "es": "Anquilosaurio",
+      "en": "Ankylosaurus",
+      "cr": "3",
+      "type": "Bestia (dinosaurio)",
+      "size": "Enorme",
+      "alignment": "Sin alineamiento"
+    },
+    "wraith": {
+      "es": "Aparición",
+      "en": "Wraith",
+      "cr": "5",
+      "type": "Muerto viviente",
+      "size": "Mediano o Pequeño",
+      "alignment": "Neutral malvado"
+    },
+    "spider": {
+      "es": "Araña",
+      "en": "Spider",
+      "cr": "0",
+      "type": "Bestia",
+      "size": "Diminuto",
+      "alignment": "Sin alineamiento"
+    },
+    "phase spider": {
+      "es": "Araña de fase",
+      "en": "Phase Spider",
+      "cr": "3",
+      "type": "Monstruosidad",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "giant spider": {
+      "es": "Araña gigante",
+      "en": "Giant Spider",
+      "cr": "1",
+      "type": "Bestia",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "awakened tree": {
+      "es": "Árbol despertado",
+      "en": "Awakened Tree",
+      "cr": "2",
+      "type": "Planta",
+      "size": "Enorme",
+      "alignment": "Neutral"
+    },
+    "awakened shrub": {
+      "es": "Arbusto despertado",
+      "en": "Awakened Shrub",
+      "cr": "0",
+      "type": "Planta",
+      "size": "Pequeño",
+      "alignment": "Neutral"
+    },
+    "arcanaloth": {
+      "es": "Arcanaloth",
+      "en": "Arcanaloth",
+      "cr": "12",
+      "type": "Infernal (yugoloth)",
+      "size": "Mediano",
+      "alignment": "Neutral malvado"
+    },
+    "archelon": {
+      "es": "Archelon",
+      "en": "Archelon",
+      "cr": "4",
+      "type": "Bestia (dinosaurio)",
+      "size": "Enorme",
+      "alignment": "Sin alineamiento"
+    },
+    "archmage": {
+      "es": "Archimago",
+      "en": "Archmage",
+      "cr": "12",
+      "type": "Humanoide (mago)",
+      "size": "Mediano o Pequeño",
+      "alignment": "Neutral"
+    },
+    "arch hag": {
+      "es": "Archisaga",
+      "en": "Arch-hag",
+      "cr": "21",
+      "type": "Feérico",
+      "size": "Grande",
+      "alignment": "Neutral malvado"
+    },
+    "archpriest": {
+      "es": "Arcipreste",
+      "en": "Archpriest",
+      "cr": "12",
+      "type": "Humanoide (clérigo)",
+      "size": "Mediano o Pequeño",
+      "alignment": "Neutral"
+    },
+    "animated armor": {
+      "es": "Armadura animada",
+      "en": "Animated Armor",
+      "cr": "1",
+      "type": "Autómata",
+      "size": "Mediano",
+      "alignment": "Sin alineamiento"
+    },
+    "harpy": {
+      "es": "Arpía",
+      "en": "Harpy",
+      "cr": "1",
+      "type": "Monstruosidad",
+      "size": "Mediano",
+      "alignment": "Caótico malvado"
+    },
+    "performer": {
+      "es": "Artista",
+      "en": "Performer",
+      "cr": "1/2",
+      "type": "Humanoide",
+      "size": "Mediano o Pequeño",
+      "alignment": "Neutral"
+    },
+    "performer legend": {
+      "es": "Artista legendario",
+      "en": "Performer Legend",
+      "cr": "10",
+      "type": "Humanoide",
+      "size": "Mediano o Pequeño",
+      "alignment": "Neutral"
+    },
+    "performer maestro": {
+      "es": "Artista virtuoso",
+      "en": "Performer Maestro",
+      "cr": "6",
+      "type": "Humanoide",
+      "size": "Mediano o Pequeño",
+      "alignment": "Neutral"
+    },
+    "assassin": {
+      "es": "Asesino",
+      "en": "Assassin",
+      "cr": "8",
+      "type": "Humanoide",
+      "size": "Mediano o Pequeño",
+      "alignment": "Neutral"
+    },
+    "giant wasp": {
+      "es": "Avispa gigante",
+      "en": "Giant Wasp",
+      "cr": "1/2",
+      "type": "Bestia",
+      "size": "Mediano",
+      "alignment": "Sin alineamiento"
+    },
+    "azer sentinel": {
+      "es": "Azer centinela",
+      "en": "Azer Sentinel",
+      "cr": "2",
+      "type": "Elemental",
+      "size": "Mediano",
+      "alignment": "Legal neutral"
+    },
+    "azer pyromancer": {
+      "es": "Azer piromante",
+      "en": "Azer Pyromancer",
+      "cr": "6",
+      "type": "Elemental",
+      "size": "Mediano",
+      "alignment": "Legal neutral"
+    },
+    "mind flayer": {
+      "es": "Azotamentes",
+      "en": "Mind Flayer",
+      "cr": "7",
+      "type": "Aberración",
+      "size": "Mediano",
+      "alignment": "Legal malvado"
+    },
+    "mind flayer arcanist": {
+      "es": "Azotamentes arcanista",
+      "en": "Mind Flayer Arcanist",
+      "cr": "11",
+      "type": "Aberración",
+      "size": "Mediano",
+      "alignment": "Legal malvado"
+    },
+    "baboon": {
+      "es": "Babuino",
+      "en": "Baboon",
+      "cr": "0",
+      "type": "Bestia",
+      "size": "Pequeño",
+      "alignment": "Sin alineamiento"
+    },
+    "balor": {
+      "es": "Balor",
+      "en": "Balor",
+      "cr": "19",
+      "type": "Infernal (demonio)",
+      "size": "Enorme",
+      "alignment": "Caótico malvado"
+    },
+    "bandit": {
+      "es": "Bandido",
+      "en": "Bandit",
+      "cr": "1/8",
+      "type": "Humanoide",
+      "size": "Mediano o Pequeño",
+      "alignment": "Neutral"
+    },
+    "bandit captain": {
+      "es": "Bandido capitán",
+      "en": "Bandit Captain",
+      "cr": "2",
+      "type": "Humanoide",
+      "size": "Mediano o Pequeño",
+      "alignment": "Neutral"
+    },
+    "bandit crime lord": {
+      "es": "Bandido señor del crimen",
+      "en": "Bandit Crime Lord",
+      "cr": "11",
+      "type": "Humanoide",
+      "size": "Mediano o Pequeño",
+      "alignment": "Neutral"
+    },
+    "banshee": {
+      "es": "Banshee",
+      "en": "Banshee",
+      "cr": "4",
+      "type": "Muerto viviente",
+      "size": "Mediano",
+      "alignment": "Caótico malvado"
+    },
+    "barlgura": {
+      "es": "Barlgura",
+      "en": "Barlgura",
+      "cr": "5",
+      "type": "Infernal (demonio)",
+      "size": "Grande",
+      "alignment": "Caótico malvado"
+    },
+    "basilisk": {
+      "es": "Basilisco",
+      "en": "Basilisk",
+      "cr": "3",
+      "type": "Monstruosidad",
+      "size": "Mediano",
+      "alignment": "Sin alineamiento"
+    },
+    "scout": {
+      "es": "Batidor",
+      "en": "Scout",
+      "cr": "1/2",
+      "type": "Humanoide",
+      "size": "Mediano o Pequeño",
+      "alignment": "Neutral"
+    },
+    "scout captain": {
+      "es": "Batidor capitán",
+      "en": "Scout Captain",
+      "cr": "3",
+      "type": "Humanoide",
+      "size": "Mediano o Pequeño",
+      "alignment": "Neutral"
+    },
+    "behir": {
+      "es": "Behir",
+      "en": "Behir",
+      "cr": "11",
+      "type": "Monstruosidad",
+      "size": "Enorme",
+      "alignment": "Neutral malvado"
+    },
+    "berserker": {
+      "es": "Berserker",
+      "en": "Berserker",
+      "cr": "2",
+      "type": "Humanoide",
+      "size": "Mediano o Pequeño",
+      "alignment": "Cualquier alineamiento"
+    },
+    "berserker commander": {
+      "es": "Berserker comandante",
+      "en": "Berserker Commander",
+      "cr": "8",
+      "type": "Humanoide",
+      "size": "Mediano o Pequeño",
+      "alignment": "Neutral"
+    },
+    "beast of the sea": {
+      "es": "Bestia de los mares",
+      "en": "Beast of the Sea",
+      "cr": "ninguno",
+      "type": "Bestia",
+      "size": "Mediano",
+      "alignment": "Neutral"
+    },
+    "beast of the land": {
+      "es": "Bestia de tierra firme",
+      "en": "Beast of the Land",
+      "cr": "ninguno",
+      "type": "Bestia",
+      "size": "Mediano",
+      "alignment": "Neutral"
+    },
+    "beast of the sky": {
+      "es": "Bestia del cielo",
+      "en": "Beast of the Sky",
+      "cr": "ninguno",
+      "type": "Bestia",
+      "size": "Pequeño",
+      "alignment": "Neutral"
+    },
+    "displacer beast": {
+      "es": "Bestia trémula",
+      "en": "Displacer Beast",
+      "cr": "3",
+      "type": "Monstruosidad",
+      "size": "Grande",
+      "alignment": "Legal malvado"
+    },
+    "gibbering mouther": {
+      "es": "Bocón barbotante",
+      "en": "Gibbering Mouther",
+      "cr": "2",
+      "type": "Aberración",
+      "size": "Mediano",
+      "alignment": "Caótico neutral"
+    },
+    "shambling mound": {
+      "es": "Broza movediza",
+      "en": "Shambling Mound",
+      "cr": "5",
+      "type": "Planta",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "owl": {
+      "es": "Búho",
+      "en": "Owl",
+      "cr": "0",
+      "type": "Bestia",
+      "size": "Diminuto",
+      "alignment": "Sin alineamiento"
+    },
+    "giant owl": {
+      "es": "Búho gigante",
+      "en": "Giant Owl",
+      "cr": "1/4",
+      "type": "Celestial",
+      "size": "Grande",
+      "alignment": "Neutral"
+    },
+    "vulture": {
+      "es": "Buitre",
+      "en": "Vulture",
+      "cr": "0",
+      "type": "Bestia",
+      "size": "Mediano",
+      "alignment": "Sin alineamiento"
+    },
+    "giant vulture": {
+      "es": "Buitre gigante",
+      "en": "Giant Vulture",
+      "cr": "1",
+      "type": "Monstruosidad",
+      "size": "Grande",
+      "alignment": "Neutral malvado"
+    },
+    "bulette": {
+      "es": "Bulette",
+      "en": "Bulette",
+      "cr": "5",
+      "type": "Monstruosidad",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "bulette pup": {
+      "es": "Bulette cachorro",
+      "en": "Bulette Pup",
+      "cr": "2",
+      "type": "Monstruosidad",
+      "size": "Mediano",
+      "alignment": "Sin alineamiento"
+    },
+    "bullywug bog sage": {
+      "es": "Bullywug erudito del pantano",
+      "en": "Bullywug Bog Sage",
+      "cr": "4",
+      "type": "Feérico",
+      "size": "Mediano",
+      "alignment": "Neutral"
+    },
+    "bullywug warrior": {
+      "es": "Bullywug guerrero",
+      "en": "Bullywug Warrior",
+      "cr": "1/4",
+      "type": "Feérico",
+      "size": "Mediano",
+      "alignment": "Neutral"
+    },
+    "knight": {
+      "es": "Caballero",
+      "en": "Knight",
+      "cr": "3",
+      "type": "Humanoide",
+      "size": "Mediano o Pequeño",
+      "alignment": "Cualquier alineamiento"
+    },
+    "questing knight": {
+      "es": "Caballero andante",
+      "en": "Questing Knight",
+      "cr": "12",
+      "type": "Humanoide",
+      "size": "Mediano o Pequeño",
+      "alignment": "Neutral"
+    },
+    "death knight": {
+      "es": "Caballero de la muerte",
+      "en": "Death Knight",
+      "cr": "17",
+      "type": "Muerto viviente",
+      "size": "Mediano o Pequeño",
+      "alignment": "Caótico malvado"
+    },
+    "death knight aspirant": {
+      "es": "Caballero de la muerte aspirante",
+      "en": "Death Knight Aspirant",
+      "cr": "11",
+      "type": "Muerto viviente",
+      "size": "Mediano o Pequeño",
+      "alignment": "Caótico malvado"
+    },
+    "seahorse": {
+      "es": "Caballito de mar",
+      "en": "Seahorse",
+      "cr": "0",
+      "type": "Bestia",
+      "size": "Diminuto",
+      "alignment": "Sin alineamiento"
+    },
+    "giant seahorse": {
+      "es": "Caballito de mar gigante",
+      "en": "Giant Seahorse",
+      "cr": "1/2",
+      "type": "Bestia",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "warhorse": {
+      "es": "Caballo de guerra",
+      "en": "Warhorse",
+      "cr": "1/2",
+      "type": "Bestia",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "warhorse skeleton": {
+      "es": "Caballo de guerra esqueleto",
+      "en": "Warhorse Skeleton",
+      "cr": "1/2",
+      "type": "Muerto viviente",
+      "size": "Grande",
+      "alignment": "Legal malvado"
+    },
+    "riding horse": {
+      "es": "Caballo de monta",
+      "en": "Riding Horse",
+      "cr": "1/4",
+      "type": "Bestia",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "draft horse": {
+      "es": "Caballo de tiro",
+      "en": "Draft Horse",
+      "cr": "1/4",
+      "type": "Bestia",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "goat": {
+      "es": "Cabra",
+      "en": "Goat",
+      "cr": "0",
+      "type": "Bestia",
+      "size": "Mediano",
+      "alignment": "Sin alineamiento"
+    },
+    "giant goat": {
+      "es": "Cabra gigante",
+      "en": "Giant Goat",
+      "cr": "1/2",
+      "type": "Bestia",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "giant squid": {
+      "es": "Calamar gigante",
+      "en": "Giant Squid",
+      "cr": "6",
+      "type": "Bestia",
+      "size": "Enorme",
+      "alignment": "Sin alineamiento"
+    },
+    "flameskull": {
+      "es": "Calavera llameante",
+      "en": "Flameskull",
+      "cr": "4",
+      "type": "Muerto viviente",
+      "size": "Diminuto",
+      "alignment": "Neutral malvado"
+    },
+    "cambion": {
+      "es": "Cambion",
+      "en": "Cambion",
+      "cr": "5",
+      "type": "Infernal",
+      "size": "Mediano",
+      "alignment": "Neutral malvado"
+    },
+    "camel": {
+      "es": "Camello",
+      "en": "Camel",
+      "cr": "1/8",
+      "type": "Bestia",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "crab": {
+      "es": "Cangrejo",
+      "en": "Crab",
+      "cr": "0",
+      "type": "Bestia",
+      "size": "Diminuto",
+      "alignment": "Sin alineamiento"
+    },
+    "giant crab": {
+      "es": "Cangrejo gigante",
+      "en": "Giant Crab",
+      "cr": "1/8",
+      "type": "Bestia",
+      "size": "Mediano",
+      "alignment": "Sin alineamiento"
+    },
+    "carrion crawler": {
+      "es": "Carroñero reptante",
+      "en": "Carrion Crawler",
+      "cr": "2",
+      "type": "Monstruosidad",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "elemental cataclysm": {
+      "es": "Cataclismo elemental",
+      "en": "Elemental Cataclysm",
+      "cr": "22",
+      "type": "Elemental (titan)",
+      "size": "Gargantuesco",
+      "alignment": "Caótico neutral"
+    },
+    "centaur warden": {
+      "es": "Centauro guardián",
+      "en": "Centaur Warden",
+      "cr": "7",
+      "type": "Feérico",
+      "size": "Grande",
+      "alignment": "Neutral bueno"
+    },
+    "centaur trooper": {
+      "es": "Centauro soldado",
+      "en": "Centaur Trooper",
+      "cr": "2",
+      "type": "Feérico",
+      "size": "Grande",
+      "alignment": "Neutral bueno"
+    },
+    "jackal": {
+      "es": "Chacal",
+      "en": "Jackal",
+      "cr": "0",
+      "type": "Bestia",
+      "size": "Pequeño",
+      "alignment": "Sin alineamiento"
+    },
+    "chasme": {
+      "es": "Chasme",
+      "en": "Chasme",
+      "cr": "6",
+      "type": "Infernal (demonio)",
+      "size": "Grande",
+      "alignment": "Caótico malvado"
+    },
+    "chuul": {
+      "es": "Chuul",
+      "en": "Chuul",
+      "cr": "4",
+      "type": "Aberración",
+      "size": "Grande",
+      "alignment": "Caótico malvado"
+    },
+    "cyclops sentry": {
+      "es": "Cíclope centinela",
+      "en": "Cyclops Sentry",
+      "cr": "6",
+      "type": "Gigante",
+      "size": "Enorme",
+      "alignment": "Caótico neutral"
+    },
+    "cyclops oracle": {
+      "es": "Cíclope oráculo",
+      "en": "Cyclops Oracle",
+      "cr": "10",
+      "type": "Gigante",
+      "size": "Enorme",
+      "alignment": "Caótico neutral"
+    },
+    "giant centipede": {
+      "es": "Ciempiés gigante",
+      "en": "Giant Centipede",
+      "cr": "1/4",
+      "type": "Bestia",
+      "size": "Pequeño",
+      "alignment": "Sin alineamiento"
+    },
+    "gray ooze": {
+      "es": "Cieno gris",
+      "en": "Gray Ooze",
+      "cr": "1/2",
+      "type": "Cieno",
+      "size": "Mediano",
+      "alignment": "Sin alineamiento"
+    },
+    "psychic gray ooze": {
+      "es": "Cieno gris psíquico",
+      "en": "Psychic Gray Ooze",
+      "cr": "1",
+      "type": "Cieno",
+      "size": "Mediano",
+      "alignment": "Sin alineamiento"
+    },
+    "deer": {
+      "es": "Ciervo",
+      "en": "Deer",
+      "cr": "0",
+      "type": "Bestia",
+      "size": "Mediano",
+      "alignment": "Sin alineamiento"
+    },
+    "cockatrice": {
+      "es": "Cocatriz",
+      "en": "Cockatrice",
+      "cr": "1/2",
+      "type": "Monstruosidad",
+      "size": "Pequeño",
+      "alignment": "Sin alineamiento"
+    },
+    "cockatrice regent": {
+      "es": "Cocatriz regente",
+      "en": "Cockatrice Regent",
+      "cr": "8",
+      "type": "Monstruosidad",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "crocodile": {
+      "es": "Cocodrilo",
+      "en": "Crocodile",
+      "cr": "1/2",
+      "type": "Bestia",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "giant crocodile": {
+      "es": "Cocodrilo gigante",
+      "en": "Giant Crocodile",
+      "cr": "5",
+      "type": "Bestia",
+      "size": "Enorme",
+      "alignment": "Sin alineamiento"
+    },
+    "colossus": {
+      "es": "Coloso",
+      "en": "Colossus",
+      "cr": "25",
+      "type": "Autómata (titan)",
+      "size": "Gargantuesco",
+      "alignment": "Sin alineamiento"
+    },
+    "weasel": {
+      "es": "Comadreja",
+      "en": "Weasel",
+      "cr": "0",
+      "type": "Bestia",
+      "size": "Diminuto",
+      "alignment": "Sin alineamiento"
+    },
+    "giant weasel": {
+      "es": "Comadreja gigante",
+      "en": "Giant Weasel",
+      "cr": "1/8",
+      "type": "Bestia",
+      "size": "Mediano",
+      "alignment": "Sin alineamiento"
+    },
+    "beholder": {
+      "es": "Contemplador",
+      "en": "Beholder",
+      "cr": "13",
+      "type": "Aberración",
+      "size": "Grande",
+      "alignment": "Legal malvado"
+    },
+    "beholder zombie": {
+      "es": "Contemplador zombi",
+      "en": "Beholder Zombie",
+      "cr": "5",
+      "type": "Muerto viviente",
+      "size": "Grande",
+      "alignment": "Neutral malvado"
+    },
+    "otherworldly steed": {
+      "es": "Corcel sobrenatural",
+      "en": "Otherworldly Steed",
+      "cr": "ninguno",
+      "type": "Celestial o Feérico o Infernal",
+      "size": "Grande",
+      "alignment": "Neutral"
+    },
+    "couatl": {
+      "es": "Couatl",
+      "en": "Couatl",
+      "cr": "4",
+      "type": "Celestial",
+      "size": "Mediano",
+      "alignment": "Legal bueno"
+    },
+    "gelatinous cube": {
+      "es": "Cubo gelatinoso",
+      "en": "Gelatinous Cube",
+      "cr": "2",
+      "type": "Cieno",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "raven": {
+      "es": "Cuervo",
+      "en": "Raven",
+      "cr": "0",
+      "type": "Bestia",
+      "size": "Diminuto",
+      "alignment": "Sin alineamiento"
+    },
+    "dao": {
+      "es": "Dao",
+      "en": "Dao",
+      "cr": "11",
+      "type": "Elemental (genio)",
+      "size": "Grande",
+      "alignment": "Neutral"
+    },
+    "shadow demon": {
+      "es": "Demonio de las sombras",
+      "en": "Shadow Demon",
+      "cr": "4",
+      "type": "Infernal (demonio)",
+      "size": "Mediano",
+      "alignment": "Caótico malvado"
+    },
+    "deva": {
+      "es": "Deva",
+      "en": "Deva",
+      "cr": "10",
+      "type": "Celestial (angel)",
+      "size": "Mediano",
+      "alignment": "Legal bueno"
+    },
+    "intellect devourer": {
+      "es": "Devorador de intelectos",
+      "en": "Intellect Devourer",
+      "cr": "2",
+      "type": "Aberración",
+      "size": "Diminuto",
+      "alignment": "Legal malvado"
+    },
+    "imp": {
+      "es": "Diablillo",
+      "en": "Imp",
+      "cr": "1",
+      "type": "Infernal (diablo)",
+      "size": "Diminuto",
+      "alignment": "Legal malvado"
+    },
+    "horned devil": {
+      "es": "Diablo astado",
+      "en": "Horned Devil",
+      "cr": "11",
+      "type": "Infernal (diablo)",
+      "size": "Grande",
+      "alignment": "Legal malvado"
+    },
+    "bearded devil": {
+      "es": "Diablo barbado",
+      "en": "Bearded Devil",
+      "cr": "3",
+      "type": "Infernal (diablo)",
+      "size": "Mediano",
+      "alignment": "Legal malvado"
+    },
+    "pit fiend": {
+      "es": "Diablo de la sima",
+      "en": "Pit Fiend",
+      "cr": "20",
+      "type": "Infernal (diablo)",
+      "size": "Grande",
+      "alignment": "Legal malvado"
+    },
+    "chain devil": {
+      "es": "Diablo de las cadenas",
+      "en": "Chain Devil",
+      "cr": "8",
+      "type": "Infernal (diablo)",
+      "size": "Mediano",
+      "alignment": "Legal malvado"
+    },
+    "spined devil": {
+      "es": "Diablo espinoso",
+      "en": "Spined Devil",
+      "cr": "2",
+      "type": "Infernal (diablo)",
+      "size": "Pequeño",
+      "alignment": "Legal malvado"
+    },
+    "ice devil": {
+      "es": "Diablo gélido",
+      "en": "Ice Devil",
+      "cr": "14",
+      "type": "Infernal (diablo)",
+      "size": "Grande",
+      "alignment": "Legal malvado"
+    },
+    "bone devil": {
+      "es": "Diablo óseo",
+      "en": "Bone Devil",
+      "cr": "9",
+      "type": "Infernal (diablo)",
+      "size": "Grande",
+      "alignment": "Legal malvado"
+    },
+    "barbed devil": {
+      "es": "Diablo punzante",
+      "en": "Barbed Devil",
+      "cr": "5",
+      "type": "Infernal (diablo)",
+      "size": "Mediano",
+      "alignment": "Legal malvado"
+    },
+    "djinni": {
+      "es": "Djinn",
+      "en": "Djinni",
+      "cr": "11",
+      "type": "Elemental (genio)",
+      "size": "Grande",
+      "alignment": "Caótico bueno"
+    },
+    "doppelganger": {
+      "es": "Doppelganger",
+      "en": "Doppelganger",
+      "cr": "3",
+      "type": "Monstruosidad",
+      "size": "Mediano",
+      "alignment": "Neutral"
+    },
+    "dracolich": {
+      "es": "Dracoliche",
+      "en": "Dracolich",
+      "cr": "17",
+      "type": "Muerto viviente",
+      "size": "Enorme o Gargantuesco",
+      "alignment": "Legal malvado"
+    },
+    "adult blue dragon": {
+      "es": "Dragón azul adulto",
+      "en": "Adult Blue Dragon",
+      "cr": "16",
+      "type": "Dragón (cromático)",
+      "size": "Enorme",
+      "alignment": "Legal malvado"
+    },
+    "ancient blue dragon": {
+      "es": "Dragón azul anciano",
+      "en": "Ancient Blue Dragon",
+      "cr": "23",
+      "type": "Dragón (cromático)",
+      "size": "Gargantuesco",
+      "alignment": "Legal malvado"
+    },
+    "blue dragon wyrmling": {
+      "es": "Dragón azul cría",
+      "en": "Blue Dragon Wyrmling",
+      "cr": "3",
+      "type": "Dragón (cromático)",
+      "size": "Mediano",
+      "alignment": "Legal malvado"
+    },
+    "young blue dragon": {
+      "es": "Dragón azul joven",
+      "en": "Young Blue Dragon",
+      "cr": "9",
+      "type": "Dragón (cromático)",
+      "size": "Grande",
+      "alignment": "Legal malvado"
+    },
+    "adult white dragon": {
+      "es": "Dragón blanco adulto",
+      "en": "Adult White Dragon",
+      "cr": "13",
+      "type": "Dragón (cromático)",
+      "size": "Enorme",
+      "alignment": "Caótico malvado"
+    },
+    "ancient white dragon": {
+      "es": "Dragón blanco anciano",
+      "en": "Ancient White Dragon",
+      "cr": "20",
+      "type": "Dragón (cromático)",
+      "size": "Gargantuesco",
+      "alignment": "Caótico malvado"
+    },
+    "white dragon wyrmling": {
+      "es": "Dragón blanco cría",
+      "en": "White Dragon Wyrmling",
+      "cr": "2",
+      "type": "Dragón (cromático)",
+      "size": "Mediano",
+      "alignment": "Caótico malvado"
+    },
+    "young white dragon": {
+      "es": "Dragón blanco joven",
+      "en": "Young White Dragon",
+      "cr": "6",
+      "type": "Dragón (cromático)",
+      "size": "Grande",
+      "alignment": "Caótico malvado"
+    },
+    "adult bronze dragon": {
+      "es": "Dragón de bronce adulto",
+      "en": "Adult Bronze Dragon",
+      "cr": "15",
+      "type": "Dragón (metálico)",
+      "size": "Enorme",
+      "alignment": "Legal bueno"
+    },
+    "ancient bronze dragon": {
+      "es": "Dragón de bronce anciano",
+      "en": "Ancient Bronze Dragon",
+      "cr": "22",
+      "type": "Dragón (metálico)",
+      "size": "Gargantuesco",
+      "alignment": "Legal bueno"
+    },
+    "bronze dragon wyrmling": {
+      "es": "Dragón de bronce cría",
+      "en": "Bronze Dragon Wyrmling",
+      "cr": "2",
+      "type": "Dragón (metálico)",
+      "size": "Mediano",
+      "alignment": "Legal bueno"
+    },
+    "young bronze dragon": {
+      "es": "Dragón de bronce joven",
+      "en": "Young Bronze Dragon",
+      "cr": "8",
+      "type": "Dragón (metálico)",
+      "size": "Grande",
+      "alignment": "Legal bueno"
+    },
+    "adult copper dragon": {
+      "es": "Dragón de cobre adulto",
+      "en": "Adult Copper Dragon",
+      "cr": "14",
+      "type": "Dragón (metálico)",
+      "size": "Enorme",
+      "alignment": "Caótico bueno"
+    },
+    "ancient copper dragon": {
+      "es": "Dragón de cobre anciano",
+      "en": "Ancient Copper Dragon",
+      "cr": "21",
+      "type": "Dragón (metálico)",
+      "size": "Gargantuesco",
+      "alignment": "Caótico bueno"
+    },
+    "copper dragon wyrmling": {
+      "es": "Dragón de cobre cría",
+      "en": "Copper Dragon Wyrmling",
+      "cr": "1",
+      "type": "Dragón (metálico)",
+      "size": "Mediano",
+      "alignment": "Caótico bueno"
+    },
+    "young copper dragon": {
+      "es": "Dragón de cobre joven",
+      "en": "Young Copper Dragon",
+      "cr": "7",
+      "type": "Dragón (metálico)",
+      "size": "Grande",
+      "alignment": "Caótico bueno"
+    },
+    "adult gold dragon": {
+      "es": "Dragón de oro adulto",
+      "en": "Adult Gold Dragon",
+      "cr": "17",
+      "type": "Dragón (metálico)",
+      "size": "Enorme",
+      "alignment": "Legal bueno"
+    },
+    "ancient gold dragon": {
+      "es": "Dragón de oro anciano",
+      "en": "Ancient Gold Dragon",
+      "cr": "24",
+      "type": "Dragón (metálico)",
+      "size": "Gargantuesco",
+      "alignment": "Legal bueno"
+    },
+    "gold dragon wyrmling": {
+      "es": "Dragón de oro cría",
+      "en": "Gold Dragon Wyrmling",
+      "cr": "3",
+      "type": "Dragón (metálico)",
+      "size": "Mediano",
+      "alignment": "Legal bueno"
+    },
+    "young gold dragon": {
+      "es": "Dragón de oro joven",
+      "en": "Young Gold Dragon",
+      "cr": "10",
+      "type": "Dragón (metálico)",
+      "size": "Grande",
+      "alignment": "Legal bueno"
+    },
+    "adult brass dragon": {
+      "es": "Dragón de oropel adulto",
+      "en": "Adult Brass Dragon",
+      "cr": "13",
+      "type": "Dragón (metálico)",
+      "size": "Enorme",
+      "alignment": "Caótico bueno"
+    },
+    "ancient brass dragon": {
+      "es": "Dragón de oropel anciano",
+      "en": "Ancient Brass Dragon",
+      "cr": "20",
+      "type": "Dragón (metálico)",
+      "size": "Gargantuesco",
+      "alignment": "Caótico bueno"
+    },
+    "brass dragon wyrmling": {
+      "es": "Dragón de oropel cría",
+      "en": "Brass Dragon Wyrmling",
+      "cr": "1",
+      "type": "Dragón (metálico)",
+      "size": "Mediano",
+      "alignment": "Caótico bueno"
+    },
+    "young brass dragon": {
+      "es": "Dragón de oropel joven",
+      "en": "Young Brass Dragon",
+      "cr": "6",
+      "type": "Dragón (metálico)",
+      "size": "Grande",
+      "alignment": "Caótico bueno"
+    },
+    "adult silver dragon": {
+      "es": "Dragón de plata adulto",
+      "en": "Adult Silver Dragon",
+      "cr": "16",
+      "type": "Dragón (metálico)",
+      "size": "Enorme",
+      "alignment": "Legal bueno"
+    },
+    "ancient silver dragon": {
+      "es": "Dragón de plata anciano",
+      "en": "Ancient Silver Dragon",
+      "cr": "23",
+      "type": "Dragón (metálico)",
+      "size": "Gargantuesco",
+      "alignment": "Legal bueno"
+    },
+    "silver dragon wyrmling": {
+      "es": "Dragón de plata cría",
+      "en": "Silver Dragon Wyrmling",
+      "cr": "2",
+      "type": "Dragón (metálico)",
+      "size": "Mediano",
+      "alignment": "Legal bueno"
+    },
+    "young silver dragon": {
+      "es": "Dragón de plata joven",
+      "en": "Young Silver Dragon",
+      "cr": "9",
+      "type": "Dragón (metálico)",
+      "size": "Grande",
+      "alignment": "Legal bueno"
+    },
+    "faerie dragon adult": {
+      "es": "Dragón feérico adulto",
+      "en": "Faerie Dragon Adult",
+      "cr": "2",
+      "type": "Dragón",
+      "size": "Diminuto",
+      "alignment": "Caótico bueno"
+    },
+    "faerie dragon youth": {
+      "es": "Dragón feérico joven",
+      "en": "Faerie Dragon Youth",
+      "cr": "1",
+      "type": "Dragón",
+      "size": "Diminuto",
+      "alignment": "Caótico bueno"
+    },
+    "adult black dragon": {
+      "es": "Dragón negro adulto",
+      "en": "Adult Black Dragon",
+      "cr": "14",
+      "type": "Dragón (cromático)",
+      "size": "Enorme",
+      "alignment": "Caótico malvado"
+    },
+    "ancient black dragon": {
+      "es": "Dragón negro anciano",
+      "en": "Ancient Black Dragon",
+      "cr": "21",
+      "type": "Dragón (cromático)",
+      "size": "Gargantuesco",
+      "alignment": "Caótico malvado"
+    },
+    "black dragon wyrmling": {
+      "es": "Dragón negro cría",
+      "en": "Black Dragon Wyrmling",
+      "cr": "2",
+      "type": "Dragón (cromático)",
+      "size": "Mediano",
+      "alignment": "Caótico malvado"
+    },
+    "young black dragon": {
+      "es": "Dragón negro joven",
+      "en": "Young Black Dragon",
+      "cr": "7",
+      "type": "Dragón (cromático)",
+      "size": "Grande",
+      "alignment": "Caótico malvado"
+    },
+    "adult red dragon": {
+      "es": "Dragón rojo adulto",
+      "en": "Adult Red Dragon",
+      "cr": "17",
+      "type": "Dragón (cromático)",
+      "size": "Enorme",
+      "alignment": "Caótico malvado"
+    },
+    "ancient red dragon": {
+      "es": "Dragón rojo anciano",
+      "en": "Ancient Red Dragon",
+      "cr": "24",
+      "type": "Dragón (cromático)",
+      "size": "Gargantuesco",
+      "alignment": "Caótico malvado"
+    },
+    "red dragon wyrmling": {
+      "es": "Dragón rojo cría",
+      "en": "Red Dragon Wyrmling",
+      "cr": "4",
+      "type": "Dragón (cromático)",
+      "size": "Mediano",
+      "alignment": "Caótico malvado"
+    },
+    "young red dragon": {
+      "es": "Dragón rojo joven",
+      "en": "Young Red Dragon",
+      "cr": "10",
+      "type": "Dragón (cromático)",
+      "size": "Grande",
+      "alignment": "Caótico malvado"
+    },
+    "shadow dragon": {
+      "es": "Dragón sombrío",
+      "en": "Shadow Dragon",
+      "cr": "13",
+      "type": "Dragón",
+      "size": "Enorme",
+      "alignment": "Caótico malvado"
+    },
+    "juvenile shadow dragon": {
+      "es": "Dragón sombrío vástago",
+      "en": "Juvenile Shadow Dragon",
+      "cr": "4",
+      "type": "Dragón",
+      "size": "Mediano",
+      "alignment": "Caótico malvado"
+    },
+    "dragon turtle": {
+      "es": "Dragón tortuga",
+      "en": "Dragon Turtle",
+      "cr": "17",
+      "type": "Dragón",
+      "size": "Gargantuesco",
+      "alignment": "Neutral"
+    },
+    "adult green dragon": {
+      "es": "Dragón verde adulto",
+      "en": "Adult Green Dragon",
+      "cr": "15",
+      "type": "Dragón (cromático)",
+      "size": "Enorme",
+      "alignment": "Legal malvado"
+    },
+    "ancient green dragon": {
+      "es": "Dragón verde anciano",
+      "en": "Ancient Green Dragon",
+      "cr": "22",
+      "type": "Dragón (cromático)",
+      "size": "Gargantuesco",
+      "alignment": "Legal malvado"
+    },
+    "green dragon wyrmling": {
+      "es": "Dragón verde cría",
+      "en": "Green Dragon Wyrmling",
+      "cr": "2",
+      "type": "Dragón (cromático)",
+      "size": "Mediano",
+      "alignment": "Legal malvado"
+    },
+    "young green dragon": {
+      "es": "Dragón verde joven",
+      "en": "Young Green Dragon",
+      "cr": "8",
+      "type": "Dragón (cromático)",
+      "size": "Grande",
+      "alignment": "Legal malvado"
+    },
+    "drider": {
+      "es": "Draña",
+      "en": "Drider",
+      "cr": "6",
+      "type": "Monstruosidad",
+      "size": "Grande",
+      "alignment": "Caótico malvado"
+    },
+    "dretch": {
+      "es": "Dretch",
+      "en": "Dretch",
+      "cr": "1/4",
+      "type": "Infernal (demonio)",
+      "size": "Pequeño",
+      "alignment": "Caótico malvado"
+    },
+    "dryad": {
+      "es": "Dríade",
+      "en": "Dryad",
+      "cr": "1",
+      "type": "Feérico",
+      "size": "Mediano",
+      "alignment": "Neutral"
+    },
+    "druid": {
+      "es": "Druida",
+      "en": "Druid",
+      "cr": "2",
+      "type": "Humanoide",
+      "size": "Mediano o Pequeño",
+      "alignment": "Neutral"
+    },
+    "sprite": {
+      "es": "Duende",
+      "en": "Sprite",
+      "cr": "1/4",
+      "type": "Feérico",
+      "size": "Diminuto",
+      "alignment": "Neutral bueno"
+    },
+    "elephant": {
+      "es": "Elefante",
+      "en": "Elephant",
+      "cr": "4",
+      "type": "Bestia",
+      "size": "Enorme",
+      "alignment": "Sin alineamiento"
+    },
+    "water elemental": {
+      "es": "Elemental de agua",
+      "en": "Water Elemental",
+      "cr": "5",
+      "type": "Elemental",
+      "size": "Grande",
+      "alignment": "Neutral"
+    },
+    "air elemental": {
+      "es": "Elemental de aire",
+      "en": "Air Elemental",
+      "cr": "5",
+      "type": "Elemental",
+      "size": "Grande",
+      "alignment": "Neutral"
+    },
+    "fire elemental": {
+      "es": "Elemental de fuego",
+      "en": "Fire Elemental",
+      "cr": "5",
+      "type": "Elemental",
+      "size": "Grande",
+      "alignment": "Neutral"
+    },
+    "earth elemental": {
+      "es": "Elemental de tierra",
+      "en": "Earth Elemental",
+      "cr": "5",
+      "type": "Elemental",
+      "size": "Grande",
+      "alignment": "Neutral"
+    },
+    "bandit deceiver": {
+      "es": "Embaucador bandido",
+      "en": "Bandit Deceiver",
+      "cr": "7",
+      "type": "Humanoide",
+      "size": "Mediano o Pequeño",
+      "alignment": "Neutral"
+    },
+    "empyrean": {
+      "es": "Empíreo",
+      "en": "Empyrean",
+      "cr": "23",
+      "type": "Celestial o Infernal (titan)",
+      "size": "Enorme",
+      "alignment": "Neutral"
+    },
+    "empyrean iota": {
+      "es": "Empíreo ápice",
+      "en": "Empyrean Iota",
+      "cr": "1",
+      "type": "Celestial o Infernal (titan)",
+      "size": "Mediano",
+      "alignment": "Neutral"
+    },
+    "vampire spawn": {
+      "es": "Engendro vampírico",
+      "en": "Vampire Spawn",
+      "cr": "5",
+      "type": "Muerto viviente",
+      "size": "Mediano o Pequeño",
+      "alignment": "Neutral malvado"
+    },
+    "swarm of ravens": {
+      "es": "Enjambre de cuervos",
+      "en": "Swarm of Ravens",
+      "cr": "1/4",
+      "type": "Enjambre de Bestias Diminutas",
+      "size": "Mediano",
+      "alignment": "Sin alineamiento"
+    },
+    "swarm of dretches": {
+      "es": "Enjambre de dretchs",
+      "en": "Swarm of Dretches",
+      "cr": "4",
+      "type": "Enjambre de Infernales Pequeños (demonio)",
+      "size": "Grande",
+      "alignment": "Caótico malvado"
+    },
+    "swarm of stirges": {
+      "es": "Enjambre de estirges",
+      "en": "Swarm of Stirges",
+      "cr": "2",
+      "type": "Enjambre de Monstruosidades Diminutas",
+      "size": "Mediano",
+      "alignment": "Sin alineamiento"
+    },
+    "swarm of crawling claws": {
+      "es": "Enjambre de garras reptantes",
+      "en": "Swarm of Crawling Claws",
+      "cr": "3",
+      "type": "Enjambre de Muertos vivientes Diminutos",
+      "size": "Mediano",
+      "alignment": "Neutral malvado"
+    },
+    "swarm of insects": {
+      "es": "Enjambre de insectos",
+      "en": "Swarm of Insects",
+      "cr": "1/2",
+      "type": "Enjambre de Bestias Diminutas",
+      "size": "Mediano",
+      "alignment": "Sin alineamiento"
+    },
+    "swarm of larvae": {
+      "es": "Enjambre de larvas",
+      "en": "Swarm of Larvae",
+      "cr": "1",
+      "type": "Enjambre de Infernales Medianos",
+      "size": "Grande",
+      "alignment": "Neutral malvado"
+    },
+    "swarm of lemures": {
+      "es": "Enjambre de lémures",
+      "en": "Swarm of Lemures",
+      "cr": "3",
+      "type": "Enjambre de Infernales Medianos (diablo)",
+      "size": "Grande",
+      "alignment": "Legal malvado"
+    },
+    "swarm of bats": {
+      "es": "Enjambre de murciélagos",
+      "en": "Swarm of Bats",
+      "cr": "1/4",
+      "type": "Enjambre de Bestias Diminutas",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "swarm of piranhas": {
+      "es": "Enjambre de pirañas",
+      "en": "Swarm of Piranhas",
+      "cr": "1",
+      "type": "Enjambre de Bestias Diminutas",
+      "size": "Mediano",
+      "alignment": "Sin alineamiento"
+    },
+    "swarm of rats": {
+      "es": "Enjambre de ratas",
+      "en": "Swarm of Rats",
+      "cr": "1/4",
+      "type": "Enjambre de Bestias Diminutas",
+      "size": "Mediano",
+      "alignment": "Sin alineamiento"
+    },
+    "swarm of venomous snakes": {
+      "es": "Enjambre de serpientes venenosas",
+      "en": "Swarm of Venomous Snakes",
+      "cr": "2",
+      "type": "Enjambre de Bestias Diminutas",
+      "size": "Mediano",
+      "alignment": "Sin alineamiento"
+    },
+    "treant": {
+      "es": "Ent",
+      "en": "Treant",
+      "cr": "9",
+      "type": "Planta",
+      "size": "Enorme",
+      "alignment": "Caótico bueno"
+    },
+    "erinyes": {
+      "es": "Erinia",
+      "en": "Erinyes",
+      "cr": "12",
+      "type": "Infernal (diablo)",
+      "size": "Mediano",
+      "alignment": "Legal malvado"
+    },
+    "giant fire beetle": {
+      "es": "Escarabajo de fuego gigante",
+      "en": "Giant Fire Beetle",
+      "cr": "0",
+      "type": "Bestia",
+      "size": "Pequeño",
+      "alignment": "Sin alineamiento"
+    },
+    "animated broom": {
+      "es": "Escoba animada",
+      "en": "Animated Broom",
+      "cr": "1/4",
+      "type": "Autómata",
+      "size": "Pequeño",
+      "alignment": "Sin alineamiento"
+    },
+    "scorpion": {
+      "es": "Escorpión",
+      "en": "Scorpion",
+      "cr": "0",
+      "type": "Bestia",
+      "size": "Diminuto",
+      "alignment": "Sin alineamiento"
+    },
+    "giant scorpion": {
+      "es": "Escorpión gigante",
+      "en": "Giant Scorpion",
+      "cr": "3",
+      "type": "Bestia",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "sphinx of wonder": {
+      "es": "Esfinge de las maravillas",
+      "en": "Sphinx of Wonder",
+      "cr": "1",
+      "type": "Celestial",
+      "size": "Diminuto",
+      "alignment": "Legal bueno"
+    },
+    "sphinx of secrets": {
+      "es": "Esfinge de los secretos",
+      "en": "Sphinx of Secrets",
+      "cr": "8",
+      "type": "Celestial",
+      "size": "Grande",
+      "alignment": "Legal neutral"
+    },
+    "sphinx of lore": {
+      "es": "Esfinge del conocimiento",
+      "en": "Sphinx of Lore",
+      "cr": "11",
+      "type": "Celestial",
+      "size": "Grande",
+      "alignment": "Legal neutral"
+    },
+    "sphinx of valor": {
+      "es": "Esfinge del valor",
+      "en": "Sphinx of Valor",
+      "cr": "17",
+      "type": "Celestial",
+      "size": "Grande",
+      "alignment": "Legal neutral"
+    },
+    "animated flying sword": {
+      "es": "Espada voladora animada",
+      "en": "Animated Flying Sword",
+      "cr": "1/4",
+      "type": "Autómata",
+      "size": "Pequeño",
+      "alignment": "Sin alineamiento"
+    },
+    "scarecrow": {
+      "es": "Espantapájaros",
+      "en": "Scarecrow",
+      "cr": "1",
+      "type": "Autómata",
+      "size": "Mediano",
+      "alignment": "Caótico malvado"
+    },
+    "spectator": {
+      "es": "Espectador",
+      "en": "Spectator",
+      "cr": "3",
+      "type": "Aberración (beholder)",
+      "size": "Mediano",
+      "alignment": "Legal neutral"
+    },
+    "specter": {
+      "es": "Espectro",
+      "en": "Specter",
+      "cr": "1",
+      "type": "Muerto viviente",
+      "size": "Mediano",
+      "alignment": "Caótico malvado"
+    },
+    "spy": {
+      "es": "Espía",
+      "en": "Spy",
+      "cr": "1",
+      "type": "Humanoide",
+      "size": "Mediano o Pequeño",
+      "alignment": "Neutral"
+    },
+    "spy master": {
+      "es": "Espía maestro",
+      "en": "Spy Master",
+      "cr": "10",
+      "type": "Humanoide",
+      "size": "Mediano o Pequeño",
+      "alignment": "Neutral"
+    },
+    "aberrant spirit": {
+      "es": "Espíritu aberrante",
+      "en": "Aberrant Spirit",
+      "cr": "ninguno",
+      "type": "Aberración",
+      "size": "Mediano",
+      "alignment": "Neutral"
+    },
+    "construct spirit": {
+      "es": "Espíritu autómata",
+      "en": "Construct Spirit",
+      "cr": "ninguno",
+      "type": "Autómata",
+      "size": "Mediano",
+      "alignment": "Neutral"
+    },
+    "bestial spirit": {
+      "es": "Espíritu bestial",
+      "en": "Bestial Spirit",
+      "cr": "ninguno",
+      "type": "Bestia",
+      "size": "Pequeño",
+      "alignment": "Neutral"
+    },
+    "celestial spirit": {
+      "es": "Espíritu celestial",
+      "en": "Celestial Spirit",
+      "cr": "ninguno",
+      "type": "Celestial",
+      "size": "Grande",
+      "alignment": "Neutral"
+    },
+    "draconic spirit": {
+      "es": "Espíritu dracónico",
+      "en": "Draconic Spirit",
+      "cr": "ninguno",
+      "type": "Dragón",
+      "size": "Grande",
+      "alignment": "Neutral"
+    },
+    "elemental spirit": {
+      "es": "Espíritu elemental",
+      "en": "Elemental Spirit",
+      "cr": "ninguno",
+      "type": "Elemental",
+      "size": "Mediano",
+      "alignment": "Neutral"
+    },
+    "fey spirit": {
+      "es": "Espíritu feérico",
+      "en": "Fey Spirit",
+      "cr": "ninguno",
+      "type": "Feérico",
+      "size": "Pequeño",
+      "alignment": "Neutral"
+    },
+    "fiendish spirit": {
+      "es": "Espíritu infernal",
+      "en": "Fiendish Spirit",
+      "cr": "ninguno",
+      "type": "Infernal",
+      "size": "Grande",
+      "alignment": "Neutral"
+    },
+    "undead spirit": {
+      "es": "Espíritu muerto viviente",
+      "en": "Undead Spirit",
+      "cr": "ninguno",
+      "type": "Muerto viviente",
+      "size": "Mediano",
+      "alignment": "Neutral"
+    },
+    "skeleton": {
+      "es": "Esqueleto",
+      "en": "Skeleton",
+      "cr": "1/4",
+      "type": "Muerto viviente",
+      "size": "Mediano",
+      "alignment": "Legal malvado"
+    },
+    "flaming skeleton": {
+      "es": "Esqueleto llameante",
+      "en": "Flaming Skeleton",
+      "cr": "3",
+      "type": "Muerto viviente",
+      "size": "Mediano",
+      "alignment": "Legal malvado"
+    },
+    "stirge": {
+      "es": "Estirge",
+      "en": "Stirge",
+      "cr": "1/8",
+      "type": "Monstruosidad",
+      "size": "Diminuto",
+      "alignment": "Sin alineamiento"
+    },
+    "ettercap": {
+      "es": "Ettercap",
+      "en": "Ettercap",
+      "cr": "2",
+      "type": "Monstruosidad",
+      "size": "Mediano",
+      "alignment": "Neutral malvado"
+    },
+    "ettin": {
+      "es": "Ettin",
+      "en": "Ettin",
+      "cr": "4",
+      "type": "Gigante",
+      "size": "Grande",
+      "alignment": "Caótico malvado"
+    },
+    "water weird": {
+      "es": "Extraño de agua",
+      "en": "Water Weird",
+      "cr": "3",
+      "type": "Elemental",
+      "size": "Grande",
+      "alignment": "Neutral"
+    },
+    "troll limb": {
+      "es": "Extremidad de troll",
+      "en": "Troll Limb",
+      "cr": "1/2",
+      "type": "Gigante",
+      "size": "Pequeño",
+      "alignment": "Caótico malvado"
+    },
+    "ghost": {
+      "es": "Fantasma",
+      "en": "Ghost",
+      "cr": "4",
+      "type": "Muerto viviente",
+      "size": "Mediano",
+      "alignment": "Neutral"
+    },
+    "flumph": {
+      "es": "Flumph",
+      "en": "Flumph",
+      "cr": "1/8",
+      "type": "Aberración",
+      "size": "Pequeño",
+      "alignment": "Legal bueno"
+    },
+    "fomorian": {
+      "es": "Fomoré",
+      "en": "Fomorian",
+      "cr": "8",
+      "type": "Gigante",
+      "size": "Enorme",
+      "alignment": "Caótico malvado"
+    },
+    "will o wisp": {
+      "es": "Fuego fatuo",
+      "en": "Will-o'-Wisp",
+      "cr": "2",
+      "type": "Muerto viviente",
+      "size": "Diminuto",
+      "alignment": "Caótico malvado"
+    },
+    "galeb duhr": {
+      "es": "Galeb Duhr",
+      "en": "Galeb Duhr",
+      "cr": "6",
+      "type": "Elemental",
+      "size": "Mediano",
+      "alignment": "Neutral"
+    },
+    "gargoyle": {
+      "es": "Gárgola",
+      "en": "Gargoyle",
+      "cr": "2",
+      "type": "Elemental",
+      "size": "Mediano",
+      "alignment": "Caótico malvado"
+    },
+    "crawling claw": {
+      "es": "Garra reptante",
+      "en": "Crawling Claw",
+      "cr": "0",
+      "type": "Muerto viviente",
+      "size": "Diminuto",
+      "alignment": "Neutral malvado"
+    },
+    "cat": {
+      "es": "Gato",
+      "en": "Cat",
+      "cr": "0",
+      "type": "Bestia",
+      "size": "Diminuto",
+      "alignment": "Sin alineamiento"
+    },
+    "ochre jelly": {
+      "es": "Gelatina ocre",
+      "en": "Ochre Jelly",
+      "cr": "2",
+      "type": "Cieno",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "ghast": {
+      "es": "Ghast",
+      "en": "Ghast",
+      "cr": "2",
+      "type": "Muerto viviente",
+      "size": "Mediano",
+      "alignment": "Caótico malvado"
+    },
+    "ghast gravecaller": {
+      "es": "Ghast llamatumbas",
+      "en": "Ghast Gravecaller",
+      "cr": "6",
+      "type": "Muerto viviente",
+      "size": "Mediano",
+      "alignment": "Caótico malvado"
+    },
+    "frost giant": {
+      "es": "Gigante de escarcha",
+      "en": "Frost Giant",
+      "cr": "8",
+      "type": "Gigante",
+      "size": "Enorme",
+      "alignment": "Neutral malvado"
+    },
+    "fire giant": {
+      "es": "Gigante de fuego",
+      "en": "Fire Giant",
+      "cr": "9",
+      "type": "Gigante",
+      "size": "Enorme",
+      "alignment": "Legal malvado"
+    },
+    "hill giant": {
+      "es": "Gigante de las colinas",
+      "en": "Hill Giant",
+      "cr": "5",
+      "type": "Gigante",
+      "size": "Enorme",
+      "alignment": "Caótico malvado"
+    },
+    "cloud giant": {
+      "es": "Gigante de las nubes",
+      "en": "Cloud Giant",
+      "cr": "9",
+      "type": "Gigante",
+      "size": "Enorme",
+      "alignment": "Neutral"
+    },
+    "storm giant": {
+      "es": "Gigante de las tormentas",
+      "en": "Storm Giant",
+      "cr": "13",
+      "type": "Gigante",
+      "size": "Enorme",
+      "alignment": "Caótico bueno"
+    },
+    "stone giant": {
+      "es": "Gigante de piedra",
+      "en": "Stone Giant",
+      "cr": "7",
+      "type": "Gigante",
+      "size": "Enorme",
+      "alignment": "Neutral"
+    },
+    "githyanki knight": {
+      "es": "Githyanki caballero",
+      "en": "Githyanki Knight",
+      "cr": "8",
+      "type": "Aberración (gith)",
+      "size": "Mediano",
+      "alignment": "Legal malvado"
+    },
+    "githyanki dracomancer": {
+      "es": "Githyanki dracomante",
+      "en": "Githyanki Dracomancer",
+      "cr": "16",
+      "type": "Aberración (gith)",
+      "size": "Mediano",
+      "alignment": "Legal malvado"
+    },
+    "githyanki warrior": {
+      "es": "Githyanki guerrero",
+      "en": "Githyanki Warrior",
+      "cr": "3",
+      "type": "Aberración (gith)",
+      "size": "Mediano",
+      "alignment": "Legal malvado"
+    },
+    "githzerai monk": {
+      "es": "Githzerai monje",
+      "en": "Githzerai Monk",
+      "cr": "2",
+      "type": "Aberración (gith)",
+      "size": "Mediano",
+      "alignment": "Legal neutral"
+    },
+    "githzerai psion": {
+      "es": "Githzerai psiónico",
+      "en": "Githzerai Psion",
+      "cr": "12",
+      "type": "Aberración (gith)",
+      "size": "Mediano",
+      "alignment": "Legal neutral"
+    },
+    "githzerai zerth": {
+      "es": "Githzerai zerth",
+      "en": "Githzerai Zerth",
+      "cr": "6",
+      "type": "Aberración (gith)",
+      "size": "Mediano",
+      "alignment": "Legal neutral"
+    },
+    "glabrezu": {
+      "es": "Glabrezu",
+      "en": "Glabrezu",
+      "cr": "9",
+      "type": "Infernal (demonio)",
+      "size": "Grande",
+      "alignment": "Caótico malvado"
+    },
+    "gladiator": {
+      "es": "Gladiador",
+      "en": "Gladiator",
+      "cr": "5",
+      "type": "Humanoide",
+      "size": "Mediano o Pequeño",
+      "alignment": "Neutral"
+    },
+    "gnoll fang of yeenoghu": {
+      "es": "Gnoll colmillo de Yeenoghu",
+      "en": "Gnoll Fang of Yeenoghu",
+      "cr": "4",
+      "type": "Infernal",
+      "size": "Mediano",
+      "alignment": "Caótico malvado"
+    },
+    "gnoll demoniac": {
+      "es": "Gnoll demoníaco",
+      "en": "Gnoll Demoniac",
+      "cr": "8",
+      "type": "Infernal",
+      "size": "Mediano",
+      "alignment": "Caótico malvado"
+    },
+    "gnoll warrior": {
+      "es": "Gnoll guerrero",
+      "en": "Gnoll Warrior",
+      "cr": "1/2",
+      "type": "Infernal",
+      "size": "Mediano",
+      "alignment": "Caótico malvado"
+    },
+    "gnoll pack lord": {
+      "es": "Gnoll líder de manada",
+      "en": "Gnoll Pack Lord",
+      "cr": "2",
+      "type": "Infernal",
+      "size": "Mediano",
+      "alignment": "Caótico malvado"
+    },
+    "goblin hexer": {
+      "es": "Goblin embrujador",
+      "en": "Goblin Hexer",
+      "cr": "3",
+      "type": "Feérico (trasgo)",
+      "size": "Pequeño",
+      "alignment": "Caótico neutral"
+    },
+    "goblin warrior": {
+      "es": "Goblin guerrero",
+      "en": "Goblin Warrior",
+      "cr": "1/4",
+      "type": "Feérico (trasgo)",
+      "size": "Pequeño",
+      "alignment": "Caótico neutral"
+    },
+    "goblin boss": {
+      "es": "Goblin jefe",
+      "en": "Goblin Boss",
+      "cr": "1",
+      "type": "Feérico (trasgo)",
+      "size": "Pequeño",
+      "alignment": "Caótico neutral"
+    },
+    "goblin minion": {
+      "es": "Goblin secuaz",
+      "en": "Goblin Minion",
+      "cr": "1/8",
+      "type": "Feérico (trasgo)",
+      "size": "Pequeño",
+      "alignment": "Caótico neutral"
+    },
+    "clay golem": {
+      "es": "Gólem de arcilla",
+      "en": "Clay Golem",
+      "cr": "9",
+      "type": "Autómata",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "flesh golem": {
+      "es": "Gólem de carne",
+      "en": "Flesh Golem",
+      "cr": "5",
+      "type": "Autómata",
+      "size": "Mediano",
+      "alignment": "Neutral"
+    },
+    "iron golem": {
+      "es": "Gólem de hierro",
+      "en": "Iron Golem",
+      "cr": "16",
+      "type": "Autómata",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "stone golem": {
+      "es": "Gólem de piedra",
+      "en": "Stone Golem",
+      "cr": "10",
+      "type": "Autómata",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "gorgon": {
+      "es": "Gorgon",
+      "en": "Gorgon",
+      "cr": "5",
+      "type": "Autómata",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "brazen gorgon": {
+      "es": "Gorgon de latón",
+      "en": "Brazen Gorgon",
+      "cr": "9",
+      "type": "Autómata",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "goristro": {
+      "es": "Goristro",
+      "en": "Goristro",
+      "cr": "17",
+      "type": "Infernal (demonio)",
+      "size": "Enorme",
+      "alignment": "Caótico malvado"
+    },
+    "grell": {
+      "es": "Grell",
+      "en": "Grell",
+      "cr": "3",
+      "type": "Aberración",
+      "size": "Mediano",
+      "alignment": "Neutral malvado"
+    },
+    "grick": {
+      "es": "Grick",
+      "en": "Grick",
+      "cr": "2",
+      "type": "Aberración",
+      "size": "Mediano",
+      "alignment": "Sin alineamiento"
+    },
+    "grick ancient": {
+      "es": "Grick anciano",
+      "en": "Grick Ancient",
+      "cr": "7",
+      "type": "Aberración",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "griffon": {
+      "es": "Grifo",
+      "en": "Griffon",
+      "cr": "2",
+      "type": "Monstruosidad",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "grimlock": {
+      "es": "Grimlock",
+      "en": "Grimlock",
+      "cr": "1/4",
+      "type": "Aberración",
+      "size": "Mediano",
+      "alignment": "Neutral malvado"
+    },
+    "guard": {
+      "es": "Guardia",
+      "en": "Guard",
+      "cr": "1/8",
+      "type": "Humanoide",
+      "size": "Mediano o Pequeño",
+      "alignment": "Neutral"
+    },
+    "guard captain": {
+      "es": "Guardia capitán",
+      "en": "Guard Captain",
+      "cr": "4",
+      "type": "Humanoide",
+      "size": "Mediano o Pequeño",
+      "alignment": "Neutral"
+    },
+    "shield guardian": {
+      "es": "Guardián escudo",
+      "en": "Shield Guardian",
+      "cr": "7",
+      "type": "Autómata",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "warrior commander": {
+      "es": "Guerrero comandante",
+      "en": "Warrior Commander",
+      "cr": "10",
+      "type": "Humanoide",
+      "size": "Mediano o Pequeño",
+      "alignment": "Neutral"
+    },
+    "warrior infantry": {
+      "es": "Guerrero de infantería",
+      "en": "Warrior Infantry",
+      "cr": "1/8",
+      "type": "Humanoide",
+      "size": "Mediano o Pequeño",
+      "alignment": "Neutral"
+    },
+    "warrior veteran": {
+      "es": "Guerrero veterano",
+      "en": "Warrior Veteran",
+      "cr": "3",
+      "type": "Humanoide",
+      "size": "Mediano o Pequeño",
+      "alignment": "Neutral"
+    },
+    "wyvern": {
+      "es": "Guiverno",
+      "en": "Wyvern",
+      "cr": "6",
+      "type": "Dragón",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "ghoul": {
+      "es": "Gul",
+      "en": "Ghoul",
+      "cr": "1",
+      "type": "Muerto viviente",
+      "size": "Mediano",
+      "alignment": "Caótico malvado"
+    },
+    "lacedon ghoul": {
+      "es": "Gul lacedón",
+      "en": "Lacedon Ghoul",
+      "cr": "1",
+      "type": "Muerto viviente",
+      "size": "Mediano",
+      "alignment": "Caótico malvado"
+    },
+    "purple worm": {
+      "es": "Gusano púrpura",
+      "en": "Purple Worm",
+      "cr": "15",
+      "type": "Monstruosidad",
+      "size": "Gargantuesco",
+      "alignment": "Sin alineamiento"
+    },
+    "hawk": {
+      "es": "Halcón",
+      "en": "Hawk",
+      "cr": "0",
+      "type": "Bestia",
+      "size": "Diminuto",
+      "alignment": "Sin alineamiento"
+    },
+    "blood hawk": {
+      "es": "Halcón sangriento",
+      "en": "Blood Hawk",
+      "cr": "1/8",
+      "type": "Bestia",
+      "size": "Pequeño",
+      "alignment": "Sin alineamiento"
+    },
+    "hezrou": {
+      "es": "Hezrou",
+      "en": "Hezrou",
+      "cr": "8",
+      "type": "Infernal (demonio)",
+      "size": "Grande",
+      "alignment": "Caótico malvado"
+    },
+    "hydra": {
+      "es": "Hidra",
+      "en": "Hydra",
+      "cr": "8",
+      "type": "Monstruosidad",
+      "size": "Enorme",
+      "alignment": "Sin alineamiento"
+    },
+    "hyena": {
+      "es": "Hiena",
+      "en": "Hyena",
+      "cr": "0",
+      "type": "Bestia",
+      "size": "Mediano",
+      "alignment": "Sin alineamiento"
+    },
+    "giant hyena": {
+      "es": "Hiena gigante",
+      "en": "Giant Hyena",
+      "cr": "1",
+      "type": "Bestia",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "hippogriff": {
+      "es": "Hipogrifo",
+      "en": "Hippogriff",
+      "cr": "1",
+      "type": "Monstruosidad",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "hippopotamus": {
+      "es": "Hipopótamo",
+      "en": "Hippopotamus",
+      "cr": "4",
+      "type": "Bestia",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "hobgoblin captain": {
+      "es": "Hobgoblin capitán",
+      "en": "Hobgoblin Captain",
+      "cr": "3",
+      "type": "Feérico (trasgo)",
+      "size": "Mediano",
+      "alignment": "Legal malvado"
+    },
+    "hobgoblin warrior": {
+      "es": "Hobgoblin guerrero",
+      "en": "Hobgoblin Warrior",
+      "cr": "1/2",
+      "type": "Feérico (trasgo)",
+      "size": "Mediano",
+      "alignment": "Legal malvado"
+    },
+    "hobgoblin warlord": {
+      "es": "Hobgoblin señor de la guerra",
+      "en": "Hobgoblin Warlord",
+      "cr": "6",
+      "type": "Feérico (trasgo)",
+      "size": "Mediano",
+      "alignment": "Legal malvado"
+    },
+    "jackalwere": {
+      "es": "Hombre chacal",
+      "en": "Jackalwere",
+      "cr": "1/2",
+      "type": "Infernal",
+      "size": "Pequeño",
+      "alignment": "Caótico malvado"
+    },
+    "wereboar": {
+      "es": "Hombre jabalí",
+      "en": "Wereboar",
+      "cr": "4",
+      "type": "Monstruosidad (licántropo)",
+      "size": "Mediano o Pequeño",
+      "alignment": "Neutral malvado"
+    },
+    "lizardfolk geomancer": {
+      "es": "Hombre lagarto geomante",
+      "en": "Lizardfolk Geomancer",
+      "cr": "2",
+      "type": "Elemental",
+      "size": "Mediano",
+      "alignment": "Neutral"
+    },
+    "lizardfolk sovereign": {
+      "es": "Hombre lagarto soberano",
+      "en": "Lizardfolk Sovereign",
+      "cr": "4",
+      "type": "Elemental",
+      "size": "Mediano",
+      "alignment": "Neutral"
+    },
+    "werewolf": {
+      "es": "Hombre lobo",
+      "en": "Werewolf",
+      "cr": "3",
+      "type": "Monstruosidad (licántropo)",
+      "size": "Mediano o Pequeño",
+      "alignment": "Caótico malvado"
+    },
+    "werebear": {
+      "es": "Hombre oso",
+      "en": "Werebear",
+      "cr": "5",
+      "type": "Monstruosidad (licántropo)",
+      "size": "Mediano o Pequeño",
+      "alignment": "Neutral bueno"
+    },
+    "wererat": {
+      "es": "Hombre rata",
+      "en": "Wererat",
+      "cr": "2",
+      "type": "Monstruosidad (licántropo)",
+      "size": "Mediano o Pequeño",
+      "alignment": "Legal malvado"
+    },
+    "weretiger": {
+      "es": "Hombre tigre",
+      "en": "Weretiger",
+      "cr": "4",
+      "type": "Monstruosidad (licántropo)",
+      "size": "Mediano o Pequeño",
+      "alignment": "Neutral"
+    },
+    "homunculus": {
+      "es": "Homúnculo",
+      "en": "Homunculus",
+      "cr": "0",
+      "type": "Autómata",
+      "size": "Diminuto",
+      "alignment": "Neutral"
+    },
+    "shrieker fungus": {
+      "es": "Hongo chillón",
+      "en": "Shrieker Fungus",
+      "cr": "0",
+      "type": "Planta",
+      "size": "Mediano",
+      "alignment": "Sin alineamiento"
+    },
+    "gas spore fungus": {
+      "es": "Hongo espora de gas",
+      "en": "Gas Spore Fungus",
+      "cr": "1/2",
+      "type": "Planta",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "violet fungus": {
+      "es": "Hongo violeta",
+      "en": "Violet Fungus",
+      "cr": "1/4",
+      "type": "Planta",
+      "size": "Mediano",
+      "alignment": "Sin alineamiento"
+    },
+    "helmed horror": {
+      "es": "Horror acorazado",
+      "en": "Helmed Horror",
+      "cr": "4",
+      "type": "Autómata",
+      "size": "Mediano",
+      "alignment": "Neutral"
+    },
+    "hook horror": {
+      "es": "Horror ganchudo",
+      "en": "Hook Horror",
+      "cr": "3",
+      "type": "Monstruosidad",
+      "size": "Grande",
+      "alignment": "Neutral"
+    },
+    "worg": {
+      "es": "Huargo",
+      "en": "Worg",
+      "cr": "1/2",
+      "type": "Feérico",
+      "size": "Grande",
+      "alignment": "Neutral malvado"
+    },
+    "dire worg": {
+      "es": "Huargo terrible",
+      "en": "Dire Worg",
+      "cr": "10",
+      "type": "Feérico",
+      "size": "Enorme",
+      "alignment": "Neutral malvado"
+    },
+    "efreeti": {
+      "es": "Ifrit",
+      "en": "Efreeti",
+      "cr": "11",
+      "type": "Elemental (genio)",
+      "size": "Grande",
+      "alignment": "Neutral"
+    },
+    "incubus": {
+      "es": "Íncubo",
+      "en": "Incubus",
+      "cr": "4",
+      "type": "Infernal",
+      "size": "Mediano",
+      "alignment": "Neutral malvado"
+    },
+    "giant insect": {
+      "es": "Insecto gigante",
+      "en": "Giant Insect",
+      "cr": "ninguno",
+      "type": "Bestia",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "boar": {
+      "es": "Jabalí",
+      "en": "Boar",
+      "cr": "1/4",
+      "type": "Bestia",
+      "size": "Mediano",
+      "alignment": "Sin alineamiento"
+    },
+    "giant boar": {
+      "es": "Jabalí gigante",
+      "en": "Giant Boar",
+      "cr": "2",
+      "type": "Bestia",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "kenku": {
+      "es": "Kenku",
+      "en": "Kenku",
+      "cr": "1/4",
+      "type": "Monstruosidad",
+      "size": "Mediano",
+      "alignment": "Neutral"
+    },
+    "winged kobold": {
+      "es": "Kobold alado",
+      "en": "Winged Kobold",
+      "cr": "1/4",
+      "type": "Dragón",
+      "size": "Pequeño",
+      "alignment": "Neutral"
+    },
+    "kobold warrior": {
+      "es": "Kobold guerrero",
+      "en": "Kobold Warrior",
+      "cr": "1/8",
+      "type": "Dragón",
+      "size": "Pequeño",
+      "alignment": "Neutral"
+    },
+    "kraken": {
+      "es": "Kraken",
+      "en": "Kraken",
+      "cr": "23",
+      "type": "Monstruosidad (titan)",
+      "size": "Gargantuesco",
+      "alignment": "Caótico malvado"
+    },
+    "kuo toa": {
+      "es": "Kuo-toa",
+      "en": "Kuo-toa",
+      "cr": "1/4",
+      "type": "Aberración",
+      "size": "Mediano",
+      "alignment": "Neutral malvado"
+    },
+    "kuo toa archpriest": {
+      "es": "Kuo-toa arcipreste",
+      "en": "Kuo-toa Archpriest",
+      "cr": "6",
+      "type": "Aberración",
+      "size": "Mediano",
+      "alignment": "Neutral malvado"
+    },
+    "kuo toa whip": {
+      "es": "Kuo-toa látigo",
+      "en": "Kuo-toa Whip",
+      "cr": "1",
+      "type": "Aberración",
+      "size": "Mediano",
+      "alignment": "Neutral malvado"
+    },
+    "kuo toa monitor": {
+      "es": "Kuo-toa vigilante",
+      "en": "Kuo-toa Monitor",
+      "cr": "3",
+      "type": "Aberración",
+      "size": "Mediano",
+      "alignment": "Neutral malvado"
+    },
+    "roper": {
+      "es": "Lacero",
+      "en": "Roper",
+      "cr": "5",
+      "type": "Aberración",
+      "size": "Grande",
+      "alignment": "Neutral malvado"
+    },
+    "lizard": {
+      "es": "Lagarto",
+      "en": "Lizard",
+      "cr": "0",
+      "type": "Bestia",
+      "size": "Diminuto",
+      "alignment": "Sin alineamiento"
+    },
+    "giant lizard": {
+      "es": "Lagarto gigante",
+      "en": "Giant Lizard",
+      "cr": "1/4",
+      "type": "Bestia",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "lamia": {
+      "es": "Lamia",
+      "en": "Lamia",
+      "cr": "4",
+      "type": "Infernal",
+      "size": "Grande",
+      "alignment": "Caótico malvado"
+    },
+    "larva": {
+      "es": "Larva",
+      "en": "Larva",
+      "cr": "0",
+      "type": "Infernal",
+      "size": "Mediano",
+      "alignment": "Neutral malvado"
+    },
+    "lemure": {
+      "es": "Lémur",
+      "en": "Lemure",
+      "cr": "0",
+      "type": "Infernal (diablo)",
+      "size": "Mediano",
+      "alignment": "Legal malvado"
+    },
+    "lion": {
+      "es": "León",
+      "en": "Lion",
+      "cr": "1",
+      "type": "Bestia",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "lich": {
+      "es": "Liche",
+      "en": "Lich",
+      "cr": "21",
+      "type": "Muerto viviente (mago)",
+      "size": "Mediano",
+      "alignment": "Neutral malvado"
+    },
+    "wolf": {
+      "es": "Lobo",
+      "en": "Wolf",
+      "cr": "1/4",
+      "type": "Bestia",
+      "size": "Mediano",
+      "alignment": "Sin alineamiento"
+    },
+    "winter wolf": {
+      "es": "Lobo invernal",
+      "en": "Winter Wolf",
+      "cr": "3",
+      "type": "Monstruosidad",
+      "size": "Grande",
+      "alignment": "Neutral malvado"
+    },
+    "dire wolf": {
+      "es": "Lobo terrible",
+      "en": "Dire Wolf",
+      "cr": "1",
+      "type": "Bestia",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "magmin": {
+      "es": "Magmin",
+      "en": "Magmin",
+      "cr": "1/2",
+      "type": "Elemental",
+      "size": "Pequeño",
+      "alignment": "Caótico neutral"
+    },
+    "mage": {
+      "es": "Mago",
+      "en": "Mage",
+      "cr": "6",
+      "type": "Humanoide (mago)",
+      "size": "Mediano o Pequeño",
+      "alignment": "Neutral"
+    },
+    "mage apprentice": {
+      "es": "Mago aprendiz",
+      "en": "Mage Apprentice",
+      "cr": "2",
+      "type": "Humanoide (mago)",
+      "size": "Mediano o Pequeño",
+      "alignment": "Neutral"
+    },
+    "mammoth": {
+      "es": "Mamut",
+      "en": "Mammoth",
+      "cr": "6",
+      "type": "Bestia",
+      "size": "Enorme",
+      "alignment": "Sin alineamiento"
+    },
+    "manes": {
+      "es": "Mane",
+      "en": "Manes",
+      "cr": "1/8",
+      "type": "Infernal (demonio)",
+      "size": "Pequeño",
+      "alignment": "Caótico malvado"
+    },
+    "manes vaporspawn": {
+      "es": "Mane engendro vaporoso",
+      "en": "Manes Vaporspawn",
+      "cr": "1",
+      "type": "Infernal (demonio)",
+      "size": "Mediano",
+      "alignment": "Caótico malvado"
+    },
+    "manticore": {
+      "es": "Mantícora",
+      "en": "Manticore",
+      "cr": "3",
+      "type": "Monstruosidad",
+      "size": "Grande",
+      "alignment": "Legal malvado"
+    },
+    "cloaker": {
+      "es": "Manto",
+      "en": "Cloaker",
+      "cr": "8",
+      "type": "Aberración",
+      "size": "Grande",
+      "alignment": "Caótico neutral"
+    },
+    "darkmantle": {
+      "es": "Mantoscuro",
+      "en": "Darkmantle",
+      "cr": "1/2",
+      "type": "Aberración",
+      "size": "Pequeño",
+      "alignment": "Sin alineamiento"
+    },
+    "needle blight": {
+      "es": "Marchita aguja",
+      "en": "Needle Blight",
+      "cr": "1/4",
+      "type": "Planta",
+      "size": "Mediano",
+      "alignment": "Neutral malvado"
+    },
+    "gulthias blight": {
+      "es": "Marchita de Gulthias",
+      "en": "Gulthias Blight",
+      "cr": "16",
+      "type": "Planta",
+      "size": "Gargantuesco",
+      "alignment": "Neutral malvado"
+    },
+    "vine blight": {
+      "es": "Marchita enredadera",
+      "en": "Vine Blight",
+      "cr": "1/2",
+      "type": "Planta",
+      "size": "Mediano",
+      "alignment": "Neutral malvado"
+    },
+    "twig blight": {
+      "es": "Marchita rama",
+      "en": "Twig Blight",
+      "cr": "1/8",
+      "type": "Planta",
+      "size": "Pequeño",
+      "alignment": "Neutral malvado"
+    },
+    "tree blight": {
+      "es": "Marchito árbol",
+      "en": "Tree Blight",
+      "cr": "7",
+      "type": "Planta",
+      "size": "Enorme",
+      "alignment": "Neutral malvado"
+    },
+    "marid": {
+      "es": "Marid",
+      "en": "Marid",
+      "cr": "11",
+      "type": "Elemental (genio)",
+      "size": "Grande",
+      "alignment": "Caótico neutral"
+    },
+    "marilith": {
+      "es": "Marilith",
+      "en": "Marilith",
+      "cr": "16",
+      "type": "Infernal (demonio)",
+      "size": "Grande",
+      "alignment": "Caótico malvado"
+    },
+    "mastiff": {
+      "es": "Mastín",
+      "en": "Mastiff",
+      "cr": "1/8",
+      "type": "Bestia",
+      "size": "Mediano",
+      "alignment": "Sin alineamiento"
+    },
+    "medusa": {
+      "es": "Medusa",
+      "en": "Medusa",
+      "cr": "6",
+      "type": "Monstruosidad",
+      "size": "Mediano",
+      "alignment": "Legal malvado"
+    },
+    "mud mephit": {
+      "es": "Mephit de barro",
+      "en": "Mud Mephit",
+      "cr": "1/4",
+      "type": "Elemental",
+      "size": "Pequeño",
+      "alignment": "Neutral malvado"
+    },
+    "ice mephit": {
+      "es": "Mephit de hielo",
+      "en": "Ice Mephit",
+      "cr": "1/2",
+      "type": "Elemental",
+      "size": "Pequeño",
+      "alignment": "Neutral malvado"
+    },
+    "smoke mephit": {
+      "es": "Mephit de humo",
+      "en": "Smoke Mephit",
+      "cr": "1/4",
+      "type": "Elemental",
+      "size": "Pequeño",
+      "alignment": "Neutral malvado"
+    },
+    "magma mephit": {
+      "es": "Mephit de magma",
+      "en": "Magma Mephit",
+      "cr": "1/2",
+      "type": "Elemental",
+      "size": "Pequeño",
+      "alignment": "Neutral malvado"
+    },
+    "dust mephit": {
+      "es": "Mephit de polvo",
+      "en": "Dust Mephit",
+      "cr": "1/2",
+      "type": "Elemental",
+      "size": "Pequeño",
+      "alignment": "Neutral malvado"
+    },
+    "steam mephit": {
+      "es": "Mephit de vapor",
+      "en": "Steam Mephit",
+      "cr": "1/4",
+      "type": "Elemental",
+      "size": "Pequeño",
+      "alignment": "Neutral malvado"
+    },
+    "merrow": {
+      "es": "Merrow",
+      "en": "Merrow",
+      "cr": "2",
+      "type": "Monstruosidad",
+      "size": "Grande",
+      "alignment": "Caótico malvado"
+    },
+    "mezzoloth": {
+      "es": "Mezzoloth",
+      "en": "Mezzoloth",
+      "cr": "5",
+      "type": "Infernal (yugoloth)",
+      "size": "Mediano",
+      "alignment": "Neutral malvado"
+    },
+    "myconid adult": {
+      "es": "Micónido adulto",
+      "en": "Myconid Adult",
+      "cr": "1/2",
+      "type": "Planta",
+      "size": "Mediano",
+      "alignment": "Legal neutral"
+    },
+    "myconid sprout": {
+      "es": "Micónido brote",
+      "en": "Myconid Sprout",
+      "cr": "0",
+      "type": "Planta",
+      "size": "Pequeño",
+      "alignment": "Legal neutral"
+    },
+    "myconid spore servant": {
+      "es": "Micónido siervo espora",
+      "en": "Myconid Spore Servant",
+      "cr": "1",
+      "type": "Planta",
+      "size": "Mediano o Pequeño",
+      "alignment": "Sin alineamiento"
+    },
+    "myconid sovereign": {
+      "es": "Micónido soberano",
+      "en": "Myconid Sovereign",
+      "cr": "2",
+      "type": "Planta",
+      "size": "Grande",
+      "alignment": "Legal neutral"
+    },
+    "mimic": {
+      "es": "Mimeto",
+      "en": "Mimic",
+      "cr": "2",
+      "type": "Monstruosidad",
+      "size": "Mediano",
+      "alignment": "Neutral"
+    },
+    "minotaur of baphomet": {
+      "es": "Minotauro de Bafomet",
+      "en": "Minotaur of Baphomet",
+      "cr": "3",
+      "type": "Monstruosidad",
+      "size": "Grande",
+      "alignment": "Caótico malvado"
+    },
+    "minotaur skeleton": {
+      "es": "Minotauro esqueleto",
+      "en": "Minotaur Skeleton",
+      "cr": "2",
+      "type": "Muerto viviente",
+      "size": "Grande",
+      "alignment": "Legal malvado"
+    },
+    "umber hulk": {
+      "es": "Mole sombría",
+      "en": "Umber Hulk",
+      "cr": "5",
+      "type": "Monstruosidad",
+      "size": "Grande",
+      "alignment": "Caótico malvado"
+    },
+    "mummy": {
+      "es": "Momia",
+      "en": "Mummy",
+      "cr": "3",
+      "type": "Muerto viviente",
+      "size": "Mediano o Pequeño",
+      "alignment": "Legal malvado"
+    },
+    "rust monster": {
+      "es": "Monstruo corrosivo",
+      "en": "Rust Monster",
+      "cr": "1/2",
+      "type": "Monstruosidad",
+      "size": "Mediano",
+      "alignment": "Sin alineamiento"
+    },
+    "mule": {
+      "es": "Mula",
+      "en": "Mule",
+      "cr": "1/8",
+      "type": "Bestia",
+      "size": "Mediano",
+      "alignment": "Sin alineamiento"
+    },
+    "bat": {
+      "es": "Murciélago",
+      "en": "Bat",
+      "cr": "0",
+      "type": "Bestia",
+      "size": "Diminuto",
+      "alignment": "Sin alineamiento"
+    },
+    "giant bat": {
+      "es": "Murciélago gigante",
+      "en": "Giant Bat",
+      "cr": "1/4",
+      "type": "Bestia",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "spirit naga": {
+      "es": "Naga espiritual",
+      "en": "Spirit Naga",
+      "cr": "8",
+      "type": "Infernal",
+      "size": "Grande",
+      "alignment": "Caótico malvado"
+    },
+    "guardian naga": {
+      "es": "Naga guardiana",
+      "en": "Guardian Naga",
+      "cr": "10",
+      "type": "Celestial",
+      "size": "Grande",
+      "alignment": "Legal bueno"
+    },
+    "bone naga": {
+      "es": "Naga ósea",
+      "en": "Bone Naga",
+      "cr": "4",
+      "type": "Muerto viviente",
+      "size": "Grande",
+      "alignment": "Neutral malvado"
+    },
+    "nalfeshnee": {
+      "es": "Nalfeshnee",
+      "en": "Nalfeshnee",
+      "cr": "13",
+      "type": "Infernal (demonio)",
+      "size": "Grande",
+      "alignment": "Caótico malvado"
+    },
+    "violet fungus necrohulk": {
+      "es": "Necromole de hongos violetas",
+      "en": "Violet Fungus Necrohulk",
+      "cr": "7",
+      "type": "Planta",
+      "size": "Grande",
+      "alignment": "Neutral malvado"
+    },
+    "noble": {
+      "es": "Noble",
+      "en": "Noble",
+      "cr": "1/8",
+      "type": "Humanoide",
+      "size": "Mediano o Pequeño",
+      "alignment": "Neutral"
+    },
+    "noble prodigy": {
+      "es": "Noble prodigio",
+      "en": "Noble Prodigy",
+      "cr": "10",
+      "type": "Humanoide",
+      "size": "Mediano o Pequeño",
+      "alignment": "Neutral"
+    },
+    "nothic": {
+      "es": "Nótico",
+      "en": "Nothic",
+      "cr": "2",
+      "type": "Aberración",
+      "size": "Mediano",
+      "alignment": "Neutral malvado"
+    },
+    "nycaloth": {
+      "es": "Nycaloth",
+      "en": "Nycaloth",
+      "cr": "9",
+      "type": "Infernal (yugoloth)",
+      "size": "Grande",
+      "alignment": "Neutral malvado"
+    },
+    "animated object": {
+      "es": "Objeto animado",
+      "en": "Animated Object",
+      "cr": "ninguno",
+      "type": "Autómata",
+      "size": "Enorme o menor",
+      "alignment": "Sin alineamiento"
+    },
+    "ogrillon ogre": {
+      "es": "Ogrillón",
+      "en": "Ogrillon Ogre",
+      "cr": "1",
+      "type": "Gigante",
+      "size": "Grande",
+      "alignment": "Caótico malvado"
+    },
+    "ogre": {
+      "es": "Ogro",
+      "en": "Ogre",
+      "cr": "2",
+      "type": "Gigante",
+      "size": "Grande",
+      "alignment": "Caótico malvado"
+    },
+    "ogre zombie": {
+      "es": "Ogro zombi",
+      "en": "Ogre Zombie",
+      "cr": "2",
+      "type": "Muerto viviente",
+      "size": "Grande",
+      "alignment": "Neutral malvado"
+    },
+    "oni": {
+      "es": "Oni",
+      "en": "Oni",
+      "cr": "7",
+      "type": "Infernal",
+      "size": "Grande",
+      "alignment": "Legal malvado"
+    },
+    "killer whale": {
+      "es": "Orca",
+      "en": "Killer Whale",
+      "cr": "3",
+      "type": "Bestia",
+      "size": "Enorme",
+      "alignment": "Sin alineamiento"
+    },
+    "bugbear stalker": {
+      "es": "Osgo acechador",
+      "en": "Bugbear Stalker",
+      "cr": "3",
+      "type": "Feérico (trasgo)",
+      "size": "Mediano",
+      "alignment": "Caótico malvado"
+    },
+    "bugbear warrior": {
+      "es": "Osgo guerrero",
+      "en": "Bugbear Warrior",
+      "cr": "1",
+      "type": "Feérico (trasgo)",
+      "size": "Mediano",
+      "alignment": "Caótico malvado"
+    },
+    "owlbear": {
+      "es": "Oso lechuza",
+      "en": "Owlbear",
+      "cr": "3",
+      "type": "Monstruosidad",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "primeval owlbear": {
+      "es": "Oso lechuza primigenio",
+      "en": "Primeval Owlbear",
+      "cr": "7",
+      "type": "Monstruosidad",
+      "size": "Enorme",
+      "alignment": "Sin alineamiento"
+    },
+    "black bear": {
+      "es": "Oso negro",
+      "en": "Black Bear",
+      "cr": "1/2",
+      "type": "Bestia",
+      "size": "Mediano",
+      "alignment": "Sin alineamiento"
+    },
+    "brown bear": {
+      "es": "Oso pardo",
+      "en": "Brown Bear",
+      "cr": "1",
+      "type": "Bestia",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "polar bear": {
+      "es": "Oso polar",
+      "en": "Polar Bear",
+      "cr": "2",
+      "type": "Bestia",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "otyugh": {
+      "es": "Otyugh",
+      "en": "Otyugh",
+      "cr": "5",
+      "type": "Aberración",
+      "size": "Grande",
+      "alignment": "Neutral"
+    },
+    "panther": {
+      "es": "Pantera",
+      "en": "Panther",
+      "cr": "1/4",
+      "type": "Bestia",
+      "size": "Mediano",
+      "alignment": "Sin alineamiento"
+    },
+    "pegasus": {
+      "es": "Pegaso",
+      "en": "Pegasus",
+      "cr": "2",
+      "type": "Celestial",
+      "size": "Grande",
+      "alignment": "Caótico bueno"
+    },
+    "tough": {
+      "es": "Pendenciero",
+      "en": "Tough",
+      "cr": "1/2",
+      "type": "Humanoide",
+      "size": "Mediano o Pequeño",
+      "alignment": "Neutral"
+    },
+    "tough boss": {
+      "es": "Pendenciero jefe",
+      "en": "Tough Boss",
+      "cr": "4",
+      "type": "Humanoide",
+      "size": "Mediano o Pequeño",
+      "alignment": "Cualquier alineamiento"
+    },
+    "piercer": {
+      "es": "Perforador",
+      "en": "Piercer",
+      "cr": "1/2",
+      "type": "Aberración",
+      "size": "Mediano",
+      "alignment": "Sin alineamiento"
+    },
+    "death dog": {
+      "es": "Perro del inframundo",
+      "en": "Death Dog",
+      "cr": "1",
+      "type": "Monstruosidad",
+      "size": "Mediano",
+      "alignment": "Neutral malvado"
+    },
+    "blink dog": {
+      "es": "Perro intermitente",
+      "en": "Blink Dog",
+      "cr": "1/4",
+      "type": "Feérico",
+      "size": "Mediano",
+      "alignment": "Legal bueno"
+    },
+    "peryton": {
+      "es": "Peryton",
+      "en": "Peryton",
+      "cr": "2",
+      "type": "Monstruosidad",
+      "size": "Mediano",
+      "alignment": "Caótico malvado"
+    },
+    "nightmare": {
+      "es": "Pesadilla",
+      "en": "Nightmare",
+      "cr": "3",
+      "type": "Infernal",
+      "size": "Grande",
+      "alignment": "Neutral malvado"
+    },
+    "axe beak": {
+      "es": "Pico de hacha",
+      "en": "Axe Beak",
+      "cr": "1/4",
+      "type": "Monstruosidad",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "giant axe beak": {
+      "es": "Pico de hacha gigante",
+      "en": "Giant Axe Beak",
+      "cr": "5",
+      "type": "Monstruosidad",
+      "size": "Enorme",
+      "alignment": "Sin alineamiento"
+    },
+    "piranha": {
+      "es": "Piraña",
+      "en": "Piranha",
+      "cr": "0",
+      "type": "Bestia",
+      "size": "Diminuto",
+      "alignment": "Sin alineamiento"
+    },
+    "pirate": {
+      "es": "Pirata",
+      "en": "Pirate",
+      "cr": "1",
+      "type": "Humanoide",
+      "size": "Mediano o Pequeño",
+      "alignment": "Cualquier alineamiento"
+    },
+    "pirate admiral": {
+      "es": "Pirata almirante",
+      "en": "Pirate Admiral",
+      "cr": "12",
+      "type": "Humanoide",
+      "size": "Mediano o Pequeño",
+      "alignment": "Neutral"
+    },
+    "pirate captain": {
+      "es": "Pirata capitán",
+      "en": "Pirate Captain",
+      "cr": "6",
+      "type": "Humanoide",
+      "size": "Mediano o Pequeño",
+      "alignment": "Cualquier alineamiento"
+    },
+    "pixie": {
+      "es": "Pixie",
+      "en": "Pixie",
+      "cr": "1/4",
+      "type": "Feérico",
+      "size": "Diminuto",
+      "alignment": "Neutral bueno"
+    },
+    "pixie wonderbringer": {
+      "es": "Pixie hacedor de maravillas",
+      "en": "Pixie Wonderbringer",
+      "cr": "5",
+      "type": "Feérico",
+      "size": "Diminuto",
+      "alignment": "Neutral bueno"
+    },
+    "planetar": {
+      "es": "Planetar",
+      "en": "Planetar",
+      "cr": "16",
+      "type": "Celestial (angel)",
+      "size": "Grande",
+      "alignment": "Legal bueno"
+    },
+    "commoner": {
+      "es": "Plebeyo",
+      "en": "Commoner",
+      "cr": "0",
+      "type": "Humanoide",
+      "size": "Mediano o Pequeño",
+      "alignment": "Neutral"
+    },
+    "plesiosaurus": {
+      "es": "Plesiosaurio",
+      "en": "Plesiosaurus",
+      "cr": "2",
+      "type": "Bestia (dinosaurio)",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "poltergeist": {
+      "es": "Poltergeist",
+      "en": "Poltergeist",
+      "cr": "2",
+      "type": "Muerto viviente",
+      "size": "Mediano o Pequeño",
+      "alignment": "Caótico neutral"
+    },
+    "pony": {
+      "es": "Poni",
+      "en": "Pony",
+      "cr": "1/8",
+      "type": "Bestia",
+      "size": "Mediano",
+      "alignment": "Sin alineamiento"
+    },
+    "pseudodragon": {
+      "es": "Pseudodragón",
+      "en": "Pseudodragon",
+      "cr": "1/4",
+      "type": "Dragón",
+      "size": "Diminuto",
+      "alignment": "Neutral bueno"
+    },
+    "pteranodon": {
+      "es": "Pteranodon",
+      "en": "Pteranodon",
+      "cr": "1/4",
+      "type": "Bestia (dinosaurio)",
+      "size": "Mediano",
+      "alignment": "Sin alineamiento"
+    },
+    "black pudding": {
+      "es": "Pudin negro",
+      "en": "Black Pudding",
+      "cr": "4",
+      "type": "Cieno",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "octopus": {
+      "es": "Pulpo",
+      "en": "Octopus",
+      "cr": "0",
+      "type": "Bestia",
+      "size": "Pequeño",
+      "alignment": "Sin alineamiento"
+    },
+    "giant octopus": {
+      "es": "Pulpo gigante",
+      "en": "Giant Octopus",
+      "cr": "1",
+      "type": "Bestia",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "quaggoth": {
+      "es": "Quaggoth",
+      "en": "Quaggoth",
+      "cr": "2",
+      "type": "Monstruosidad",
+      "size": "Mediano",
+      "alignment": "Caótico neutral"
+    },
+    "quaggoth thonot": {
+      "es": "Quaggoth thonot",
+      "en": "Quaggoth Thonot",
+      "cr": "3",
+      "type": "Monstruosidad",
+      "size": "Mediano",
+      "alignment": "Caótico neutral"
+    },
+    "quasit": {
+      "es": "Quasit",
+      "en": "Quasit",
+      "cr": "1",
+      "type": "Infernal (demonio)",
+      "size": "Diminuto",
+      "alignment": "Caótico malvado"
+    },
+    "chimera": {
+      "es": "Quimera",
+      "en": "Chimera",
+      "cr": "6",
+      "type": "Monstruosidad",
+      "size": "Grande",
+      "alignment": "Caótico malvado"
+    },
+    "rakshasa": {
+      "es": "Rakshasa",
+      "en": "Rakshasa",
+      "cr": "13",
+      "type": "Infernal",
+      "size": "Mediano",
+      "alignment": "Legal malvado"
+    },
+    "frog": {
+      "es": "Rana",
+      "en": "Frog",
+      "cr": "0",
+      "type": "Bestia",
+      "size": "Diminuto",
+      "alignment": "Sin alineamiento"
+    },
+    "giant frog": {
+      "es": "Rana gigante",
+      "en": "Giant Frog",
+      "cr": "1/4",
+      "type": "Bestia",
+      "size": "Mediano",
+      "alignment": "Sin alineamiento"
+    },
+    "rat": {
+      "es": "Rata",
+      "en": "Rat",
+      "cr": "0",
+      "type": "Bestia",
+      "size": "Diminuto",
+      "alignment": "Sin alineamiento"
+    },
+    "giant rat": {
+      "es": "Rata gigante",
+      "en": "Giant Rat",
+      "cr": "1/8",
+      "type": "Bestia",
+      "size": "Pequeño",
+      "alignment": "Sin alineamiento"
+    },
+    "revenant": {
+      "es": "Redivivo",
+      "en": "Revenant",
+      "cr": "5",
+      "type": "Muerto viviente",
+      "size": "Mediano",
+      "alignment": "Neutral"
+    },
+    "graveyard revenant": {
+      "es": "Redivivo de cementerio",
+      "en": "Graveyard Revenant",
+      "cr": "7",
+      "type": "Muerto viviente",
+      "size": "Enorme",
+      "alignment": "Neutral"
+    },
+    "haunting revenant": {
+      "es": "Redivivo de guarida",
+      "en": "Haunting Revenant",
+      "cr": "10",
+      "type": "Muerto viviente",
+      "size": "Gargantuesco",
+      "alignment": "Neutral"
+    },
+    "remorhaz": {
+      "es": "Remorhaz",
+      "en": "Remorhaz",
+      "cr": "11",
+      "type": "Monstruosidad",
+      "size": "Enorme",
+      "alignment": "Sin alineamiento"
+    },
+    "young remorhaz": {
+      "es": "Remorhaz joven",
+      "en": "Young Remorhaz",
+      "cr": "5",
+      "type": "Monstruosidad",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "slaad tadpole": {
+      "es": "Renacuajo slaad",
+      "en": "Slaad Tadpole",
+      "cr": "1/8",
+      "type": "Aberración",
+      "size": "Diminuto",
+      "alignment": "Caótico neutral"
+    },
+    "rhinoceros": {
+      "es": "Rinoceronte",
+      "en": "Rhinoceros",
+      "cr": "2",
+      "type": "Bestia",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "roc": {
+      "es": "Roc",
+      "en": "Roc",
+      "cr": "11",
+      "type": "Monstruosidad",
+      "size": "Gargantuesco",
+      "alignment": "Sin alineamiento"
+    },
+    "hell hound": {
+      "es": "Sabueso infernal",
+      "en": "Hell Hound",
+      "cr": "3",
+      "type": "Infernal",
+      "size": "Mediano",
+      "alignment": "Legal malvado"
+    },
+    "priest": {
+      "es": "Sacerdote",
+      "en": "Priest",
+      "cr": "2",
+      "type": "Humanoide (clérigo)",
+      "size": "Mediano o Pequeño",
+      "alignment": "Neutral"
+    },
+    "priest acolyte": {
+      "es": "Sacerdote acólito",
+      "en": "Priest Acolyte",
+      "cr": "1/4",
+      "type": "Humanoide (clérigo)",
+      "size": "Mediano o Pequeño",
+      "alignment": "Neutral"
+    },
+    "green hag": {
+      "es": "Saga cetrina",
+      "en": "Green Hag",
+      "cr": "3",
+      "type": "Feérico",
+      "size": "Mediano",
+      "alignment": "Neutral malvado"
+    },
+    "night hag": {
+      "es": "Saga de la noche",
+      "en": "Night Hag",
+      "cr": "5",
+      "type": "Infernal",
+      "size": "Mediano",
+      "alignment": "Neutral malvado"
+    },
+    "sea hag": {
+      "es": "Saga de los mares",
+      "en": "Sea Hag",
+      "cr": "2",
+      "type": "Feérico",
+      "size": "Mediano",
+      "alignment": "Caótico malvado"
+    },
+    "sahuagin baron": {
+      "es": "Sahuagin barón",
+      "en": "Sahuagin Baron",
+      "cr": "5",
+      "type": "Infernal",
+      "size": "Grande",
+      "alignment": "Legal malvado"
+    },
+    "sahuagin warrior": {
+      "es": "Sahuagin guerrero",
+      "en": "Sahuagin Warrior",
+      "cr": "1/2",
+      "type": "Infernal",
+      "size": "Mediano",
+      "alignment": "Legal malvado"
+    },
+    "sahuagin priest": {
+      "es": "Sahuagin sacerdote",
+      "en": "Sahuagin Priest",
+      "cr": "2",
+      "type": "Infernal",
+      "size": "Mediano",
+      "alignment": "Legal malvado"
+    },
+    "salamander": {
+      "es": "Salamandra",
+      "en": "Salamander",
+      "cr": "5",
+      "type": "Elemental",
+      "size": "Grande",
+      "alignment": "Neutral malvado"
+    },
+    "salamander inferno master": {
+      "es": "Salamandra maestra infernal",
+      "en": "Salamander Inferno Master",
+      "cr": "15",
+      "type": "Elemental",
+      "size": "Grande",
+      "alignment": "Neutral malvado"
+    },
+    "salamander fire snake": {
+      "es": "Salamandra serpiente de fuego",
+      "en": "Salamander Fire Snake",
+      "cr": "1",
+      "type": "Elemental",
+      "size": "Mediano",
+      "alignment": "Neutral malvado"
+    },
+    "giant toad": {
+      "es": "Sapo gigante",
+      "en": "Giant Toad",
+      "cr": "1",
+      "type": "Bestia",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "satyr": {
+      "es": "Sátiro",
+      "en": "Satyr",
+      "cr": "1/2",
+      "type": "Feérico",
+      "size": "Mediano",
+      "alignment": "Caótico neutral"
+    },
+    "satyr revelmaster": {
+      "es": "Sátiro gran vividor",
+      "en": "Satyr Revelmaster",
+      "cr": "6",
+      "type": "Feérico",
+      "size": "Mediano",
+      "alignment": "Caótico neutral"
+    },
+    "cultist": {
+      "es": "Sectario",
+      "en": "Cultist",
+      "cr": "1/8",
+      "type": "Humanoide",
+      "size": "Mediano o Pequeño",
+      "alignment": "Cualquier alineamiento"
+    },
+    "aberrant cultist": {
+      "es": "Sectario aberrante",
+      "en": "Aberrant Cultist",
+      "cr": "8",
+      "type": "Humanoide",
+      "size": "Mediano o Pequeño",
+      "alignment": "Neutral malvado"
+    },
+    "death cultist": {
+      "es": "Sectario de la muerte",
+      "en": "Death Cultist",
+      "cr": "8",
+      "type": "Humanoide",
+      "size": "Mediano o Pequeño",
+      "alignment": "Neutral malvado"
+    },
+    "elemental cultist": {
+      "es": "Sectario elemental",
+      "en": "Elemental Cultist",
+      "cr": "8",
+      "type": "Humanoide",
+      "size": "Mediano o Pequeño",
+      "alignment": "Caótico malvado"
+    },
+    "cultist fanatic": {
+      "es": "Sectario fanático",
+      "en": "Cultist Fanatic",
+      "cr": "2",
+      "type": "Humanoide",
+      "size": "Mediano o Pequeño",
+      "alignment": "Cualquier alineamiento"
+    },
+    "cultist hierophant": {
+      "es": "Sectario hierofante",
+      "en": "Cultist Hierophant",
+      "cr": "10",
+      "type": "Humanoide",
+      "size": "Mediano o Pequeño",
+      "alignment": "Neutral"
+    },
+    "fiend cultist": {
+      "es": "Sectario infernal",
+      "en": "Fiend Cultist",
+      "cr": "8",
+      "type": "Humanoide",
+      "size": "Mediano o Pequeño",
+      "alignment": "Neutral malvado"
+    },
+    "half dragon": {
+      "es": "Semidragón",
+      "en": "Half-Dragon",
+      "cr": "5",
+      "type": "Dragón",
+      "size": "Mediano",
+      "alignment": "Neutral"
+    },
+    "demilich": {
+      "es": "Semilich",
+      "en": "Demilich",
+      "cr": "18",
+      "type": "Muerto viviente",
+      "size": "Diminuto",
+      "alignment": "Neutral malvado"
+    },
+    "mummy lord": {
+      "es": "Señor de las momias",
+      "en": "Mummy Lord",
+      "cr": "15",
+      "type": "Muerto viviente (clérigo)",
+      "size": "Mediano o Pequeño",
+      "alignment": "Legal malvado"
+    },
+    "animal lord": {
+      "es": "Señor de los animales",
+      "en": "Animal Lord",
+      "cr": "20",
+      "type": "Celestial",
+      "size": "Mediano",
+      "alignment": "Neutral"
+    },
+    "constrictor snake": {
+      "es": "Serpiente constrictora",
+      "en": "Constrictor Snake",
+      "cr": "1/4",
+      "type": "Bestia",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "giant constrictor snake": {
+      "es": "Serpiente constrictora gigante",
+      "en": "Giant Constrictor Snake",
+      "cr": "2",
+      "type": "Bestia",
+      "size": "Enorme",
+      "alignment": "Sin alineamiento"
+    },
+    "venomous snake": {
+      "es": "Serpiente venenosa",
+      "en": "Venomous Snake",
+      "cr": "1/8",
+      "type": "Bestia",
+      "size": "Diminuto",
+      "alignment": "Sin alineamiento"
+    },
+    "giant venomous snake": {
+      "es": "Serpiente venenosa gigante",
+      "en": "Giant Venomous Snake",
+      "cr": "1/4",
+      "type": "Bestia",
+      "size": "Mediano",
+      "alignment": "Sin alineamiento"
+    },
+    "flying snake": {
+      "es": "Serpiente voladora",
+      "en": "Flying Snake",
+      "cr": "1/8",
+      "type": "Monstruosidad",
+      "size": "Diminuto",
+      "alignment": "Sin alineamiento"
+    },
+    "vampire familiar": {
+      "es": "Siervo de vampiro",
+      "en": "Vampire Familiar",
+      "cr": "3",
+      "type": "Humanoide",
+      "size": "Mediano o Pequeño",
+      "alignment": "Neutral malvado"
+    },
+    "ape": {
+      "es": "Simio",
+      "en": "Ape",
+      "cr": "1/2",
+      "type": "Bestia",
+      "size": "Mediano",
+      "alignment": "Sin alineamiento"
+    },
+    "giant ape": {
+      "es": "Simio gigante",
+      "en": "Giant Ape",
+      "cr": "7",
+      "type": "Bestia",
+      "size": "Enorme",
+      "alignment": "Sin alineamiento"
+    },
+    "merfolk wavebender": {
+      "es": "Sirénido dominaolas",
+      "en": "Merfolk Wavebender",
+      "cr": "6",
+      "type": "Elemental",
+      "size": "Mediano",
+      "alignment": "Neutral"
+    },
+    "merfolk skirmisher": {
+      "es": "Sirénido experto en escaramuzas",
+      "en": "Merfolk Skirmisher",
+      "cr": "1/8",
+      "type": "Elemental",
+      "size": "Mediano",
+      "alignment": "Neutral"
+    },
+    "blue slaad": {
+      "es": "Slaad azul",
+      "en": "Blue Slaad",
+      "cr": "7",
+      "type": "Aberración",
+      "size": "Grande",
+      "alignment": "Caótico neutral"
+    },
+    "death slaad": {
+      "es": "Slaad de la muerte",
+      "en": "Death Slaad",
+      "cr": "10",
+      "type": "Aberración",
+      "size": "Mediano",
+      "alignment": "Caótico malvado"
+    },
+    "gray slaad": {
+      "es": "Slaad gris",
+      "en": "Gray Slaad",
+      "cr": "9",
+      "type": "Aberración",
+      "size": "Mediano",
+      "alignment": "Caótico neutral"
+    },
+    "red slaad": {
+      "es": "Slaad rojo",
+      "en": "Red Slaad",
+      "cr": "5",
+      "type": "Aberración",
+      "size": "Grande",
+      "alignment": "Caótico neutral"
+    },
+    "green slaad": {
+      "es": "Slaad verde",
+      "en": "Green Slaad",
+      "cr": "8",
+      "type": "Aberración",
+      "size": "Grande",
+      "alignment": "Caótico neutral"
+    },
+    "solar": {
+      "es": "Solar",
+      "en": "Solar",
+      "cr": "21",
+      "type": "Celestial (angel)",
+      "size": "Grande",
+      "alignment": "Legal bueno"
+    },
+    "shadow": {
+      "es": "Sombra",
+      "en": "Shadow",
+      "cr": "1/2",
+      "type": "Muerto viviente",
+      "size": "Mediano",
+      "alignment": "Caótico malvado"
+    },
+    "succubus": {
+      "es": "Súcubo",
+      "en": "Succubus",
+      "cr": "4",
+      "type": "Infernal",
+      "size": "Mediano",
+      "alignment": "Neutral malvado"
+    },
+    "giant wolf spider": {
+      "es": "Tarántula gigante",
+      "en": "Giant Wolf Spider",
+      "cr": "1/4",
+      "type": "Bestia",
+      "size": "Mediano",
+      "alignment": "Sin alineamiento"
+    },
+    "tarrasque": {
+      "es": "Tarasca",
+      "en": "Tarrasque",
+      "cr": "30",
+      "type": "Monstruosidad (titan)",
+      "size": "Gargantuesco",
+      "alignment": "Sin alineamiento"
+    },
+    "badger": {
+      "es": "Tejón",
+      "en": "Badger",
+      "cr": "0",
+      "type": "Bestia",
+      "size": "Diminuto",
+      "alignment": "Sin alineamiento"
+    },
+    "giant badger": {
+      "es": "Tejón gigante",
+      "en": "Giant Badger",
+      "cr": "1/4",
+      "type": "Bestia",
+      "size": "Mediano",
+      "alignment": "Sin alineamiento"
+    },
+    "thri kreen marauder": {
+      "es": "Thri-kreen merodeador",
+      "en": "Thri-kreen Marauder",
+      "cr": "1",
+      "type": "Monstruosidad",
+      "size": "Mediano",
+      "alignment": "Neutral"
+    },
+    "thri kreen psion": {
+      "es": "Thri-kreen psiónico",
+      "en": "Thri-kreen Psion",
+      "cr": "8",
+      "type": "Monstruosidad",
+      "size": "Mediano",
+      "alignment": "Neutral"
+    },
+    "hunter shark": {
+      "es": "Tiburón cazador",
+      "en": "Hunter Shark",
+      "cr": "2",
+      "type": "Bestia",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "reef shark": {
+      "es": "Tiburón de arrecife",
+      "en": "Reef Shark",
+      "cr": "1/2",
+      "type": "Bestia",
+      "size": "Mediano",
+      "alignment": "Sin alineamiento"
+    },
+    "giant shark": {
+      "es": "Tiburón gigante",
+      "en": "Giant Shark",
+      "cr": "5",
+      "type": "Bestia",
+      "size": "Enorme",
+      "alignment": "Sin alineamiento"
+    },
+    "tiger": {
+      "es": "Tigre",
+      "en": "Tiger",
+      "cr": "1",
+      "type": "Bestia",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "saber toothed tiger": {
+      "es": "Tigre dientes de sable",
+      "en": "Saber-Toothed Tiger",
+      "cr": "2",
+      "type": "Bestia",
+      "size": "Grande",
+      "alignment": "Sin alineamiento"
+    },
+    "death tyrant": {
+      "es": "Tirano sepulcral",
+      "en": "Death Tyrant",
+      "cr": "14",
+      "type": "Muerto viviente (beholder)",
+      "size": "Grande",
+      "alignment": "Legal malvado"
+    },
+    "tyrannosaurus rex": {
+      "es": "Tiranosaurio Rex",
+      "en": "Tyrannosaurus Rex",
+      "cr": "8",
+      "type": "Bestia (dinosaurio)",
+      "size": "Enorme",
+      "alignment": "Sin alineamiento"
+    },
+    "triceratops": {
+      "es": "Triceratops",
+      "en": "Triceratops",
+      "cr": "5",
+      "type": "Bestia (dinosaurio)",
+      "size": "Enorme",
+      "alignment": "Sin alineamiento"
+    },
+    "troglodyte": {
+      "es": "Troglodita",
+      "en": "Troglodyte",
+      "cr": "1/4",
+      "type": "Monstruosidad",
+      "size": "Mediano",
+      "alignment": "Caótico malvado"
+    },
+    "troll": {
+      "es": "Troll",
+      "en": "Troll",
+      "cr": "5",
+      "type": "Gigante",
+      "size": "Grande",
+      "alignment": "Caótico malvado"
+    },
+    "wight": {
+      "es": "Tumulario",
+      "en": "Wight",
+      "cr": "3",
+      "type": "Muerto viviente",
+      "size": "Mediano",
+      "alignment": "Neutral malvado"
+    },
+    "ultroloth": {
+      "es": "Ultroloth",
+      "en": "Ultroloth",
+      "cr": "13",
+      "type": "Infernal (yugoloth)",
+      "size": "Mediano",
+      "alignment": "Neutral malvado"
+    },
+    "unicorn": {
+      "es": "Unicornio",
+      "en": "Unicorn",
+      "cr": "5",
+      "type": "Celestial",
+      "size": "Grande",
+      "alignment": "Legal bueno"
+    },
+    "vampire": {
+      "es": "Vampiro",
+      "en": "Vampire",
+      "cr": "13",
+      "type": "Muerto viviente",
+      "size": "Mediano o Pequeño",
+      "alignment": "Legal malvado"
+    },
+    "vampire nightbringer": {
+      "es": "Vampiro portador de la noche",
+      "en": "Vampire Nightbringer",
+      "cr": "8",
+      "type": "Muerto viviente",
+      "size": "Mediano o Pequeño",
+      "alignment": "Neutral malvado"
+    },
+    "vampire umbral lord": {
+      "es": "Vampiro señor de las sombras",
+      "en": "Vampire Umbral Lord",
+      "cr": "15",
+      "type": "Muerto viviente",
+      "size": "Mediano o Pequeño",
+      "alignment": "Legal malvado"
+    },
+    "vrock": {
+      "es": "Vrock",
+      "en": "Vrock",
+      "cr": "6",
+      "type": "Infernal (demonio)",
+      "size": "Grande",
+      "alignment": "Caótico malvado"
+    },
+    "xorn": {
+      "es": "Xorn",
+      "en": "Xorn",
+      "cr": "5",
+      "type": "Elemental",
+      "size": "Mediano",
+      "alignment": "Neutral"
+    },
+    "yeti": {
+      "es": "Yeti",
+      "en": "Yeti",
+      "cr": "3",
+      "type": "Monstruosidad",
+      "size": "Grande",
+      "alignment": "Caótico malvado"
+    },
+    "abominable yeti": {
+      "es": "Yeti abominable",
+      "en": "Abominable Yeti",
+      "cr": "9",
+      "type": "Monstruosidad",
+      "size": "Enorme",
+      "alignment": "Caótico malvado"
+    },
+    "yochlol": {
+      "es": "Yochlol",
+      "en": "Yochlol",
+      "cr": "10",
+      "type": "Infernal (demonio)",
+      "size": "Mediano",
+      "alignment": "Caótico malvado"
+    },
+    "yuan ti abomination": {
+      "es": "Yuan-ti abominación",
+      "en": "Yuan-ti Abomination",
+      "cr": "7",
+      "type": "Monstruosidad",
+      "size": "Grande",
+      "alignment": "Neutral malvado"
+    },
+    "yuan ti malison type 1": {
+      "es": "Yuan-ti corrupto (tipo 1)",
+      "en": "Yuan-ti Malison (Type 1)",
+      "cr": "3",
+      "type": "Monstruosidad",
+      "size": "Mediano",
+      "alignment": "Neutral malvado"
+    },
+    "yuan ti malison type 2": {
+      "es": "Yuan-ti corrupto (tipo 2)",
+      "en": "Yuan-ti Malison (Type 2)",
+      "cr": "3",
+      "type": "Monstruosidad",
+      "size": "Mediano",
+      "alignment": "Neutral malvado"
+    },
+    "yuan ti malison type 3": {
+      "es": "Yuan-ti corrupto (tipo 3)",
+      "en": "Yuan-ti Malison (Type 3)",
+      "cr": "3",
+      "type": "Monstruosidad",
+      "size": "Mediano",
+      "alignment": "Neutral malvado"
+    },
+    "yuan ti infiltrator": {
+      "es": "Yuan-ti infiltrado",
+      "en": "Yuan-ti Infiltrator",
+      "cr": "1",
+      "type": "Monstruosidad",
+      "size": "Mediano",
+      "alignment": "Neutral malvado"
+    },
+    "zombie": {
+      "es": "Zombi",
+      "en": "Zombie",
+      "cr": "1/4",
+      "type": "Muerto viviente",
+      "size": "Mediano",
+      "alignment": "Neutral malvado"
+    }
+  }
+}

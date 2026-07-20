@@ -2,25 +2,25 @@
   "id": "monster-haunting-revenant",
   "slug": "haunting-revenant",
   "name": {
-    "es": "",
+    "es": "Redivivo de guarida",
     "en": "Haunting Revenant"
   },
   "size": {
-    "es": "",
+    "es": "Gargantuesco",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Muerto viviente",
     "en": "Unknown"
   },
   "alignment": {
-    "es": "",
+    "es": "Neutral",
     "en": "Unaligned"
   },
   "armorClass": 20,
   "hitPoints": "203 (lad20 + s6)",
   "speed": {
-    "es": "",
+    "es": "9 m",
     "en": "30 ft."
   },
   "abilityScores": {
@@ -32,11 +32,11 @@
     "cha": 10
   },
   "senses": {
-    "es": "",
+    "es": "Visión verdadera 18 m; Percepción pasiva 14",
     "en": "Truesight 60 ft.; Passive Perception 14"
   },
   "languages": {
-    "es": "",
+    "es": "Común plus two other Idiomas",
     "en": "Common plus two other languages"
   },
   "challengeRating": "10",
@@ -47,7 +47,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.260). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.260). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

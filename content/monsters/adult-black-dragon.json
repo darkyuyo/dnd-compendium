@@ -2,25 +2,25 @@
   "id": "monster-adult-black-dragon",
   "slug": "adult-black-dragon",
   "name": {
-    "es": "",
+    "es": "Dragón negro adulto",
     "en": "Adult Black Dragon"
   },
   "size": {
-    "es": "",
+    "es": "Enorme",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Dragón (cromático)",
     "en": "Unknown"
   },
   "alignment": {
-    "es": "",
+    "es": "Caótico malvado",
     "en": "Unaligned"
   },
   "armorClass": 22,
   "hitPoints": "367 (21d20 + M7)",
   "speed": {
-    "es": "",
+    "es": "9 m",
     "en": "30 ft."
   },
   "abilityScores": {
@@ -32,11 +32,11 @@
     "cha": 10
   },
   "senses": {
-    "es": "",
+    "es": "—",
     "en": "—"
   },
   "languages": {
-    "es": "",
+    "es": "—",
     "en": "—"
   },
   "challengeRating": "?",
@@ -44,21 +44,21 @@
   "actions": [
     {
       "name": {
-        "es": "",
+        "es": "expended uses at the start of each of its turns",
         "en": "expended uses at the start of each of its turns"
       },
       "description": {
-        "es": "",
+        "es": "expended uses at the start of each of its turns.",
         "en": "expended uses at the start of each of its turns."
       }
     },
     {
       "name": {
-        "es": "",
+        "es": "Cloud of lnsects",
         "en": "Cloud of lnsects"
       },
       "description": {
-        "es": "",
+        "es": "Cloud of lnsects. Dexterity SavingThrow: DC 21, one",
         "en": "Cloud of lnsects. Dexterity SavingThrow: DC 21, one"
       }
     }
@@ -67,7 +67,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.39). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.39). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

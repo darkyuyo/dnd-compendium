@@ -2,25 +2,25 @@
   "id": "monster-ancient-copper-dragon",
   "slug": "ancient-copper-dragon",
   "name": {
-    "es": "",
+    "es": "Dragón de cobre anciano",
     "en": "Ancient Copper Dragon"
   },
   "size": {
-    "es": "",
+    "es": "Gargantuesco",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Dragón (metálico)",
     "en": "Unknown"
   },
   "alignment": {
-    "es": "",
+    "es": "Caótico bueno",
     "en": "Unaligned"
   },
   "armorClass": 10,
   "hitPoints": "367 (21d20 + u7)",
   "speed": {
-    "es": "",
+    "es": "40 fr,",
     "en": "40 fr,"
   },
   "abilityScores": {
@@ -32,11 +32,11 @@
     "cha": 10
   },
   "senses": {
-    "es": "",
+    "es": "—",
     "en": "—"
   },
   "languages": {
-    "es": "",
+    "es": "—",
     "en": "—"
   },
   "challengeRating": "?",
@@ -46,7 +46,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.80). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.80). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

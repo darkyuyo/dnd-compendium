@@ -2,25 +2,25 @@
   "id": "monster-ice-devi",
   "slug": "ice-devi",
   "name": {
-    "es": "",
+    "es": "Diablo gélido",
     "en": "Ice Devi"
   },
   "size": {
-    "es": "",
+    "es": "Grande",
     "en": "Large"
   },
   "type": {
-    "es": "",
+    "es": "Infernal (diablo)",
     "en": "Fiend (Devil)"
   },
   "alignment": {
-    "es": "",
+    "es": "Legal malvado",
     "en": "Lawful Evil"
   },
   "armorClass": 10,
   "hitPoints": "228 (2ad10 + 96)",
   "speed": {
-    "es": "",
+    "es": "12 m",
     "en": "40 ft."
   },
   "abilityScores": {
@@ -32,11 +32,11 @@
     "cha": 10
   },
   "senses": {
-    "es": "",
+    "es": "—",
     "en": "—"
   },
   "languages": {
-    "es": "",
+    "es": "—",
     "en": "—"
   },
   "challengeRating": "?",
@@ -47,7 +47,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.176). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.176). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

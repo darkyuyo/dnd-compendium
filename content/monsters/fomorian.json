@@ -2,25 +2,25 @@
   "id": "monster-fomorian",
   "slug": "fomorian",
   "name": {
-    "es": "",
+    "es": "Fomoré",
     "en": "Fomorian"
   },
   "size": {
-    "es": "",
+    "es": "Enorme",
     "en": "Huge"
   },
   "type": {
-    "es": "",
+    "es": "Gigante",
     "en": "Ciant"
   },
   "alignment": {
-    "es": "",
+    "es": "Caótico malvado",
     "en": "Chaotic Evil"
   },
   "armorClass": 14,
   "hitPoints": "172 (15d12 + 75)",
   "speed": {
-    "es": "",
+    "es": "12 m",
     "en": "40 ft."
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Percepción +8, Sigilo +3",
     "en": "Perception +8, Stealth +3"
   },
   "senses": {
-    "es": "",
+    "es": "Visión en la oscuridad .36 m; Percepción pasiva 18",
     "en": "Darkvision .120 ft.; Passive Perception 18"
   },
   "languages": {
-    "es": "",
+    "es": "Ciant, U ndercom mon",
     "en": "Ciant, U ndercom mon"
   },
   "challengeRating": "8",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.123). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.123). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

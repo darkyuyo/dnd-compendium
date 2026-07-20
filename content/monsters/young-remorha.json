@@ -2,25 +2,25 @@
   "id": "monster-young-remorha",
   "slug": "young-remorha",
   "name": {
-    "es": "",
+    "es": "Dragón azul joven",
     "en": "Young Remorha"
   },
   "size": {
-    "es": "",
+    "es": "Grande",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Dragón (cromático)",
     "en": "Unknown"
   },
   "alignment": {
-    "es": "",
+    "es": "Legal malvado",
     "en": "Unaligned"
   },
   "armorClass": 17,
   "hitPoints": "93 (11d10 + 33)",
   "speed": {
-    "es": "",
+    "es": "40 fr' t:J:\"*'o n \\10D 'AVE",
     "en": "40 fr' t:J:\"*'o n \\10D 'AVE"
   },
   "abilityScores": {
@@ -32,11 +32,11 @@
     "cha": 10
   },
   "senses": {
-    "es": "",
+    "es": "Visión en la oscuridad 18 m, Sentido sísmico 18 m;",
     "en": "Darkvision 60 ft., Tremorsense 60 ft.;"
   },
   "languages": {
-    "es": "",
+    "es": "None",
     "en": "None"
   },
   "challengeRating": "5",
@@ -47,7 +47,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.258). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.258). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

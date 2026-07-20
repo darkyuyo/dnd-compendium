@@ -2,25 +2,25 @@
   "id": "monster-bugbear-warrior",
   "slug": "bugbear-warrior",
   "name": {
-    "es": "",
+    "es": "Osgo guerrero",
     "en": "Bugbear Warrior"
   },
   "size": {
-    "es": "",
+    "es": "Mediano",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Feérico (trasgo)",
     "en": "Fey (Coblinoid)"
   },
   "alignment": {
-    "es": "",
+    "es": "Caótico malvado",
     "en": "Chaotic Evil"
   },
   "armorClass": 15,
   "hitPoints": "33 (6d8 + 6)",
   "speed": {
-    "es": "",
+    "es": "9 m",
     "en": "30 ft."
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Sigilo +6, Supervivencia +3",
     "en": "Stealth +6, Survival +3"
   },
   "senses": {
-    "es": "",
+    "es": "Visión en la oscuridad 18 m; Percepción pasiva 11",
     "en": "Darkvision 60 ft.; Passive Perception 11"
   },
   "languages": {
-    "es": "",
+    "es": "Común, Goblin",
     "en": "Common, Goblin"
   },
   "challengeRating": "3",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.62). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.62). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

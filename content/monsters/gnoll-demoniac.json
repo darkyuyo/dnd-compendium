@@ -2,25 +2,25 @@
   "id": "monster-gnoll-demoniac",
   "slug": "gnoll-demoniac",
   "name": {
-    "es": "",
+    "es": "Gnoll demoníaco",
     "en": "Gnoll Demoniac"
   },
   "size": {
-    "es": "",
+    "es": "Mediano",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Infernal",
     "en": "Fiend"
   },
   "alignment": {
-    "es": "",
+    "es": "Caótico malvado",
     "en": "Chaotic Evil"
   },
   "armorClass": 14,
   "hitPoints": "71 ('11d8 + 22)",
   "speed": {
-    "es": "",
+    "es": "9 m",
     "en": "30 ft."
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Percepción +5",
     "en": "Perception +5"
   },
   "senses": {
-    "es": "",
+    "es": "Visión en la oscuridad 18 m; Percepción pasiva 10",
     "en": "Darkvision 60 ft.; Passive Perception 10"
   },
   "languages": {
-    "es": "",
+    "es": "Abisal, Cnol I",
     "en": "Abyssal, Cnol I"
   },
   "challengeRating": "4",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.141). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.141). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

@@ -1,0 +1,3110 @@
+{
+  "byEsNorm": {
+    "abrir": {
+      "es": "Abrir",
+      "en": "Knock"
+    },
+    "acelerar": {
+      "es": "Acelerar",
+      "en": "Haste"
+    },
+    "adivinacion": {
+      "es": "Adivinación",
+      "en": "Divination"
+    },
+    "agarre electrizante": {
+      "es": "Agarre electrizante",
+      "en": "Shocking Grasp"
+    },
+    "agrandar reducir": {
+      "es": "Agrandar/reducir",
+      "en": "Enlarge/Reduce"
+    },
+    "alarma": {
+      "es": "Alarma",
+      "en": "Alarm"
+    },
+    "aliado planar": {
+      "es": "Aliado planar",
+      "en": "Planar Ally"
+    },
+    "aliento de dragon": {
+      "es": "Aliento de dragón",
+      "en": "Dragon's Breath"
+    },
+    "alterar el propio aspecto": {
+      "es": "Alterar el propio aspecto",
+      "en": "Alter Self"
+    },
+    "alterar los recuerdos": {
+      "es": "Alterar los recuerdos",
+      "en": "Modify Memory"
+    },
+    "alzar a los muertos": {
+      "es": "Alzar a los muertos",
+      "en": "Raise Dead"
+    },
+    "amistad": {
+      "es": "Amistad",
+      "en": "Friends"
+    },
+    "animar a los muertos": {
+      "es": "Animar a los muertos",
+      "en": "Animate Dead"
+    },
+    "animar objetos": {
+      "es": "Animar objetos",
+      "en": "Animate Objects"
+    },
+    "antipatia simpatia": {
+      "es": "Antipatía/simpatía",
+      "en": "Antipathy/Sympathy"
+    },
+    "apariencia": {
+      "es": "Apariencia",
+      "en": "Seeming"
+    },
+    "arma elemental": {
+      "es": "Arma elemental",
+      "en": "Elemental Weapon"
+    },
+    "arma espiritual": {
+      "es": "Arma espiritual",
+      "en": "Spiritual Weapon"
+    },
+    "arma magica": {
+      "es": "Arma mágica",
+      "en": "Magic Weapon"
+    },
+    "armadura de agathys": {
+      "es": "Armadura de Agathys",
+      "en": "Armor of Agathys"
+    },
+    "armadura de mago": {
+      "es": "Armadura de mago",
+      "en": "Mage Armor"
+    },
+    "asesino fantasmal": {
+      "es": "Asesino fantasmal",
+      "en": "Phantasmal Killer"
+    },
+    "aspectos animales": {
+      "es": "Aspectos animales",
+      "en": "Animal Shapes"
+    },
+    "atadura planar": {
+      "es": "Atadura planar",
+      "en": "Planar Binding"
+    },
+    "augurio": {
+      "es": "Augurio",
+      "en": "Augury"
+    },
+    "aura de pureza": {
+      "es": "Aura de pureza",
+      "en": "Aura of Purity"
+    },
+    "aura de vida": {
+      "es": "Aura de vida",
+      "en": "Aura of Life"
+    },
+    "aura de vitalidad": {
+      "es": "Aura de vitalidad",
+      "en": "Aura of Vitality"
+    },
+    "aura magica de nystul": {
+      "es": "Aura mágica de Nystul",
+      "en": "Nystul's Magic Aura"
+    },
+    "aura sagrada": {
+      "es": "Aura sagrada",
+      "en": "Holy Aura"
+    },
+    "auxilio": {
+      "es": "Auxilio",
+      "en": "Aid"
+    },
+    "baile irresistible de otto": {
+      "es": "Baile irresistible de Otto",
+      "en": "Otto's Irresistible Dance"
+    },
+    "barrera de cuchillas": {
+      "es": "Barrera de cuchillas",
+      "en": "Blade Barrier"
+    },
+    "bendicion": {
+      "es": "Bendición",
+      "en": "Bless"
+    },
+    "boca magica": {
+      "es": "Boca mágica",
+      "en": "Magic Mouth"
+    },
+    "bola de fuego": {
+      "es": "Bola de fuego",
+      "en": "Fireball"
+    },
+    "bola de fuego de explosion retardada": {
+      "es": "Bola de fuego de explosión retardada",
+      "en": "Delayed Blast Fireball"
+    },
+    "brazos de hadar": {
+      "es": "Brazos de Hadar",
+      "en": "Arms of Hadar"
+    },
+    "buenas bayas": {
+      "es": "Buenas bayas",
+      "en": "Goodberry"
+    },
+    "burla danina": {
+      "es": "Burla dañina",
+      "en": "Vicious Mockery"
+    },
+    "caida de pluma": {
+      "es": "Caída de pluma",
+      "en": "Feather Fall"
+    },
+    "caldero burbujeante de tasha": {
+      "es": "Caldero burbujeante de Tasha",
+      "en": "Tasha's Bubbling Cauldron"
+    },
+    "calentar metal": {
+      "es": "Calentar metal",
+      "en": "Heat Metal"
+    },
+    "calmar emociones": {
+      "es": "Calmar emociones",
+      "en": "Calm Emotions"
+    },
+    "cambiar de forma": {
+      "es": "Cambiar de forma",
+      "en": "Shapechange"
+    },
+    "caminar sobre el agua": {
+      "es": "Caminar sobre el agua",
+      "en": "Water Walk"
+    },
+    "campo antimagia": {
+      "es": "Campo antimagia",
+      "en": "Antimagic Field"
+    },
+    "caparazon antivida": {
+      "es": "Caparazón antivida",
+      "en": "Antilife Shell"
+    },
+    "carcaj veloz": {
+      "es": "Carcaj veloz",
+      "en": "Swift Quiver"
+    },
+    "castigo abrasador": {
+      "es": "Castigo abrasador",
+      "en": "Searing Smite"
+    },
+    "castigo abrumador": {
+      "es": "Castigo abrumador",
+      "en": "Staggering Smite"
+    },
+    "castigo atronador": {
+      "es": "Castigo atronador",
+      "en": "Thunderous Smite"
+    },
+    "castigo brillante": {
+      "es": "Castigo brillante",
+      "en": "Shining Smite"
+    },
+    "castigo cegador": {
+      "es": "Castigo cegador",
+      "en": "Blinding Smite"
+    },
+    "castigo desterrador": {
+      "es": "Castigo desterrador",
+      "en": "Banishing Smite"
+    },
+    "castigo divino": {
+      "es": "Castigo divino",
+      "en": "Divine Smite"
+    },
+    "castigo furioso": {
+      "es": "Castigo furioso",
+      "en": "Wrathful Smite"
+    },
+    "cautiverio": {
+      "es": "Cautiverio",
+      "en": "Imprisonment"
+    },
+    "cerradura arcana": {
+      "es": "Cerradura arcana",
+      "en": "Arcane Lock"
+    },
+    "circulo de muerte": {
+      "es": "Círculo de muerte",
+      "en": "Circle of Death"
+    },
+    "circulo de poder": {
+      "es": "Círculo de poder",
+      "en": "Circle of Power"
+    },
+    "circulo de teletransportacion": {
+      "es": "Círculo de teletransportación",
+      "en": "Teleportation Circle"
+    },
+    "circulo magico": {
+      "es": "Círculo mágico",
+      "en": "Magic Circle"
+    },
+    "clarividencia": {
+      "es": "Clarividencia",
+      "en": "Clairvoyance"
+    },
+    "clavo mental": {
+      "es": "Clavo mental",
+      "en": "Mind Spike"
+    },
+    "clon": {
+      "es": "Clon",
+      "en": "Clone"
+    },
+    "cofre oculto de leomund": {
+      "es": "Cofre oculto de Leomund",
+      "en": "Leomund's Secret Chest"
+    },
+    "compulsion": {
+      "es": "Compulsión",
+      "en": "Compulsion"
+    },
+    "comunion": {
+      "es": "Comunión",
+      "en": "Commune"
+    },
+    "comunion con la naturaleza": {
+      "es": "Comunión con la naturaleza",
+      "en": "Commune with Nature"
+    },
+    "confusion": {
+      "es": "Confusión",
+      "en": "Confusion"
+    },
+    "conjurar animales": {
+      "es": "Conjurar animales",
+      "en": "Conjure Animals"
+    },
+    "conjurar celestial": {
+      "es": "Conjurar celestial",
+      "en": "Conjure Celestial"
+    },
+    "conjurar descarga de proyectiles": {
+      "es": "Conjurar descarga de proyectiles",
+      "en": "Conjure Barrage"
+    },
+    "conjurar elemental": {
+      "es": "Conjurar elemental",
+      "en": "Conjure Elemental"
+    },
+    "conjurar elementales menores": {
+      "es": "Conjurar elementales menores",
+      "en": "Conjure Minor Elementals"
+    },
+    "conjurar feerico": {
+      "es": "Conjurar feérico",
+      "en": "Conjure Fey"
+    },
+    "conjurar lluvia de flechas": {
+      "es": "Conjurar lluvia de flechas",
+      "en": "Conjure Volley"
+    },
+    "conjurar seres del bosque": {
+      "es": "Conjurar seres del bosque",
+      "en": "Conjure Woodland Beings"
+    },
+    "cono de frio": {
+      "es": "Cono de frío",
+      "en": "Cone of Cold"
+    },
+    "conocer las leyendas": {
+      "es": "Conocer las leyendas",
+      "en": "Legend Lore"
+    },
+    "consagrar": {
+      "es": "Consagrar",
+      "en": "Hallow"
+    },
+    "contactar con otro plano": {
+      "es": "Contactar con otro plano",
+      "en": "Contact Other Plane"
+    },
+    "contagio": {
+      "es": "Contagio",
+      "en": "Contagion"
+    },
+    "contingencia": {
+      "es": "Contingencia",
+      "en": "Contingency"
+    },
+    "contorno borroso": {
+      "es": "Contorno borroso",
+      "en": "Blur"
+    },
+    "contrahechizo": {
+      "es": "Contrahechizo",
+      "en": "Counterspell"
+    },
+    "controlar agua": {
+      "es": "Controlar agua",
+      "en": "Control Water"
+    },
+    "controlar el clima": {
+      "es": "Controlar el clima",
+      "en": "Control Weather"
+    },
+    "corcel fantasma": {
+      "es": "Corcel fantasma",
+      "en": "Phantom Steed"
+    },
+    "cordon de flechas": {
+      "es": "Cordón de flechas",
+      "en": "Cordon of Arrows"
+    },
+    "corona de la locura": {
+      "es": "Corona de la locura",
+      "en": "Crown of Madness"
+    },
+    "creacion": {
+      "es": "Creación",
+      "en": "Creation"
+    },
+    "crear comida y agua": {
+      "es": "Crear comida y agua",
+      "en": "Create Food and Water"
+    },
+    "crear llama": {
+      "es": "Crear llama",
+      "en": "Produce Flame"
+    },
+    "crear muerto viviente": {
+      "es": "Crear muerto viviente",
+      "en": "Create Undead"
+    },
+    "crear o destruir agua": {
+      "es": "Crear o destruir agua",
+      "en": "Create or Destroy Water"
+    },
+    "crecimiento espinoso": {
+      "es": "Crecimiento espinoso",
+      "en": "Spike Growth"
+    },
+    "crecimiento vegetal": {
+      "es": "Crecimiento vegetal",
+      "en": "Plant Growth"
+    },
+    "cuchillo de hielo": {
+      "es": "Cuchillo de hielo",
+      "en": "Ice Knife"
+    },
+    "curar": {
+      "es": "Curar",
+      "en": "Heal"
+    },
+    "curar en masa": {
+      "es": "Curar en masa",
+      "en": "Mass Heal"
+    },
+    "curar heridas": {
+      "es": "Curar heridas",
+      "en": "Cure Wounds"
+    },
+    "curar heridas en masa": {
+      "es": "Curar heridas en masa",
+      "en": "Mass Cure Wounds"
+    },
+    "danar": {
+      "es": "Dañar",
+      "en": "Harm"
+    },
+    "de la carne a la piedra": {
+      "es": "De la carne a la piedra",
+      "en": "Flesh to Stone"
+    },
+    "dedo de la muerte": {
+      "es": "Dedo de la muerte",
+      "en": "Finger of Death"
+    },
+    "descarga de fuego": {
+      "es": "Descarga de fuego",
+      "en": "Fire Bolt"
+    },
+    "descarga sobrenatural": {
+      "es": "Descarga sobrenatural",
+      "en": "Eldritch Blast"
+    },
+    "deseo": {
+      "es": "Deseo",
+      "en": "Wish"
+    },
+    "desintegrar": {
+      "es": "Desintegrar",
+      "en": "Disintegrate"
+    },
+    "despertar": {
+      "es": "Despertar",
+      "en": "Awaken"
+    },
+    "desplazamiento": {
+      "es": "Desplazamiento",
+      "en": "Blink"
+    },
+    "desplazamiento entre planos": {
+      "es": "Desplazamiento entre planos",
+      "en": "Plane Shift"
+    },
+    "destierro": {
+      "es": "Destierro",
+      "en": "Banishment"
+    },
+    "detectar el bien y el mal": {
+      "es": "Detectar el bien y el mal",
+      "en": "Detect Evil and Good"
+    },
+    "detectar magia": {
+      "es": "Detectar magia",
+      "en": "Detect Magic"
+    },
+    "detectar pensamientos": {
+      "es": "Detectar pensamientos",
+      "en": "Detect Thoughts"
+    },
+    "detectar trampas": {
+      "es": "Detectar trampas",
+      "en": "Find Traps"
+    },
+    "detectar venenos y enfermedades": {
+      "es": "Detectar venenos y enfermedades",
+      "en": "Detect Poison and Disease"
+    },
+    "disco flotante de tenser": {
+      "es": "Disco flotante de Tenser",
+      "en": "Tenser's Floating Disk"
+    },
+    "disfrazarse": {
+      "es": "Disfrazarse",
+      "en": "Disguise Self"
+    },
+    "disipar el bien y el mal": {
+      "es": "Disipar el bien y el mal",
+      "en": "Dispel Evil and Good"
+    },
+    "disipar magia": {
+      "es": "Disipar magia",
+      "en": "Dispel Magic"
+    },
+    "dominar bestia": {
+      "es": "Dominar bestia",
+      "en": "Dominate Beast"
+    },
+    "dominar monstruo": {
+      "es": "Dominar monstruo",
+      "en": "Dominate Monster"
+    },
+    "dominar persona": {
+      "es": "Dominar persona",
+      "en": "Dominate Person"
+    },
+    "don de lenguas": {
+      "es": "Don de lenguas",
+      "en": "Tongues"
+    },
+    "dormir": {
+      "es": "Dormir",
+      "en": "Sleep"
+    },
+    "duelo forzado": {
+      "es": "Duelo forzado",
+      "en": "Compelled Duel"
+    },
+    "dulce descanso": {
+      "es": "Dulce descanso",
+      "en": "Gentle Repose"
+    },
+    "elementalismo": {
+      "es": "Elementalismo",
+      "en": "Elementalism"
+    },
+    "embelesar": {
+      "es": "Embelesar",
+      "en": "Enthrall"
+    },
+    "encantar animal": {
+      "es": "Encantar animal",
+      "en": "Animal Friendship"
+    },
+    "encontrar el camino": {
+      "es": "Encontrar el camino",
+      "en": "Find the Path"
+    },
+    "encontrar familiar": {
+      "es": "Encontrar familiar",
+      "en": "Find Familiar"
+    },
+    "enganar": {
+      "es": "Engañar",
+      "en": "Mislead"
+    },
+    "enlace telepatico de rary": {
+      "es": "Enlace telepático de Rary",
+      "en": "Rary's Telepathic Bond"
+    },
+    "enmaranar": {
+      "es": "Enmarañar",
+      "en": "Entangle"
+    },
+    "enredadera": {
+      "es": "Enredadera",
+      "en": "Grasping Vine"
+    },
+    "ensueno": {
+      "es": "Ensueño",
+      "en": "Dream"
+    },
+    "entender idiomas": {
+      "es": "Entender idiomas",
+      "en": "Comprehend Languages"
+    },
+    "escudo": {
+      "es": "Escudo",
+      "en": "Shield"
+    },
+    "escudo de fe": {
+      "es": "Escudo de fe",
+      "en": "Shield of Faith"
+    },
+    "escudo de fuego": {
+      "es": "Escudo de fuego",
+      "en": "Fire Shield"
+    },
+    "escudrinar": {
+      "es": "Escudriñar",
+      "en": "Scrying"
+    },
+    "esfera congelante de otiluke": {
+      "es": "Esfera congelante de Otiluke",
+      "en": "Otiluke's Freezing Sphere"
+    },
+    "esfera de llamas": {
+      "es": "Esfera de llamas",
+      "en": "Flaming Sphere"
+    },
+    "esfera elastica de otiluke": {
+      "es": "Esfera elástica de Otiluke",
+      "en": "Otiluke's Resilient Sphere"
+    },
+    "esfera vitriolica": {
+      "es": "Esfera vitriólica",
+      "en": "Vitriolic Sphere"
+    },
+    "espada de mordenkainen": {
+      "es": "Espada de Mordenkainen",
+      "en": "Mordenkainen's Sword"
+    },
+    "espejismo arcano": {
+      "es": "Espejismo arcano",
+      "en": "Mirage Arcane"
+    },
+    "espiritus guardianes": {
+      "es": "Espíritus guardianes",
+      "en": "Spirit Guardians"
+    },
+    "estallido magico": {
+      "es": "Estallido mágico",
+      "en": "Sorcerous Burst"
+    },
+    "estatica sinaptica": {
+      "es": "Estática sináptica",
+      "en": "Synaptic Static"
+    },
+    "excursion eterea": {
+      "es": "Excursión etérea",
+      "en": "Etherealness"
+    },
+    "explosion solar": {
+      "es": "Explosión solar",
+      "en": "Sunburst"
+    },
+    "fabricar": {
+      "es": "Fabricar",
+      "en": "Fabricate"
+    },
+    "falsa vida": {
+      "es": "Falsa vida",
+      "en": "False Life"
+    },
+    "favor divino": {
+      "es": "Favor divino",
+      "en": "Divine Favor"
+    },
+    "festin de heroes": {
+      "es": "Festín de héroes",
+      "en": "Heroes' Feast"
+    },
+    "fingir muerte": {
+      "es": "Fingir muerte",
+      "en": "Feign Death"
+    },
+    "flecha acida de melf": {
+      "es": "Flecha acida de Melf",
+      "en": "Melf's Acid Arrow"
+    },
+    "flecha de relampago": {
+      "es": "Flecha de relámpago",
+      "en": "Lightning Arrow"
+    },
+    "forma gaseosa": {
+      "es": "Forma gaseosa",
+      "en": "Gaseous Form"
+    },
+    "fragmento mental": {
+      "es": "Fragmento mental",
+      "en": "Mind Sliver"
+    },
+    "fuego feerico": {
+      "es": "Fuego feérico",
+      "en": "Faerie Fire"
+    },
+    "fuente de la luz lunar": {
+      "es": "Fuente de la luz lunar",
+      "en": "Fount of Moonlight"
+    },
+    "fuerza fantasmal": {
+      "es": "Fuerza fantasmal",
+      "en": "Phantasmal Force"
+    },
+    "fundirse con la piedra": {
+      "es": "Fundirse con la piedra",
+      "en": "Meld into Stone"
+    },
+    "geas": {
+      "es": "Geas",
+      "en": "Geas"
+    },
+    "glifo custodio": {
+      "es": "Glifo custodio",
+      "en": "Glyph of Warding"
+    },
+    "globo de invulnerabilidad": {
+      "es": "Globo de invulnerabilidad",
+      "en": "Globe of Invulnerability"
+    },
+    "golpe apresador": {
+      "es": "Golpe apresador",
+      "en": "Ensnaring Strike"
+    },
+    "golpe de viento acerado": {
+      "es": "Golpe de viento acerado",
+      "en": "Steel Wind Strike"
+    },
+    "golpe flamigero": {
+      "es": "Golpe flamígero",
+      "en": "Flame Strike"
+    },
+    "grasa": {
+      "es": "Grasa",
+      "en": "Grease"
+    },
+    "guarda contra la muerte": {
+      "es": "Guarda contra la muerte",
+      "en": "Death Ward"
+    },
+    "guardas y guardias": {
+      "es": "Guardas y guardias",
+      "en": "Guards and Wards"
+    },
+    "guardia de cuchillas": {
+      "es": "Guardia de cuchillas",
+      "en": "Blade Ward"
+    },
+    "guardian de la fe": {
+      "es": "Guardián de la fe",
+      "en": "Guardian of Faith"
+    },
+    "guia": {
+      "es": "Guía",
+      "en": "Guidance"
+    },
+    "hablar con las plantas": {
+      "es": "Hablar con las plantas",
+      "en": "Speak with Plants"
+    },
+    "hablar con los animales": {
+      "es": "Hablar con los animales",
+      "en": "Speak with Animals"
+    },
+    "hablar con los muertos": {
+      "es": "Hablar con los muertos",
+      "en": "Speak with Dead"
+    },
+    "hacer anicos": {
+      "es": "Hacer añicos",
+      "en": "Shatter"
+    },
+    "hallar corcel": {
+      "es": "Hallar corcel",
+      "en": "Find Steed"
+    },
+    "hambre de hadar": {
+      "es": "Hambre de Hadar",
+      "en": "Hunger of Hadar"
+    },
+    "hechizar monstruo": {
+      "es": "Hechizar monstruo",
+      "en": "Charm Monster"
+    },
+    "hechizar persona": {
+      "es": "Hechizar persona",
+      "en": "Charm Person"
+    },
+    "heroismo": {
+      "es": "Heroísmo",
+      "en": "Heroism"
+    },
+    "hoja de fuego": {
+      "es": "Hoja de fuego",
+      "en": "Flame Blade"
+    },
+    "identificar": {
+      "es": "Identificar",
+      "en": "Identify"
+    },
+    "ilusion menor": {
+      "es": "Ilusión menor",
+      "en": "Minor Illusion"
+    },
+    "ilusion programada": {
+      "es": "Ilusión programada",
+      "en": "Programmed Illusion"
+    },
+    "imagen mayor": {
+      "es": "Imagen mayor",
+      "en": "Major Image"
+    },
+    "imagen multiple": {
+      "es": "Imagen múltiple",
+      "en": "Mirror Image"
+    },
+    "imagen silenciosa": {
+      "es": "Imagen silenciosa",
+      "en": "Silent Image"
+    },
+    "impacto certero": {
+      "es": "Impacto certero",
+      "en": "True Strike"
+    },
+    "imponer maldicion": {
+      "es": "Imponer maldición",
+      "en": "Bestow Curse"
+    },
+    "indetectable": {
+      "es": "Indetectable",
+      "en": "Nondetection"
+    },
+    "infligir heridas": {
+      "es": "Infligir heridas",
+      "en": "Inflict Wounds"
+    },
+    "inmovilizar monstruo": {
+      "es": "Inmovilizar monstruo",
+      "en": "Hold Monster"
+    },
+    "inmovilizar persona": {
+      "es": "Inmovilizar persona",
+      "en": "Hold Person"
+    },
+    "insecto gigante": {
+      "es": "Insecto gigante",
+      "en": "Giant Insect"
+    },
+    "invertir la gravedad": {
+      "es": "Invertir la gravedad",
+      "en": "Reverse Gravity"
+    },
+    "invisibilidad": {
+      "es": "Invisibilidad",
+      "en": "Invisibility"
+    },
+    "invisibilidad mejorada": {
+      "es": "Invisibilidad mejorada",
+      "en": "Greater Invisibility"
+    },
+    "invocacion instantanea de drawmij": {
+      "es": "Invocación instantánea de Drawmij",
+      "en": "Drawmij's Instant Summons"
+    },
+    "invocar aberracion": {
+      "es": "Invocar aberración",
+      "en": "Summon Aberration"
+    },
+    "invocar automata": {
+      "es": "Invocar autómata",
+      "en": "Summon Construct"
+    },
+    "invocar bestia": {
+      "es": "Invocar bestia",
+      "en": "Summon Beast"
+    },
+    "invocar celestial": {
+      "es": "Invocar celestial",
+      "en": "Summon Celestial"
+    },
+    "invocar dragon": {
+      "es": "Invocar dragón",
+      "en": "Summon Dragon"
+    },
+    "invocar elemental": {
+      "es": "Invocar elemental",
+      "en": "Summon Elemental"
+    },
+    "invocar feerico": {
+      "es": "Invocar feérico",
+      "en": "Summon Fey"
+    },
+    "invocar infernal": {
+      "es": "Invocar infernal",
+      "en": "Summon Fiend"
+    },
+    "invocar muerto viviente": {
+      "es": "Invocar muerto viviente",
+      "en": "Summon Undead"
+    },
+    "jaula de fuerza": {
+      "es": "Jaula de fuerza",
+      "en": "Forcecage"
+    },
+    "laberinto": {
+      "es": "Laberinto",
+      "en": "Maze"
+    },
+    "labia": {
+      "es": "Labia",
+      "en": "Glibness"
+    },
+    "latigo de espinas": {
+      "es": "Látigo de espinas",
+      "en": "Thorn Whip"
+    },
+    "levantar maldicion": {
+      "es": "Levantar maldición",
+      "en": "Remove Curse"
+    },
+    "levitar": {
+      "es": "Levitar",
+      "en": "Levitate"
+    },
+    "libertad de movimiento": {
+      "es": "Libertad de movimiento",
+      "en": "Freedom of Movement"
+    },
+    "llama permanente": {
+      "es": "Llama permanente",
+      "en": "Continual Flame"
+    },
+    "llama sagrada": {
+      "es": "Llama sagrada",
+      "en": "Sacred Flame"
+    },
+    "llamar al relampago": {
+      "es": "Llamar al relámpago",
+      "en": "Call Lightning"
+    },
+    "localizar animales o plantas": {
+      "es": "Localizar animales o plantas",
+      "en": "Locate Animals or Plants"
+    },
+    "localizar criatura": {
+      "es": "Localizar criatura",
+      "en": "Locate Creature"
+    },
+    "localizar objeto": {
+      "es": "Localizar objeto",
+      "en": "Locate Object"
+    },
+    "luces danzantes": {
+      "es": "Luces danzantes",
+      "en": "Dancing Lights"
+    },
+    "luz": {
+      "es": "Luz",
+      "en": "Light"
+    },
+    "luz del dia": {
+      "es": "Luz del día",
+      "en": "Daylight"
+    },
+    "mal de ojo": {
+      "es": "Mal de ojo",
+      "en": "Eyebite"
+    },
+    "maleficio": {
+      "es": "Maleficio",
+      "en": "Hex"
+    },
+    "mano de bigby": {
+      "es": "Mano de Bigby",
+      "en": "Bigby's Hand"
+    },
+    "mano de mago": {
+      "es": "Mano de mago",
+      "en": "Mage Hand"
+    },
+    "manos ardientes": {
+      "es": "Manos ardientes",
+      "en": "Burning Hands"
+    },
+    "mansion magnifica de mordenkainen": {
+      "es": "Mansión magnífica de Mordenkainen",
+      "en": "Mordenkainen's Magnificent Mansion"
+    },
+    "manto del cruzado": {
+      "es": "Manto del cruzado",
+      "en": "Crusader's Mantle"
+    },
+    "marca del cazador": {
+      "es": "Marca del cazador",
+      "en": "Hunter's Mark"
+    },
+    "marchitar": {
+      "es": "Marchitar",
+      "en": "Blight"
+    },
+    "mastin fiel de mordenkainen": {
+      "es": "Mastín fiel de Mordenkainen",
+      "en": "Mordenkainen's Faithful Hound"
+    },
+    "mensaje": {
+      "es": "Mensaje",
+      "en": "Message"
+    },
+    "mensajero animal": {
+      "es": "Mensajero animal",
+      "en": "Animal Messenger"
+    },
+    "mente en blanco": {
+      "es": "Mente en blanco",
+      "en": "Mind Blank"
+    },
+    "moldear la piedra": {
+      "es": "Moldear la piedra",
+      "en": "Stone Shape"
+    },
+    "mover la tierra": {
+      "es": "Mover la tierra",
+      "en": "Move Earth"
+    },
+    "muro de espinas": {
+      "es": "Muro de espinas",
+      "en": "Wall of Thorns"
+    },
+    "muro de fuego": {
+      "es": "Muro de fuego",
+      "en": "Wall of Fire"
+    },
+    "muro de fuerza": {
+      "es": "Muro de fuerza",
+      "en": "Wall of Force"
+    },
+    "muro de hielo": {
+      "es": "Muro de hielo",
+      "en": "Wall of Ice"
+    },
+    "muro de piedra": {
+      "es": "Muro de piedra",
+      "en": "Wall of Stone"
+    },
+    "muro de viento": {
+      "es": "Muro de viento",
+      "en": "Wind Wall"
+    },
+    "muro prismatico": {
+      "es": "Muro prismático",
+      "en": "Prismatic Wall"
+    },
+    "nube aniquiladora": {
+      "es": "Nube aniquiladora",
+      "en": "Cloudkill"
+    },
+    "nube apestosa": {
+      "es": "Nube apestosa",
+      "en": "Stinking Cloud"
+    },
+    "nube de dagas": {
+      "es": "Nube de dagas",
+      "en": "Cloud of Daggers"
+    },
+    "nube de oscurecimiento": {
+      "es": "Nube de oscurecimiento",
+      "en": "Fog Cloud"
+    },
+    "nube incendiaria": {
+      "es": "Nube incendiaria",
+      "en": "Incendiary Cloud"
+    },
+    "ofuscacion": {
+      "es": "Ofuscación",
+      "en": "Befuddlement"
+    },
+    "ojo arcano": {
+      "es": "Ojo arcano",
+      "en": "Arcane Eye"
+    },
+    "ola atronadora": {
+      "es": "Ola atronadora",
+      "en": "Thunderwave"
+    },
+    "ola destructora": {
+      "es": "Ola destructora",
+      "en": "Destructive Wave"
+    },
+    "orbe cromatico": {
+      "es": "Orbe cromático",
+      "en": "Chromatic Orb"
+    },
+    "orden imperiosa": {
+      "es": "Orden imperiosa",
+      "en": "Command"
+    },
+    "oscuridad": {
+      "es": "Oscuridad",
+      "en": "Darkness"
+    },
+    "palabra de curacion": {
+      "es": "Palabra de curación",
+      "en": "Healing Word"
+    },
+    "palabra de curacion en masa": {
+      "es": "Palabra de curación en masa",
+      "en": "Mass Healing Word"
+    },
+    "palabra de poder aturdir": {
+      "es": "Palabra de poder aturdir",
+      "en": "Power Word Stun"
+    },
+    "palabra de poder matar": {
+      "es": "Palabra de poder matar",
+      "en": "Power Word Kill"
+    },
+    "palabra de poder sanar": {
+      "es": "Palabra de poder sanar",
+      "en": "Power Word Heal"
+    },
+    "palabra de regreso": {
+      "es": "Palabra de regreso",
+      "en": "Word of Recall"
+    },
+    "palabra de resplandor": {
+      "es": "Palabra de resplandor",
+      "en": "Word of Radiance"
+    },
+    "palabra divina": {
+      "es": "Palabra divina",
+      "en": "Divine Word"
+    },
+    "parar el tiempo": {
+      "es": "Parar el tiempo",
+      "en": "Time Stop"
+    },
+    "pasamuros": {
+      "es": "Pasamuros",
+      "en": "Passwall"
+    },
+    "pasar sin rastro": {
+      "es": "Pasar sin rastro",
+      "en": "Pass without Trace"
+    },
+    "paso arboreo": {
+      "es": "Paso arbóreo",
+      "en": "Tree Stride"
+    },
+    "paso brumoso": {
+      "es": "Paso brumoso",
+      "en": "Misty Step"
+    },
+    "patron hipnotico": {
+      "es": "Patrón hipnótico",
+      "en": "Hypnotic Pattern"
+    },
+    "pequena choza de leomund": {
+      "es": "Pequeña choza de Leomund",
+      "en": "Leomund's Tiny Hut"
+    },
+    "perdicion": {
+      "es": "Perdición",
+      "en": "Bane"
+    },
+    "piedad con los moribundos": {
+      "es": "Piedad con los moribundos",
+      "en": "Spare the Dying"
+    },
+    "piel petrea": {
+      "es": "Piel pétrea",
+      "en": "Stoneskin"
+    },
+    "piel robliza": {
+      "es": "Piel robliza",
+      "en": "Barkskin"
+    },
+    "plaga de insectos": {
+      "es": "Plaga de insectos",
+      "en": "Insect Plague"
+    },
+    "plegaria de curacion": {
+      "es": "Plegaria de curación",
+      "en": "Prayer of Healing"
+    },
+    "polimorfar": {
+      "es": "Polimorfar",
+      "en": "Polymorph"
+    },
+    "polimorfar verdadero": {
+      "es": "Polimorfar verdadero",
+      "en": "True Polymorph"
+    },
+    "portal": {
+      "es": "Portal",
+      "en": "Gate"
+    },
+    "potenciar caracteristica": {
+      "es": "Potenciar característica",
+      "en": "Enhance Ability"
+    },
+    "presciencia": {
+      "es": "Presciencia",
+      "en": "Foresight"
+    },
+    "presencia regia de yolande": {
+      "es": "Presencia regia de Yolande",
+      "en": "Yolande's Regal Presence"
+    },
+    "prestidigitacion": {
+      "es": "Prestidigitación",
+      "en": "Prestidigitation"
+    },
+    "prohibicion": {
+      "es": "Prohibición",
+      "en": "Forbiddance"
+    },
+    "proteccion contra el bien y el mal": {
+      "es": "Protección contra el bien y el mal",
+      "en": "Protection from Evil and Good"
+    },
+    "proteccion contra energia": {
+      "es": "Protección contra energía",
+      "en": "Protection from Energy"
+    },
+    "proteccion contra veneno": {
+      "es": "Protección contra veneno",
+      "en": "Protection from Poison"
+    },
+    "proyeccion astral": {
+      "es": "Proyección astral",
+      "en": "Astral Projection"
+    },
+    "proyectar imagen": {
+      "es": "Proyectar imagen",
+      "en": "Project Image"
+    },
+    "proyectil magico": {
+      "es": "Proyectil mágico",
+      "en": "Magic Missile"
+    },
+    "puerta dimensional": {
+      "es": "Puerta dimensional",
+      "en": "Dimension Door"
+    },
+    "purificar comida y bebida": {
+      "es": "Purificar comida y bebida",
+      "en": "Purify Food and Drink"
+    },
+    "rafaga de viento": {
+      "es": "Ráfaga de viento",
+      "en": "Gust of Wind"
+    },
+    "ralentizar": {
+      "es": "Ralentizar",
+      "en": "Slow"
+    },
+    "rayo abrasador": {
+      "es": "Rayo abrasador",
+      "en": "Scorching Ray"
+    },
+    "rayo de escarcha": {
+      "es": "Rayo de escarcha",
+      "en": "Ray of Frost"
+    },
+    "rayo de hechiceria": {
+      "es": "Rayo de hechicería",
+      "en": "Witch Bolt"
+    },
+    "rayo de luna": {
+      "es": "Rayo de luna",
+      "en": "Moonbeam"
+    },
+    "rayo debilitador": {
+      "es": "Rayo debilitador",
+      "en": "Ray of Enfeeblement"
+    },
+    "rayo nauseabundo": {
+      "es": "Rayo nauseabundo",
+      "en": "Ray of Sickness"
+    },
+    "rayo solar": {
+      "es": "Rayo solar",
+      "en": "Sunbeam"
+    },
+    "recado": {
+      "es": "Recado",
+      "en": "Sending"
+    },
+    "recluir": {
+      "es": "Recluir",
+      "en": "Sequester"
+    },
+    "reencarnar": {
+      "es": "Reencarnar",
+      "en": "Reincarnate"
+    },
+    "regenerar": {
+      "es": "Regenerar",
+      "en": "Regenerate"
+    },
+    "relampago": {
+      "es": "Relámpago",
+      "en": "Lightning Bolt"
+    },
+    "relampago en cadena": {
+      "es": "Relámpago en cadena",
+      "en": "Chain Lightning"
+    },
+    "reparar": {
+      "es": "Reparar",
+      "en": "Mending"
+    },
+    "reprension infernal": {
+      "es": "Reprensión infernal",
+      "en": "Hellish Rebuke"
+    },
+    "resistencia": {
+      "es": "Resistencia",
+      "en": "Resistance"
+    },
+    "respirar bajo el agua": {
+      "es": "Respirar bajo el agua",
+      "en": "Water Breathing"
+    },
+    "restablecimiento mayor": {
+      "es": "Restablecimiento mayor",
+      "en": "Greater Restoration"
+    },
+    "restablecimiento menor": {
+      "es": "Restablecimiento menor",
+      "en": "Lesser Restoration"
+    },
+    "resurreccion": {
+      "es": "Resurrección",
+      "en": "Resurrection"
+    },
+    "resurreccion verdadera": {
+      "es": "Resurrección verdadera",
+      "en": "True Resurrection"
+    },
+    "retirada expeditiva": {
+      "es": "Retirada expeditiva",
+      "en": "Expeditious Retreat"
+    },
+    "revivir": {
+      "es": "Revivir",
+      "en": "Revivify"
+    },
+    "risa horrible de tasha": {
+      "es": "Risa horrible de Tasha",
+      "en": "Tasha's Hideous Laughter"
+    },
+    "rociada de color": {
+      "es": "Rociada de color",
+      "en": "Color Spray"
+    },
+    "rociada prismatica": {
+      "es": "Rociada prismática",
+      "en": "Prismatic Spray"
+    },
+    "rociada venenosa": {
+      "es": "Rociada venenosa",
+      "en": "Poison Spray"
+    },
+    "saber druidico": {
+      "es": "Saber druídico",
+      "en": "Druidcraft"
+    },
+    "saeta guia": {
+      "es": "Saeta guía",
+      "en": "Guiding Bolt"
+    },
+    "salpicadura acida": {
+      "es": "Salpicadura ácida",
+      "en": "Acid Splash"
+    },
+    "salto": {
+      "es": "Salto",
+      "en": "Jump"
+    },
+    "sanctasanctorum privado de mordenkainen": {
+      "es": "Sanctasanctórum privado de Mordenkainen",
+      "en": "Mordenkainen's Private Sanctum"
+    },
+    "santuario": {
+      "es": "Santuario",
+      "en": "Sanctuary"
+    },
+    "semiplano": {
+      "es": "Semiplano",
+      "en": "Demiplane"
+    },
+    "senal de esperanza": {
+      "es": "Señal de esperanza",
+      "en": "Beacon of Hope"
+    },
+    "sentidos de la bestia": {
+      "es": "Sentidos de la bestia",
+      "en": "Beast Sense"
+    },
+    "shillelagh": {
+      "es": "Shillelagh",
+      "en": "Shillelagh"
+    },
+    "silencio": {
+      "es": "Silencio",
+      "en": "Silence"
+    },
+    "simbolo": {
+      "es": "Símbolo",
+      "en": "Symbol"
+    },
+    "simulacro": {
+      "es": "Simulacro",
+      "en": "Simulacrum"
+    },
+    "sirviente invisible": {
+      "es": "Sirviente invisible",
+      "en": "Unseen Servant"
+    },
+    "sordera ceguera": {
+      "es": "Sordera/ceguera",
+      "en": "Blindness/Deafness"
+    },
+    "sugestion": {
+      "es": "Sugestión",
+      "en": "Suggestion"
+    },
+    "sugestion en masa": {
+      "es": "Sugestión en masa",
+      "en": "Mass Suggestion"
+    },
+    "susurros discordantes": {
+      "es": "Susurros discordantes",
+      "en": "Dissonant Whispers"
+    },
+    "tanido por los muertos": {
+      "es": "Tañido por los muertos",
+      "en": "Toll the Dead"
+    },
+    "taumaturgia": {
+      "es": "Taumaturgia",
+      "en": "Thaumaturgy"
+    },
+    "telarana": {
+      "es": "Telaraña",
+      "en": "Web"
+    },
+    "telequinesis": {
+      "es": "Telequinesis",
+      "en": "Telekinesis"
+    },
+    "teletransporte": {
+      "es": "Teletransporte",
+      "en": "Teleport"
+    },
+    "tentaculos negros de evard": {
+      "es": "Tentáculos negros de Evard",
+      "en": "Evard's Black Tentacles"
+    },
+    "terremoto": {
+      "es": "Terremoto",
+      "en": "Earthquake"
+    },
+    "terreno alucinatorio": {
+      "es": "Terreno alucinatorio",
+      "en": "Hallucinatory Terrain"
+    },
+    "terror": {
+      "es": "Terror",
+      "en": "Fear"
+    },
+    "terror abyecto": {
+      "es": "Terror abyecto",
+      "en": "Weird"
+    },
+    "texto ilusorio": {
+      "es": "Texto ilusorio",
+      "en": "Illusory Script"
+    },
+    "toque helado": {
+      "es": "Toque helado",
+      "en": "Chill Touch"
+    },
+    "toque vampirico": {
+      "es": "Toque vampírico",
+      "en": "Vampiric Touch"
+    },
+    "tormenta de aguanieve": {
+      "es": "Tormenta de aguanieve",
+      "en": "Sleet Storm"
+    },
+    "tormenta de espinas": {
+      "es": "Tormenta de espinas",
+      "en": "Hail of Thorns"
+    },
+    "tormenta de fuego": {
+      "es": "Tormenta de fuego",
+      "en": "Fire Storm"
+    },
+    "tormenta de hielo": {
+      "es": "Tormenta de hielo",
+      "en": "Ice Storm"
+    },
+    "tormenta de la venganza": {
+      "es": "Tormenta de la venganza",
+      "en": "Storm of Vengeance"
+    },
+    "tormenta de meteoritos": {
+      "es": "Tormenta de meteoritos",
+      "en": "Meteor Swarm"
+    },
+    "tormenta resplandeciente de jallarzi": {
+      "es": "Tormenta resplandeciente de Jallarzi",
+      "en": "Jallarzi's Storm of Radiance"
+    },
+    "trepar cual aracnido": {
+      "es": "Trepar cual arácnido",
+      "en": "Spider Climb"
+    },
+    "tronar": {
+      "es": "Tronar",
+      "en": "Thunderclap"
+    },
+    "truco de la cuerda": {
+      "es": "Truco de la cuerda",
+      "en": "Rope Trick"
+    },
+    "tsunami": {
+      "es": "Tsunami",
+      "en": "Tsunami"
+    },
+    "urna magica": {
+      "es": "Urna mágica",
+      "en": "Magic Jar"
+    },
+    "ver invisibilidad": {
+      "es": "Ver invisibilidad",
+      "en": "See Invisibility"
+    },
+    "viajar con el viento": {
+      "es": "Viajar con el viento",
+      "en": "Wind Walk"
+    },
+    "viajar mediante plantas": {
+      "es": "Viajar mediante plantas",
+      "en": "Transport via Plants"
+    },
+    "vigor arcano": {
+      "es": "Vigor arcano",
+      "en": "Arcane Vigor"
+    },
+    "vinculo protector": {
+      "es": "Vínculo protector",
+      "en": "Warding Bond"
+    },
+    "vision en la oscuridad": {
+      "es": "Visión en la oscuridad",
+      "en": "Darkvision"
+    },
+    "vision veraz": {
+      "es": "Visión veraz",
+      "en": "True Seeing"
+    },
+    "volar": {
+      "es": "Volar",
+      "en": "Fly"
+    },
+    "voluta estelar": {
+      "es": "Voluta estelar",
+      "en": "Starry Wisp"
+    },
+    "zancada prodigiosa": {
+      "es": "Zancada prodigiosa",
+      "en": "Longstrider"
+    },
+    "zona de la verdad": {
+      "es": "Zona de la verdad",
+      "en": "Zone of Truth"
+    }
+  },
+  "byEnNorm": {
+    "knock": {
+      "es": "Abrir",
+      "en": "Knock"
+    },
+    "haste": {
+      "es": "Acelerar",
+      "en": "Haste"
+    },
+    "divination": {
+      "es": "Adivinación",
+      "en": "Divination"
+    },
+    "shocking grasp": {
+      "es": "Agarre electrizante",
+      "en": "Shocking Grasp"
+    },
+    "enlarge reduce": {
+      "es": "Agrandar/reducir",
+      "en": "Enlarge/Reduce"
+    },
+    "alarm": {
+      "es": "Alarma",
+      "en": "Alarm"
+    },
+    "planar ally": {
+      "es": "Aliado planar",
+      "en": "Planar Ally"
+    },
+    "dragon s breath": {
+      "es": "Aliento de dragón",
+      "en": "Dragon's Breath"
+    },
+    "alter self": {
+      "es": "Alterar el propio aspecto",
+      "en": "Alter Self"
+    },
+    "modify memory": {
+      "es": "Alterar los recuerdos",
+      "en": "Modify Memory"
+    },
+    "raise dead": {
+      "es": "Alzar a los muertos",
+      "en": "Raise Dead"
+    },
+    "friends": {
+      "es": "Amistad",
+      "en": "Friends"
+    },
+    "animate dead": {
+      "es": "Animar a los muertos",
+      "en": "Animate Dead"
+    },
+    "animate objects": {
+      "es": "Animar objetos",
+      "en": "Animate Objects"
+    },
+    "antipathy sympathy": {
+      "es": "Antipatía/simpatía",
+      "en": "Antipathy/Sympathy"
+    },
+    "seeming": {
+      "es": "Apariencia",
+      "en": "Seeming"
+    },
+    "elemental weapon": {
+      "es": "Arma elemental",
+      "en": "Elemental Weapon"
+    },
+    "spiritual weapon": {
+      "es": "Arma espiritual",
+      "en": "Spiritual Weapon"
+    },
+    "magic weapon": {
+      "es": "Arma mágica",
+      "en": "Magic Weapon"
+    },
+    "armor of agathys": {
+      "es": "Armadura de Agathys",
+      "en": "Armor of Agathys"
+    },
+    "mage armor": {
+      "es": "Armadura de mago",
+      "en": "Mage Armor"
+    },
+    "phantasmal killer": {
+      "es": "Asesino fantasmal",
+      "en": "Phantasmal Killer"
+    },
+    "animal shapes": {
+      "es": "Aspectos animales",
+      "en": "Animal Shapes"
+    },
+    "planar binding": {
+      "es": "Atadura planar",
+      "en": "Planar Binding"
+    },
+    "augury": {
+      "es": "Augurio",
+      "en": "Augury"
+    },
+    "aura of purity": {
+      "es": "Aura de pureza",
+      "en": "Aura of Purity"
+    },
+    "aura of life": {
+      "es": "Aura de vida",
+      "en": "Aura of Life"
+    },
+    "aura of vitality": {
+      "es": "Aura de vitalidad",
+      "en": "Aura of Vitality"
+    },
+    "nystul s magic aura": {
+      "es": "Aura mágica de Nystul",
+      "en": "Nystul's Magic Aura"
+    },
+    "holy aura": {
+      "es": "Aura sagrada",
+      "en": "Holy Aura"
+    },
+    "aid": {
+      "es": "Auxilio",
+      "en": "Aid"
+    },
+    "otto s irresistible dance": {
+      "es": "Baile irresistible de Otto",
+      "en": "Otto's Irresistible Dance"
+    },
+    "blade barrier": {
+      "es": "Barrera de cuchillas",
+      "en": "Blade Barrier"
+    },
+    "bless": {
+      "es": "Bendición",
+      "en": "Bless"
+    },
+    "magic mouth": {
+      "es": "Boca mágica",
+      "en": "Magic Mouth"
+    },
+    "fireball": {
+      "es": "Bola de fuego",
+      "en": "Fireball"
+    },
+    "delayed blast fireball": {
+      "es": "Bola de fuego de explosión retardada",
+      "en": "Delayed Blast Fireball"
+    },
+    "arms of hadar": {
+      "es": "Brazos de Hadar",
+      "en": "Arms of Hadar"
+    },
+    "goodberry": {
+      "es": "Buenas bayas",
+      "en": "Goodberry"
+    },
+    "vicious mockery": {
+      "es": "Burla dañina",
+      "en": "Vicious Mockery"
+    },
+    "feather fall": {
+      "es": "Caída de pluma",
+      "en": "Feather Fall"
+    },
+    "tasha s bubbling cauldron": {
+      "es": "Caldero burbujeante de Tasha",
+      "en": "Tasha's Bubbling Cauldron"
+    },
+    "heat metal": {
+      "es": "Calentar metal",
+      "en": "Heat Metal"
+    },
+    "calm emotions": {
+      "es": "Calmar emociones",
+      "en": "Calm Emotions"
+    },
+    "shapechange": {
+      "es": "Cambiar de forma",
+      "en": "Shapechange"
+    },
+    "water walk": {
+      "es": "Caminar sobre el agua",
+      "en": "Water Walk"
+    },
+    "antimagic field": {
+      "es": "Campo antimagia",
+      "en": "Antimagic Field"
+    },
+    "antilife shell": {
+      "es": "Caparazón antivida",
+      "en": "Antilife Shell"
+    },
+    "swift quiver": {
+      "es": "Carcaj veloz",
+      "en": "Swift Quiver"
+    },
+    "searing smite": {
+      "es": "Castigo abrasador",
+      "en": "Searing Smite"
+    },
+    "staggering smite": {
+      "es": "Castigo abrumador",
+      "en": "Staggering Smite"
+    },
+    "thunderous smite": {
+      "es": "Castigo atronador",
+      "en": "Thunderous Smite"
+    },
+    "shining smite": {
+      "es": "Castigo brillante",
+      "en": "Shining Smite"
+    },
+    "blinding smite": {
+      "es": "Castigo cegador",
+      "en": "Blinding Smite"
+    },
+    "banishing smite": {
+      "es": "Castigo desterrador",
+      "en": "Banishing Smite"
+    },
+    "divine smite": {
+      "es": "Castigo divino",
+      "en": "Divine Smite"
+    },
+    "wrathful smite": {
+      "es": "Castigo furioso",
+      "en": "Wrathful Smite"
+    },
+    "imprisonment": {
+      "es": "Cautiverio",
+      "en": "Imprisonment"
+    },
+    "arcane lock": {
+      "es": "Cerradura arcana",
+      "en": "Arcane Lock"
+    },
+    "circle of death": {
+      "es": "Círculo de muerte",
+      "en": "Circle of Death"
+    },
+    "circle of power": {
+      "es": "Círculo de poder",
+      "en": "Circle of Power"
+    },
+    "teleportation circle": {
+      "es": "Círculo de teletransportación",
+      "en": "Teleportation Circle"
+    },
+    "magic circle": {
+      "es": "Círculo mágico",
+      "en": "Magic Circle"
+    },
+    "clairvoyance": {
+      "es": "Clarividencia",
+      "en": "Clairvoyance"
+    },
+    "mind spike": {
+      "es": "Clavo mental",
+      "en": "Mind Spike"
+    },
+    "clone": {
+      "es": "Clon",
+      "en": "Clone"
+    },
+    "leomund s secret chest": {
+      "es": "Cofre oculto de Leomund",
+      "en": "Leomund's Secret Chest"
+    },
+    "compulsion": {
+      "es": "Compulsión",
+      "en": "Compulsion"
+    },
+    "commune": {
+      "es": "Comunión",
+      "en": "Commune"
+    },
+    "commune with nature": {
+      "es": "Comunión con la naturaleza",
+      "en": "Commune with Nature"
+    },
+    "confusion": {
+      "es": "Confusión",
+      "en": "Confusion"
+    },
+    "conjure animals": {
+      "es": "Conjurar animales",
+      "en": "Conjure Animals"
+    },
+    "conjure celestial": {
+      "es": "Conjurar celestial",
+      "en": "Conjure Celestial"
+    },
+    "conjure barrage": {
+      "es": "Conjurar descarga de proyectiles",
+      "en": "Conjure Barrage"
+    },
+    "conjure elemental": {
+      "es": "Conjurar elemental",
+      "en": "Conjure Elemental"
+    },
+    "conjure minor elementals": {
+      "es": "Conjurar elementales menores",
+      "en": "Conjure Minor Elementals"
+    },
+    "conjure fey": {
+      "es": "Conjurar feérico",
+      "en": "Conjure Fey"
+    },
+    "conjure volley": {
+      "es": "Conjurar lluvia de flechas",
+      "en": "Conjure Volley"
+    },
+    "conjure woodland beings": {
+      "es": "Conjurar seres del bosque",
+      "en": "Conjure Woodland Beings"
+    },
+    "cone of cold": {
+      "es": "Cono de frío",
+      "en": "Cone of Cold"
+    },
+    "legend lore": {
+      "es": "Conocer las leyendas",
+      "en": "Legend Lore"
+    },
+    "hallow": {
+      "es": "Consagrar",
+      "en": "Hallow"
+    },
+    "contact other plane": {
+      "es": "Contactar con otro plano",
+      "en": "Contact Other Plane"
+    },
+    "contagion": {
+      "es": "Contagio",
+      "en": "Contagion"
+    },
+    "contingency": {
+      "es": "Contingencia",
+      "en": "Contingency"
+    },
+    "blur": {
+      "es": "Contorno borroso",
+      "en": "Blur"
+    },
+    "counterspell": {
+      "es": "Contrahechizo",
+      "en": "Counterspell"
+    },
+    "control water": {
+      "es": "Controlar agua",
+      "en": "Control Water"
+    },
+    "control weather": {
+      "es": "Controlar el clima",
+      "en": "Control Weather"
+    },
+    "phantom steed": {
+      "es": "Corcel fantasma",
+      "en": "Phantom Steed"
+    },
+    "cordon of arrows": {
+      "es": "Cordón de flechas",
+      "en": "Cordon of Arrows"
+    },
+    "crown of madness": {
+      "es": "Corona de la locura",
+      "en": "Crown of Madness"
+    },
+    "creation": {
+      "es": "Creación",
+      "en": "Creation"
+    },
+    "create food and water": {
+      "es": "Crear comida y agua",
+      "en": "Create Food and Water"
+    },
+    "produce flame": {
+      "es": "Crear llama",
+      "en": "Produce Flame"
+    },
+    "create undead": {
+      "es": "Crear muerto viviente",
+      "en": "Create Undead"
+    },
+    "create or destroy water": {
+      "es": "Crear o destruir agua",
+      "en": "Create or Destroy Water"
+    },
+    "spike growth": {
+      "es": "Crecimiento espinoso",
+      "en": "Spike Growth"
+    },
+    "plant growth": {
+      "es": "Crecimiento vegetal",
+      "en": "Plant Growth"
+    },
+    "ice knife": {
+      "es": "Cuchillo de hielo",
+      "en": "Ice Knife"
+    },
+    "heal": {
+      "es": "Curar",
+      "en": "Heal"
+    },
+    "mass heal": {
+      "es": "Curar en masa",
+      "en": "Mass Heal"
+    },
+    "cure wounds": {
+      "es": "Curar heridas",
+      "en": "Cure Wounds"
+    },
+    "mass cure wounds": {
+      "es": "Curar heridas en masa",
+      "en": "Mass Cure Wounds"
+    },
+    "harm": {
+      "es": "Dañar",
+      "en": "Harm"
+    },
+    "flesh to stone": {
+      "es": "De la carne a la piedra",
+      "en": "Flesh to Stone"
+    },
+    "finger of death": {
+      "es": "Dedo de la muerte",
+      "en": "Finger of Death"
+    },
+    "fire bolt": {
+      "es": "Descarga de fuego",
+      "en": "Fire Bolt"
+    },
+    "eldritch blast": {
+      "es": "Descarga sobrenatural",
+      "en": "Eldritch Blast"
+    },
+    "wish": {
+      "es": "Deseo",
+      "en": "Wish"
+    },
+    "disintegrate": {
+      "es": "Desintegrar",
+      "en": "Disintegrate"
+    },
+    "awaken": {
+      "es": "Despertar",
+      "en": "Awaken"
+    },
+    "blink": {
+      "es": "Desplazamiento",
+      "en": "Blink"
+    },
+    "plane shift": {
+      "es": "Desplazamiento entre planos",
+      "en": "Plane Shift"
+    },
+    "banishment": {
+      "es": "Destierro",
+      "en": "Banishment"
+    },
+    "detect evil and good": {
+      "es": "Detectar el bien y el mal",
+      "en": "Detect Evil and Good"
+    },
+    "detect magic": {
+      "es": "Detectar magia",
+      "en": "Detect Magic"
+    },
+    "detect thoughts": {
+      "es": "Detectar pensamientos",
+      "en": "Detect Thoughts"
+    },
+    "find traps": {
+      "es": "Detectar trampas",
+      "en": "Find Traps"
+    },
+    "detect poison and disease": {
+      "es": "Detectar venenos y enfermedades",
+      "en": "Detect Poison and Disease"
+    },
+    "tenser s floating disk": {
+      "es": "Disco flotante de Tenser",
+      "en": "Tenser's Floating Disk"
+    },
+    "disguise self": {
+      "es": "Disfrazarse",
+      "en": "Disguise Self"
+    },
+    "dispel evil and good": {
+      "es": "Disipar el bien y el mal",
+      "en": "Dispel Evil and Good"
+    },
+    "dispel magic": {
+      "es": "Disipar magia",
+      "en": "Dispel Magic"
+    },
+    "dominate beast": {
+      "es": "Dominar bestia",
+      "en": "Dominate Beast"
+    },
+    "dominate monster": {
+      "es": "Dominar monstruo",
+      "en": "Dominate Monster"
+    },
+    "dominate person": {
+      "es": "Dominar persona",
+      "en": "Dominate Person"
+    },
+    "tongues": {
+      "es": "Don de lenguas",
+      "en": "Tongues"
+    },
+    "sleep": {
+      "es": "Dormir",
+      "en": "Sleep"
+    },
+    "compelled duel": {
+      "es": "Duelo forzado",
+      "en": "Compelled Duel"
+    },
+    "gentle repose": {
+      "es": "Dulce descanso",
+      "en": "Gentle Repose"
+    },
+    "elementalism": {
+      "es": "Elementalismo",
+      "en": "Elementalism"
+    },
+    "enthrall": {
+      "es": "Embelesar",
+      "en": "Enthrall"
+    },
+    "animal friendship": {
+      "es": "Encantar animal",
+      "en": "Animal Friendship"
+    },
+    "find the path": {
+      "es": "Encontrar el camino",
+      "en": "Find the Path"
+    },
+    "find familiar": {
+      "es": "Encontrar familiar",
+      "en": "Find Familiar"
+    },
+    "mislead": {
+      "es": "Engañar",
+      "en": "Mislead"
+    },
+    "rary s telepathic bond": {
+      "es": "Enlace telepático de Rary",
+      "en": "Rary's Telepathic Bond"
+    },
+    "entangle": {
+      "es": "Enmarañar",
+      "en": "Entangle"
+    },
+    "grasping vine": {
+      "es": "Enredadera",
+      "en": "Grasping Vine"
+    },
+    "dream": {
+      "es": "Ensueño",
+      "en": "Dream"
+    },
+    "comprehend languages": {
+      "es": "Entender idiomas",
+      "en": "Comprehend Languages"
+    },
+    "shield": {
+      "es": "Escudo",
+      "en": "Shield"
+    },
+    "shield of faith": {
+      "es": "Escudo de fe",
+      "en": "Shield of Faith"
+    },
+    "fire shield": {
+      "es": "Escudo de fuego",
+      "en": "Fire Shield"
+    },
+    "scrying": {
+      "es": "Escudriñar",
+      "en": "Scrying"
+    },
+    "otiluke s freezing sphere": {
+      "es": "Esfera congelante de Otiluke",
+      "en": "Otiluke's Freezing Sphere"
+    },
+    "flaming sphere": {
+      "es": "Esfera de llamas",
+      "en": "Flaming Sphere"
+    },
+    "otiluke s resilient sphere": {
+      "es": "Esfera elástica de Otiluke",
+      "en": "Otiluke's Resilient Sphere"
+    },
+    "vitriolic sphere": {
+      "es": "Esfera vitriólica",
+      "en": "Vitriolic Sphere"
+    },
+    "mordenkainen s sword": {
+      "es": "Espada de Mordenkainen",
+      "en": "Mordenkainen's Sword"
+    },
+    "mirage arcane": {
+      "es": "Espejismo arcano",
+      "en": "Mirage Arcane"
+    },
+    "spirit guardians": {
+      "es": "Espíritus guardianes",
+      "en": "Spirit Guardians"
+    },
+    "sorcerous burst": {
+      "es": "Estallido mágico",
+      "en": "Sorcerous Burst"
+    },
+    "synaptic static": {
+      "es": "Estática sináptica",
+      "en": "Synaptic Static"
+    },
+    "etherealness": {
+      "es": "Excursión etérea",
+      "en": "Etherealness"
+    },
+    "sunburst": {
+      "es": "Explosión solar",
+      "en": "Sunburst"
+    },
+    "fabricate": {
+      "es": "Fabricar",
+      "en": "Fabricate"
+    },
+    "false life": {
+      "es": "Falsa vida",
+      "en": "False Life"
+    },
+    "divine favor": {
+      "es": "Favor divino",
+      "en": "Divine Favor"
+    },
+    "heroes feast": {
+      "es": "Festín de héroes",
+      "en": "Heroes' Feast"
+    },
+    "feign death": {
+      "es": "Fingir muerte",
+      "en": "Feign Death"
+    },
+    "melf s acid arrow": {
+      "es": "Flecha acida de Melf",
+      "en": "Melf's Acid Arrow"
+    },
+    "lightning arrow": {
+      "es": "Flecha de relámpago",
+      "en": "Lightning Arrow"
+    },
+    "gaseous form": {
+      "es": "Forma gaseosa",
+      "en": "Gaseous Form"
+    },
+    "mind sliver": {
+      "es": "Fragmento mental",
+      "en": "Mind Sliver"
+    },
+    "faerie fire": {
+      "es": "Fuego feérico",
+      "en": "Faerie Fire"
+    },
+    "fount of moonlight": {
+      "es": "Fuente de la luz lunar",
+      "en": "Fount of Moonlight"
+    },
+    "phantasmal force": {
+      "es": "Fuerza fantasmal",
+      "en": "Phantasmal Force"
+    },
+    "meld into stone": {
+      "es": "Fundirse con la piedra",
+      "en": "Meld into Stone"
+    },
+    "geas": {
+      "es": "Geas",
+      "en": "Geas"
+    },
+    "glyph of warding": {
+      "es": "Glifo custodio",
+      "en": "Glyph of Warding"
+    },
+    "globe of invulnerability": {
+      "es": "Globo de invulnerabilidad",
+      "en": "Globe of Invulnerability"
+    },
+    "ensnaring strike": {
+      "es": "Golpe apresador",
+      "en": "Ensnaring Strike"
+    },
+    "steel wind strike": {
+      "es": "Golpe de viento acerado",
+      "en": "Steel Wind Strike"
+    },
+    "flame strike": {
+      "es": "Golpe flamígero",
+      "en": "Flame Strike"
+    },
+    "grease": {
+      "es": "Grasa",
+      "en": "Grease"
+    },
+    "death ward": {
+      "es": "Guarda contra la muerte",
+      "en": "Death Ward"
+    },
+    "guards and wards": {
+      "es": "Guardas y guardias",
+      "en": "Guards and Wards"
+    },
+    "blade ward": {
+      "es": "Guardia de cuchillas",
+      "en": "Blade Ward"
+    },
+    "guardian of faith": {
+      "es": "Guardián de la fe",
+      "en": "Guardian of Faith"
+    },
+    "guidance": {
+      "es": "Guía",
+      "en": "Guidance"
+    },
+    "speak with plants": {
+      "es": "Hablar con las plantas",
+      "en": "Speak with Plants"
+    },
+    "speak with animals": {
+      "es": "Hablar con los animales",
+      "en": "Speak with Animals"
+    },
+    "speak with dead": {
+      "es": "Hablar con los muertos",
+      "en": "Speak with Dead"
+    },
+    "shatter": {
+      "es": "Hacer añicos",
+      "en": "Shatter"
+    },
+    "find steed": {
+      "es": "Hallar corcel",
+      "en": "Find Steed"
+    },
+    "hunger of hadar": {
+      "es": "Hambre de Hadar",
+      "en": "Hunger of Hadar"
+    },
+    "charm monster": {
+      "es": "Hechizar monstruo",
+      "en": "Charm Monster"
+    },
+    "charm person": {
+      "es": "Hechizar persona",
+      "en": "Charm Person"
+    },
+    "heroism": {
+      "es": "Heroísmo",
+      "en": "Heroism"
+    },
+    "flame blade": {
+      "es": "Hoja de fuego",
+      "en": "Flame Blade"
+    },
+    "identify": {
+      "es": "Identificar",
+      "en": "Identify"
+    },
+    "minor illusion": {
+      "es": "Ilusión menor",
+      "en": "Minor Illusion"
+    },
+    "programmed illusion": {
+      "es": "Ilusión programada",
+      "en": "Programmed Illusion"
+    },
+    "major image": {
+      "es": "Imagen mayor",
+      "en": "Major Image"
+    },
+    "mirror image": {
+      "es": "Imagen múltiple",
+      "en": "Mirror Image"
+    },
+    "silent image": {
+      "es": "Imagen silenciosa",
+      "en": "Silent Image"
+    },
+    "true strike": {
+      "es": "Impacto certero",
+      "en": "True Strike"
+    },
+    "bestow curse": {
+      "es": "Imponer maldición",
+      "en": "Bestow Curse"
+    },
+    "nondetection": {
+      "es": "Indetectable",
+      "en": "Nondetection"
+    },
+    "inflict wounds": {
+      "es": "Infligir heridas",
+      "en": "Inflict Wounds"
+    },
+    "hold monster": {
+      "es": "Inmovilizar monstruo",
+      "en": "Hold Monster"
+    },
+    "hold person": {
+      "es": "Inmovilizar persona",
+      "en": "Hold Person"
+    },
+    "giant insect": {
+      "es": "Insecto gigante",
+      "en": "Giant Insect"
+    },
+    "reverse gravity": {
+      "es": "Invertir la gravedad",
+      "en": "Reverse Gravity"
+    },
+    "invisibility": {
+      "es": "Invisibilidad",
+      "en": "Invisibility"
+    },
+    "greater invisibility": {
+      "es": "Invisibilidad mejorada",
+      "en": "Greater Invisibility"
+    },
+    "drawmij s instant summons": {
+      "es": "Invocación instantánea de Drawmij",
+      "en": "Drawmij's Instant Summons"
+    },
+    "summon aberration": {
+      "es": "Invocar aberración",
+      "en": "Summon Aberration"
+    },
+    "summon construct": {
+      "es": "Invocar autómata",
+      "en": "Summon Construct"
+    },
+    "summon beast": {
+      "es": "Invocar bestia",
+      "en": "Summon Beast"
+    },
+    "summon celestial": {
+      "es": "Invocar celestial",
+      "en": "Summon Celestial"
+    },
+    "summon dragon": {
+      "es": "Invocar dragón",
+      "en": "Summon Dragon"
+    },
+    "summon elemental": {
+      "es": "Invocar elemental",
+      "en": "Summon Elemental"
+    },
+    "summon fey": {
+      "es": "Invocar feérico",
+      "en": "Summon Fey"
+    },
+    "summon fiend": {
+      "es": "Invocar infernal",
+      "en": "Summon Fiend"
+    },
+    "summon undead": {
+      "es": "Invocar muerto viviente",
+      "en": "Summon Undead"
+    },
+    "forcecage": {
+      "es": "Jaula de fuerza",
+      "en": "Forcecage"
+    },
+    "maze": {
+      "es": "Laberinto",
+      "en": "Maze"
+    },
+    "glibness": {
+      "es": "Labia",
+      "en": "Glibness"
+    },
+    "thorn whip": {
+      "es": "Látigo de espinas",
+      "en": "Thorn Whip"
+    },
+    "remove curse": {
+      "es": "Levantar maldición",
+      "en": "Remove Curse"
+    },
+    "levitate": {
+      "es": "Levitar",
+      "en": "Levitate"
+    },
+    "freedom of movement": {
+      "es": "Libertad de movimiento",
+      "en": "Freedom of Movement"
+    },
+    "continual flame": {
+      "es": "Llama permanente",
+      "en": "Continual Flame"
+    },
+    "sacred flame": {
+      "es": "Llama sagrada",
+      "en": "Sacred Flame"
+    },
+    "call lightning": {
+      "es": "Llamar al relámpago",
+      "en": "Call Lightning"
+    },
+    "locate animals or plants": {
+      "es": "Localizar animales o plantas",
+      "en": "Locate Animals or Plants"
+    },
+    "locate creature": {
+      "es": "Localizar criatura",
+      "en": "Locate Creature"
+    },
+    "locate object": {
+      "es": "Localizar objeto",
+      "en": "Locate Object"
+    },
+    "dancing lights": {
+      "es": "Luces danzantes",
+      "en": "Dancing Lights"
+    },
+    "light": {
+      "es": "Luz",
+      "en": "Light"
+    },
+    "daylight": {
+      "es": "Luz del día",
+      "en": "Daylight"
+    },
+    "eyebite": {
+      "es": "Mal de ojo",
+      "en": "Eyebite"
+    },
+    "hex": {
+      "es": "Maleficio",
+      "en": "Hex"
+    },
+    "bigby s hand": {
+      "es": "Mano de Bigby",
+      "en": "Bigby's Hand"
+    },
+    "mage hand": {
+      "es": "Mano de mago",
+      "en": "Mage Hand"
+    },
+    "burning hands": {
+      "es": "Manos ardientes",
+      "en": "Burning Hands"
+    },
+    "mordenkainen s magnificent mansion": {
+      "es": "Mansión magnífica de Mordenkainen",
+      "en": "Mordenkainen's Magnificent Mansion"
+    },
+    "crusader s mantle": {
+      "es": "Manto del cruzado",
+      "en": "Crusader's Mantle"
+    },
+    "hunter s mark": {
+      "es": "Marca del cazador",
+      "en": "Hunter's Mark"
+    },
+    "blight": {
+      "es": "Marchitar",
+      "en": "Blight"
+    },
+    "mordenkainen s faithful hound": {
+      "es": "Mastín fiel de Mordenkainen",
+      "en": "Mordenkainen's Faithful Hound"
+    },
+    "message": {
+      "es": "Mensaje",
+      "en": "Message"
+    },
+    "animal messenger": {
+      "es": "Mensajero animal",
+      "en": "Animal Messenger"
+    },
+    "mind blank": {
+      "es": "Mente en blanco",
+      "en": "Mind Blank"
+    },
+    "stone shape": {
+      "es": "Moldear la piedra",
+      "en": "Stone Shape"
+    },
+    "move earth": {
+      "es": "Mover la tierra",
+      "en": "Move Earth"
+    },
+    "wall of thorns": {
+      "es": "Muro de espinas",
+      "en": "Wall of Thorns"
+    },
+    "wall of fire": {
+      "es": "Muro de fuego",
+      "en": "Wall of Fire"
+    },
+    "wall of force": {
+      "es": "Muro de fuerza",
+      "en": "Wall of Force"
+    },
+    "wall of ice": {
+      "es": "Muro de hielo",
+      "en": "Wall of Ice"
+    },
+    "wall of stone": {
+      "es": "Muro de piedra",
+      "en": "Wall of Stone"
+    },
+    "wind wall": {
+      "es": "Muro de viento",
+      "en": "Wind Wall"
+    },
+    "prismatic wall": {
+      "es": "Muro prismático",
+      "en": "Prismatic Wall"
+    },
+    "cloudkill": {
+      "es": "Nube aniquiladora",
+      "en": "Cloudkill"
+    },
+    "stinking cloud": {
+      "es": "Nube apestosa",
+      "en": "Stinking Cloud"
+    },
+    "cloud of daggers": {
+      "es": "Nube de dagas",
+      "en": "Cloud of Daggers"
+    },
+    "fog cloud": {
+      "es": "Nube de oscurecimiento",
+      "en": "Fog Cloud"
+    },
+    "incendiary cloud": {
+      "es": "Nube incendiaria",
+      "en": "Incendiary Cloud"
+    },
+    "befuddlement": {
+      "es": "Ofuscación",
+      "en": "Befuddlement"
+    },
+    "arcane eye": {
+      "es": "Ojo arcano",
+      "en": "Arcane Eye"
+    },
+    "thunderwave": {
+      "es": "Ola atronadora",
+      "en": "Thunderwave"
+    },
+    "destructive wave": {
+      "es": "Ola destructora",
+      "en": "Destructive Wave"
+    },
+    "chromatic orb": {
+      "es": "Orbe cromático",
+      "en": "Chromatic Orb"
+    },
+    "command": {
+      "es": "Orden imperiosa",
+      "en": "Command"
+    },
+    "darkness": {
+      "es": "Oscuridad",
+      "en": "Darkness"
+    },
+    "healing word": {
+      "es": "Palabra de curación",
+      "en": "Healing Word"
+    },
+    "mass healing word": {
+      "es": "Palabra de curación en masa",
+      "en": "Mass Healing Word"
+    },
+    "power word stun": {
+      "es": "Palabra de poder aturdir",
+      "en": "Power Word Stun"
+    },
+    "power word kill": {
+      "es": "Palabra de poder matar",
+      "en": "Power Word Kill"
+    },
+    "power word heal": {
+      "es": "Palabra de poder sanar",
+      "en": "Power Word Heal"
+    },
+    "word of recall": {
+      "es": "Palabra de regreso",
+      "en": "Word of Recall"
+    },
+    "word of radiance": {
+      "es": "Palabra de resplandor",
+      "en": "Word of Radiance"
+    },
+    "divine word": {
+      "es": "Palabra divina",
+      "en": "Divine Word"
+    },
+    "time stop": {
+      "es": "Parar el tiempo",
+      "en": "Time Stop"
+    },
+    "passwall": {
+      "es": "Pasamuros",
+      "en": "Passwall"
+    },
+    "pass without trace": {
+      "es": "Pasar sin rastro",
+      "en": "Pass without Trace"
+    },
+    "tree stride": {
+      "es": "Paso arbóreo",
+      "en": "Tree Stride"
+    },
+    "misty step": {
+      "es": "Paso brumoso",
+      "en": "Misty Step"
+    },
+    "hypnotic pattern": {
+      "es": "Patrón hipnótico",
+      "en": "Hypnotic Pattern"
+    },
+    "leomund s tiny hut": {
+      "es": "Pequeña choza de Leomund",
+      "en": "Leomund's Tiny Hut"
+    },
+    "bane": {
+      "es": "Perdición",
+      "en": "Bane"
+    },
+    "spare the dying": {
+      "es": "Piedad con los moribundos",
+      "en": "Spare the Dying"
+    },
+    "stoneskin": {
+      "es": "Piel pétrea",
+      "en": "Stoneskin"
+    },
+    "barkskin": {
+      "es": "Piel robliza",
+      "en": "Barkskin"
+    },
+    "insect plague": {
+      "es": "Plaga de insectos",
+      "en": "Insect Plague"
+    },
+    "prayer of healing": {
+      "es": "Plegaria de curación",
+      "en": "Prayer of Healing"
+    },
+    "polymorph": {
+      "es": "Polimorfar",
+      "en": "Polymorph"
+    },
+    "true polymorph": {
+      "es": "Polimorfar verdadero",
+      "en": "True Polymorph"
+    },
+    "gate": {
+      "es": "Portal",
+      "en": "Gate"
+    },
+    "enhance ability": {
+      "es": "Potenciar característica",
+      "en": "Enhance Ability"
+    },
+    "foresight": {
+      "es": "Presciencia",
+      "en": "Foresight"
+    },
+    "yolande s regal presence": {
+      "es": "Presencia regia de Yolande",
+      "en": "Yolande's Regal Presence"
+    },
+    "prestidigitation": {
+      "es": "Prestidigitación",
+      "en": "Prestidigitation"
+    },
+    "forbiddance": {
+      "es": "Prohibición",
+      "en": "Forbiddance"
+    },
+    "protection from evil and good": {
+      "es": "Protección contra el bien y el mal",
+      "en": "Protection from Evil and Good"
+    },
+    "protection from energy": {
+      "es": "Protección contra energía",
+      "en": "Protection from Energy"
+    },
+    "protection from poison": {
+      "es": "Protección contra veneno",
+      "en": "Protection from Poison"
+    },
+    "astral projection": {
+      "es": "Proyección astral",
+      "en": "Astral Projection"
+    },
+    "project image": {
+      "es": "Proyectar imagen",
+      "en": "Project Image"
+    },
+    "magic missile": {
+      "es": "Proyectil mágico",
+      "en": "Magic Missile"
+    },
+    "dimension door": {
+      "es": "Puerta dimensional",
+      "en": "Dimension Door"
+    },
+    "purify food and drink": {
+      "es": "Purificar comida y bebida",
+      "en": "Purify Food and Drink"
+    },
+    "gust of wind": {
+      "es": "Ráfaga de viento",
+      "en": "Gust of Wind"
+    },
+    "slow": {
+      "es": "Ralentizar",
+      "en": "Slow"
+    },
+    "scorching ray": {
+      "es": "Rayo abrasador",
+      "en": "Scorching Ray"
+    },
+    "ray of frost": {
+      "es": "Rayo de escarcha",
+      "en": "Ray of Frost"
+    },
+    "witch bolt": {
+      "es": "Rayo de hechicería",
+      "en": "Witch Bolt"
+    },
+    "moonbeam": {
+      "es": "Rayo de luna",
+      "en": "Moonbeam"
+    },
+    "ray of enfeeblement": {
+      "es": "Rayo debilitador",
+      "en": "Ray of Enfeeblement"
+    },
+    "ray of sickness": {
+      "es": "Rayo nauseabundo",
+      "en": "Ray of Sickness"
+    },
+    "sunbeam": {
+      "es": "Rayo solar",
+      "en": "Sunbeam"
+    },
+    "sending": {
+      "es": "Recado",
+      "en": "Sending"
+    },
+    "sequester": {
+      "es": "Recluir",
+      "en": "Sequester"
+    },
+    "reincarnate": {
+      "es": "Reencarnar",
+      "en": "Reincarnate"
+    },
+    "regenerate": {
+      "es": "Regenerar",
+      "en": "Regenerate"
+    },
+    "lightning bolt": {
+      "es": "Relámpago",
+      "en": "Lightning Bolt"
+    },
+    "chain lightning": {
+      "es": "Relámpago en cadena",
+      "en": "Chain Lightning"
+    },
+    "mending": {
+      "es": "Reparar",
+      "en": "Mending"
+    },
+    "hellish rebuke": {
+      "es": "Reprensión infernal",
+      "en": "Hellish Rebuke"
+    },
+    "resistance": {
+      "es": "Resistencia",
+      "en": "Resistance"
+    },
+    "water breathing": {
+      "es": "Respirar bajo el agua",
+      "en": "Water Breathing"
+    },
+    "greater restoration": {
+      "es": "Restablecimiento mayor",
+      "en": "Greater Restoration"
+    },
+    "lesser restoration": {
+      "es": "Restablecimiento menor",
+      "en": "Lesser Restoration"
+    },
+    "resurrection": {
+      "es": "Resurrección",
+      "en": "Resurrection"
+    },
+    "true resurrection": {
+      "es": "Resurrección verdadera",
+      "en": "True Resurrection"
+    },
+    "expeditious retreat": {
+      "es": "Retirada expeditiva",
+      "en": "Expeditious Retreat"
+    },
+    "revivify": {
+      "es": "Revivir",
+      "en": "Revivify"
+    },
+    "tasha s hideous laughter": {
+      "es": "Risa horrible de Tasha",
+      "en": "Tasha's Hideous Laughter"
+    },
+    "color spray": {
+      "es": "Rociada de color",
+      "en": "Color Spray"
+    },
+    "prismatic spray": {
+      "es": "Rociada prismática",
+      "en": "Prismatic Spray"
+    },
+    "poison spray": {
+      "es": "Rociada venenosa",
+      "en": "Poison Spray"
+    },
+    "druidcraft": {
+      "es": "Saber druídico",
+      "en": "Druidcraft"
+    },
+    "guiding bolt": {
+      "es": "Saeta guía",
+      "en": "Guiding Bolt"
+    },
+    "acid splash": {
+      "es": "Salpicadura ácida",
+      "en": "Acid Splash"
+    },
+    "jump": {
+      "es": "Salto",
+      "en": "Jump"
+    },
+    "mordenkainen s private sanctum": {
+      "es": "Sanctasanctórum privado de Mordenkainen",
+      "en": "Mordenkainen's Private Sanctum"
+    },
+    "sanctuary": {
+      "es": "Santuario",
+      "en": "Sanctuary"
+    },
+    "demiplane": {
+      "es": "Semiplano",
+      "en": "Demiplane"
+    },
+    "beacon of hope": {
+      "es": "Señal de esperanza",
+      "en": "Beacon of Hope"
+    },
+    "beast sense": {
+      "es": "Sentidos de la bestia",
+      "en": "Beast Sense"
+    },
+    "shillelagh": {
+      "es": "Shillelagh",
+      "en": "Shillelagh"
+    },
+    "silence": {
+      "es": "Silencio",
+      "en": "Silence"
+    },
+    "symbol": {
+      "es": "Símbolo",
+      "en": "Symbol"
+    },
+    "simulacrum": {
+      "es": "Simulacro",
+      "en": "Simulacrum"
+    },
+    "unseen servant": {
+      "es": "Sirviente invisible",
+      "en": "Unseen Servant"
+    },
+    "blindness deafness": {
+      "es": "Sordera/ceguera",
+      "en": "Blindness/Deafness"
+    },
+    "suggestion": {
+      "es": "Sugestión",
+      "en": "Suggestion"
+    },
+    "mass suggestion": {
+      "es": "Sugestión en masa",
+      "en": "Mass Suggestion"
+    },
+    "dissonant whispers": {
+      "es": "Susurros discordantes",
+      "en": "Dissonant Whispers"
+    },
+    "toll the dead": {
+      "es": "Tañido por los muertos",
+      "en": "Toll the Dead"
+    },
+    "thaumaturgy": {
+      "es": "Taumaturgia",
+      "en": "Thaumaturgy"
+    },
+    "web": {
+      "es": "Telaraña",
+      "en": "Web"
+    },
+    "telekinesis": {
+      "es": "Telequinesis",
+      "en": "Telekinesis"
+    },
+    "teleport": {
+      "es": "Teletransporte",
+      "en": "Teleport"
+    },
+    "evard s black tentacles": {
+      "es": "Tentáculos negros de Evard",
+      "en": "Evard's Black Tentacles"
+    },
+    "earthquake": {
+      "es": "Terremoto",
+      "en": "Earthquake"
+    },
+    "hallucinatory terrain": {
+      "es": "Terreno alucinatorio",
+      "en": "Hallucinatory Terrain"
+    },
+    "fear": {
+      "es": "Terror",
+      "en": "Fear"
+    },
+    "weird": {
+      "es": "Terror abyecto",
+      "en": "Weird"
+    },
+    "illusory script": {
+      "es": "Texto ilusorio",
+      "en": "Illusory Script"
+    },
+    "chill touch": {
+      "es": "Toque helado",
+      "en": "Chill Touch"
+    },
+    "vampiric touch": {
+      "es": "Toque vampírico",
+      "en": "Vampiric Touch"
+    },
+    "sleet storm": {
+      "es": "Tormenta de aguanieve",
+      "en": "Sleet Storm"
+    },
+    "hail of thorns": {
+      "es": "Tormenta de espinas",
+      "en": "Hail of Thorns"
+    },
+    "fire storm": {
+      "es": "Tormenta de fuego",
+      "en": "Fire Storm"
+    },
+    "ice storm": {
+      "es": "Tormenta de hielo",
+      "en": "Ice Storm"
+    },
+    "storm of vengeance": {
+      "es": "Tormenta de la venganza",
+      "en": "Storm of Vengeance"
+    },
+    "meteor swarm": {
+      "es": "Tormenta de meteoritos",
+      "en": "Meteor Swarm"
+    },
+    "jallarzi s storm of radiance": {
+      "es": "Tormenta resplandeciente de Jallarzi",
+      "en": "Jallarzi's Storm of Radiance"
+    },
+    "spider climb": {
+      "es": "Trepar cual arácnido",
+      "en": "Spider Climb"
+    },
+    "thunderclap": {
+      "es": "Tronar",
+      "en": "Thunderclap"
+    },
+    "rope trick": {
+      "es": "Truco de la cuerda",
+      "en": "Rope Trick"
+    },
+    "tsunami": {
+      "es": "Tsunami",
+      "en": "Tsunami"
+    },
+    "magic jar": {
+      "es": "Urna mágica",
+      "en": "Magic Jar"
+    },
+    "see invisibility": {
+      "es": "Ver invisibilidad",
+      "en": "See Invisibility"
+    },
+    "wind walk": {
+      "es": "Viajar con el viento",
+      "en": "Wind Walk"
+    },
+    "transport via plants": {
+      "es": "Viajar mediante plantas",
+      "en": "Transport via Plants"
+    },
+    "arcane vigor": {
+      "es": "Vigor arcano",
+      "en": "Arcane Vigor"
+    },
+    "warding bond": {
+      "es": "Vínculo protector",
+      "en": "Warding Bond"
+    },
+    "darkvision": {
+      "es": "Visión en la oscuridad",
+      "en": "Darkvision"
+    },
+    "true seeing": {
+      "es": "Visión veraz",
+      "en": "True Seeing"
+    },
+    "fly": {
+      "es": "Volar",
+      "en": "Fly"
+    },
+    "starry wisp": {
+      "es": "Voluta estelar",
+      "en": "Starry Wisp"
+    },
+    "longstrider": {
+      "es": "Zancada prodigiosa",
+      "en": "Longstrider"
+    },
+    "zone of truth": {
+      "es": "Zona de la verdad",
+      "en": "Zone of Truth"
+    }
+  }
+}

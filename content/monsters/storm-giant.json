@@ -2,25 +2,25 @@
   "id": "monster-storm-giant",
   "slug": "storm-giant",
   "name": {
-    "es": "",
+    "es": "Gigante de las tormentas",
     "en": "Storm Giant"
   },
   "size": {
-    "es": "",
+    "es": "Enorme",
     "en": "Huge"
   },
   "type": {
-    "es": "",
+    "es": "Gigante",
     "en": "Ctant"
   },
   "alignment": {
-    "es": "",
+    "es": "Caótico bueno",
     "en": "Chaotic Cood"
   },
   "armorClass": 16,
   "hitPoints": "230 (20d12 + 100)",
   "speed": {
-    "es": "",
+    "es": "15 m,volar7,5 m (levitar), nadar 15 m",
     "en": "50 ft.,Fly25 ft. (hover), Swim 50ft."
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Arcano +8, Atletismo +14, Historia +8, Percepción +10",
     "en": "Arcana +8, Athletics +14, History +8, Perception +10"
   },
   "senses": {
-    "es": "",
+    "es": "Visión en la oscuridad .36 m, Visión verdadera 9 m;",
     "en": "Darkvision .120 ft., Truesight 30 ft.;"
   },
   "languages": {
-    "es": "",
+    "es": "Común, Ciant",
     "en": "Common, Ciant"
   },
   "challengeRating": "13",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.302). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.302). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

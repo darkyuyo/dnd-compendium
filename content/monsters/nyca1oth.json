@@ -2,25 +2,25 @@
   "id": "monster-nyca1oth",
   "slug": "nyca1oth",
   "name": {
-    "es": "",
+    "es": "Nycaloth",
     "en": "Nyca1oth"
   },
   "size": {
-    "es": "",
+    "es": "Grande",
     "en": "Large"
   },
   "type": {
-    "es": "",
+    "es": "Infernal (yugoloth)",
     "en": "Fiend (Yugoloth)"
   },
   "alignment": {
-    "es": "",
+    "es": "Neutral malvado",
     "en": "Neutral Evil"
   },
   "armorClass": 15,
   "hitPoints": "52 (7d10 + la)",
   "speed": {
-    "es": "",
+    "es": "9 m",
     "en": "30 ft."
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Arcano +3, lnsight +4, Percepción +4, Sigilo +5",
     "en": "Arcana +3, lnsight +4, Perception +4, Stealth +5"
   },
   "senses": {
-    "es": "",
+    "es": "Visión verdadera .36 m; Percepción pasiva 14",
     "en": "Truesight .120 ft.; Passive Perception 14"
   },
   "languages": {
-    "es": "",
+    "es": "Infrasombroso",
     "en": "Undercommon"
   },
   "challengeRating": "2",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.229). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.229). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

@@ -2,25 +2,25 @@
   "id": "monster-cockatrice",
   "slug": "cockatrice",
   "name": {
-    "es": "",
+    "es": "Cocatriz",
     "en": "Cockatrice"
   },
   "size": {
-    "es": "",
+    "es": "Pequeño",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Monstruosidad",
     "en": "Unknown"
   },
   "alignment": {
-    "es": "",
+    "es": "Sin alineamiento",
     "en": "Unaligned"
   },
   "armorClass": 15,
   "hitPoints": "136 (15dl0 + a8)",
   "speed": {
-    "es": "",
+    "es": "9 m, volar 18 m",
     "en": "30 ft., Fly 60 ft."
   },
   "abilityScores": {
@@ -32,11 +32,11 @@
     "cha": 10
   },
   "senses": {
-    "es": "",
+    "es": "Visión en la oscuridad .36 m; Percepción pasiva 13",
     "en": "Darkvision .120 ft.; Passive Perception 13"
   },
   "languages": {
-    "es": "",
+    "es": "None",
     "en": "None"
   },
   "challengeRating": "8",
@@ -47,7 +47,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.75). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.75). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

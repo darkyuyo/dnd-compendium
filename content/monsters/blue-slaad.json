@@ -2,25 +2,25 @@
   "id": "monster-blue-slaad",
   "slug": "blue-slaad",
   "name": {
-    "es": "",
+    "es": "Slaad azul",
     "en": "Blue Slaad"
   },
   "size": {
-    "es": "",
+    "es": "Grande",
     "en": "Large"
   },
   "type": {
-    "es": "",
+    "es": "Aberración",
     "en": "Aberration"
   },
   "alignment": {
-    "es": "",
+    "es": "Caótico neutral",
     "en": "Chaotic Neutral"
   },
   "armorClass": 14,
   "hitPoints": "93 (11d10 + 33)",
   "speed": {
-    "es": "",
+    "es": "9 m",
     "en": "30 ft."
   },
   "abilityScores": {
@@ -32,11 +32,11 @@
     "cha": 10
   },
   "senses": {
-    "es": "",
+    "es": "—",
     "en": "—"
   },
   "languages": {
-    "es": "",
+    "es": "—",
     "en": "—"
   },
   "challengeRating": "?",
@@ -46,7 +46,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.285). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.285). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

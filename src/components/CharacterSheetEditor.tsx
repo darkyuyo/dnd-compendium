@@ -244,20 +244,6 @@ export function CharacterSheetEditor({
         <div className="flex flex-wrap gap-2">
           <button
             type="button"
-            onClick={() => setTab("combat")}
-            className={`rounded-md px-3 py-1.5 text-sm ${tab === "combat" ? "bg-[var(--accent)] text-[var(--accent-fg)]" : "bg-[var(--surface-2)]"}`}
-          >
-            Combate
-          </button>
-          <button
-            type="button"
-            onClick={() => setTab("magic")}
-            className={`rounded-md px-3 py-1.5 text-sm ${tab === "magic" ? "bg-[var(--accent)] text-[var(--accent-fg)]" : "bg-[var(--surface-2)]"}`}
-          >
-            Magia y equipo
-          </button>
-          <button
-            type="button"
             onClick={save}
             disabled={saving}
             className="rounded-md bg-[var(--accent)] px-3 py-1.5 text-sm font-semibold text-[var(--accent-fg)] disabled:opacity-60"
@@ -331,6 +317,23 @@ export function CharacterSheetEditor({
           <NumberInput className={inputClass()} value={sheet.xp} onChange={(n) => update("xp", n)} />
         </Field>
       </section>
+
+      <div className="flex flex-wrap gap-2 border-b border-[var(--border)] pb-3">
+        <button
+          type="button"
+          onClick={() => setTab("combat")}
+          className={`rounded-md px-3 py-1.5 text-sm ${tab === "combat" ? "bg-[var(--accent)] text-[var(--accent-fg)]" : "bg-[var(--surface-2)]"}`}
+        >
+          Combate
+        </button>
+        <button
+          type="button"
+          onClick={() => setTab("magic")}
+          className={`rounded-md px-3 py-1.5 text-sm ${tab === "magic" ? "bg-[var(--accent)] text-[var(--accent-fg)]" : "bg-[var(--surface-2)]"}`}
+        >
+          Magia y equipo
+        </button>
+      </div>
 
       {tab === "combat" ? (
         <>

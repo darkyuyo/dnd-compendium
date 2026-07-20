@@ -2,25 +2,25 @@
   "id": "monster-mari1ith",
   "slug": "mari1ith",
   "name": {
-    "es": "",
+    "es": "Marilith",
     "en": "Mari1ith"
   },
   "size": {
-    "es": "",
+    "es": "Grande",
     "en": "Large"
   },
   "type": {
-    "es": "",
+    "es": "Infernal (demonio)",
     "en": "Fiend (Demon)"
   },
   "alignment": {
-    "es": "",
+    "es": "Caótico malvado",
     "en": "Chaotic Evil"
   },
   "armorClass": 15,
   "hitPoints": "220 (21d10 + 10s)",
   "speed": {
-    "es": "",
+    "es": "12 m, escalar 12 m",
     "en": "40 ft., Climb 40 ft."
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Percepción +8",
     "en": "Perception +8"
   },
   "senses": {
-    "es": "",
+    "es": "Visión verdadera .36 m; Percepción pasiva 18",
     "en": "Truesight .120 ft.; Passive Perception 18"
   },
   "languages": {
-    "es": "",
+    "es": "Abisal; telepatía 120 ft.",
     "en": "Abyssal; telepathy 120 ft."
   },
   "challengeRating": "16",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.204). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.204). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

@@ -2,25 +2,25 @@
   "id": "monster-bullywug-warrior",
   "slug": "bullywug-warrior",
   "name": {
-    "es": "",
+    "es": "Bullywug guerrero",
     "en": "Bullywug Warrior"
   },
   "size": {
-    "es": "",
+    "es": "Mediano",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Feérico",
     "en": "Fey"
   },
   "alignment": {
-    "es": "",
+    "es": "Neutral",
     "en": "Neutral"
   },
   "armorClass": 16,
   "hitPoints": "52 (8d8 + 16)",
   "speed": {
-    "es": "",
+    "es": "9 m, nadar 9 m",
     "en": "30 ft., Swim 30 ft."
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Naturaleza +4, Sigilo +5",
     "en": "Nature +4, Stealth +5"
   },
   "senses": {
-    "es": "",
+    "es": "Percepción pasiva 13",
     "en": "Passive Perception 13"
   },
   "languages": {
-    "es": "",
+    "es": "Bullywug, Común, Silvano",
     "en": "Bullywug, Common, Sylvan"
   },
   "challengeRating": "4",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.64). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.64). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

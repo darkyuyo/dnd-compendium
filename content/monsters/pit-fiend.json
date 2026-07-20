@@ -2,25 +2,25 @@
   "id": "monster-pit-fiend",
   "slug": "pit-fiend",
   "name": {
-    "es": "",
+    "es": "Diablo de la sima",
     "en": "Pit Fiend"
   },
   "size": {
-    "es": "",
+    "es": "Grande",
     "en": "Large"
   },
   "type": {
-    "es": "",
+    "es": "Infernal (diablo)",
     "en": "Fiend (Devil)"
   },
   "alignment": {
-    "es": "",
+    "es": "Legal malvado",
     "en": "Lawful Evil"
   },
   "armorClass": 10,
   "hitPoints": "337 (27d10 + 189)",
   "speed": {
-    "es": "",
+    "es": "30 fr' *:'- MoD 'AVE",
     "en": "30 fr' *:'- MoD 'AVE"
   },
   "abilityScores": {
@@ -32,11 +32,11 @@
     "cha": 10
   },
   "senses": {
-    "es": "",
+    "es": "—",
     "en": "—"
   },
   "languages": {
-    "es": "",
+    "es": "—",
     "en": "—"
   },
   "challengeRating": "?",
@@ -46,7 +46,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.243). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.243). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

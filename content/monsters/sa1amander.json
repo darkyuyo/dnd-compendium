@@ -2,25 +2,25 @@
   "id": "monster-sa1amander",
   "slug": "sa1amander",
   "name": {
-    "es": "",
+    "es": "Salamandra",
     "en": "Sa1amander"
   },
   "size": {
-    "es": "",
+    "es": "Grande",
     "en": "Large"
   },
   "type": {
-    "es": "",
+    "es": "Elemental",
     "en": "Elemental"
   },
   "alignment": {
-    "es": "",
+    "es": "Neutral malvado",
     "en": "Neutral Evil"
   },
   "armorClass": 15,
   "hitPoints": "90 (12d10 + 24)",
   "speed": {
-    "es": "",
+    "es": "9 m, escalar 9 m",
     "en": "30 ft., Climb 30 ft."
   },
   "abilityScores": {
@@ -32,11 +32,11 @@
     "cha": 10
   },
   "senses": {
-    "es": "",
+    "es": "Visión en la oscuridad 18 m; Percepción pasiva 10",
     "en": "Darkvision 60 ft.; Passive Perception 10"
   },
   "languages": {
-    "es": "",
+    "es": "Primordial (l gnan)",
     "en": "Primordial (l gnan)"
   },
   "challengeRating": "5",
@@ -47,7 +47,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.267). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.267). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

@@ -2,25 +2,25 @@
   "id": "monster-yuan-ti-infi-1trator",
   "slug": "yuan-ti-infi-1trator",
   "name": {
-    "es": "",
+    "es": "Yuan-ti abominación",
     "en": "Yuan-ti Infi 1trator"
   },
   "size": {
-    "es": "",
+    "es": "Grande",
     "en": "Medium"
   },
   "type": {
-    "es": "",
+    "es": "Monstruosidad",
     "en": "Monstrosity"
   },
   "alignment": {
-    "es": "",
+    "es": "Neutral malvado",
     "en": "Neutral Evil"
   },
   "armorClass": 10,
   "hitPoints": "40 (9d8)",
   "speed": {
-    "es": "",
+    "es": "9 m",
     "en": "30 ft."
   },
   "abilityScores": {
@@ -32,11 +32,11 @@
     "cha": 10
   },
   "senses": {
-    "es": "",
+    "es": "—",
     "en": "—"
   },
   "languages": {
-    "es": "",
+    "es": "—",
     "en": "—"
   },
   "challengeRating": "?",
@@ -46,7 +46,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.342). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.342). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"

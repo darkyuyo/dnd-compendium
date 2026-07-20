@@ -2,25 +2,25 @@
   "id": "monster-magma-mephit",
   "slug": "magma-mephit",
   "name": {
-    "es": "",
+    "es": "Mephit de magma",
     "en": "Magma Mephit"
   },
   "size": {
-    "es": "",
+    "es": "Pequeño",
     "en": "Small"
   },
   "type": {
-    "es": "",
+    "es": "Elemental",
     "en": "Elemental"
   },
   "alignment": {
-    "es": "",
+    "es": "Neutral malvado",
     "en": "Neutral Evil"
   },
   "armorClass": 10,
   "hitPoints": "18 (ad6 + a)",
   "speed": {
-    "es": "",
+    "es": "9 m, volar 9 m",
     "en": "30 ft., Fly 30 ft."
   },
   "abilityScores": {
@@ -32,15 +32,15 @@
     "cha": 10
   },
   "skills": {
-    "es": "",
+    "es": "Sigilo +3",
     "en": "Stealth +3"
   },
   "senses": {
-    "es": "",
+    "es": "Visión en la oscuridad 18 m; Percepción pasiva 10",
     "en": "Darkvision 60 ft.; Passive Perception 10"
   },
   "languages": {
-    "es": "",
+    "es": "Primordial (l gnan, Terran)",
     "en": "Primordial (l gnan, Terran)"
   },
   "challengeRating": "112",
@@ -51,7 +51,7 @@
   "reactions": [],
   "legendaryActions": [],
   "description": {
-    "es": "",
+    "es": "Del Manual de Monstruos (libro p.207). Estadísticas extraídas por OCR; verificar con el PDF.",
     "en": "From Monster Manual (book p.207). Stats OCR-extracted; verify vs PDF."
   },
   "source": "mm"
