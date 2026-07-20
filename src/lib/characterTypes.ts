@@ -26,6 +26,8 @@ export type SpellRow = {
   concentration: boolean;
   ritual: boolean;
   material: boolean;
+  /** Whether this spell is currently prepared (cantrips usually stay prepared). */
+  prepared: boolean;
   notes: string;
   spellSlug?: string;
 };
@@ -98,6 +100,8 @@ export type CharacterSheet = {
   spellSaveDc: number;
   spellAttack: number;
   spellSlots: Record<string, SpellSlots>; // "1".."9"
+  /** Max number of prepared spells (level 1+). Cantrips do not count. */
+  preparedSpellsMax: number;
   spells: SpellRow[];
 
   appearance: string;
@@ -202,6 +206,7 @@ export function createEmptyCharacter(userId: string): CharacterSheet {
     spellSaveDc: 8,
     spellAttack: 0,
     spellSlots: emptySpellSlots(),
+    preparedSpellsMax: 0,
     spells: [],
     appearance: "",
     backstory: "",
@@ -218,4 +223,16 @@ export function createEmptyCharacter(userId: string): CharacterSheet {
 
 export function abilityModifier(score: number): number {
   return Math.floor((score - 10) / 2);
+}
+
+/** Backfill fields added after characters were already saved. */
+export function normalizeCharacterSheet(sheet: CharacterSheet): CharacterSheet {
+  return {
+    ...sheet,
+    preparedSpellsMax: sheet.preparedSpellsMax ?? 0,
+    spells: (sheet.spells ?? []).map((sp) => ({
+      ...sp,
+      prepared: sp.prepared ?? false,
+    })),
+  };
 }

@@ -5,6 +5,7 @@ import { Link, useRouter } from "@/i18n/navigation";
 import { CompendiumPicker } from "@/components/CompendiumPicker";
 import {
   abilityModifier,
+  normalizeCharacterSheet,
   type AbilityKey,
   type CharacterSheet,
   type CompendiumRef,
@@ -158,7 +159,7 @@ export function CharacterSheetEditor({
   locale: string;
 }) {
   const router = useRouter();
-  const [sheet, setSheet] = useState(initial);
+  const [sheet, setSheet] = useState(() => normalizeCharacterSheet(initial));
   const [tab, setTab] = useState<"combat" | "magic">("combat");
   const [saving, setSaving] = useState(false);
   const [message, setMessage] = useState("");
@@ -690,68 +691,109 @@ export function CharacterSheetEditor({
               </div>
 
               <div className="rounded-xl border border-[var(--border)] bg-[var(--surface)] p-4">
-                <div className="mb-3 flex items-center justify-between">
+                <div className="mb-3 flex flex-wrap items-center justify-between gap-2">
                   <h2 className="font-display font-bold text-[var(--accent)]">
                     Trucos y conjuros preparados
                   </h2>
-                  <button
-                    type="button"
-                    className="rounded-md bg-[var(--accent)] px-2 py-1 text-xs font-semibold text-[var(--accent-fg)]"
-                    onClick={() =>
-                      setPicker({
-                        kind: "spells",
-                        title: "Añadir conjuro",
-                        onSelect: (item) => {
-                          const levelMatch = item.subtitle.match(/Nivel\s+(\d+)/i);
-                          setSheet((s) => ({
-                            ...s,
-                            spells: [
-                              ...s.spells,
-                              {
-                                id: crypto.randomUUID(),
-                                level: levelMatch ? Number(levelMatch[1]) : 0,
-                                name: item.name,
-                                castingTime: "",
-                                range: "",
-                                concentration: false,
-                                ritual: false,
-                                material: false,
-                                notes: "",
-                                spellSlug: item.slug,
-                              },
-                            ],
-                          }));
-                        },
-                      })
-                    }
-                  >
-                    + Conjuro
-                  </button>
+                  <div className="flex flex-wrap items-center gap-3">
+                    <label className="flex items-center gap-2 text-xs text-[var(--muted)]">
+                      Preparados
+                      <NumberInput
+                        className="w-12 rounded-md border border-[var(--border)] bg-[var(--bg)] px-1 py-1.5 text-center text-sm outline-none focus:ring-2 focus:ring-[var(--accent)]"
+                        value={sheet.preparedSpellsMax ?? 0}
+                        onChange={(n) => update("preparedSpellsMax", Math.max(0, n))}
+                      />
+                    </label>
+                    <button
+                      type="button"
+                      className="rounded-md bg-[var(--accent)] px-2 py-1 text-xs font-semibold text-[var(--accent-fg)]"
+                      onClick={() =>
+                        setPicker({
+                          kind: "spells",
+                          title: "Añadir conjuro",
+                          onSelect: (item) => {
+                            const levelMatch = item.subtitle.match(/Nivel\s+(\d+)/i);
+                            const level = levelMatch ? Number(levelMatch[1]) : 0;
+                            setSheet((s) => ({
+                              ...s,
+                              spells: [
+                                ...s.spells,
+                                {
+                                  id: crypto.randomUUID(),
+                                  level,
+                                  name: item.name,
+                                  castingTime: "",
+                                  range: "",
+                                  concentration: false,
+                                  ritual: false,
+                                  material: false,
+                                  prepared: false,
+                                  notes: "",
+                                  spellSlug: item.slug,
+                                },
+                              ],
+                            }));
+                          },
+                        })
+                      }
+                    >
+                      + Conjuro
+                    </button>
+                  </div>
                 </div>
                 <div className="space-y-2">
                   {sheet.spells.map((sp, idx) => (
-                    <div key={sp.id} className="space-y-2 rounded-lg border border-[var(--border)] p-2">
-                      <div className="grid gap-2 sm:grid-cols-6">
-                        <NumberInput className={inputClass()} value={sp.level} onChange={(n) => {
-                          const spells = [...sheet.spells];
-                          spells[idx] = { ...sp, level: n };
-                          update("spells", spells);
-                        }} />
-                        <input className={`${inputClass()} sm:col-span-2`} value={sp.name} onChange={(e) => {
-                          const spells = [...sheet.spells];
-                          spells[idx] = { ...sp, name: e.target.value };
-                          update("spells", spells);
-                        }} />
-                        <input className={inputClass()} placeholder="Tiempo" value={sp.castingTime} onChange={(e) => {
-                          const spells = [...sheet.spells];
-                          spells[idx] = { ...sp, castingTime: e.target.value };
-                          update("spells", spells);
-                        }} />
-                        <input className={inputClass()} placeholder="Alcance" value={sp.range} onChange={(e) => {
-                          const spells = [...sheet.spells];
-                          spells[idx] = { ...sp, range: e.target.value };
-                          update("spells", spells);
-                        }} />
+                    <div
+                      key={sp.id}
+                      className={`space-y-2 rounded-lg border p-2 ${
+                        sp.level === 0 || sp.prepared
+                          ? "border-[var(--accent)] bg-[color-mix(in_oklab,var(--accent)_14%,var(--surface))]"
+                          : "border-[var(--border)] bg-[var(--surface)]"
+                      }`}
+                    >
+                      <div className="flex flex-wrap items-center gap-2">
+                        {sp.level > 0 ? (
+                          <label className="flex shrink-0 items-center gap-1.5 rounded-md border border-[var(--border)] bg-[var(--surface-2)] px-2 py-1.5 text-xs font-semibold">
+                            <input
+                              type="checkbox"
+                              checked={sp.prepared ?? false}
+                              onChange={(e) => {
+                                const spells = [...sheet.spells];
+                                spells[idx] = { ...sp, prepared: e.target.checked };
+                                update("spells", spells);
+                              }}
+                            />
+                            Preparado
+                          </label>
+                        ) : null}
+                        <div className="grid min-w-0 flex-1 gap-2 sm:grid-cols-5">
+                          <NumberInput className={inputClass()} value={sp.level} onChange={(n) => {
+                            const spells = [...sheet.spells];
+                            const level = n;
+                            spells[idx] = {
+                              ...sp,
+                              level,
+                              // Cantrips are never prepared
+                              prepared: level > 0 ? sp.prepared : false,
+                            };
+                            update("spells", spells);
+                          }} />
+                          <input className={`${inputClass()} sm:col-span-2`} value={sp.name} onChange={(e) => {
+                            const spells = [...sheet.spells];
+                            spells[idx] = { ...sp, name: e.target.value };
+                            update("spells", spells);
+                          }} />
+                          <input className={inputClass()} placeholder="Tiempo" value={sp.castingTime} onChange={(e) => {
+                            const spells = [...sheet.spells];
+                            spells[idx] = { ...sp, castingTime: e.target.value };
+                            update("spells", spells);
+                          }} />
+                          <input className={inputClass()} placeholder="Alcance" value={sp.range} onChange={(e) => {
+                            const spells = [...sheet.spells];
+                            spells[idx] = { ...sp, range: e.target.value };
+                            update("spells", spells);
+                          }} />
+                        </div>
                         <div className="flex flex-wrap items-center gap-2 text-xs">
                           <label className="flex items-center gap-1"><input type="checkbox" checked={sp.concentration} onChange={(e) => {
                             const spells = [...sheet.spells];
