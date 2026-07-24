@@ -2,6 +2,7 @@
 
 import { useEffect, useMemo, useState } from "react";
 import { Link, useRouter } from "@/i18n/navigation";
+import { CharacterSpellList } from "@/components/CharacterSpellList";
 import { CompendiumPicker } from "@/components/CompendiumPicker";
 import {
   abilityModifier,
@@ -741,94 +742,11 @@ export function CharacterSheetEditor({
                     </button>
                   </div>
                 </div>
-                <div className="space-y-2">
-                  {sheet.spells.map((sp, idx) => (
-                    <div
-                      key={sp.id}
-                      className={`space-y-2 rounded-lg border p-2 ${
-                        sp.level === 0 || sp.prepared
-                          ? "border-[var(--accent)] bg-[color-mix(in_oklab,var(--accent)_14%,var(--surface))]"
-                          : "border-[var(--border)] bg-[var(--surface)]"
-                      }`}
-                    >
-                      <div className="flex flex-wrap items-center gap-2">
-                        {sp.level > 0 ? (
-                          <label className="flex shrink-0 items-center gap-1.5 rounded-md border border-[var(--border)] bg-[var(--surface-2)] px-2 py-1.5 text-xs font-semibold">
-                            <input
-                              type="checkbox"
-                              checked={sp.prepared ?? false}
-                              onChange={(e) => {
-                                const spells = [...sheet.spells];
-                                spells[idx] = { ...sp, prepared: e.target.checked };
-                                update("spells", spells);
-                              }}
-                            />
-                            Preparado
-                          </label>
-                        ) : null}
-                        <div className="grid min-w-0 flex-1 gap-2 sm:grid-cols-5">
-                          <NumberInput className={inputClass()} value={sp.level} onChange={(n) => {
-                            const spells = [...sheet.spells];
-                            const level = n;
-                            spells[idx] = {
-                              ...sp,
-                              level,
-                              // Cantrips are never prepared
-                              prepared: level > 0 ? sp.prepared : false,
-                            };
-                            update("spells", spells);
-                          }} />
-                          <input className={`${inputClass()} sm:col-span-2`} value={sp.name} onChange={(e) => {
-                            const spells = [...sheet.spells];
-                            spells[idx] = { ...sp, name: e.target.value };
-                            update("spells", spells);
-                          }} />
-                          <input className={inputClass()} placeholder="Tiempo" value={sp.castingTime} onChange={(e) => {
-                            const spells = [...sheet.spells];
-                            spells[idx] = { ...sp, castingTime: e.target.value };
-                            update("spells", spells);
-                          }} />
-                          <input className={inputClass()} placeholder="Alcance" value={sp.range} onChange={(e) => {
-                            const spells = [...sheet.spells];
-                            spells[idx] = { ...sp, range: e.target.value };
-                            update("spells", spells);
-                          }} />
-                        </div>
-                        <div className="flex flex-wrap items-center gap-2 text-xs">
-                          <label className="flex items-center gap-1"><input type="checkbox" checked={sp.concentration} onChange={(e) => {
-                            const spells = [...sheet.spells];
-                            spells[idx] = { ...sp, concentration: e.target.checked };
-                            update("spells", spells);
-                          }} />C</label>
-                          <label className="flex items-center gap-1"><input type="checkbox" checked={sp.ritual} onChange={(e) => {
-                            const spells = [...sheet.spells];
-                            spells[idx] = { ...sp, ritual: e.target.checked };
-                            update("spells", spells);
-                          }} />R</label>
-                          <label className="flex items-center gap-1"><input type="checkbox" checked={sp.material} onChange={(e) => {
-                            const spells = [...sheet.spells];
-                            spells[idx] = { ...sp, material: e.target.checked };
-                            update("spells", spells);
-                          }} />M</label>
-                          {sp.spellSlug ? (
-                            <a href={`/${locale}/spells/${sp.spellSlug}`} target="_blank" rel="noreferrer" className="underline text-[var(--accent)]">Info</a>
-                          ) : null}
-                          <button type="button" className="text-red-600" onClick={() => update("spells", sheet.spells.filter((x) => x.id !== sp.id))}>Quitar</button>
-                        </div>
-                      </div>
-                      <textarea
-                        className={`${inputClass()} min-h-16`}
-                        placeholder="Notas del conjuro…"
-                        value={sp.notes}
-                        onChange={(e) => {
-                          const spells = [...sheet.spells];
-                          spells[idx] = { ...sp, notes: e.target.value };
-                          update("spells", spells);
-                        }}
-                      />
-                    </div>
-                  ))}
-                </div>
+                <CharacterSpellList
+                  spells={sheet.spells}
+                  onChange={(spells) => update("spells", spells)}
+                  locale={locale}
+                />
               </div>
             </div>
 
