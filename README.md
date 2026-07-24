@@ -4,7 +4,6 @@ Compendio privado de referencia para tu mesa de **Dungeons & Dragons** (reglas 2
 
 App en **Next.js + TypeScript** con interfaz en **español e inglés**. El contenido sale de tus PDFs del Manual del Jugador y el Manual de Monstruos.
 
-> Solo para uso personal / de la mesa. No publiques el texto de los libros ni subas el repo a un remoto público.
 
 ## Qué incluye
 
